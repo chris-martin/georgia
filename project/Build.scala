@@ -12,8 +12,7 @@ object Build extends sbt.Build {
     .settings ( globalSettings ++ moduleSettings ++ Seq(
       libraryDependencies ++= Seq(
         "org.scalaj" % "scalaj-http_2.10" % "0.3.7",
-        "org.ccil.cowan.tagsoup" % "tagsoup" % "1.2.1",
-        "net.sf.jtidy" % "jtidy" % "r938"
+        "org.ccil.cowan.tagsoup" % "tagsoup" % "1.2.1"
       )
     ) : _*)
 
@@ -24,7 +23,9 @@ object Build extends sbt.Build {
   )
 
   lazy val moduleSettings: Settings = Defaults.itSettings ++ Seq(
-    libraryDependencies += "org.scalatest" %% "scalatest" % "1.9.1" % "it,test"
+    libraryDependencies ++= Seq(
+      "org.scalatest" %% "scalatest" % "1.9.1" % "it,test"
+    )
   )
 
 }

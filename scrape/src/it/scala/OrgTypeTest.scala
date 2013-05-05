@@ -10,9 +10,9 @@ class OrgTypeTest extends org.scalatest.FreeSpec {
     OrgType("5", "Local Boards of Education")
   )
 
-  "Parse org types" in {
+  "Fetch org types" in {
     expectResult(orgTypes) {
-      OrgType.parseHtml(getClass.getClassLoader.getResource("OrgType-listing.html"))
+      OrgType.fetchAll
     }
   }
 

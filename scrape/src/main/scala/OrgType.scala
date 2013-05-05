@@ -36,7 +36,7 @@ object OrgType {
     map { div =>
       OrgType(
         id = (div \ "input" \ "@value").text,
-        title = div.text.trim.replaceAll(",(\\w)", ", $1")
+        title = div.text.trim
       )
     }
   )

@@ -12,7 +12,8 @@ object Build extends sbt.Build {
     .settings ( globalSettings ++ moduleSettings ++ Seq(
       libraryDependencies ++= Seq(
         "org.scalaj" % "scalaj-http_2.10" % "0.3.7",
-        "org.ccil.cowan.tagsoup" % "tagsoup" % "1.2.1"
+        "org.ccil.cowan.tagsoup" % "tagsoup" % "1.2.1",
+        "org.mozilla" % "rhino" % "1.7R4"
       )
     ) : _*)
 

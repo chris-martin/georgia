@@ -18,6 +18,9 @@ package object http {
   def post(url: String, data: String): Request =
     Http.postData(urlTransform(url), data).cookie(cookie)
 
+}
+package http {
+
   object Implicits {
 
     implicit class RichRequest(request: Request) {

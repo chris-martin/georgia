@@ -2,6 +2,7 @@ package org.chris_martin.georgia
 
 import xml.{XML, Elem, Text}
 import java.net.URL
+import util.parsing.json._
 
 case class OrgType(id: String, title: String)
 
@@ -39,5 +40,14 @@ object OrgType {
       )
     }
   )
+
+  def json(orgTypes: Seq[OrgType]): JSONObject = JSONObject(Map(
+    "orgtypes" -> JSONArray(
+      orgTypes.sortBy(_.id).map(x => JSONObject(Map(
+        "id" -> x.id,
+        "title" -> x.title
+      ))).toList
+    )
+  ))
 
 }

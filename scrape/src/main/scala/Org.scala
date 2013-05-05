@@ -20,7 +20,7 @@ object Org {
         "c0-methodName" -> "getEntitiesByOrgTypeYear",
         "c0-id" -> "0",
         "c0-param0" -> "string:%s".format(orgTypeId),
-        "c0-param1" -> "string:2012",
+        "c0-param1" -> "string:",
         "batchId" -> "0"
       ).map(x => x._1 + "=" + x._2).mkString("\n")
     ).asString.dropWhile(_ != '\n')

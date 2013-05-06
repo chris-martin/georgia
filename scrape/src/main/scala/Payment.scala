@@ -3,6 +3,7 @@ package org.chris_martin.georgia
 import au.com.bytecode.opencsv.CSVParser
 import java.net.URL
 import http.Implicits._
+import util.parsing.json.{JSONArray, JSONObject}
 
 case class Payment(personName: String, jobTitle: String, salary: BigDecimal, travel: BigDecimal)
 
@@ -48,5 +49,16 @@ object Payment {
 
   def parseMoney(s: String): BigDecimal =
     BigDecimal(s.replaceAll("""[\s\$\,]""", ""))
+
+  def json(orgTypes: Seq[Payment]): JSONObject = JSONObject(Map(
+    "payments" -> JSONArray(
+      orgTypes.sortBy(_.personName).map(x => JSONObject(Map(
+        "person_name" -> x.personName,
+        "job_title" -> x.jobTitle,
+        "salary" -> x.salary.toString,
+        "travel" -> x.travel.toString
+      ))).toList
+    )
+  ))
 
 }

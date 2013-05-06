@@ -13,7 +13,7 @@ object OrgType {
   def fetchHtml: String =
     http.post(
       url = "/sta/entryPoint.aud",
-      data = Map("selectedEntryPoint" -> "OrgEntity").map(x => x._1 + "=" + x._2).mkString("&")
+      data = http.encode(Map("selectedEntryPoint" -> "OrgEntity"))
     ).asString
 
   def xml = XML.withSAXParser(

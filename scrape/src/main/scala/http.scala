@@ -3,6 +3,7 @@ package org.chris_martin.georgia
 import scalaj.http.Http.Request
 import scalaj.http.{HttpOptions, Http}
 import java.net.URLEncoder
+import scala.concurrent.duration._
 
 package object http {
 
@@ -10,10 +11,13 @@ package object http {
 
   val cookie = """DoaaDisclaimerAccepted="DOAA DISCLAIMER READ AND ACCEPTED.""""
 
-  val options = List(
-    HttpOptions.connTimeout(1000),
-    HttpOptions.readTimeout(5000)
-  )
+  val options = {
+    val timeout = 30.seconds.toMillis.toInt
+    List(
+      HttpOptions.connTimeout(timeout),
+      HttpOptions.readTimeout(timeout)
+    )
+  }
 
   def urlTransform(url: String): String =
     if (url.startsWith("/")) "http://open.georgia.gov%s".format(url) else url
@@ -37,9 +41,9 @@ package object http {
 }
 package http {
 
-import util.matching.Regex
+  import util.matching.Regex
 
-object Implicits {
+  object Implicits {
 
     implicit class RichRequest(request: Request) {
 

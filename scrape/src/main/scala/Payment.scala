@@ -2,6 +2,7 @@ package org.chris_martin.georgia
 
 import au.com.bytecode.opencsv.CSVParser
 import java.net.URL
+import http.Implicits._
 
 case class Payment(personName: String, jobTitle: String, salary: BigDecimal, travel: BigDecimal)
 
@@ -10,7 +11,23 @@ object Payment {
   def fetchAll(year: String, orgTypeId: String, orgId: String): Seq[Payment] =
     parseCsv(fetchCsv(year, orgTypeId, orgId))
 
-  def fetchCsv(year: String, orgTypeId: String, orgId: String): String = ???
+  def fetchCsv(year: String, orgTypeId: String, orgId: String): String = {
+
+    val jsessionid = http.post(
+      url = "/sta/search.aud",
+      data = http.encode(Map(
+        "searchCriteria.fiscalYear" -> year,
+        "searchCriteria.organizationType" -> orgTypeId,
+        "searchCriteria.entityId" -> orgId,
+        "method:search" -> "Search"
+      ))
+    ).asCodeHeaders._2.cookie("JSESSIONID").get
+
+    http.get("/sta/reports/salaryTravel.stRpt?rptType=csv")
+      .cookie("JSESSIONID=%s".format(jsessionid))
+      .asString
+
+  }
 
   def parseCsv(csv: String): Seq[Payment] =
     parseCsv(csv.split('\n').iterator)

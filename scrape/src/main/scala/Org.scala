@@ -9,9 +9,9 @@ case class Org(id: String, title: String)
 
 object Org {
 
-  def fetchAll(orgTypeId: String): Seq[Org] = parseJs(fetchHtml(orgTypeId))
+  def fetchAll(year: String, orgTypeId: String): Seq[Org] = parseJs(fetchHtml(year, orgTypeId))
 
-  def fetchHtml(orgTypeId: String): String =
+  def fetchHtml(year: String, orgTypeId: String): String =
     http.post(
       url = "/sta/dwr/call/plaincall/stDWRService.getEntitiesByOrgTypeYear.dwr",
       data = Map(
@@ -21,7 +21,7 @@ object Org {
         "c0-methodName" -> "getEntitiesByOrgTypeYear",
         "c0-id" -> "0",
         "c0-param0" -> "string:%s".format(orgTypeId),
-        "c0-param1" -> "string:",
+        "c0-param1" -> "string:%s".format(year),
         "batchId" -> "0"
       ).map(x => x._1 + "=" + x._2).mkString("\n")
     ).asString.dropWhile(_ != '\n')

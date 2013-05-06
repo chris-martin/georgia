@@ -2,6 +2,7 @@ package org.chris_martin.georgia
 
 import scalaj.http.Http.Request
 import scalaj.http.{HttpOptions, Http}
+import java.net.URLEncoder
 
 package object http {
 
@@ -27,15 +28,35 @@ package object http {
       .cookie(cookie)
       .options(options)
 
+  def encode(data: Map[String, String]): String =
+    data.map(x =>
+      URLEncoder.encode(x._1, "UTF-8") + "=" +
+      URLEncoder.encode(x._2, "UTF-8")
+    ).mkString("&")
+
 }
 package http {
 
-  object Implicits {
+import util.matching.Regex
+
+object Implicits {
 
     implicit class RichRequest(request: Request) {
 
       def cookie(cookie: String): Request =
         request.header("Cookie", cookie)
+
+    }
+
+    implicit class Headers(headers: Map[String, List[String]]) {
+
+      def cookie(name: String): Option[String] = {
+        val pattern = new Regex("%s=([^;]+);.*".format(name))
+        headers("Set-Cookie").flatMap(_ match {
+          case pattern(jsi) => List(jsi)
+          case _ => Nil
+        }).headOption
+      }
 
     }
 

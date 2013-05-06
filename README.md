@@ -15,12 +15,12 @@ I don't have any specific plans yet.
 
 ## Repository contents
 
-### `master` branch
+### `master`
 
 `scrape/` -
 A web scraping library which pulls data from open.georgia.gov and stores it in JSON format.
 
-### `data` branch
+### `data`
 
 The `data` branch contains all of the data that has been retrieved.
 

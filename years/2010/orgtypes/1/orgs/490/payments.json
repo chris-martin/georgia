@@ -1,0 +1,988 @@
+{
+  "payments": [
+    {
+      "person_name": "ALLEN,SHERRI DIONNE",
+      "job_title": "CLAIMS EXAMINER (WL)",
+      "salary": "30429.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANTHONY,SHERONDA N",
+      "job_title": "ADJ/HEARING OFFICERS (WL)",
+      "salary": "38327.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASKEW,BERNITA ODETTA",
+      "job_title": "DATABASE ADMINISTRATOR(WL)",
+      "salary": "81133.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASKIN,JANICE B",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "83195.16",
+      "travel": "841.95"
+    },
+    {
+      "person_name": "BAILEY,KATHRYN G",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELCHER,MELODIE L",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "95801.15",
+      "travel": "6454.25"
+    },
+    {
+      "person_name": "BELK,JAMES DIXON",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "109057.68",
+      "travel": "3346.66"
+    },
+    {
+      "person_name": "BESSENT,EUGENE C",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "62177.58",
+      "travel": "760.82"
+    },
+    {
+      "person_name": "BESSENT,MARGARET",
+      "job_title": "CLERK (EL)",
+      "salary": "22074.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEXLEY,DAVID STAN",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "84037.14",
+      "travel": "1801.16"
+    },
+    {
+      "person_name": "BLACKBURN,AMY S",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "31962.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOHLER,LEESA ANN",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "95567.26",
+      "travel": "1980.03"
+    },
+    {
+      "person_name": "BOYD,KAREN T",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "53579.88",
+      "travel": "2859.74"
+    },
+    {
+      "person_name": "BRINDLE,ROBBIN L",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,DELECE A",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "72795.84",
+      "travel": "298.92"
+    },
+    {
+      "person_name": "BURRUSS,JUNE HILLIS",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRD,MARLON",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "25962.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAIN,WILLIAM SPRINGER",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "106560.90",
+      "travel": "2934.20"
+    },
+    {
+      "person_name": "CARRION,DONNA R",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "24052.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,PAMELA R",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "80935.86",
+      "travel": "1434.56"
+    },
+    {
+      "person_name": "CARTER,STANLEY A",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "109880.40",
+      "travel": "2388.25"
+    },
+    {
+      "person_name": "CARTER,SUSAN Q",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "48977.68",
+      "travel": "15.05"
+    },
+    {
+      "person_name": "CATO,CELESTINE HARDY",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COCHRAN,LYNN T",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "54068.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COKER,JOSEPH E",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "30135.96",
+      "travel": "3146.93"
+    },
+    {
+      "person_name": "COLE,JORDAN E",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "24766.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORVETTE,BERYL D",
+      "job_title": "CLAIMS EXAMINER (AL)",
+      "salary": "37045.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROWE,MICHAEL O",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "30328.05",
+      "travel": "350.92"
+    },
+    {
+      "person_name": "DANIEL,FELICIA Y",
+      "job_title": "PURCH & PROC SPEC (AL)",
+      "salary": "43263.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,TRACIE L",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "43711.62",
+      "travel": "6188.15"
+    },
+    {
+      "person_name": "DAVIS,VICTOR",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "19287.82",
+      "travel": "193.83"
+    },
+    {
+      "person_name": "DAWKINS,HARRILL L",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "146897.64",
+      "travel": "1046.06"
+    },
+    {
+      "person_name": "DAWSON,STEPHANIE ANNEMARIE",
+      "job_title": "CLERK (EL)",
+      "salary": "15780.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAWSON,STEPHEN A",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "48442.77",
+      "travel": "126.80"
+    },
+    {
+      "person_name": "DECOLAINES,NAN W",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "56060.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOLLAR,STEPHANIE D",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "20845.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DRAKE-THOMAS,LAKISHA",
+      "job_title": "ADJ/HEARING OFFICERS (WL)",
+      "salary": "37916.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DREW,VIOLA SELLERS",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "131675.70",
+      "travel": "1949.14"
+    },
+    {
+      "person_name": "ELAM,PATRICIA L",
+      "job_title": "MAIL SERVICES WKR (WL)",
+      "salary": "25962.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FAIN,STEPHEN K",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "110109.00",
+      "travel": "2165.70"
+    },
+    {
+      "person_name": "FARROW,STEPHEN B",
+      "job_title": "DIRECTOR",
+      "salary": "109305.72",
+      "travel": "1654.58"
+    },
+    {
+      "person_name": "FAULK,DORIS L",
+      "job_title": "ADJ/HEARING OFFICERS (WL)",
+      "salary": "41380.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEDRICK,DENISE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "47686.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINEGAN,FRANCES",
+      "job_title": "LEGAL OFFICER (SP)",
+      "salary": "56348.82",
+      "travel": "744.88"
+    },
+    {
+      "person_name": "FUMEI,JOSEPH J",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "79403.22",
+      "travel": "86.90"
+    },
+    {
+      "person_name": "GHOLSON,LIESA ANN",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "79248.00",
+      "travel": "2959.38"
+    },
+    {
+      "person_name": "GILLESPIE,CATHY C",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "40122.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,MABLE L",
+      "job_title": "CLAIMS EXAMINER (AL)",
+      "salary": "31840.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,CAROL P",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "42807.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAGLER,LATASCA W",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "95766.06",
+      "travel": "2068.17"
+    },
+    {
+      "person_name": "HALL,CAROLYN COBERLY",
+      "job_title": "CHAIRMAN",
+      "salary": "47626.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARPP,MATTIE W",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,MAKEAYTA M",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,RODRICK D",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "40724.70",
+      "travel": "126.60"
+    },
+    {
+      "person_name": "HARTIN,MEG TYSINGER",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "85339.32",
+      "travel": "1057.44"
+    },
+    {
+      "person_name": "HEMBREE,ARUBRA C",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "45375.84",
+      "travel": "45.60"
+    },
+    {
+      "person_name": "HENDERSON,ROBERT CRAIG",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "61380.18",
+      "travel": "3733.09"
+    },
+    {
+      "person_name": "HENDRIX,MONIKA",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "23.50"
+    },
+    {
+      "person_name": "HICKS,ELIZABETH C",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "38393.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,PAMALA M",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "45512.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOUSEND,JENNIFER L",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IMAHARA,DAVID K",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "104106.06",
+      "travel": "1691.18"
+    },
+    {
+      "person_name": "ISAAC,ARLENE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "27259.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,MALORIE M",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "49050.91",
+      "travel": "41.10"
+    },
+    {
+      "person_name": "JEFFERSON,YOLANDA M",
+      "job_title": "CLAIMS EXAMINER (WL)",
+      "salary": "25870.26",
+      "travel": "21.10"
+    },
+    {
+      "person_name": "JOCOY,SALLIE RICH",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "114514.98",
+      "travel": "1367.17"
+    },
+    {
+      "person_name": "JOHNSON,CHERYL M",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,LAKEISHA N",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "69.40"
+    },
+    {
+      "person_name": "JONES,CONCHITA CONTINETTE",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "43819.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,DAMARIS",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "23226.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ROSA M",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "38104.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,VERNEITA D",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "28932.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,PATRICIA A",
+      "job_title": "ADJ/HEARING OFFICERS (WL)",
+      "salary": "40666.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KAY,DAVID M",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "53893.80",
+      "travel": "2568.45"
+    },
+    {
+      "person_name": "KETSELA,KEBEBE",
+      "job_title": "CLERK (EL)",
+      "salary": "17136.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNOWLES,DON L",
+      "job_title": "DIRECTOR EMERITUS",
+      "salary": "68520.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KROTENBERG,DEBORAH G",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "67797.12",
+      "travel": "1454.43"
+    },
+    {
+      "person_name": "LAMMERS,ELIZABETH W",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "96028.86",
+      "travel": "1383.74"
+    },
+    {
+      "person_name": "LENARD,WANDA B",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "13011.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LETT,TWANNA A",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "25962.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,LORETTA K",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWE,CHERYL B",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "58770.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARSHALL,TYMEKA J",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "53903.92",
+      "travel": "795.72"
+    },
+    {
+      "person_name": "MARTIN,VALERIE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "54939.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASON,JOHNNY WILLIAM",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "93058.74",
+      "travel": "2227.47"
+    },
+    {
+      "person_name": "MASSEY,C WARREN",
+      "job_title": "DIRECTOR",
+      "salary": "146897.64",
+      "travel": "2246.61"
+    },
+    {
+      "person_name": "MATHIS,STACEY C",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "15579.97",
+      "travel": "86.00"
+    },
+    {
+      "person_name": "MATTHEWS,GRACE TAYLOR",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "49820.04",
+      "travel": "574.60"
+    },
+    {
+      "person_name": "MAZZEI,EMMA JOYCE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "45424.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCULLER,TERESA MICHELLE",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "36810.87",
+      "travel": "52.65"
+    },
+    {
+      "person_name": "MCMILLAN,MARIANNE T",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "68855.52",
+      "travel": "1420.95"
+    },
+    {
+      "person_name": "MCNIEL,CATHY A STRAIN",
+      "job_title": "LEGAL ANALYSIS SPEC (AL)",
+      "salary": "54928.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEANS,HARRIETTE",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "16.70"
+    },
+    {
+      "person_name": "MOON,LYNNE C",
+      "job_title": "ADJ/HEARING OFFICERS (WL)",
+      "salary": "46444.81",
+      "travel": "39.00"
+    },
+    {
+      "person_name": "MOORE,STEVEN D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "74245.32",
+      "travel": "836.65"
+    },
+    {
+      "person_name": "MURRAY,WILLIAM A",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "104001.96",
+      "travel": "1150.87"
+    },
+    {
+      "person_name": "NELSON,MELISSA V",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "27185.58",
+      "travel": "1156.35"
+    },
+    {
+      "person_name": "OCONNELL,DANIEL",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "28856.52",
+      "travel": "2794.12"
+    },
+    {
+      "person_name": "OLIVER,KATHLEEN D",
+      "job_title": "ASSISTANT EXECUTIVE DIRECTOR",
+      "salary": "66390.80",
+      "travel": "3121.23"
+    },
+    {
+      "person_name": "OUSLEY,PHYLLIS KAY",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAYNE,JENNIFER M",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "22937.79",
+      "travel": "32.00"
+    },
+    {
+      "person_name": "PENTECOST,MICHAEL C",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "48948.30",
+      "travel": "5241.53"
+    },
+    {
+      "person_name": "PHILLIPS,RITA ANN",
+      "job_title": "CLAIMS EXAMINER (AL)",
+      "salary": "31473.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITTMAN,ZONYA W",
+      "job_title": "SECRETARY (AL)",
+      "salary": "30555.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,EDITH J",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "32787.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,KATHRYN G",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "25570.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRAMAS,NICOLE K",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "52324.08",
+      "travel": "796.60"
+    },
+    {
+      "person_name": "PRATHER,ADAM",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "25962.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRATHER,DANA D",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "78344.40",
+      "travel": "2110.80"
+    },
+    {
+      "person_name": "PRITCHETT,TANISE T",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "30171.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RALEY,BETTY",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "41619.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDDING,OLIVIA J",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "25962.06",
+      "travel": "35.85"
+    },
+    {
+      "person_name": "RENDER,BRENDA A",
+      "job_title": "SECRETARY (AL)",
+      "salary": "28596.69",
+      "travel": "56.20"
+    },
+    {
+      "person_name": "RISKO,JAMES ELLIOTT",
+      "job_title": "CLERK (EL)",
+      "salary": "732.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RISKO,MATTHEW E",
+      "job_title": "CLERK (EL)",
+      "salary": "17085.00",
+      "travel": "9.00"
+    },
+    {
+      "person_name": "RISKO,MICHAEL",
+      "job_title": "CLERK (EL)",
+      "salary": "2895.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RISKO,THOMAS M",
+      "job_title": "BUDGET DIRECTOR",
+      "salary": "122768.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,LINDA CLAIRE",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "80498.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROLLINS,RONALD",
+      "job_title": "CLAIMS EXAMINER (WL)",
+      "salary": "35374.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDERS,LORRAINE JOY",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "49590.00",
+      "travel": "1647.92"
+    },
+    {
+      "person_name": "SANDS-LUNN,LILLIAN A",
+      "job_title": "CLAIMS EXAMINER (AL)",
+      "salary": "29525.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHWEITZER,MARTINE F",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "55032.84",
+      "travel": "572.88"
+    },
+    {
+      "person_name": "SEGARS,SANDRA Y",
+      "job_title": "CLAIMS EXAMINER (WL)",
+      "salary": "29127.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHIRLEY,DAVID CLAYTON",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "31472.46",
+      "travel": "26.80"
+    },
+    {
+      "person_name": "SIMMONS-WALTON,SHIRLEY",
+      "job_title": "SECRETARY (AL)",
+      "salary": "24539.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLAUGHTER,LAKEDAR",
+      "job_title": "CLERK (EL)",
+      "salary": "1515.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,J LAWRENCE",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "101652.18",
+      "travel": "2018.70"
+    },
+    {
+      "person_name": "SNOW,VICKI L",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "103013.28",
+      "travel": "353.48"
+    },
+    {
+      "person_name": "SPALDING,CHARLES G",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "78486.00",
+      "travel": "786.85"
+    },
+    {
+      "person_name": "SPEARMAN,ANGELA R",
+      "job_title": "CLAIMS EXAMINER (AL)",
+      "salary": "30034.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPENCER,REGINA T",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "47125.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPRUELL,DORIAN M",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "28884.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STALLWORTH,SHARON JONES",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "79997.10",
+      "travel": "15.00"
+    },
+    {
+      "person_name": "STAMPS,CINDY RENAE",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "44318.28",
+      "travel": "28.10"
+    },
+    {
+      "person_name": "STENGER,JEROME JOHN",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "94296.24",
+      "travel": "2529.94"
+    },
+    {
+      "person_name": "STEWART,THOMAS A",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "54497.28",
+      "travel": "6275.63"
+    },
+    {
+      "person_name": "STRAWBERRY,ALICIA M",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "9250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRONG-BAKER,CHARLIE",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "34.70"
+    },
+    {
+      "person_name": "STUBBS,SHEILA E",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "44797.23",
+      "travel": "943.67"
+    },
+    {
+      "person_name": "STUMAN,LINDA D",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWINT,CLARA F",
+      "job_title": "CLAIMS EXAMINER (AL)",
+      "salary": "31561.65",
+      "travel": "153.00"
+    },
+    {
+      "person_name": "TAYLOR,PATRICIA LYNN",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "53330.16",
+      "travel": "444.65"
+    },
+    {
+      "person_name": "THOMPSON,RICHARD SCOTT",
+      "job_title": "CHAIRMAN",
+      "salary": "128101.68",
+      "travel": "887.91"
+    },
+    {
+      "person_name": "TURNER,EDDIE JAMES",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "49236.90",
+      "travel": "2397.44"
+    },
+    {
+      "person_name": "UNDERWOOD-SELLERS,TAMARA D",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "32382.96",
+      "travel": "63.90"
+    },
+    {
+      "person_name": "USRY,MICHAEL D",
+      "job_title": "ADJ/HEARING OFFICERS (WL)",
+      "salary": "8333.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VIGNA,MELINDA MARIA",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "67994.76",
+      "travel": "278.37"
+    },
+    {
+      "person_name": "WALKER,WHITNEY D",
+      "job_title": "CLERK (EL)",
+      "salary": "16785.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALLACE,PRINCESS D",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "47739.36",
+      "travel": "597.62"
+    },
+    {
+      "person_name": "WALLER,ANGELA ELISE",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATKINS,YVONNE R",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "45959.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON-HENDERSON,IRIS F",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "25962.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEATHERFORD,JOSEPH E",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "65905.98",
+      "travel": "11901.53"
+    },
+    {
+      "person_name": "WEEKS,CAROLYN STARNES",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "93058.26",
+      "travel": "60.00"
+    },
+    {
+      "person_name": "WEST,BARBARA G",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "9298.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHIMPER,RASHIDA L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "27259.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,DRUZELLA M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "30543.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITTENBURG,R  DAVID",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "76701.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,HILARY E",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "57303.36",
+      "travel": "1443.24"
+    },
+    {
+      "person_name": "WILLIAMS,MICHAEL DOUGLAS",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "48266.25",
+      "travel": "5556.05"
+    },
+    {
+      "person_name": "WILLIAMSON,THEODORE RAWORTH",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "16486.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,DIANA M",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "36290.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WITTEN,DOUGLAS J",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "68686.68",
+      "travel": "732.12"
+    },
+    {
+      "person_name": "ZEESE,GORDON ROBERT",
+      "job_title": "ADMINISTRATIVE LAW JUDGE",
+      "salary": "110109.00",
+      "travel": "2501.98"
+    }
+  ]
+}

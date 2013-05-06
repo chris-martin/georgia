@@ -1,0 +1,52 @@
+{
+  "payments": [
+    {
+      "person_name": "BRANNON,BRIAN",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "909.00"
+    },
+    {
+      "person_name": "BROOKS,CATHERINE",
+      "job_title": "MEDIA SPECIALIST",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,ROBERT W",
+      "job_title": "DIRECTOR",
+      "salary": "22625.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIEL,WOODSON",
+      "job_title": "DIRECTOR",
+      "salary": "42000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBSON,DONNA",
+      "job_title": "BILLING & COLLECTIONS MANAGER",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRUBBS,ELAINE",
+      "job_title": "BENEFITS TECH (AL)",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHARRRIS,PAMELA",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "89.50"
+    },
+    {
+      "person_name": "WHITAKER,GLENDA",
+      "job_title": "ADMIN ASSISTANT 1 (GTA)",
+      "salary": "2400.00",
+      "travel": "0.00"
+    }
+  ]
+}

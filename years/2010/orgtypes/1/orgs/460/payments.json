@@ -1,0 +1,676 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAIR,SHARON",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "36413.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,JAMES",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "71436.22",
+      "travel": "494.24"
+    },
+    {
+      "person_name": "APPLEWHITE,PATRICIA DIANE",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "33664.94",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "ARMOUR,SABRINA Y",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "49808.53",
+      "travel": "683.90"
+    },
+    {
+      "person_name": "ATKINS,DAMON W",
+      "job_title": "BUSINESS ANALYST (SP)",
+      "salary": "71803.86",
+      "travel": "138.00"
+    },
+    {
+      "person_name": "BALLARD,ANGELA B",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "73253.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARFIELD,CHRISTOPHER ROBERT",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "42278.10",
+      "travel": "2344.30"
+    },
+    {
+      "person_name": "BENNETT,G NORMAN",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "1218.41"
+    },
+    {
+      "person_name": "BERGEN,MILLICENT M",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "33100.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ALFRED H",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "2629.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,TARA W",
+      "job_title": "HUM RES SPECIALIST (EL)",
+      "salary": "39855.42",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "BRUCE,JAN MARIE",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "36170.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,PATRICIA MULLINS",
+      "job_title": "CLERK (EL)",
+      "salary": "15980.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAREY,MARY KATHLEEN",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "78485.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASE,THERESA",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "26872.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASTEEL,WALTER LEO",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "57502.62",
+      "travel": "159.74"
+    },
+    {
+      "person_name": "CHONG,HAE-JIN",
+      "job_title": "BUDGET SPEC (AL)",
+      "salary": "49011.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLEMENTS,CLEVELAND",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "49293.22",
+      "travel": "32.00"
+    },
+    {
+      "person_name": "COLLINS,NICOLE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "58583.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORDERO-STOKES,BRUNILDA",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "26244.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUSTIN,ROGER BERNABE",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "85504.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DABELLA,CHAD JOSEPH",
+      "job_title": "FINANCIAL OPS SPEC (SP)",
+      "salary": "67425.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS-KEENE,KAREN IRENE",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "62033.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELANEY,ANWAR V",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "58615.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOLLARSON,TANZIER M",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "52918.91",
+      "travel": "1380.48"
+    },
+    {
+      "person_name": "DUNHAM,NEANDRA S",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "39752.22",
+      "travel": "91.64"
+    },
+    {
+      "person_name": "EAVES,VIRGINIA ALICE",
+      "job_title": "BENEFITS TECH (EL)",
+      "salary": "23450.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FAMILIA,ELIGIA",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "40804.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEDRICK,MARION LINDA",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "126219.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINCH,VIVIAN D",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "26136.84",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "FINDLAY,JULIA G",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "49939.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRANCIS,SHERMA C",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "90801.77",
+      "travel": "16.00"
+    },
+    {
+      "person_name": "FREELS,MELINDA",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "217.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,DOROTHY C",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "71444.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREGORY,RODNEY T",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "16572.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIER,DAPHANY A",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "33995.25",
+      "travel": "13.00"
+    },
+    {
+      "person_name": "HARRIS,GEORGE",
+      "job_title": "WEB SITE MANAGER (WL)",
+      "salary": "41475.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,JANICE LEWIS",
+      "job_title": "HR TRANSACTIONS TECH (WL)",
+      "salary": "36532.38",
+      "travel": "362.44"
+    },
+    {
+      "person_name": "HAYWOOD,RAYMOND D",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "54829.06",
+      "travel": "3357.38"
+    },
+    {
+      "person_name": "HECHT,JANET ELAINE",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "1596.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEINY,FRANKLIN JOE",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "113730.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,LASONJA RENEE",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "33448.35",
+      "travel": "54.00"
+    },
+    {
+      "person_name": "HENDERSON-YOUNGS,CARLETTA K",
+      "job_title": "MARKETING SPEC (SP)",
+      "salary": "53285.40",
+      "travel": "7.00"
+    },
+    {
+      "person_name": "HEUSER,JEFFERY F",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "10264.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEYMAN,DAVID",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "46027.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,BARBARA J",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "50793.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,RHONDA S",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "86038.56",
+      "travel": "280.00"
+    },
+    {
+      "person_name": "HYSMITH,BRENDA KAY",
+      "job_title": "HR TRANSACTIONS TECH (WL)",
+      "salary": "34285.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,JACQUETTE",
+      "job_title": "HUM RES GENERALIST (WL)",
+      "salary": "46426.90",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "JOHNSON,NOREEN NORTON",
+      "job_title": "HR TRANSACTIONS TECH (WL)",
+      "salary": "23760.78",
+      "travel": "7414.30"
+    },
+    {
+      "person_name": "JONES,DEKISHA N",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "36170.81",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "JONES,MARIA J",
+      "job_title": "BENEFITS TECH (EL)",
+      "salary": "28863.57",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "JORDAN,CYNTHIA DENISE",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "52487.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOSEPH,CASSANDRA N",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "55336.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOSEPH,KENRICK JOHN",
+      "job_title": "HR TRANSACTIONS TECH (WL)",
+      "salary": "25643.06",
+      "travel": "3885.35"
+    },
+    {
+      "person_name": "JOSEPH,ROBERT R",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KASHIRI,JUANDOLYN CORETTA",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "66515.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEENE,VICTOR L",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "107767.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KENNINGTON,JENNIFER C",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "92923.10",
+      "travel": "620.65"
+    },
+    {
+      "person_name": "KUBIE,SCOTT WOODROW",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "63499.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,ZELDA M",
+      "job_title": "HR TRANSACTIONS TECH (WL)",
+      "salary": "13907.23",
+      "travel": "1025.41"
+    },
+    {
+      "person_name": "LOFTON-BROADWAY,GUSSIE",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "56521.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAILE,JEFF",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "54514.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARKS,ERIC B",
+      "job_title": "MAIL SERVICES WKR (SP)",
+      "salary": "7230.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDANIEL,KENYATTA L",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "34748.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLS,TIMOTHY J",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "64996.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOON,PAULINE",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "47488.08",
+      "travel": "34.20"
+    },
+    {
+      "person_name": "MOSLEY,TAMARA YVONNE",
+      "job_title": "HUM RES GENERALIST (WL)",
+      "salary": "43203.10",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "MURDOCK,BARBARA W",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "53021.15",
+      "travel": "2649.40"
+    },
+    {
+      "person_name": "MYERS,LEON HARPER",
+      "job_title": "MAIL SERVICES WKR (WL)",
+      "salary": "24387.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NASH,BEVERLY E",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "34307.69",
+      "travel": "88.47"
+    },
+    {
+      "person_name": "NELSON,AMANDA ANN",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "44265.65",
+      "travel": "2172.53"
+    },
+    {
+      "person_name": "PARKER,BEVERLY S",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "47674.02",
+      "travel": "1776.52"
+    },
+    {
+      "person_name": "PHILLIPS,TEEIA ANN",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "92830.84",
+      "travel": "1728.40"
+    },
+    {
+      "person_name": "POLK,PATTI SHARAE",
+      "job_title": "HUM RES SPECIALIST (SP)",
+      "salary": "60267.80",
+      "travel": "502.15"
+    },
+    {
+      "person_name": "RAINWATER,ARNITA THOMPSON",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "43211.90",
+      "travel": "1670.12"
+    },
+    {
+      "person_name": "RAY,DENISE TORCHELLA",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "24068.28",
+      "travel": "922.60"
+    },
+    {
+      "person_name": "REID,ROBERT WEATHERLY",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "41654.82",
+      "travel": "55.21"
+    },
+    {
+      "person_name": "RICE,LAVELL T",
+      "job_title": "OFFICE ADMINISTRATOR (AL)",
+      "salary": "52354.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICHARDSON,SHELIA J",
+      "job_title": "OFFICE ADMINISTRATOR (AL)",
+      "salary": "47892.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROACH,HAL",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "667.00"
+    },
+    {
+      "person_name": "RODGERS,MICHAEL VINCENT",
+      "job_title": "FINANCIAL OPS SPEC (SP)",
+      "salary": "3370.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROLLINS,DEBORAH L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "88190.40",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "RUDD,WILLIAM LEE",
+      "job_title": "DEPUTY COMMISSIONER",
+      "salary": "125030.65",
+      "travel": "4283.13"
+    },
+    {
+      "person_name": "SCHWEICKERT,JULI B",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "43415.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,TRACY L",
+      "job_title": "MAIL SERVICES WKR (SP)",
+      "salary": "25854.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHULTIS,RONALD LEE",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "114346.22",
+      "travel": "132.65"
+    },
+    {
+      "person_name": "SIMMONS,BERNEDA H",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "9541.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMMONS,JAMES",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "40512.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMON,JAMELL C",
+      "job_title": "WEB SITE MANAGER (AL)",
+      "salary": "52817.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,LEO REGINALD",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "58615.38",
+      "travel": "866.66"
+    },
+    {
+      "person_name": "SOUTHERN,CRAIG E",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "63057.80",
+      "travel": "1513.25"
+    },
+    {
+      "person_name": "STEVENSON,RAYMOND",
+      "job_title": "COMMISSIONER",
+      "salary": "156236.54",
+      "travel": "8008.92"
+    },
+    {
+      "person_name": "STOWERS,GAIL",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "51723.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUTTON,STEPHEN C",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "43170.95",
+      "travel": "1274.60"
+    },
+    {
+      "person_name": "THOMAS,GERALDINE P",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "6.00"
+    },
+    {
+      "person_name": "TIMMONS,VALENCIA D",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "45338.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,KIMBERLY LATRICE",
+      "job_title": "HUM RES SPECIALIST (EL)",
+      "salary": "30813.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAYE,CHRISTEL CORLETTE",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "36896.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEGLEWSKI,TED A",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "69168.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,MARCIA LEIGH",
+      "job_title": "MARKETING SPEC (AL)",
+      "salary": "65663.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WIGGINS,GWENDOLYN L",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "72091.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,KENNETH KEITH",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "44318.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,KIMBERLY D",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "48781.00",
+      "travel": "298.00"
+    },
+    {
+      "person_name": "WILLIAMS,LILLIAN H",
+      "job_title": "SECRETARY (AL)",
+      "salary": "36972.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,RHONDA N",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "63499.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,SENCIRA",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "33869.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,MELINDA WOMACK",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "40147.81",
+      "travel": "75.24"
+    },
+    {
+      "person_name": "WILSON,SONYA L",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "34951.32",
+      "travel": "16.00"
+    },
+    {
+      "person_name": "WOMACK,MONIRAH T",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "9.40"
+    },
+    {
+      "person_name": "WOOD,JAMES H",
+      "job_title": "HR TRANSACTIONS TECH (WL)",
+      "salary": "34289.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZHU,LING",
+      "job_title": "CLERK (EL)",
+      "salary": "12435.00",
+      "travel": "0.00"
+    }
+  ]
+}

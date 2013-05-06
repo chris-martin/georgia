@@ -1,0 +1,406 @@
+{
+  "payments": [
+    {
+      "person_name": "ALLISON,BECKY M",
+      "job_title": "ASSISTANT DIRECTOR",
+      "salary": "64217.16",
+      "travel": "584.30"
+    },
+    {
+      "person_name": "ALMY,SANDRA CROWE",
+      "job_title": "LAW ASSISTANT",
+      "salary": "97687.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,OLIVER M",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,ROBERT S",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AVERITT,MELISSA JO",
+      "job_title": "EDITORIAL ASSISTANT",
+      "salary": "49830.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,THERESE STIFFLER",
+      "job_title": "CLERK",
+      "salary": "130307.16",
+      "travel": "31.35"
+    },
+    {
+      "person_name": "BEALL,HARTWELL HARRIS",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENHAM,ROBERT",
+      "job_title": "JUSTICE",
+      "salary": "163351.02",
+      "travel": "1085.60"
+    },
+    {
+      "person_name": "BLEWS,DOUGLAS W",
+      "job_title": "LAW ASSISTANT",
+      "salary": "103447.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYNTON,JACQUELINE D",
+      "job_title": "APPLICATIONS ANALYST",
+      "salary": "9611.83",
+      "travel": "359.29"
+    },
+    {
+      "person_name": "BREWER,ANTHONY",
+      "job_title": "RECORDS CLERK",
+      "salary": "17654.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRICE,JANICE A",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "61558.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRUNDIDGE,EVELYN S",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "61558.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYAN,MARY JO",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURGESS,ALISON LEIGH",
+      "job_title": "APPLICATIONS ANALYST",
+      "salary": "31930.94",
+      "travel": "272.86"
+    },
+    {
+      "person_name": "CARLEY,GEORGE H",
+      "job_title": "JUSTICE",
+      "salary": "163351.02",
+      "travel": "1198.89"
+    },
+    {
+      "person_name": "CARTWRIGHT,CYNTHIA",
+      "job_title": "REPORTER, ASSISTANT (JUD)",
+      "salary": "14535.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAPMAN,SARA D",
+      "job_title": "APPLICATIONS ANALYST",
+      "salary": "53369.44",
+      "travel": "584.30"
+    },
+    {
+      "person_name": "CLOUD,MARK V",
+      "job_title": "LAW ASSISTANT",
+      "salary": "84133.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORBETT,THOMAS CRAIG",
+      "job_title": "EDITOR (JUD)",
+      "salary": "45721.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,BETTY J",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "61558.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DODDS,ILETHA M",
+      "job_title": "ADMINISTRATIVE ASSISTANT 2",
+      "salary": "54437.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EASON,HILLARY E",
+      "job_title": "EDITORIAL ASSISTANT",
+      "salary": "9157.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FAENZA,HEIDI M",
+      "job_title": "LAW ASSISTANT",
+      "salary": "52939.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIER,SHERIE G",
+      "job_title": "ACCOUNTANT 2 (GPTV)",
+      "salary": "80008.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HADDEN,AIMEE B",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "49100.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANEY,AMY L",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANSEN,JANE O",
+      "job_title": "PUBLIC INFORMATION SPECIALIST",
+      "salary": "101629.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDY,JILL S",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "56653.86",
+      "travel": "651.10"
+    },
+    {
+      "person_name": "HINES,P  HARRIS",
+      "job_title": "JUSTICE",
+      "salary": "163351.02",
+      "travel": "625.98"
+    },
+    {
+      "person_name": "HINES,RUNETTE B",
+      "job_title": "APPLICATIONS ANALYST",
+      "salary": "49830.60",
+      "travel": "626.90"
+    },
+    {
+      "person_name": "HULS,MARCIA K",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "55245.28",
+      "travel": "595.30"
+    },
+    {
+      "person_name": "HUNSTEIN,CAROL W",
+      "job_title": "JUSTICE",
+      "salary": "163351.02",
+      "travel": "1601.14"
+    },
+    {
+      "person_name": "KILPATRICK,SHARON B",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "30879.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KOCH,LYNN S",
+      "job_title": "LAW ASSISTANT",
+      "salary": "52939.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,STACY M",
+      "job_title": "EDITORIAL ASSISTANT",
+      "salary": "30380.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LITTLE,TORI D",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "40238.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKWOOD,SARAH EVANS",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "115112.88",
+      "travel": "5905.87"
+    },
+    {
+      "person_name": "MCATEER,ROBERT F",
+      "job_title": "SYSTEMS ANALYST (JUD)",
+      "salary": "79581.90",
+      "travel": "332.58"
+    },
+    {
+      "person_name": "MCCORKLE,SARI A",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGUIRE,JO-SYBIL",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "61558.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MELTON,HAROLD D",
+      "job_title": "JUSTICE",
+      "salary": "163351.02",
+      "travel": "2917.42"
+    },
+    {
+      "person_name": "MILTON,TIA C",
+      "job_title": "LAW ASSISTANT",
+      "salary": "90346.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NAHMIAS,DAVID E",
+      "job_title": "JUSTICE",
+      "salary": "139282.96",
+      "travel": "1159.11"
+    },
+    {
+      "person_name": "NYMAN,ROSE A",
+      "job_title": "APPLICATIONS ANALYST",
+      "salary": "35628.54",
+      "travel": "621.52"
+    },
+    {
+      "person_name": "ORTEGA,MARINE E",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PADGETT,KELLEE ANN",
+      "job_title": "LAW ASSISTANT",
+      "salary": "16359.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PINTO,ROSALYN S",
+      "job_title": "LAW ASSISTANT",
+      "salary": "44944.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDDING,ALEXIS",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "49561.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIGGS,BARBARA R",
+      "job_title": "APPLICATIONS ANALYST",
+      "salary": "47739.90",
+      "travel": "584.30"
+    },
+    {
+      "person_name": "RONAN,GAIL E",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSKELL,JEAN M",
+      "job_title": "COURT REPORTER (JUD)",
+      "salary": "86584.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHAIKEWITZ,STEVEN",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHWARTZ,LINDA SUE",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,PAMELA M",
+      "job_title": "CLERK, ASST TO (JUD)",
+      "salary": "38660.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,THOMAS EDWARD",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STINCHCOMB,LYNN M",
+      "job_title": "DEPUTY CLERK (JUD)",
+      "salary": "91520.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,ELIZABETH C",
+      "job_title": "LAW ASSISTANT",
+      "salary": "51723.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUBER,DIANA D",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TATE,SANTINA",
+      "job_title": "CLERK, ASST TO (JUD)",
+      "salary": "42065.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TENG,KEVIN K",
+      "job_title": "SYSTEMS ANALYST (JUD)",
+      "salary": "64217.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,HUGH P",
+      "job_title": "JUSTICE",
+      "salary": "163351.02",
+      "travel": "5070.80"
+    },
+    {
+      "person_name": "TRIBBLE,CAMILLE M",
+      "job_title": "LAW ASSISTANT",
+      "salary": "57796.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADE,GINGER P",
+      "job_title": "EDITOR (JUD)",
+      "salary": "72966.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,KEVIN C",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WITHERS,JOHN CAMPBELL",
+      "job_title": "LAW ASSISTANT",
+      "salary": "105879.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODS,ADRIAN P",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "37093.92",
+      "travel": "0.00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "payments": [
+    {
+      "person_name": "COLBERT,DONALD A",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "11185.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEHOFF,STANLEY M",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "47468.98",
+      "travel": "434.18"
+    },
+    {
+      "person_name": "KEY,AMY J",
+      "job_title": "OFFICE MANAGER",
+      "salary": "31252.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ORUC,ALI CEM",
+      "job_title": "ASSISTANT DIRECTOR",
+      "salary": "20718.40",
+      "travel": "326.23"
+    }
+  ]
+}

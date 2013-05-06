@@ -1,0 +1,52 @@
+{
+  "payments": [
+    {
+      "person_name": "HARRIS,MARTHA",
+      "job_title": "OFFICE MANAGER",
+      "salary": "28488.72",
+      "travel": "411.03"
+    },
+    {
+      "person_name": "LUCAS,JAMES",
+      "job_title": "BOARD MEMBER",
+      "salary": "240.00",
+      "travel": "1209.13"
+    },
+    {
+      "person_name": "NIKITOPOULOS,RAE KAREN",
+      "job_title": "COMMUNICATIONS MANAGER",
+      "salary": "34014.96",
+      "travel": "4746.61"
+    },
+    {
+      "person_name": "PERRY,SCHLEY L",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "1481.75"
+    },
+    {
+      "person_name": "ROBINSON,WAVELL",
+      "job_title": "BOARD MEMBER",
+      "salary": "90.00",
+      "travel": "95.55"
+    },
+    {
+      "person_name": "RUARK,JOHN MARVIN",
+      "job_title": "BOARD MEMBER",
+      "salary": "120.00",
+      "travel": "750.45"
+    },
+    {
+      "person_name": "SEATON,WILLIAM R",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "81324.28",
+      "travel": "3626.12"
+    },
+    {
+      "person_name": "WEBB,JAMES",
+      "job_title": "BOARD MEMBER",
+      "salary": "480.00",
+      "travel": "2863.52"
+    }
+  ]
+}

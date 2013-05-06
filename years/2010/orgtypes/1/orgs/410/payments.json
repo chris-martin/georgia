@@ -1,0 +1,100 @@
+{
+  "payments": [
+    {
+      "person_name": "BARKER,TIMOTHY W",
+      "job_title": "ARCHITECT/DESIGN SPEC (WL)",
+      "salary": "40151.52",
+      "travel": "110.16"
+    },
+    {
+      "person_name": "BOWLDEN,RODDY N",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "68515.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARDIN,STEPHANIE NICOLE",
+      "job_title": "PROPERTY MGMT SPEC (WL)",
+      "salary": "21703.78",
+      "travel": "23.37"
+    },
+    {
+      "person_name": "DORRIS,PAMELA L",
+      "job_title": "PLANNG & POLCY DEV SPEC(WL)",
+      "salary": "48846.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELOVICH,DEBRA L",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "81713.78",
+      "travel": "22.00"
+    },
+    {
+      "person_name": "JACKSON,JAMES THEODORE",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "64592.72",
+      "travel": "145.33"
+    },
+    {
+      "person_name": "JENNINGS,SCOTT H",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "63976.14",
+      "travel": "1947.14"
+    },
+    {
+      "person_name": "JONES,BEVERLY",
+      "job_title": "PROPERTY MGMT SPEC (WL)",
+      "salary": "13643.87",
+      "travel": "175.00"
+    },
+    {
+      "person_name": "POPE,HEATHER J",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "44624.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROY,MICHAEL G",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "82929.16",
+      "travel": "22.00"
+    },
+    {
+      "person_name": "SMITH,JOHN FRANK",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "95094.84",
+      "travel": "363.44"
+    },
+    {
+      "person_name": "SMITH,KALIL L",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "39746.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STANCIL,STEVEN LYLE",
+      "job_title": "DIRECTOR OF CONSTRUCTION DIV",
+      "salary": "0.00",
+      "travel": "347.94"
+    },
+    {
+      "person_name": "TATEM,GINETTE",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "44068.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADE,JUDITH L",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "75467.28",
+      "travel": "178.44"
+    },
+    {
+      "person_name": "WOODWARD,MARVIN M",
+      "job_title": "STATE PROPERTIES OFF, DEPUTY",
+      "salary": "0.00",
+      "travel": "175.00"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "payments": [
+    {
+      "person_name": "CARLISLE,HAROLD",
+      "job_title": "BOARD MEMBER",
+      "salary": "519.00",
+      "travel": "210.80"
+    },
+    {
+      "person_name": "IRVIN,THOMAS",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "2076.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LODEN,SHEILA",
+      "job_title": "BOOKKEEPER",
+      "salary": "37638.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOBLEY,JOHN",
+      "job_title": "BOARD MEMBER",
+      "salary": "692.00",
+      "travel": "914.00"
+    },
+    {
+      "person_name": "MORROW,ALLEN",
+      "job_title": "FINANCIAL OPS SPEC (AL)",
+      "salary": "63840.00",
+      "travel": "2524.81"
+    },
+    {
+      "person_name": "PATE,TRACI",
+      "job_title": "HOUSING LOAN SPEC (WL)",
+      "salary": "30048.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDMON,JAKE",
+      "job_title": "BOARD MEMBER",
+      "salary": "2076.00",
+      "travel": "1268.00"
+    },
+    {
+      "person_name": "SKINNER,DAVID",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "124608.00",
+      "travel": "2764.76"
+    },
+    {
+      "person_name": "SMITH,MARY",
+      "job_title": "BOOKKEEPER",
+      "salary": "51840.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILDER,DONALD",
+      "job_title": "ASSISTANT DIRECTOR",
+      "salary": "98664.00",
+      "travel": "5193.80"
+    },
+    {
+      "person_name": "WILSON,EDMOND",
+      "job_title": "BOARD MEMBER",
+      "salary": "173.00",
+      "travel": "0.00"
+    }
+  ]
+}

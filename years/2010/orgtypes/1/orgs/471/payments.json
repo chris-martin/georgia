@@ -1,0 +1,5416 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAMS,BARBARA G",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "19743.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADAMS,DAVID H",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "48036.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADAMS,VICKIE L",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "55132.20",
+      "travel": "4573.78"
+    },
+    {
+      "person_name": "AKERS,WILLIAM T",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "34439.16",
+      "travel": "676.00"
+    },
+    {
+      "person_name": "ALDRICH,KELLY N",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "43120.95",
+      "travel": "2405.23"
+    },
+    {
+      "person_name": "ALFORD,JOSHUA B",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38728.78",
+      "travel": "88.00"
+    },
+    {
+      "person_name": "ALI,SYED ZAKIR",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "61946.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALI,UNAIZA AKHTAR",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49702.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALIDINA,NABEELA MOHAMED",
+      "job_title": "INVESTIGATIVE AUDITOR 1",
+      "salary": "0.00",
+      "travel": "2025.18"
+    },
+    {
+      "person_name": "ALLEN,COURTNEY L",
+      "job_title": "OPERATIONS ANALYST (EL)",
+      "salary": "21576.98",
+      "travel": "11.00"
+    },
+    {
+      "person_name": "ALLEN,DELTONIA DELAYNE",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "56238.75",
+      "travel": "129.65"
+    },
+    {
+      "person_name": "ALLEN,LETIA S",
+      "job_title": "GRANTS SPECIALIST (WL)",
+      "salary": "44571.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,NEDRA F",
+      "job_title": "BUDGET SPEC (WL)",
+      "salary": "45843.06",
+      "travel": "34.97"
+    },
+    {
+      "person_name": "ALLEN,WILLIE G",
+      "job_title": "CLAIMS/BENEFITS TECH (AL)",
+      "salary": "43044.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLMAN,NELLIE M",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "28122.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALSTON,ROSA A",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "28254.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMBROSE,GLORIA W",
+      "job_title": "PERSONNEL SERVICES WORKER",
+      "salary": "33671.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMMONS,NATALIE L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "49923.49",
+      "travel": "947.10"
+    },
+    {
+      "person_name": "ANDERSON,RENEA N",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40868.56",
+      "travel": "4764.53"
+    },
+    {
+      "person_name": "ANDERSON,WESLEY GARTH",
+      "job_title": "CRIMINAL JUST COMP SPEC(WL)",
+      "salary": "32583.61",
+      "travel": "2130.50"
+    },
+    {
+      "person_name": "ANDREWS,ELIZABETH K",
+      "job_title": "MEDICAL EXAM INVESTGTR (WL)",
+      "salary": "33209.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,RUSSELL EDGAR",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "113349.02",
+      "travel": "4896.63"
+    },
+    {
+      "person_name": "ANDREWS,SHIRLEY",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "85425.60",
+      "travel": "1062.70"
+    },
+    {
+      "person_name": "ANTCZAK,NIKLAUS A",
+      "job_title": "MEDICAL EXAM INVESTGTR (WL)",
+      "salary": "32302.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANTHONY,ARTHUR THOMAS",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "23709.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARMOUR,APRIL C",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "32972.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARNOLD,LORI M",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "37270.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASHURST,SHELIA DENISE",
+      "job_title": "FORENSICS TECH (SP)",
+      "salary": "45306.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASKEW,CHARLETHA",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "353.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASTOR,NICOLE J",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50496.22",
+      "travel": "1099.58"
+    },
+    {
+      "person_name": "ATHERLEY,LAURENTINA N",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "2853.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ATKINSON,STEVEN P",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "151293.12",
+      "travel": "407.11"
+    },
+    {
+      "person_name": "AUSTIN,JOSEPH",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50958.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AUSTIN,KARA NATALIE",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "43448.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AVIOTTI,PATRICK K",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48145.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AXTELL,KEITH MORGAN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "54734.61",
+      "travel": "4808.42"
+    },
+    {
+      "person_name": "AYER,JOSHUA R",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40136.45",
+      "travel": "738.48"
+    },
+    {
+      "person_name": "AYERS,MICHAEL TIMOTHY",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "69940.79",
+      "travel": "2785.09"
+    },
+    {
+      "person_name": "BAAWO,KOUWENDY D",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "14820.60",
+      "travel": "255.00"
+    },
+    {
+      "person_name": "BAILEY,JESSICA C",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "20885.64",
+      "travel": "1171.20"
+    },
+    {
+      "person_name": "BAILEY,KAYLA N",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "14820.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,MEREDITH L",
+      "job_title": "INTELLIGENCANALYSISSPEC(WL)",
+      "salary": "32137.14",
+      "travel": "341.68"
+    },
+    {
+      "person_name": "BAILEY,TONYA S",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "51355.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAIRD,RYAN",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "93.00"
+    },
+    {
+      "person_name": "BAITY,SAMUEL",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51478.37",
+      "travel": "460.55"
+    },
+    {
+      "person_name": "BAKER,KAREN E",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "35877.31",
+      "travel": "146.00"
+    },
+    {
+      "person_name": "BAKER,KIM B",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "65716.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALLARD,JOSHUA A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "32187.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALSAM,ROBERT L",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "45278.28",
+      "travel": "241.42"
+    },
+    {
+      "person_name": "BANKHEAD,JOHN G",
+      "job_title": "PUBLIC AFFAIRS DIRECTOR",
+      "salary": "96186.18",
+      "travel": "146.25"
+    },
+    {
+      "person_name": "BANKS,ANTHONY R",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49345.42",
+      "travel": "1188.68"
+    },
+    {
+      "person_name": "BANKS,BOBBY W",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38390.90",
+      "travel": "1145.00"
+    },
+    {
+      "person_name": "BANKS,PEGGY ANN",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "12855.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRON,JOHN S",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46741.51",
+      "travel": "2538.10"
+    },
+    {
+      "person_name": "BARRON,THOMAS JOSEPH",
+      "job_title": "STATE PATROL (SP)",
+      "salary": "0.00",
+      "travel": "181.00"
+    },
+    {
+      "person_name": "BARRY,JOHN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51313.57",
+      "travel": "705.55"
+    },
+    {
+      "person_name": "BATCHELOR,JODI M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "7196.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BATES,SHARON P",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "28147.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BATTLE,CASSANDRA D",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "43749.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAUGHN,KRISTI A",
+      "job_title": "MEDICAL EXAM INVESTGTR (EL)",
+      "salary": "32750.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAZAR,EDMUND J",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "30868.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEARD,ISAAC E",
+      "job_title": "COMMUNICATNS HRDWRE SP (SP)",
+      "salary": "8810.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEGGS,DARYL REBECCA",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "64119.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEGUM,MOSAMMAT K",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46189.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELCHER,ANA REYES",
+      "job_title": "ADVOCATE (WL)",
+      "salary": "45152.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELEW,BARBARA K",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26056.63",
+      "travel": "109.70"
+    },
+    {
+      "person_name": "BELL,LEE P",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "7452.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,GEORGE ALLEN",
+      "job_title": "BUDGET SPEC (AL)",
+      "salary": "54238.66",
+      "travel": "26.03"
+    },
+    {
+      "person_name": "BENNETT,STEPHANIE M",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "44118.84",
+      "travel": "154.25"
+    },
+    {
+      "person_name": "BENSON,BRANDON X",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "2962.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENYAM,LYDIA",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "14820.60",
+      "travel": "300.00"
+    },
+    {
+      "person_name": "BIGHAM,ELIZABETH A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40028.44",
+      "travel": "79.00"
+    },
+    {
+      "person_name": "BIGHAM,ROCKY A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "44247.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BING,OEVIA",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "50982.26",
+      "travel": "292.00"
+    },
+    {
+      "person_name": "BISH,CHRISTOPHER ANTHONY",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "66463.01",
+      "travel": "3140.59"
+    },
+    {
+      "person_name": "BISHOP,KATHRYN K",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "4769.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKBURN,RONALD R",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "13819.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKWELL,STEVE DAVIS",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "55298.01",
+      "travel": "5185.81"
+    },
+    {
+      "person_name": "BLANCHARD,LINDA SHAW",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "30386.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOUNT,DAWN T",
+      "job_title": "DATA PROCESSOR (EL)",
+      "salary": "23386.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BODREY,MARCIA K",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26056.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BODREY,WILLIAM BISHOP",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46061.48",
+      "travel": "724.09"
+    },
+    {
+      "person_name": "BOHANNON,CYNTHIA M",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "30428.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOOKER,SHEILA MARSH",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "40771.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOUDY,ALBERT L",
+      "job_title": "MEDICAL EXAM INVESTGTR (AL)",
+      "salary": "38655.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYD,WILLIAM A",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "38256.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYD,WOODROW WILSON",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "58971.96",
+      "travel": "571.70"
+    },
+    {
+      "person_name": "BOYD,ZWELLA H",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "39500.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANCH,IEASHA D",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "25692.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANK,HUGH CARTER",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "68408.48",
+      "travel": "297.70"
+    },
+    {
+      "person_name": "BRANYON,JEFFERSON DAVIS",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45446.45",
+      "travel": "435.54"
+    },
+    {
+      "person_name": "BRASHER,MARY J",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "51567.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRASWELL,AMY E",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48295.92",
+      "travel": "356.92"
+    },
+    {
+      "person_name": "BRAXLEY,RONALD F",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "59939.09",
+      "travel": "567.00"
+    },
+    {
+      "person_name": "BRAY,DANIEL CLIFFTON",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "169.00"
+    },
+    {
+      "person_name": "BRENT,CORTNE",
+      "job_title": "CRIMNAL JUSTCE TRN SPEC(WL)",
+      "salary": "37502.10",
+      "travel": "6099.95"
+    },
+    {
+      "person_name": "BREWER,MARGIE J",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "28662.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRIDGES,CLAYTON T",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49361.38",
+      "travel": "3372.90"
+    },
+    {
+      "person_name": "BRIGHT,EMILY N",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46189.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROGDON,DAGNY W",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "47825.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,ERMA PRUE",
+      "job_title": "COMMUNICATNS HRDWRE SP (AL)",
+      "salary": "53299.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,JOHNNY R",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "43082.28",
+      "travel": "1900.69"
+    },
+    {
+      "person_name": "BROOKS,LEIGH P",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46129.19",
+      "travel": "592.75"
+    },
+    {
+      "person_name": "BROOKS,MICHEAL L",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38925.86",
+      "travel": "363.00"
+    },
+    {
+      "person_name": "BROOKS,TIFFANY M",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "18145.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWER,JAMES H",
+      "job_title": "PROC,SUPPLY,WARHSE TECH(WL)",
+      "salary": "24564.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ANGELIA M",
+      "job_title": "HR TRANSACTIONS TECH (SP)",
+      "salary": "67100.44",
+      "travel": "227.90"
+    },
+    {
+      "person_name": "BROWN,BARRENDA L",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "48486.60",
+      "travel": "397.52"
+    },
+    {
+      "person_name": "BROWN,DANIEL K",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "137769.84",
+      "travel": "5119.19"
+    },
+    {
+      "person_name": "BROWN,DEBRA BOYKIN",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "62928.18",
+      "travel": "893.70"
+    },
+    {
+      "person_name": "BROWN,JAMES N",
+      "job_title": "GRAPHICS & VIS ART SPEC(AL)",
+      "salary": "33269.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,JEFFREY M",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38869.55",
+      "travel": "2820.10"
+    },
+    {
+      "person_name": "BROWN,JOSEPH R",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38559.83",
+      "travel": "585.50"
+    },
+    {
+      "person_name": "BROWN,JUDY H",
+      "job_title": "COMMUNICATNS HRDWRE SP (AL)",
+      "salary": "46058.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,KENNETH J",
+      "job_title": "PROC,SUPPLY,WARHSE TECH(AL)",
+      "salary": "30271.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SHANNON M",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "13021.44",
+      "travel": "86.90"
+    },
+    {
+      "person_name": "BRUCE,WILLIAM A",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "53015.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYAN,RODNEY D",
+      "job_title": "MEDICAL EXAM INVESTGTR (AL)",
+      "salary": "43268.76",
+      "travel": "1496.55"
+    },
+    {
+      "person_name": "BUCARI,MARY ANN",
+      "job_title": "CLERK (WL)",
+      "salary": "2030.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BULL,TERESA G",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50046.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUMGARNER,MONICA LESLIE",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "38392.97",
+      "travel": "260.00"
+    },
+    {
+      "person_name": "BURKE,PAUL M",
+      "job_title": "BUSINESS OPERATION SPEC(WL)",
+      "salary": "45071.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUSAM,ROBERT D",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "16266.00",
+      "travel": "184.00"
+    },
+    {
+      "person_name": "BUTLER,EMILY NICOLE",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "41368.29",
+      "travel": "1133.23"
+    },
+    {
+      "person_name": "BUTLER,GEORGIA PETTIS",
+      "job_title": "GRAPHICS & VIS ART SPEC(AL)",
+      "salary": "46088.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,ROSS W",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "56271.51",
+      "travel": "1650.77"
+    },
+    {
+      "person_name": "BUTTS,LATORIA C",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "35569.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRNE,LINDSEY E",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "20748.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALES,TANYA A",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "57935.03",
+      "travel": "2081.67"
+    },
+    {
+      "person_name": "CALLAHAN,LISA S",
+      "job_title": "LABORATORY",
+      "salary": "85541.17",
+      "travel": "358.95"
+    },
+    {
+      "person_name": "CALLAHAN,MICHAEL EDWARD",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50017.56",
+      "travel": "173.00"
+    },
+    {
+      "person_name": "CAMERON,AMANDA L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50553.30",
+      "travel": "1481.67"
+    },
+    {
+      "person_name": "CAMPBELL,JAMES W",
+      "job_title": "LABORATORY",
+      "salary": "69409.07",
+      "travel": "787.70"
+    },
+    {
+      "person_name": "CAMPBELL,TIMOTHY K",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "17073.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANNON,DOROTHY D",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "28250.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANNON,JOHN CLAXTON",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "68049.21",
+      "travel": "1917.28"
+    },
+    {
+      "person_name": "CANTY,KIRK BRADFORD",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "83038.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAPPETTO,MICHELE L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "14093.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARDWELL,DONITA J",
+      "job_title": "PROC,SUPPLY,WARHSE TECH(WL)",
+      "salary": "32970.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARMICHAEL,ANGELA R",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "36259.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARMICHAEL,RYAN M",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49966.09",
+      "travel": "988.50"
+    },
+    {
+      "person_name": "CARR,BELINDA A",
+      "job_title": "QUALITY ASSURANCE SPEC (EL)",
+      "salary": "34775.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARSON,STACY B",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "55748.10",
+      "travel": "1474.00"
+    },
+    {
+      "person_name": "CARTER,MARY V",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "29087.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,MICHAEL L",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "50738.89",
+      "travel": "385.37"
+    },
+    {
+      "person_name": "CARTER,SHONTRICE M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26056.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTIER,DENISE E",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "34247.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAMBLESS,BENJAMIN",
+      "job_title": "COMPUTER SYS ANALYST (WL)",
+      "salary": "44223.42",
+      "travel": "70.27"
+    },
+    {
+      "person_name": "CHAMBLESS,NATASHA A",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "37068.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAMPION,LEIGH A",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "48627.72",
+      "travel": "1125.63"
+    },
+    {
+      "person_name": "CHAPMAN,BRADFORD CLYDE",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38897.71",
+      "travel": "924.02"
+    },
+    {
+      "person_name": "CHAPMAN,ISAAC G",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "14187.88",
+      "travel": "917.17"
+    },
+    {
+      "person_name": "CHATMAN,ANTHONY T",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49076.00",
+      "travel": "356.00"
+    },
+    {
+      "person_name": "CHESNUT,WILLIAM J",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "59278.50",
+      "travel": "1366.95"
+    },
+    {
+      "person_name": "CHILDERS,DENISE N",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49431.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHUBB,LARRY E",
+      "job_title": "POLICE INVESTIGATOR (GWCC)",
+      "salary": "0.00",
+      "travel": "139.00"
+    },
+    {
+      "person_name": "CLAASSENS,JOHANNES",
+      "job_title": "LABORATORY",
+      "salary": "87074.34",
+      "travel": "661.56"
+    },
+    {
+      "person_name": "CLAIBORNE,CONNIE LEE",
+      "job_title": "BUSINESS OPERATION SPEC(WL)",
+      "salary": "19917.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,ENNIS T",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39545.27",
+      "travel": "1241.60"
+    },
+    {
+      "person_name": "CLARK,JACQUELINE ALBRITTON",
+      "job_title": "CRIMINAL JUST COMP SPEC(AL)",
+      "salary": "39889.92",
+      "travel": "1411.25"
+    },
+    {
+      "person_name": "CLARK,PATRICIA BENSON",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "25390.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLAYTON,K MICHAEL",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "64011.25",
+      "travel": "1713.38"
+    },
+    {
+      "person_name": "CLELAND,MATTHEW C",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "39893.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COBB,JOHN M",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "43391.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COFFEY,DEREK L",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39235.56",
+      "travel": "554.54"
+    },
+    {
+      "person_name": "COGGINS,KATHY D",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "53580.78",
+      "travel": "460.18"
+    },
+    {
+      "person_name": "COKER,DEENIE WALLACE",
+      "job_title": "INTELLIGENCANALYSISSPEC(WL)",
+      "salary": "17834.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLE,LARRY WENDELL",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "52335.17",
+      "travel": "245.00"
+    },
+    {
+      "person_name": "COLLIER,BELINDA L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "15297.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLIER,CHRISTOPHER",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "28015.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,BENJAMIN A",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48895.55",
+      "travel": "739.36"
+    },
+    {
+      "person_name": "COLSON,DENISE GALLO",
+      "job_title": "INVESTIGATIVE AUDITOR 3",
+      "salary": "0.00",
+      "travel": "504.91"
+    },
+    {
+      "person_name": "CONNELL,THOMAS DAVID",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "43771.62",
+      "travel": "134.09"
+    },
+    {
+      "person_name": "CONNOLLY,HEATHER A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "17649.99",
+      "travel": "2251.39"
+    },
+    {
+      "person_name": "COODY,JERRI L",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "47759.98",
+      "travel": "223.00"
+    },
+    {
+      "person_name": "COOK,WANDA C",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "38827.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOKE,AMANDA H",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "51186.93",
+      "travel": "29.59"
+    },
+    {
+      "person_name": "COOPER,CRISTINA D",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "16570.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOPER,JUDITH ANN",
+      "job_title": "NURSE INVESTIGATOR 3",
+      "salary": "0.00",
+      "travel": "974.80"
+    },
+    {
+      "person_name": "COOPER,JUDY G",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "38517.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOPER,MERIAN L",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "25643.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORDERO,JOHN M",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49577.16",
+      "travel": "106.55"
+    },
+    {
+      "person_name": "COUCH,IMOGENE P",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28584.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,LANNY DALE",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "57102.12",
+      "travel": "214.00"
+    },
+    {
+      "person_name": "CRAWLEY,JANICE MARIE",
+      "job_title": "COMMUNICATNS HRDWRE SP (WL)",
+      "salary": "35996.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREED,JO ANNE",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "54806.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREWS,CRYSTAL N",
+      "job_title": "PLANNG & POLCY DEV SPEC(WL)",
+      "salary": "48935.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROSBY,ASHLEY T",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48126.63",
+      "travel": "790.45"
+    },
+    {
+      "person_name": "CROWE,KAREN F",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50369.79",
+      "travel": "416.00"
+    },
+    {
+      "person_name": "CUDLIPP,SANDRA M",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "32814.89",
+      "travel": "15.00"
+    },
+    {
+      "person_name": "CUENDET,LOUIS A",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "41656.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,TIFFANY",
+      "job_title": "TELECOMMUNICATIONS SP (WL)",
+      "salary": "27011.45",
+      "travel": "137.50"
+    },
+    {
+      "person_name": "CURTIS,AMY DENISE",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "31070.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUTHBERT,YVONNE P",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "38110.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIEL,KEVIN J",
+      "job_title": "TELECOMMUNICATIONS SP (SP)",
+      "salary": "13794.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIEL,MARSHA M",
+      "job_title": "CRIMNAL JUSTCE TRN SPEC(WL)",
+      "salary": "38060.52",
+      "travel": "6248.86"
+    },
+    {
+      "person_name": "DANIEL,MATTHEW A",
+      "job_title": "SYSTEM ADMINISTRATOR (EL)",
+      "salary": "26270.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,KENNETH LAMAR",
+      "job_title": "LABORATORY",
+      "salary": "71737.02",
+      "travel": "748.70"
+    },
+    {
+      "person_name": "DARRELL,YVONNE V",
+      "job_title": "INTELLIGENCANALYSISSPEC(WL)",
+      "salary": "35774.58",
+      "travel": "45.05"
+    },
+    {
+      "person_name": "DARRISAW,LORA A",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "168743.66",
+      "travel": "3849.74"
+    },
+    {
+      "person_name": "DAVIS,HEATHER Y",
+      "job_title": "INTELLIGENCANALYSISSPEC(WL)",
+      "salary": "29656.60",
+      "travel": "2888.57"
+    },
+    {
+      "person_name": "DAVIS,LINDA L",
+      "job_title": "GRANTS SPECIALIST (WL)",
+      "salary": "38999.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,LINDA R",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "37460.68",
+      "travel": "428.00"
+    },
+    {
+      "person_name": "DAVIS,LINFRED LEON",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "DAVIS,THOMAS H",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "73101.03",
+      "travel": "488.18"
+    },
+    {
+      "person_name": "DEBLANC,BENJAMIN K",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "37662.05",
+      "travel": "252.70"
+    },
+    {
+      "person_name": "DEDRICK,KRISTIN C",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "37168.42",
+      "travel": "884.47"
+    },
+    {
+      "person_name": "DEMARCO,CHRISTOPHER M",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "62904.44",
+      "travel": "260.00"
+    },
+    {
+      "person_name": "DEMONS,SARAH D",
+      "job_title": "DOCUMENT PROCESSOR (AL)",
+      "salary": "32150.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNIS,SHARHONDA L",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "40911.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENSON,FREDERICK",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "60646.81",
+      "travel": "449.90"
+    },
+    {
+      "person_name": "DENTON,DOLINDA M",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "17405.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DESAMOURS,STACEY N",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "124414.50",
+      "travel": "1047.58"
+    },
+    {
+      "person_name": "DETTMERING,TROY B",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "52033.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEVEAUX,DENO A",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46189.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEVEAUX,MELBA",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "36860.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIAL,RICHARD L",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45313.30",
+      "travel": "581.30"
+    },
+    {
+      "person_name": "DICKS,DONALD EDWARD",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "67066.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIEDRICH,DAWN",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "91706.82",
+      "travel": "2369.26"
+    },
+    {
+      "person_name": "DIETZEL,KATHERINE D",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "10168.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIGGS,GARY MICHAEL",
+      "job_title": "STATE PATROL (WL)",
+      "salary": "0.00",
+      "travel": "169.00"
+    },
+    {
+      "person_name": "DINKINS,PERRY CHRISTY",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "35928.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,BEVERLY E",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "57299.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOCKINS,JEREMY L",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38756.93",
+      "travel": "371.00"
+    },
+    {
+      "person_name": "DONNELLY,BENJAMIN A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "48548.94",
+      "travel": "236.00"
+    },
+    {
+      "person_name": "DONOGHUE,EDMUND R",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "159035.27",
+      "travel": "3940.30"
+    },
+    {
+      "person_name": "DORSEY,BYRON CHRIS",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "77944.38",
+      "travel": "10501.70"
+    },
+    {
+      "person_name": "DOWLING,SUE Y",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "48204.43",
+      "travel": "4230.72"
+    },
+    {
+      "person_name": "DOWNS,JAMES C",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "160801.20",
+      "travel": "2449.42"
+    },
+    {
+      "person_name": "DRIVER,KAREN D",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28122.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUKE,MATTHEW W",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "38534.33",
+      "travel": "105.00"
+    },
+    {
+      "person_name": "DUKE,RACHEL B",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "35834.21",
+      "travel": "305.13"
+    },
+    {
+      "person_name": "DUNCAN,LUANNE C",
+      "job_title": "SECRETARY (AL)",
+      "salary": "28583.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,PAUL L",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "DURDEN,JOHN E",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "54417.32",
+      "travel": "1876.69"
+    },
+    {
+      "person_name": "DUREN,LARRY VAN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51647.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURHAM,CHARLES NORMAN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "53600.42",
+      "travel": "408.00"
+    },
+    {
+      "person_name": "DUTTON,CARLA R",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46340.58",
+      "travel": "385.28"
+    },
+    {
+      "person_name": "DUTTON,DURWOOD SCOTT",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "58580.93",
+      "travel": "182.00"
+    },
+    {
+      "person_name": "EASON,ERIC A",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "149579.72",
+      "travel": "2920.83"
+    },
+    {
+      "person_name": "ECTOR,MERLIN RANCE",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51843.06",
+      "travel": "411.60"
+    },
+    {
+      "person_name": "EDGAR,SEAN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51162.03",
+      "travel": "376.92"
+    },
+    {
+      "person_name": "EDWARDS,DANIEL L",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "29785.59",
+      "travel": "4017.05"
+    },
+    {
+      "person_name": "EDWARDS,MICHAEL G",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "29629.24",
+      "travel": "535.18"
+    },
+    {
+      "person_name": "EISENSTAT,JONATHAN",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "148411.08",
+      "travel": "2690.30"
+    },
+    {
+      "person_name": "ELLIOTT,ANN MARIE",
+      "job_title": "BUSINESS OPERATION SPEC(WL)",
+      "salary": "33640.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLIS,JOSHUA S",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40826.51",
+      "travel": "2106.95"
+    },
+    {
+      "person_name": "EMERICH,IOANA",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "34064.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ENELS,NIKITA K",
+      "job_title": "AUDITOR/EXAMINER (WL)",
+      "salary": "42663.26",
+      "travel": "641.52"
+    },
+    {
+      "person_name": "ERVIN,PAMELA MARIA",
+      "job_title": "PURCH & PROC SPEC (AL)",
+      "salary": "46947.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ESTES,VAUGHN D",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "47517.24",
+      "travel": "1092.00"
+    },
+    {
+      "person_name": "EUBANKS,CORDETTA N",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "34288.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,APRIL M",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "33553.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,JUDY B",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "31945.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,MICHAEL PAUL",
+      "job_title": "BUDGET SPEC (AL)",
+      "salary": "53484.45",
+      "travel": "6.84"
+    },
+    {
+      "person_name": "EWING,LORI D",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "10711.29",
+      "travel": "14.30"
+    },
+    {
+      "person_name": "FALLER,SUSAN L",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "40589.42",
+      "travel": "557.49"
+    },
+    {
+      "person_name": "FARMER,FELICIA K",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "28372.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARMER,JOHN B",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "62482.80",
+      "travel": "219.55"
+    },
+    {
+      "person_name": "FELIX,JEREMY R",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "14820.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FELIX,KYLE A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "34885.39",
+      "travel": "124.88"
+    },
+    {
+      "person_name": "FENNELL,JOHN B",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39864.36",
+      "travel": "214.00"
+    },
+    {
+      "person_name": "FIELDS-ZINNA,CHRISTINA A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "3253.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINCH,VERDELL",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "47697.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINNEY,CLIFFORD CHRISTOPHER",
+      "job_title": "AUDITOR, PRINCIPAL (AUD)",
+      "salary": "0.00",
+      "travel": "80.66"
+    },
+    {
+      "person_name": "FISCHER,MARY J",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "12454.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FISHER,ELIZABETH N",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "23712.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FISHER,TERRI",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "85425.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLATER,MELANIE L",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "7880.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOYD,MARIE E",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "39370.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORD,ANGELA VANESSA",
+      "job_title": "COMMUNICATNS HRDWRE SP (AL)",
+      "salary": "45261.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORD,QUIANA PATRICE",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "16993.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORD,ROBERT JUNIOR",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "66013.69",
+      "travel": "2757.28"
+    },
+    {
+      "person_name": "FORDHAM,MICHAEL B",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "3378.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,AMANDA L",
+      "job_title": "TELECOMMUNICATIONS SP (AL)",
+      "salary": "33103.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,SHERRY C",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28122.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,STEVEN WADE",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51368.37",
+      "travel": "272.00"
+    },
+    {
+      "person_name": "FOUNTAIN,BARBARA H",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "39777.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOWLER,MICHAEL LYNN",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "36517.86",
+      "travel": "4532.32"
+    },
+    {
+      "person_name": "FOWLER,STEPHANIE E",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "45834.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOX,MARINA CYNTHIA",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "26315.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRANKLIN,KARELLE P",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "39038.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAZIER,JULIUS EARL",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "104.45"
+    },
+    {
+      "person_name": "FREEMAN,EDEN E",
+      "job_title": "TAX COLLECTION/AUDIT",
+      "salary": "0.00",
+      "travel": "41.25"
+    },
+    {
+      "person_name": "FRIPP,KRISTEN O",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "55739.08",
+      "travel": "542.20"
+    },
+    {
+      "person_name": "FRITSCH,LAUREN A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40784.09",
+      "travel": "2261.55"
+    },
+    {
+      "person_name": "FULLINGTON,JAMES BENJAMIN",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "70080.15",
+      "travel": "73.00"
+    },
+    {
+      "person_name": "GADSON,JENNIFER BEALL",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "56921.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAFFNEY-KRAFT,MARYANNE",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "106649.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAFFORD,LEIGH R",
+      "job_title": "QUALITY ASSURANCE SPEC (SP)",
+      "salary": "47436.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARDINER,JULIE P",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "81287.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARNER,DEBORAH COX",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "57568.74",
+      "travel": "4834.75"
+    },
+    {
+      "person_name": "GARNES,LAWRENCE",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "956.85"
+    },
+    {
+      "person_name": "GARRARD,HEATHER S",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26056.63",
+      "travel": "707.35"
+    },
+    {
+      "person_name": "GARRETT,KEVIN D",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "40418.00",
+      "travel": "65.00"
+    },
+    {
+      "person_name": "GARRISH,ASHLEY C",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "27502.48",
+      "travel": "177.79"
+    },
+    {
+      "person_name": "GARY,WARREN DANIEL",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "0.00",
+      "travel": "70.00"
+    },
+    {
+      "person_name": "GEARING,MARGARET JEAN",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "62346.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GEORGE,AGIE A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "43621.61",
+      "travel": "252.37"
+    },
+    {
+      "person_name": "GEORGE,TERRI T",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "45928.94",
+      "travel": "1969.98"
+    },
+    {
+      "person_name": "GERSTENBERGER,NEIL ANDREW",
+      "job_title": "CHIEF OF STAFF",
+      "salary": "66754.74",
+      "travel": "437.00"
+    },
+    {
+      "person_name": "GIBBONS,TERRY DAVIS",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "107630.04",
+      "travel": "451.01"
+    },
+    {
+      "person_name": "GIBBS,JEANNE A",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46189.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBSON,JOHN E",
+      "job_title": "QUALITY ASSURANCE SPEC (SP)",
+      "salary": "50481.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIDDENS,LINDSEY B",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39616.27",
+      "travel": "260.00"
+    },
+    {
+      "person_name": "GILKEY,DACIA K",
+      "job_title": "COMMUNICATNS HRDWRE SP (AL)",
+      "salary": "43018.71",
+      "travel": "1471.45"
+    },
+    {
+      "person_name": "GLASS,AMANDA L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26311.43",
+      "travel": "334.00"
+    },
+    {
+      "person_name": "GLOVER,EARL A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "47052.91",
+      "travel": "245.00"
+    },
+    {
+      "person_name": "GODWIN,MARY ALICE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "34992.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOELZ,MICHAEL D",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45545.87",
+      "travel": "2322.56"
+    },
+    {
+      "person_name": "GOINES,EVA W",
+      "job_title": "HELP DESK SPEC (SP)",
+      "salary": "50824.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOLZ,DAVID E",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50155.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODMAN,JOHN T",
+      "job_title": "MEDICAL EXAM INVESTGTR (WL)",
+      "salary": "34260.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,ALEXANDRIA N",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "35569.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,JAMES F",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46189.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOSHA,LUCIUS RAYMOND",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "994.50"
+    },
+    {
+      "person_name": "GRANT,JAMES RUSSELL",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "76254.42",
+      "travel": "3258.50"
+    },
+    {
+      "person_name": "GRAY,SHENNILL LARENZO",
+      "job_title": "CLAIMS/BENEFITS TECH (AL)",
+      "salary": "45880.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREENE,YALANDA L",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "44334.95",
+      "travel": "1071.35"
+    },
+    {
+      "person_name": "GREENE-KLECKLEY,PRISCILLA",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "52512.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRESHAM,RESHUNDA S",
+      "job_title": "DATA PROCESSOR (EL)",
+      "salary": "24960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIBBLE,VALERIE A",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "43038.63",
+      "travel": "31.92"
+    },
+    {
+      "person_name": "GRIER,KIMBERLY C",
+      "job_title": "TELECOMMUNICATIONS SP (WL)",
+      "salary": "24827.92",
+      "travel": "137.50"
+    },
+    {
+      "person_name": "GRIFFIN,DEBORAH C",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "31871.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GROGAN,TOMMY LEE",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "43106.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GULLATT,MAURICE",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "41481.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GUNTER,JOANN",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "15606.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,JANE L",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "27934.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,TRAVIS L",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "7632.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMBY,DUSTIN T",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45388.80",
+      "travel": "260.00"
+    },
+    {
+      "person_name": "HANCOCK,JAMES ALEXANDER",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "65724.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANSON,BENJAMIN T",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "47759.98",
+      "travel": "238.80"
+    },
+    {
+      "person_name": "HARBIN,SARAH J",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "42188.91",
+      "travel": "356.85"
+    },
+    {
+      "person_name": "HARDEN,JACQUELYN TERESA",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "41694.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARGETT,BRIAN M",
+      "job_title": "LABORATORY",
+      "salary": "68768.24",
+      "travel": "784.81"
+    },
+    {
+      "person_name": "HARGROVE,BRIAN C",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "42783.09",
+      "travel": "245.00"
+    },
+    {
+      "person_name": "HARLOW,DEBORAH E",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "34748.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARPER,RALPH DANIEL",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "45646.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRELL,JOHN F",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46332.31",
+      "travel": "178.00"
+    },
+    {
+      "person_name": "HARRIS,JAMES L",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49238.57",
+      "travel": "238.00"
+    },
+    {
+      "person_name": "HARRIS,JAMES L",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "51895.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,LINDSAY L",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "23712.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,LISA BERNICE",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "67960.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,MARTRINA M",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "7470.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,DONNA LORRAINE",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "50838.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,ALFRED G",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "65159.01",
+      "travel": "88.00"
+    },
+    {
+      "person_name": "HASSELL,MARIANNE",
+      "job_title": "CLAIMS/BENEFITS TECH (WL)",
+      "salary": "30900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HATCHETT,DAVITA H",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26056.62",
+      "travel": "808.15"
+    },
+    {
+      "person_name": "HAUCK,ALLEN L",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "0.00",
+      "travel": "66.85"
+    },
+    {
+      "person_name": "HAWKINS,BRETT A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "14820.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAYNES,BENJAMIN J",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "47054.58",
+      "travel": "283.55"
+    },
+    {
+      "person_name": "HEATH,JOYCE D",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "35321.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEATLEY,RITA F",
+      "job_title": "SECRETARY (AL)",
+      "salary": "18349.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEHIR,MELISSA F",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49031.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEINEN,JOHN JOSEPH",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "84433.82",
+      "travel": "9061.84"
+    },
+    {
+      "person_name": "HENDERSON,VINCYNTHIA S",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "40168.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENRY,PHYLLIS N",
+      "job_title": "CLERK (WL)",
+      "salary": "25152.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERNDON,DARLENE E",
+      "job_title": "NURSE INVESTIGATOR 2",
+      "salary": "0.00",
+      "travel": "453.94"
+    },
+    {
+      "person_name": "HERRIN,GEORGE L",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "117882.60",
+      "travel": "2547.87"
+    },
+    {
+      "person_name": "HEUETT,GIBSON N",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "56498.63",
+      "travel": "99.55"
+    },
+    {
+      "person_name": "HIGHT,DIANNE J",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "66187.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGHTOWER,BRENDA D",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "1640.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,APRIL J",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "47882.54",
+      "travel": "75.66"
+    },
+    {
+      "person_name": "HILL,BRENDA",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "25758.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,CHARRI S",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "30157.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,COLLETT E",
+      "job_title": "PROC,SUPPLY,WARHSE TECH(WL)",
+      "salary": "24238.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,KATHY J",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "72862.74",
+      "travel": "1526.39"
+    },
+    {
+      "person_name": "HILLSMAN,TRENT M",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45959.92",
+      "travel": "538.94"
+    },
+    {
+      "person_name": "HINKLE,ASHLEY",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "51153.98",
+      "travel": "467.47"
+    },
+    {
+      "person_name": "HIPPS,SEAN A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "25195.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOBBS,JUDITH A",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "27062.94",
+      "travel": "718.10"
+    },
+    {
+      "person_name": "HOFER,CHESTER ROBERT",
+      "job_title": "CORRECTION OPERATIONS",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "HOFFMEYER,BRENDA G",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "0.00",
+      "travel": "87.00"
+    },
+    {
+      "person_name": "HOLDER,MARY A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40941.76",
+      "travel": "305.55"
+    },
+    {
+      "person_name": "HOLLOWAY,BRIANA",
+      "job_title": "MEDICAL EXAM INVESTGTR (EL)",
+      "salary": "33696.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLT,BETTY HALL",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "66393.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLT,LISA A",
+      "job_title": "LABORATORY",
+      "salary": "70281.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOOKS,SANDRA L",
+      "job_title": "INTELLIGENCANALYSISSPEC(WL)",
+      "salary": "37502.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HORNE,CARL W",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46930.25",
+      "travel": "230.92"
+    },
+    {
+      "person_name": "HORNE,WESLEY S",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50461.89",
+      "travel": "75.00"
+    },
+    {
+      "person_name": "HORTON,BETH",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "53025.49",
+      "travel": "635.13"
+    },
+    {
+      "person_name": "HORTON,TAMARA C",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "26455.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOSEY,CHRISTOPHER E",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "70172.28",
+      "travel": "1464.65"
+    },
+    {
+      "person_name": "HOUSE,JOHN D",
+      "job_title": "PUBLIC SAFETY TRAINING",
+      "salary": "64970.94",
+      "travel": "427.52"
+    },
+    {
+      "person_name": "HOWARD,EUGENE",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "47451.84",
+      "travel": "760.55"
+    },
+    {
+      "person_name": "HOWARD,KENNETH E",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50724.16",
+      "travel": "1283.38"
+    },
+    {
+      "person_name": "HOWARD,MATTHEW L",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38785.09",
+      "travel": "818.18"
+    },
+    {
+      "person_name": "HOWARD,TERRY V",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48090.98",
+      "travel": "641.35"
+    },
+    {
+      "person_name": "HOWELL,AMMERALLUS",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "28288.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGER,KATHRYN A",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "72985.02",
+      "travel": "95.00"
+    },
+    {
+      "person_name": "HUGHES,GARY WAYNE",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "62621.84",
+      "travel": "467.92"
+    },
+    {
+      "person_name": "HUNT,TERRY W",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "53014.26",
+      "travel": "153.55"
+    },
+    {
+      "person_name": "HUNTING,SUZANNE N",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "46605.50",
+      "travel": "2058.06"
+    },
+    {
+      "person_name": "HURTADO,HUMBERTO XAVIER",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "92.55"
+    },
+    {
+      "person_name": "HUTCHINS,CECIL M",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51183.96",
+      "travel": "1957.17"
+    },
+    {
+      "person_name": "HUTTO,DAISY ALLISON R",
+      "job_title": "MEDICAL EXAM INVESTGTR (WL)",
+      "salary": "29344.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INGALLS,CAYCE E",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49968.13",
+      "travel": "245.00"
+    },
+    {
+      "person_name": "IVEY,CALVIN TIMOTHY",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "992.05"
+    },
+    {
+      "person_name": "IVEY,KEVIN R",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "IVY,ANITA F",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45388.80",
+      "travel": "1017.75"
+    },
+    {
+      "person_name": "JACKSON,CHARLES DANIEL",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "63644.58",
+      "travel": "1284.47"
+    },
+    {
+      "person_name": "JACKSON,MARIANO D",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "31272.71",
+      "travel": "78.00"
+    },
+    {
+      "person_name": "JACKSON,MARK B",
+      "job_title": "LEGAL SERVICES DIRECTOR",
+      "salary": "101010.02",
+      "travel": "1056.46"
+    },
+    {
+      "person_name": "JACKSON,MITCHELL P",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "51327.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,SHALONDA T",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "27098.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACOBY,ASHLEY E",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "6819.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,CELENA VLUNDA",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "JAMES,JACQUELINE D",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "29063.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JANSON,ERIN B",
+      "job_title": "GRAPHICS & VIS ART SPEC(AL)",
+      "salary": "26056.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARRARD,HALI B",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "7092.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARVIS,FRANCIS T",
+      "job_title": "LABORATORY",
+      "salary": "80661.51",
+      "travel": "329.73"
+    },
+    {
+      "person_name": "JENKINS,JEFFREY A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39076.00",
+      "travel": "221.00"
+    },
+    {
+      "person_name": "JENKINS,JOURLINE LOUISE",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "41770.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,NICOLE",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "69171.66",
+      "travel": "1674.38"
+    },
+    {
+      "person_name": "JENKINS,TONYA M",
+      "job_title": "GRANTS SPECIALIST (WL)",
+      "salary": "42756.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JERGOVICH,TAMMY ARDELL",
+      "job_title": "LABORATORY",
+      "salary": "76929.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,ABBY G",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "22000.68",
+      "travel": "254.90"
+    },
+    {
+      "person_name": "JOHNSON,CAROL ANN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "58022.43",
+      "travel": "4607.51"
+    },
+    {
+      "person_name": "JOHNSON,DIANNE MICHELLE",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "47906.16",
+      "travel": "1361.14"
+    },
+    {
+      "person_name": "JOHNSON,JENNIFER L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "26114.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,LORRAINE S",
+      "job_title": "CLAIMS/BENEFITS TECH (WL)",
+      "salary": "30252.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,NATHANIEL",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "107.55"
+    },
+    {
+      "person_name": "JOHNSON,ROCHELLE R",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46916.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSTON,BRIAN E",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "55127.91",
+      "travel": "2095.84"
+    },
+    {
+      "person_name": "JONES,ALLEN JERRY",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39488.97",
+      "travel": "112.00"
+    },
+    {
+      "person_name": "JONES,BETTY E",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "67793.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,BEVERLY R",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "24354.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,JAMES CAMERON",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "55251.79",
+      "travel": "751.00"
+    },
+    {
+      "person_name": "JONES,MACHELLE MARIE",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "53057.94",
+      "travel": "42.40"
+    },
+    {
+      "person_name": "JONES,MARKO A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39039.96",
+      "travel": "342.45"
+    },
+    {
+      "person_name": "JONES,MELVIN L",
+      "job_title": "BUSINESS OPERATION SPEC(WL)",
+      "salary": "59041.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,SABRINA WRIGHT",
+      "job_title": "MEDICAL EXAM INVESTGTR (AL)",
+      "salary": "33373.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,SHANTERRI M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "35771.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,CARLETHA C",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "54207.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,CATHERINE A",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46189.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN-DAVIS,LINDA D",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "30177.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JURY,DEANNA KATHRYN",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38137.51",
+      "travel": "290.55"
+    },
+    {
+      "person_name": "KAISER,KIRK A",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "64248.25",
+      "travel": "932.25"
+    },
+    {
+      "person_name": "KARNES,JAMES J",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50754.39",
+      "travel": "1687.00"
+    },
+    {
+      "person_name": "KARPF,JOHN J",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "42158.32",
+      "travel": "37.74"
+    },
+    {
+      "person_name": "KEENAN,VERNON M",
+      "job_title": "DIRECTOR",
+      "salary": "144313.92",
+      "travel": "1949.40"
+    },
+    {
+      "person_name": "KELLEY,BAYNARD K",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "78667.01",
+      "travel": "805.29"
+    },
+    {
+      "person_name": "KELLEY,URSULA",
+      "job_title": "SECRETARY (AL)",
+      "salary": "33482.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLY,LAWRENCE F",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39875.60",
+      "travel": "131.00"
+    },
+    {
+      "person_name": "KICKLIGHTER,CHARLES ANTHONY",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50938.14",
+      "travel": "385.00"
+    },
+    {
+      "person_name": "KILCREASE,DENEEN E",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "55926.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KILCREASE,MATTHEW K",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45749.82",
+      "travel": "103.00"
+    },
+    {
+      "person_name": "KILPATRICK,TERENCE WAYNE",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "KIMBERLY,JAMES R",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "56158.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,MARY A",
+      "job_title": "BUSINESS OPERATION SPEC(WL)",
+      "salary": "36788.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,WILLIAM ELLIOTT",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "0.00",
+      "travel": "1434.65"
+    },
+    {
+      "person_name": "KINNEY,KRISTEN N",
+      "job_title": "AUDITOR/EXAMINER (EL)",
+      "salary": "28860.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIRK,JOHN DANIEL",
+      "job_title": "ASSISTANT DIRECTOR",
+      "salary": "123827.29",
+      "travel": "2795.25"
+    },
+    {
+      "person_name": "KISLER,ANNE E",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "47643.88",
+      "travel": "82.85"
+    },
+    {
+      "person_name": "KNIGHT,GWENDOLYN RENE",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "47049.12",
+      "travel": "31.77"
+    },
+    {
+      "person_name": "KOPP,TANJA BRIGITTE",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49850.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KOUT,TERESA T",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "25610.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KRAUTH,ERICHA N",
+      "job_title": "MEDICAL EXAM INVESTGTR (WL)",
+      "salary": "33949.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KRIEL,THEODORUS LOUIS",
+      "job_title": "LABORATORY",
+      "salary": "80646.24",
+      "travel": "1357.19"
+    },
+    {
+      "person_name": "KUDELA,RHONDA H",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "25951.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KURLOWICH,DANIEL W",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "48000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANDERS,LARRY SCOTT",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "53970.52",
+      "travel": "4006.96"
+    },
+    {
+      "person_name": "LANE,LAURIE P",
+      "job_title": "INTELLIGENCANALYSISSPEC(WL)",
+      "salary": "36848.04",
+      "travel": "149.50"
+    },
+    {
+      "person_name": "LANG,GAIL R",
+      "job_title": "FORENSICS TECH (SP)",
+      "salary": "48496.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANGFORD,LYNN",
+      "job_title": "LABORATORY",
+      "salary": "65126.63",
+      "travel": "86.23"
+    },
+    {
+      "person_name": "LANGSHAW,DEBORAH E",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "36001.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LARISCY,JILL WILLIAMS",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49850.04",
+      "travel": "82.50"
+    },
+    {
+      "person_name": "LAVENDER,MARK W",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46095.35",
+      "travel": "305.55"
+    },
+    {
+      "person_name": "LAWSON,MARLA I",
+      "job_title": "GRAPHICS & VIS ART SPEC(AL)",
+      "salary": "48055.49",
+      "travel": "1693.49"
+    },
+    {
+      "person_name": "LEACH,DIANNE N",
+      "job_title": "FORENSICS TECH (SP)",
+      "salary": "43585.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LECROY,JESSICA E",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "55343.82",
+      "travel": "75.34"
+    },
+    {
+      "person_name": "LEDFORD,ANDREW CAREY",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49942.17",
+      "travel": "2752.78"
+    },
+    {
+      "person_name": "LEDFORD,CYNTHIA H",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "53007.30",
+      "travel": "246.00"
+    },
+    {
+      "person_name": "LEE,DWAYNE W",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "65724.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,KATHRYN P",
+      "job_title": "LABORATORY",
+      "salary": "80804.30",
+      "travel": "71.94"
+    },
+    {
+      "person_name": "LEHMAN,KEITH L",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "159126.24",
+      "travel": "323.81"
+    },
+    {
+      "person_name": "LEPPARD,BRIAN C",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "44903.82",
+      "travel": "462.58"
+    },
+    {
+      "person_name": "LESTER,RENIA WOOTEN",
+      "job_title": "STATE PATROL (AL)",
+      "salary": "0.00",
+      "travel": "181.00"
+    },
+    {
+      "person_name": "LEWALLEN,CYNTHIA M",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "10715.72",
+      "travel": "30.00"
+    },
+    {
+      "person_name": "LEWALLEN,FRANK W",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50536.88",
+      "travel": "113.56"
+    },
+    {
+      "person_name": "LEWELLEN,LARRY J",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "71615.16",
+      "travel": "151.32"
+    },
+    {
+      "person_name": "LEWIS,BRENDA GEAN",
+      "job_title": "BUSINESS OPERATION SPEC(WL)",
+      "salary": "46024.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,EVERLENE",
+      "job_title": "RECEPTIONIST (EL)",
+      "salary": "26173.98",
+      "travel": "1187.99"
+    },
+    {
+      "person_name": "LEWIS,MICHAEL O",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "78697.98",
+      "travel": "557.00"
+    },
+    {
+      "person_name": "LIGHTNER,ASHLEY LEAH",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "4170.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINEN,SHENIKA C",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50046.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LING,MONICA SHIPP",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40336.64",
+      "travel": "236.00"
+    },
+    {
+      "person_name": "LINTON,GREGORY B",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49389.43",
+      "travel": "402.00"
+    },
+    {
+      "person_name": "LOCHMANDY,GAIL M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28320.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKRIDGE,STEPHANIE L",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "44512.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOKAR,AMANDA L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50673.84",
+      "travel": "114.21"
+    },
+    {
+      "person_name": "LONG,PATRICK L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "71232.68",
+      "travel": "114.72"
+    },
+    {
+      "person_name": "LONG,RUBY B",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "0.00",
+      "travel": "1028.35"
+    },
+    {
+      "person_name": "LOTT,CHAD A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38982.17",
+      "travel": "310.00"
+    },
+    {
+      "person_name": "LOVELESS,BEONCIA M",
+      "job_title": "MEDICAL EXAM INVESTGTR (AL)",
+      "salary": "50972.16",
+      "travel": "1182.62"
+    },
+    {
+      "person_name": "LOVING,DEBORAH A",
+      "job_title": "MEDICAL EXAM INVESTGTR (EL)",
+      "salary": "2701.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWERY,LARRY TODD",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "61249.68",
+      "travel": "1245.00"
+    },
+    {
+      "person_name": "LUKE,JAMES R",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "56449.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUKE,MELISSA M",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "11614.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUKE,ROY S",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "42191.84",
+      "travel": "643.30"
+    },
+    {
+      "person_name": "LYNN,KENDRA R",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45858.34",
+      "travel": "60.00"
+    },
+    {
+      "person_name": "LYONS,AUGREY DWAINE",
+      "job_title": "CLERK (WL)",
+      "salary": "31554.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MACENCZAK,JOSHUA A",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46291.43",
+      "travel": "113.00"
+    },
+    {
+      "person_name": "MADDOX,DAVID WAYNE",
+      "job_title": "CORRECTIONS OFFICER (SP)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "MADDOX,JESSE C",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "53957.80",
+      "travel": "684.00"
+    },
+    {
+      "person_name": "MAGLIO,ASHLEY E",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "26056.62",
+      "travel": "568.18"
+    },
+    {
+      "person_name": "MAGLIO,WILLIAM R",
+      "job_title": "ELECTRONIC SPEC (WL)",
+      "salary": "8119.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAHONE,MONICA",
+      "job_title": "BUDGET/PORTFOLIO",
+      "salary": "75630.48",
+      "travel": "35.34"
+    },
+    {
+      "person_name": "MAKAREVICH,JOSHUA THAD",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "2550.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANSFIELD,MARCHANT OTTO",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "60090.11",
+      "travel": "2246.00"
+    },
+    {
+      "person_name": "MANSFIELD,RUSSELL WILLIAM",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "70494.84",
+      "travel": "518.00"
+    },
+    {
+      "person_name": "MANSUR,ANGELA L",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "28151.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARCHANT,LINDSAY H",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39094.78",
+      "travel": "678.55"
+    },
+    {
+      "person_name": "MARCHANT,ROBERT M",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38278.29",
+      "travel": "375.00"
+    },
+    {
+      "person_name": "MARCHANT,WALTER JOSEPH",
+      "job_title": "PUBLIC SAFETY TRN (SP)",
+      "salary": "0.00",
+      "travel": "300.00"
+    },
+    {
+      "person_name": "MARLAR,JAMES MICHAEL",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45257.52",
+      "travel": "392.00"
+    },
+    {
+      "person_name": "MARTIN,BRADLEY",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "34748.58",
+      "travel": "1644.72"
+    },
+    {
+      "person_name": "MARTIN,DENISE M",
+      "job_title": "TELECOMMUNICATIONS SP (WL)",
+      "salary": "25829.22",
+      "travel": "298.30"
+    },
+    {
+      "person_name": "MARTIN,JACQUELINE M",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "169176.18",
+      "travel": "3801.81"
+    },
+    {
+      "person_name": "MARTIN,KRISTINA",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "8000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATCHETT,CHRISTIAN C",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "56443.13",
+      "travel": "1183.68"
+    },
+    {
+      "person_name": "MATHERSON,SHARON S",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "25195.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATHIS,SHIRLEY M",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "37696.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAUPIN,OLIVIA FRANKLIN",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "89034.66",
+      "travel": "227.90"
+    },
+    {
+      "person_name": "MAYCOCK,MARK R",
+      "job_title": "LABORATORY",
+      "salary": "91305.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAYS,FRED",
+      "job_title": "ADMINISTRATOR",
+      "salary": "91813.26",
+      "travel": "1652.16"
+    },
+    {
+      "person_name": "MCCARRIAGHER,MICHAEL P",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "41320.64",
+      "travel": "670.54"
+    },
+    {
+      "person_name": "MCCLAIN,NICHOLAS",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "53.45"
+    },
+    {
+      "person_name": "MCCRAY,BRENDA L",
+      "job_title": "CLERK (WL)",
+      "salary": "23286.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCUTCHEN,JOSEPH A",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45446.21",
+      "travel": "1954.46"
+    },
+    {
+      "person_name": "MCDANIEL,MICHAEL BENARR",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "67044.06",
+      "travel": "621.40"
+    },
+    {
+      "person_name": "MCGRUDER-CARR,VENUS",
+      "job_title": "BEH HEALTH/COUNSELOR (WL)",
+      "salary": "0.00",
+      "travel": "102.70"
+    },
+    {
+      "person_name": "MCINTYRE,DONNA B",
+      "job_title": "CRIMINAL JUST COMP SPEC(AL)",
+      "salary": "45271.02",
+      "travel": "4678.31"
+    },
+    {
+      "person_name": "MCKENZIE,BRIAN M",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "10944.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKEOWN,CHRISTOPHER P",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39094.71",
+      "travel": "686.33"
+    },
+    {
+      "person_name": "MCKOWN,MIRIAM M",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "7729.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCLAMB,JENNIFER M",
+      "job_title": "LABORATORY",
+      "salary": "50732.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCLEAN,JUNIOUS",
+      "job_title": "PROC,SUPPLY,WARHSE TECH(AL)",
+      "salary": "32637.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMAHAN,RANDALL K",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48895.55",
+      "travel": "236.00"
+    },
+    {
+      "person_name": "MCMANUS,DEAN G",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "64278.22",
+      "travel": "293.06"
+    },
+    {
+      "person_name": "MCNAIR,ROBERT S",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "0.00",
+      "travel": "838.00"
+    },
+    {
+      "person_name": "MCPETERS,DONNA D",
+      "job_title": "CRIMINAL JUST COMP SPEC(AL)",
+      "salary": "44456.27",
+      "travel": "2959.65"
+    },
+    {
+      "person_name": "MCQUEEN,DORTHENIA",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "51536.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCVICKER,BRIAN C",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "548.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEDLIN,TONIA L",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "36233.39",
+      "travel": "1459.28"
+    },
+    {
+      "person_name": "MEFFERD,THOMAS H",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "67947.90",
+      "travel": "97.00"
+    },
+    {
+      "person_name": "MEHAN,JESSICA M",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "47132.44",
+      "travel": "74.35"
+    },
+    {
+      "person_name": "MEREDITH,MELISSA P",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "22772.40",
+      "travel": "838.80"
+    },
+    {
+      "person_name": "MEREDITH,TERRI A",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "30013.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MESSICK,ELIZABETH W",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "50149.73",
+      "travel": "1863.64"
+    },
+    {
+      "person_name": "METCALF,MATTIE M",
+      "job_title": "INTELLIGENCANALYSISSPEC(SP)",
+      "salary": "58504.13",
+      "travel": "232.00"
+    },
+    {
+      "person_name": "MILES,CLEVELAND L",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "54900.40",
+      "travel": "638.61"
+    },
+    {
+      "person_name": "MILES,NELLY O",
+      "job_title": "LABORATORY",
+      "salary": "61970.27",
+      "travel": "1444.16"
+    },
+    {
+      "person_name": "MILKA,KIMBERLY C",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "46436.87",
+      "travel": "3067.55"
+    },
+    {
+      "person_name": "MILLER,DENNIS V",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "19371.33",
+      "travel": "2511.36"
+    },
+    {
+      "person_name": "MILLER,KATHLEEN",
+      "job_title": "SECRETARY (AL)",
+      "salary": "23760.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,MARY THOMAS",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "37741.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,MEGAN A",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40163.75",
+      "travel": "714.53"
+    },
+    {
+      "person_name": "MILLER,RONDA S",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "29811.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,BRANDON",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "60690.17",
+      "travel": "1124.65"
+    },
+    {
+      "person_name": "MOBBS,THOMAS S",
+      "job_title": "COMMERCIAL TRANSPORT (SP)",
+      "salary": "0.00",
+      "travel": "767.75"
+    },
+    {
+      "person_name": "MOHAMUD,LINDA W",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "45882.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MONTGOMERY,JOSEPH D",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "58537.20",
+      "travel": "536.50"
+    },
+    {
+      "person_name": "MONTGOMERY,MARVIN REID",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "60788.88",
+      "travel": "221.00"
+    },
+    {
+      "person_name": "MOODY,ANNE",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "21068.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,GARRY L",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "88548.38",
+      "travel": "1507.56"
+    },
+    {
+      "person_name": "MOORE,JOHN E",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "0.00",
+      "travel": "2412.50"
+    },
+    {
+      "person_name": "MOORE,JOY R",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "27749.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,MARLA S",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "8733.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,PATTI W",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "34702.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORALES,GERARDO",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "34370.34",
+      "travel": "104.73"
+    },
+    {
+      "person_name": "MORAN,DENISE A",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "34332.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORGAN,CYNTHIA DIANE",
+      "job_title": "SECRETARY (AL)",
+      "salary": "18241.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORGAN,PATRICK E",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "55003.47",
+      "travel": "269.00"
+    },
+    {
+      "person_name": "MORGAN,RHIANNON C",
+      "job_title": "SPEC INV AGENT (EL)",
+      "salary": "38928.78",
+      "travel": "260.00"
+    },
+    {
+      "person_name": "MORGAN,SHAKETHIA L",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "30719.06",
+      "travel": "1624.28"
+    },
+    {
+      "person_name": "MORRISON,ALBERT M",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "57363.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRISON,SHANNON H",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "11120.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSSMAN,ANDREW W",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "44457.20",
+      "travel": "488.95"
+    },
+    {
+      "person_name": "MOTTE,BARBARA S",
+      "job_title": "HELP DESK SPEC (SP)",
+      "salary": "52206.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MUNDO,JOSE A",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "37387.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MUNDRICK,KIMBERLY M",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "35569.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,AUDEY WAYNE",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49161.27",
+      "travel": "221.00"
+    },
+    {
+      "person_name": "MURPHY,JENNIFER L",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "33380.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,PHILIP MICHAEL",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "52373.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,VANDA A",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "43196.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURRAY,CARLOS D",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46210.38",
+      "travel": "550.00"
+    },
+    {
+      "person_name": "MURRAY,TISH A",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "41044.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MUTUKU,ASSUMPTA M",
+      "job_title": "SUPPLY/INV/WAREHSE WKR (WL)",
+      "salary": "21130.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NAJARIAN,ANAHIT ASHIKYAN",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "48972.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWCOMER,BRADLEY P",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "34491.35",
+      "travel": "1481.78"
+    },
+    {
+      "person_name": "NICHOLSON,GARY L",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "80097.66",
+      "travel": "74.00"
+    },
+    {
+      "person_name": "NICKUM,REBECCA",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "986.15"
+    },
+    {
+      "person_name": "NIEDERKORN,WANDA G",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "13375.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NIX,LORI CAIL",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "56835.65",
+      "travel": "1089.28"
+    },
+    {
+      "person_name": "NOBLE,SOLOMON ISREAL",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "67188.98",
+      "travel": "4031.61"
+    },
+    {
+      "person_name": "NOLES,ELIZA R",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26056.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORMAN,CLARA D",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "69650.33",
+      "travel": "389.90"
+    },
+    {
+      "person_name": "NORMAN,DAVID F",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40202.22",
+      "travel": "3558.55"
+    },
+    {
+      "person_name": "NORRIS,ERIN E",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "36776.57",
+      "travel": "37.83"
+    },
+    {
+      "person_name": "NORRIS-LANG,SHERRY LEIGH",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "83580.36",
+      "travel": "1695.20"
+    },
+    {
+      "person_name": "NORWOOD,ELIZABETH A",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "27699.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NULL,BRENDA L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "27098.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NUNEZ,BARBARA",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "33701.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OEHRLEIN,VICTORIA A",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46189.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OHARA,KAITLIN M",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "14820.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLIVER,MARLENE A",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "8483.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLIVER,MEREDITH B",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "29433.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLIVER,MICHAEL ANTHONY",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "46576.08",
+      "travel": "466.55"
+    },
+    {
+      "person_name": "OLOUGHLIN,GLENN P",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "61803.02",
+      "travel": "151.32"
+    },
+    {
+      "person_name": "ONEAL,BRYAN K",
+      "job_title": "DATABASE ADMINISTRATOR(AL)",
+      "salary": "48869.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ONEAL,MARSHA K",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "58697.22",
+      "travel": "1707.27"
+    },
+    {
+      "person_name": "ORDONEZ,REBA",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "33963.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ORLANDINO,JACQUELYN",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "48007.54",
+      "travel": "2019.63"
+    },
+    {
+      "person_name": "OSULLIVAN,JAMES D",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39226.14",
+      "travel": "3020.00"
+    },
+    {
+      "person_name": "OTWELL,RICHARD K",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "53134.32",
+      "travel": "245.00"
+    },
+    {
+      "person_name": "OWENS,DAVINA M",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "48911.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAGET,JON G",
+      "job_title": "FACILITY AND OPS SUPPORT CHIEF",
+      "salary": "87100.58",
+      "travel": "504.00"
+    },
+    {
+      "person_name": "PANNELL,ROBERT F",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "10781.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARK,RACHEL M",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46552.83",
+      "travel": "37.83"
+    },
+    {
+      "person_name": "PARKER,JAMES DOUGLAS",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "57218.94",
+      "travel": "574.65"
+    },
+    {
+      "person_name": "PARKS,BRADLEY H",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "60055.46",
+      "travel": "1689.57"
+    },
+    {
+      "person_name": "PARRIS,CARA D",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "28496.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATEL,KAAJAL D",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "28936.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAULISICK,JOHN F",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "27580.14",
+      "travel": "1613.48"
+    },
+    {
+      "person_name": "PAYTON,CHERYL D",
+      "job_title": "QUALITY ASSURANCE SPEC (SP)",
+      "salary": "41157.55",
+      "travel": "2212.71"
+    },
+    {
+      "person_name": "PAZ,MERLYN E",
+      "job_title": "SECRETARY (WL)",
+      "salary": "21730.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEACOCK,JONATHAN W",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39376.26",
+      "travel": "876.40"
+    },
+    {
+      "person_name": "PECK,MICHELLE R",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "19266.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEEBLES,MATTHEW D",
+      "job_title": "BEH HEALTH/COUNSELOR (WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "PELFREY,TERRY W",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "63906.93",
+      "travel": "1640.01"
+    },
+    {
+      "person_name": "PEPPERS,SARAH K",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "20748.84",
+      "travel": "943.80"
+    },
+    {
+      "person_name": "PERKINS,CONSUELA L",
+      "job_title": "QUALITY ASSURANCE SPEC (EL)",
+      "salary": "34583.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERRY,MOLLY J",
+      "job_title": "DIRECTOR",
+      "salary": "119651.04",
+      "travel": "7918.82"
+    },
+    {
+      "person_name": "PETERS,KATHY D",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28584.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETTIS,BRENDA S",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "11508.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETTYJOHN,SANDRA ELAINE",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "26722.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PFAFF,ALLISON M",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "3253.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHELPS,KEITH",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "926.90"
+    },
+    {
+      "person_name": "PHILLIPS,JOSEPH R",
+      "job_title": "MEDICAL EXAM INVESTGTR (WL)",
+      "salary": "34560.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PICKELSIMER,JOHN VIRGIL",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "55008.42",
+      "travel": "7211.38"
+    },
+    {
+      "person_name": "PICKENS,CONNIE C",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "76258.29",
+      "travel": "2262.40"
+    },
+    {
+      "person_name": "PIETRUCHA,TRACY L",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "19266.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITTS,DEBORAH D",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "22183.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PORTER,GREGORY L",
+      "job_title": "CORRECTION OPERATIONS",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "POSEY,DOUGLAS H",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "159035.28",
+      "travel": "2326.13"
+    },
+    {
+      "person_name": "POSEY,MITCHELL MONROE",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "55205.66",
+      "travel": "3381.26"
+    },
+    {
+      "person_name": "POTKANOWICZ-MESROUR,ANIE M",
+      "job_title": "CRIMINAL JUST COMP SPEC(AL)",
+      "salary": "39703.74",
+      "travel": "4092.90"
+    },
+    {
+      "person_name": "POWELL,AMANDA LEANNE",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "26056.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,PAULETTE RENEE",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "48182.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRATER,PHILLIP ANTHONY",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "34245.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRESTON,BONITA R",
+      "job_title": "CRIMNAL JUSTCE TRN SPEC(WL)",
+      "salary": "37502.10",
+      "travel": "4088.75"
+    },
+    {
+      "person_name": "PRICE,JESSICA S",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "43965.52",
+      "travel": "182.90"
+    },
+    {
+      "person_name": "PRO,MARK ANTHONY",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "59239.27",
+      "travel": "1555.12"
+    },
+    {
+      "person_name": "PURDIMAN,CYRUS C",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "49414.74",
+      "travel": "774.50"
+    },
+    {
+      "person_name": "PUTNAM,SANDRA JEAN",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "57492.18",
+      "travel": "5259.06"
+    },
+    {
+      "person_name": "PYLE,DONELLE L",
+      "job_title": "MEDICAL EXAM INVESTGTR (AL)",
+      "salary": "38655.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RABBITT,CAMERON V",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "56683.88",
+      "travel": "449.40"
+    },
+    {
+      "person_name": "RAHEEM,LATEEFAH",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "56683.48",
+      "travel": "523.60"
+    },
+    {
+      "person_name": "RALEY,WENDI WOODALL",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "45278.28",
+      "travel": "36.00"
+    },
+    {
+      "person_name": "RAMEY,GREGORY ALLEN",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "60851.94",
+      "travel": "1545.00"
+    },
+    {
+      "person_name": "RAMSEY,LAKINIA T",
+      "job_title": "CLAIMS/BENEFITS TECH (AL)",
+      "salary": "37537.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RANDLE,TREBOR A",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "55452.63",
+      "travel": "1937.65"
+    },
+    {
+      "person_name": "RANSOM,TARA A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "14820.60",
+      "travel": "184.00"
+    },
+    {
+      "person_name": "REED,TIFFANY A",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "44354.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REESE,JOHN D",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40250.20",
+      "travel": "1261.90"
+    },
+    {
+      "person_name": "REESE,JOSEPH",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "326.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REEVES,LORI H",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "34914.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REILLEY,COLLEEN M",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "60195.37",
+      "travel": "31.77"
+    },
+    {
+      "person_name": "REINKING,MARK L",
+      "job_title": "INTELLIGENCANALYSISSPEC(WL)",
+      "salary": "31153.95",
+      "travel": "1276.75"
+    },
+    {
+      "person_name": "RETZER,BARBARA DOZIER",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "58975.42",
+      "travel": "278.55"
+    },
+    {
+      "person_name": "REYNOLDS,BETTY G",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "52902.96",
+      "travel": "572.95"
+    },
+    {
+      "person_name": "REYNOLDS,LATORIA V",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "41037.52",
+      "travel": "965.60"
+    },
+    {
+      "person_name": "REYNOLDS,RANDOLPH CARNELL",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "66826.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REYNOLDS-COBB,SHAWANDA",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "79902.00",
+      "travel": "1799.27"
+    },
+    {
+      "person_name": "REYNOLDS-FOREHAND,STACY M",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49850.04",
+      "travel": "135.70"
+    },
+    {
+      "person_name": "RHODES,JANET N",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46865.70",
+      "travel": "1600.80"
+    },
+    {
+      "person_name": "RICH,JOHN BAHAN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "58382.49",
+      "travel": "650.65"
+    },
+    {
+      "person_name": "RICHARDSON,ALLYSON",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "51628.32",
+      "travel": "273.46"
+    },
+    {
+      "person_name": "RICHARDSON,EVELYN E",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "42674.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICHARDSON,MARIO",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "38137.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICKETSON,JOSEPH TYLER",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "75337.67",
+      "travel": "3073.04"
+    },
+    {
+      "person_name": "RISTAU,DAPHNE L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "23714.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIVERS,CHARLOTTE E",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "15775.43",
+      "travel": "2288.23"
+    },
+    {
+      "person_name": "RIVERS,ZUBEDAH F",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "30119.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROACH,JASON C",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "17649.99",
+      "travel": "2273.38"
+    },
+    {
+      "person_name": "ROBERTS,CHARLES B",
+      "job_title": "BEH HEALTH/COUNSELOR (WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "ROBERTSON,DENISE B",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "33936.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTSON,KERRY L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "4736.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,ANDRE ANTONIO",
+      "job_title": "BEH HEALTH/COUNSELOR (WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "RODGERS,EVELYN J",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46311.59",
+      "travel": "260.00"
+    },
+    {
+      "person_name": "RODGERS,LISA R",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "36420.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROESLER,JEFFREY",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50832.60",
+      "travel": "605.86"
+    },
+    {
+      "person_name": "ROESLER,MARGARET A",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12424.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROGERS,VICKIE L",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "37616.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROLLINS,DEBORAH E",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40682.42",
+      "travel": "260.00"
+    },
+    {
+      "person_name": "ROMANOSKI,JESSICA A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "13338.54",
+      "travel": "154.00"
+    },
+    {
+      "person_name": "RONE,JAMES DAVID",
+      "job_title": "FACILITIES",
+      "salary": "54485.11",
+      "travel": "280.00"
+    },
+    {
+      "person_name": "ROPER,SARA HODGSON",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "51989.43",
+      "travel": "1287.90"
+    },
+    {
+      "person_name": "ROSENBLOOM,ROBERT HOWARD",
+      "job_title": "DEPUTY COMMISSIONER",
+      "salary": "0.00",
+      "travel": "427.60"
+    },
+    {
+      "person_name": "ROSS,ANTONIA J",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "21866.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSSER,LESLIE T",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "26595.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROTHWELL,GARY R",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "76589.77",
+      "travel": "357.00"
+    },
+    {
+      "person_name": "ROTTER,CRAIG MICHAEL",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "58106.07",
+      "travel": "4344.64"
+    },
+    {
+      "person_name": "ROULAIN,JAN",
+      "job_title": "INVESTIGATIONS",
+      "salary": "0.00",
+      "travel": "1421.38"
+    },
+    {
+      "person_name": "ROUSE,MATTHEW E",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "29265.38",
+      "travel": "1459.28"
+    },
+    {
+      "person_name": "ROWELL,EDWARD DREMOT",
+      "job_title": "CLAIMS/BENEFITS TECH (AL)",
+      "salary": "38281.92",
+      "travel": "1459.55"
+    },
+    {
+      "person_name": "ROWLAND,ALBERT W",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "50800.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROWLEN,AMANDA L",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "47713.31",
+      "travel": "923.60"
+    },
+    {
+      "person_name": "RUDOLPH,ADAM G",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46734.66",
+      "travel": "269.93"
+    },
+    {
+      "person_name": "RUNNELS,CHANTEL G",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "39673.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSHTON,PAMELA CANTRELL",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48895.56",
+      "travel": "447.00"
+    },
+    {
+      "person_name": "RUSK,GRAHAM E",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "42304.47",
+      "travel": "1400.57"
+    },
+    {
+      "person_name": "SABO,BARI L",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "58709.37",
+      "travel": "1020.83"
+    },
+    {
+      "person_name": "SALE,CHRISTINE ANN",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "30265.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SALES,PAMELA YVETTE",
+      "job_title": "HELP DESK SPEC (AL)",
+      "salary": "45427.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAMMONS,MELISSA K",
+      "job_title": "CRIMINAL JUST COMP SPEC(AL)",
+      "salary": "37502.10",
+      "travel": "1893.19"
+    },
+    {
+      "person_name": "SANDS,TRACY D",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "47374.09",
+      "travel": "562.73"
+    },
+    {
+      "person_name": "SANFORD,GRADY DAVID",
+      "job_title": "STATE PATROL",
+      "salary": "0.00",
+      "travel": "181.00"
+    },
+    {
+      "person_name": "SANTAMARIA,RAYMOND",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "73768.00",
+      "travel": "52.72"
+    },
+    {
+      "person_name": "SANTAMARIA,TERRI RILEY",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "49733.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAPP,CATHERINE JEAN",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "54031.48",
+      "travel": "3907.98"
+    },
+    {
+      "person_name": "SASNETT,RICHARD B",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40615.16",
+      "travel": "254.77"
+    },
+    {
+      "person_name": "SAVOY,LOUISE C",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "24948.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHWALLS,JASON E",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45388.80",
+      "travel": "308.60"
+    },
+    {
+      "person_name": "SCOTT,ALEXANDER W",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "57843.06",
+      "travel": "148.00"
+    },
+    {
+      "person_name": "SCOTT,DEANNA C",
+      "job_title": "CLERK (WL)",
+      "salary": "22027.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,JERRY LEE",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "67775.58",
+      "travel": "150.00"
+    },
+    {
+      "person_name": "SEBESTYEN,JAMES A",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "19700.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEGREST,ANGEL M",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "34201.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEGUIN,CYNTHIA L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "46518.74",
+      "travel": "240.77"
+    },
+    {
+      "person_name": "SELLERS,REBECCA S",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "13819.87",
+      "travel": "1008.00"
+    },
+    {
+      "person_name": "SELLS,ALYN R",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "30452.62",
+      "travel": "908.91"
+    },
+    {
+      "person_name": "SEVIGNY,MELISSA L",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "25984.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHACKELFORD,MICHAEL G",
+      "job_title": "GRANTS SPECIALIST (AL)",
+      "salary": "49905.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHARPE,KENNESHA R",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "37598.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHAW,DEBORAH FAYE",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "52881.60",
+      "travel": "1798.47"
+    },
+    {
+      "person_name": "SHAW,GEORGE H",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "47292.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHAW,REBECCA",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "44929.32",
+      "travel": "305.55"
+    },
+    {
+      "person_name": "SHELTON,LEONARD A",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "69733.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHERROD,JOHN HENRY",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "1018.95"
+    },
+    {
+      "person_name": "SHOUDEL,JASON W",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38588.00",
+      "travel": "744.92"
+    },
+    {
+      "person_name": "SIEMENS,KATHERINE L",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "25195.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMOES,CYNTHIA B",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "4494.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMS,DANIEL D",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "41009.34",
+      "travel": "150.00"
+    },
+    {
+      "person_name": "SIMS,JONATHAN P",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "42311.51",
+      "travel": "1672.39"
+    },
+    {
+      "person_name": "SIMS,MELISSA A",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "159126.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SITTON,KEITH BRIAN",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "65038.44",
+      "travel": "229.00"
+    },
+    {
+      "person_name": "SKELTON,JAMIE D",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38419.06",
+      "travel": "809.60"
+    },
+    {
+      "person_name": "SKINNER,PATRICK STEVEN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "75603.72",
+      "travel": "755.32"
+    },
+    {
+      "person_name": "SLACK,SARAH J",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "23184.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLANEY,BONNIE L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "33773.46",
+      "travel": "727.03"
+    },
+    {
+      "person_name": "SLOAN,AMBER MARIE",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "32221.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMALLEY,KRISTINA M",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38419.06",
+      "travel": "680.20"
+    },
+    {
+      "person_name": "SMITH,ADRIANNE ELIZABETH",
+      "job_title": "CRIMNAL JUSTCE TRN SPEC(WL)",
+      "salary": "37502.10",
+      "travel": "1699.08"
+    },
+    {
+      "person_name": "SMITH,ARNOLD",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "0.00",
+      "travel": "377.53"
+    },
+    {
+      "person_name": "SMITH,CHRIS ALLEN",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "85.55"
+    },
+    {
+      "person_name": "SMITH,DAVID B",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46975.10",
+      "travel": "1340.25"
+    },
+    {
+      "person_name": "SMITH,DONNA LYNN",
+      "job_title": "BUDGET SPEC (WL)",
+      "salary": "55449.84",
+      "travel": "4.00"
+    },
+    {
+      "person_name": "SMITH,GAIL Y",
+      "job_title": "COMMUNICATNS HRDWRE SP (AL)",
+      "salary": "47674.92",
+      "travel": "873.45"
+    },
+    {
+      "person_name": "SMITH,JAMES KIRK",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45944.57",
+      "travel": "1818.70"
+    },
+    {
+      "person_name": "SMITH,JILL S",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50692.06",
+      "travel": "254.00"
+    },
+    {
+      "person_name": "SMITH,KENNETH R",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "50767.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,LINDSAY POOLE",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39067.94",
+      "travel": "117.00"
+    },
+    {
+      "person_name": "SMITH,PAUL F",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "45257.52",
+      "travel": "1238.00"
+    },
+    {
+      "person_name": "SMITH,RODNEY WILLARD",
+      "job_title": "CORRECTIONS OFFICER (SP)",
+      "salary": "0.00",
+      "travel": "998.60"
+    },
+    {
+      "person_name": "SMITH,STEWART W",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "68081.39",
+      "travel": "2565.71"
+    },
+    {
+      "person_name": "SMITH,WILLENE W",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "49648.62",
+      "travel": "551.35"
+    },
+    {
+      "person_name": "SOSEBEE,TERRY A",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "71092.67",
+      "travel": "3108.98"
+    },
+    {
+      "person_name": "SPERRY,KRIS L",
+      "job_title": "MEDICAL EXAMINER, CHIEF STATE",
+      "salary": "179645.14",
+      "travel": "2796.22"
+    },
+    {
+      "person_name": "SPURLOCK,JONATHAN L",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "38860.17",
+      "travel": "443.91"
+    },
+    {
+      "person_name": "STALEY,CARMEN B",
+      "job_title": "INTELLIGENCANALYSISSPEC(SP)",
+      "salary": "48036.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STANLEY,BOBBY THOMAS",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "57955.72",
+      "travel": "481.60"
+    },
+    {
+      "person_name": "STANLEY,GEORGE W",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "89736.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAPLES,TED ROBERT",
+      "job_title": "LABORATORY",
+      "salary": "78695.73",
+      "travel": "340.86"
+    },
+    {
+      "person_name": "STARCKEY,TAMMY T",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "39721.25",
+      "travel": "1716.05"
+    },
+    {
+      "person_name": "STEINBERG,JAMES M",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "58142.08",
+      "travel": "1708.36"
+    },
+    {
+      "person_name": "STEPHENS,FRED E",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "98908.12",
+      "travel": "5201.43"
+    },
+    {
+      "person_name": "STEPHENSON,JON B",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49939.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,MARY ANN",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "67803.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STILGER,BRADLEY B",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "40999.95",
+      "travel": "3441.25"
+    },
+    {
+      "person_name": "STINCHCOMB,RICKEY BARNARD",
+      "job_title": "PAYROLL SPEC (AL)",
+      "salary": "48709.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STINNER,ELAINA G",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "27098.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STOKES,DWAYNE",
+      "job_title": "PROBATION/PAROLEOFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "STOVER,CHRISTIE L",
+      "job_title": "PROGRAMMER (SP)",
+      "salary": "72296.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRAWN,CHRISTOPHER B",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "961.20"
+    },
+    {
+      "person_name": "STRICKLAND,ELIZABETH R",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39939.44",
+      "travel": "854.79"
+    },
+    {
+      "person_name": "STRICKLAND,HEATHER ANN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48855.81",
+      "travel": "191.50"
+    },
+    {
+      "person_name": "STRICKLAND,LIZZETTE C",
+      "job_title": "MEDICAL EXAM INVESTGTR (SP)",
+      "salary": "48889.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STROHMEYER,DAWN M",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "39320.55",
+      "travel": "1458.28"
+    },
+    {
+      "person_name": "STROMAIN,THERESA A",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "40830.42",
+      "travel": "1837.80"
+    },
+    {
+      "person_name": "STUART,MARCUS A",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "70404.80",
+      "travel": "4406.47"
+    },
+    {
+      "person_name": "SULLENGER,CHARLES H",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "59424.86",
+      "travel": "2914.75"
+    },
+    {
+      "person_name": "SULLIVAN,LAWRENCE ROBERT",
+      "job_title": "FORENSICS SPEC (SP)",
+      "salary": "59155.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUTTON,ANGELA",
+      "job_title": "CLAIMS/BENEFITS TECH (AL)",
+      "salary": "51056.16",
+      "travel": "665.17"
+    },
+    {
+      "person_name": "SUTTON,KIMBERLY M",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "20748.84",
+      "travel": "1163.20"
+    },
+    {
+      "person_name": "SUTTON,KIMBERLY W",
+      "job_title": "CLAIMS/BENEFITS TECH (AL)",
+      "salary": "42065.28",
+      "travel": "239.40"
+    },
+    {
+      "person_name": "SWANSON,AARON L",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48802.08",
+      "travel": "297.00"
+    },
+    {
+      "person_name": "SWEATT,STEVEN HAROLD",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "33820.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAAFFE,LINDA C",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "31185.48",
+      "travel": "82.50"
+    },
+    {
+      "person_name": "TAMASI,JOSEPH P",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "10374.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TARVER,KIMBERLY S",
+      "job_title": "CRIMINAL JUST COMP SPEC(AL)",
+      "salary": "38831.22",
+      "travel": "713.58"
+    },
+    {
+      "person_name": "TARVIN,JAMES GORDON",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "63078.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TATE,LAURA ELETA",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "59188.58",
+      "travel": "409.10"
+    },
+    {
+      "person_name": "TATUM,WILLIAM LEE",
+      "job_title": "CRIMNAL JUSTCE TRN SPEC(WL)",
+      "salary": "49612.56",
+      "travel": "2262.34"
+    },
+    {
+      "person_name": "TAYLOR,EMILY A",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "39711.86",
+      "travel": "80.65"
+    },
+    {
+      "person_name": "TEAGUE,BETH ANN",
+      "job_title": "CLINICAL AUDITOR 3",
+      "salary": "0.00",
+      "travel": "1682.41"
+    },
+    {
+      "person_name": "TEMPLEMAN,DARRELL",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "THOMAS,CLINTON I",
+      "job_title": "INTELLIGENCANALYSISSPEC(SP)",
+      "salary": "48935.64",
+      "travel": "2092.85"
+    },
+    {
+      "person_name": "THOMAS,SARA R",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39291.87",
+      "travel": "2096.13"
+    },
+    {
+      "person_name": "THOMASSON,HARMON D",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "69879.42",
+      "travel": "800.22"
+    },
+    {
+      "person_name": "THOMPSON,BARRY F",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46874.01",
+      "travel": "374.90"
+    },
+    {
+      "person_name": "THOMPSON,HENRY R",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "73079.64",
+      "travel": "148.00"
+    },
+    {
+      "person_name": "THORNTON,JOHN ROBERT",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "71596.42",
+      "travel": "1735.13"
+    },
+    {
+      "person_name": "THORNTON,RACHEL P",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "34859.73",
+      "travel": "243.41"
+    },
+    {
+      "person_name": "TILSON,CHRISTOPHER SCOTT",
+      "job_title": "LABORATORY",
+      "salary": "66343.69",
+      "travel": "1076.31"
+    },
+    {
+      "person_name": "TIMMER,JUDITH F",
+      "job_title": "SECRETARY (AL)",
+      "salary": "26136.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOLBERT,CHRISTOPHER H",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "69461.54",
+      "travel": "1480.00"
+    },
+    {
+      "person_name": "TOMPKINS,CARYN D",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "38137.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOULOMELIS,WENDY W",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "33005.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRAWICK,CHARLOTTE JENKINS",
+      "job_title": "PROGRAMMER (SP)",
+      "salary": "78120.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TROEMEL,STEPHANIE R",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "23712.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRUITT,NATHAN ALAN",
+      "job_title": "STATE PATROL (WL)",
+      "salary": "0.00",
+      "travel": "181.00"
+    },
+    {
+      "person_name": "TUCKER,PHYLIS GWYTHA",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "36884.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,CARLA ELIZABETH",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "38982.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,STEVEN BRUCE",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "58022.02",
+      "travel": "203.00"
+    },
+    {
+      "person_name": "TURNER,TAMMY L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26056.62",
+      "travel": "262.00"
+    },
+    {
+      "person_name": "URICH,LISA H",
+      "job_title": "FISCAL OFFICER & TREASURER",
+      "salary": "105250.72",
+      "travel": "104.00"
+    },
+    {
+      "person_name": "USHER,MICHELLE SELINA",
+      "job_title": "CUSTOMER SERVICE  SPEC (EL)",
+      "salary": "39203.28",
+      "travel": "955.42"
+    },
+    {
+      "person_name": "VANDEVENTER,JENNIFER M",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "17649.99",
+      "travel": "3952.49"
+    },
+    {
+      "person_name": "VANETTEN,ROBERT P",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "51967.78",
+      "travel": "541.00"
+    },
+    {
+      "person_name": "VESSELS,BRIAN S",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39066.63",
+      "travel": "3992.56"
+    },
+    {
+      "person_name": "VORRASI,LISA M",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "43289.89",
+      "travel": "251.60"
+    },
+    {
+      "person_name": "VOSS,DAVID J",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "37783.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADE,CURTIS HENRY",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "64845.66",
+      "travel": "1860.60"
+    },
+    {
+      "person_name": "WADE,LATONYA D",
+      "job_title": "PLANNG & POLCY DEV SPEC(WL)",
+      "salary": "37274.69",
+      "travel": "1333.10"
+    },
+    {
+      "person_name": "WADSWORTH,JAMES L",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "40359.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAHL,CYNTHIA G",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46129.20",
+      "travel": "2616.57"
+    },
+    {
+      "person_name": "WALDEN,SHANNON L",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "34179.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,CANDACE N",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "34748.58",
+      "travel": "2368.38"
+    },
+    {
+      "person_name": "WALKER,KEESHA K",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28287.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,WENDI R",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "40164.60",
+      "travel": "251.85"
+    },
+    {
+      "person_name": "WALKER,WINSTON T",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "41831.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALL,RODNEY JOHN",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "63325.74",
+      "travel": "638.33"
+    },
+    {
+      "person_name": "WALSINGHAM,MICHAEL EDWARD",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50707.92",
+      "travel": "302.00"
+    },
+    {
+      "person_name": "WALTERS,ANDREA O",
+      "job_title": "HELP DESK SPEC (WL)",
+      "salary": "30469.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,MICAH R",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "63062.99",
+      "travel": "2000.40"
+    },
+    {
+      "person_name": "WARGO,JESSE M",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "38602.16",
+      "travel": "372.77"
+    },
+    {
+      "person_name": "WASHINGTON,MECHEL JUAN",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "56686.63",
+      "travel": "1066.03"
+    },
+    {
+      "person_name": "WATERS,MICHAEL K",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "61346.35",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "WATFORD-NEWLIN,SALLY L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "67673.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,R  ALAN",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "59530.77",
+      "travel": "658.00"
+    },
+    {
+      "person_name": "WATTS,CHRISTINA P",
+      "job_title": "CRIMNAL JUSTCE TRN SPEC(WL)",
+      "salary": "38692.78",
+      "travel": "6093.91"
+    },
+    {
+      "person_name": "WATTS,SHARON V",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "42294.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAYNICK,JAMES HARLAN",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "WEATHERSBY,FRANKLIN L",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "47009.43",
+      "travel": "328.10"
+    },
+    {
+      "person_name": "WEAVER,DEREK B",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "39845.17",
+      "travel": "1817.67"
+    },
+    {
+      "person_name": "WEAVER-JOHNSON,LISA",
+      "job_title": "BUSINESS OPERATION SPEC(WL)",
+      "salary": "51890.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELLS,APRIL W",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "39865.44",
+      "travel": "196.55"
+    },
+    {
+      "person_name": "WELSH,KELLY K",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "16266.00",
+      "travel": "305.95"
+    },
+    {
+      "person_name": "WEST,JAMES R",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "14045.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,MELISSA D",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "33694.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WESTBROOK,RHONDA DENEENE",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "54606.78",
+      "travel": "1618.05"
+    },
+    {
+      "person_name": "WHEELUS,WANDA H",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "91741.26",
+      "travel": "804.57"
+    },
+    {
+      "person_name": "WHIDBY,BRIAN O",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48228.21",
+      "travel": "609.53"
+    },
+    {
+      "person_name": "WHIPPLE,DOUGLAS CLAIR",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "48132.72",
+      "travel": "186.00"
+    },
+    {
+      "person_name": "WHITAKER,JOHN LAWSON",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "76166.96",
+      "travel": "2371.99"
+    },
+    {
+      "person_name": "WHITE,ELIZABETH CROSBY",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "6992.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,RICHARD",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "992.34"
+    },
+    {
+      "person_name": "WHITLEY,CHARLES SCOTT",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "59519.64",
+      "travel": "262.00"
+    },
+    {
+      "person_name": "WHITMAN,ADAM J",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "15463.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITMAN,KATIE E",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "40464.98",
+      "travel": "580.54"
+    },
+    {
+      "person_name": "WILEY,DALE R",
+      "job_title": "SPEC INV AGENT (WL)",
+      "salary": "40389.93",
+      "travel": "548.00"
+    },
+    {
+      "person_name": "WILKERSON,ASHLEY D",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "19266.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,BENNY W",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "56338.44",
+      "travel": "587.00"
+    },
+    {
+      "person_name": "WILLIAMS,JAMEL R",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "27994.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JOHN E",
+      "job_title": "CORRECTIONS OFFICER(WL)",
+      "salary": "0.00",
+      "travel": "900.00"
+    },
+    {
+      "person_name": "WILLIAMS,KAREN DENISE",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "36938.44",
+      "travel": "1085.25"
+    },
+    {
+      "person_name": "WILLIAMS,KIMBERLY ANNE",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "56305.14",
+      "travel": "1527.00"
+    },
+    {
+      "person_name": "WILLIAMSON,JAMES ANTHONY",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "50130.18",
+      "travel": "267.00"
+    },
+    {
+      "person_name": "WILSON,BEVERLY A",
+      "job_title": "FORENSICS  TECH (AL)",
+      "salary": "31370.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,CYNTHIA D",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "25812.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,KASEY L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "49407.84",
+      "travel": "1044.75"
+    },
+    {
+      "person_name": "WILSON,MARGARET E",
+      "job_title": "SECRETARY (AL)",
+      "salary": "25229.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,ROBIN B",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "14902.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WIMBERLY,FREDRICK J",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "46779.57",
+      "travel": "567.08"
+    },
+    {
+      "person_name": "WINDHAM,CAROLINE A",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "35173.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINDOM,NANCY L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "61789.50",
+      "travel": "1472.77"
+    },
+    {
+      "person_name": "WONGUS,ROLANDA H",
+      "job_title": "PURCH & PROC SPEC  (WL)",
+      "salary": "28532.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOD,CYNTHIA L",
+      "job_title": "FORENSICS SPEC (AL)",
+      "salary": "40219.64",
+      "travel": "39.95"
+    },
+    {
+      "person_name": "WOOD,RACHEL E",
+      "job_title": "FORENSICS SPEC (WL)",
+      "salary": "40703.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODRUFF,CHERYL L",
+      "job_title": "QUALITY ASSURANCE SPEC (WL)",
+      "salary": "11134.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODRUFF,GRADY ARTHEZ",
+      "job_title": "SPEC INV AGENT (AL)",
+      "salary": "53929.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODS,ANITA D",
+      "job_title": "TELECOMMUNICATIONS SP (WL)",
+      "salary": "24538.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOTEN,JOSEPH E",
+      "job_title": "SPECIAL INVESTIGATIONS",
+      "salary": "61073.76",
+      "travel": "721.90"
+    },
+    {
+      "person_name": "WORLEY,LUANNE G",
+      "job_title": "DIRECTOR, HUMAN RESOURCES",
+      "salary": "94753.43",
+      "travel": "602.40"
+    },
+    {
+      "person_name": "WRIGHT,CHARLOTTE ANN",
+      "job_title": "FORENSICS  TECH (WL)",
+      "salary": "34447.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,JULIE B",
+      "job_title": "CRIMINAL JUST COMP SPEC(AL)",
+      "salary": "46990.78",
+      "travel": "3400.56"
+    },
+    {
+      "person_name": "WRIGHT,NATASHA B",
+      "job_title": "FORENSICS  TECH (EL)",
+      "salary": "14187.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,SHONTEL",
+      "job_title": "GRANTS SPECIALIST (AL)",
+      "salary": "50388.00",
+      "travel": "2247.00"
+    },
+    {
+      "person_name": "YOUNG,KIRSTE A",
+      "job_title": "INTELLIGENCANALYSISSPEC(AL)",
+      "salary": "39398.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,REBECCA CHARLENE",
+      "job_title": "FORENSICS SPEC (EL)",
+      "salary": "16266.00",
+      "travel": "0.00"
+    }
+  ]
+}

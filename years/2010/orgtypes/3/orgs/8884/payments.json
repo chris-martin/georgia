@@ -1,0 +1,418 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAMSON,REBECCA C",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "29769.00",
+      "travel": "42.00"
+    },
+    {
+      "person_name": "ALEXANDER,TABITHA",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "44992.50",
+      "travel": "540.76"
+    },
+    {
+      "person_name": "ALVERSON,NINA L",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "36766.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAGLEY,KIMBERLY T",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1595.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAXLEY,DEBORAH M",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "20969.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BERRYHILL,DONALD L",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "8750.00",
+      "travel": "785.80"
+    },
+    {
+      "person_name": "BOATRIGHT,MARSENA",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "1264.25",
+      "travel": "110.00"
+    },
+    {
+      "person_name": "BOWEN,JANE B",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "4440.75",
+      "travel": "36.00"
+    },
+    {
+      "person_name": "BRAMLETTA,CAROL L",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14764.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURRIS,GAIL D",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "32031.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CADE,TAMMY",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "54347.74",
+      "travel": "29.70"
+    },
+    {
+      "person_name": "CARTER,CHARLENE A",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "8522.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,K  R",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "7874.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,JOAN M",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "88232.76",
+      "travel": "3227.99"
+    },
+    {
+      "person_name": "COLEMAN,SHARON M",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "1400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,IRIS R",
+      "job_title": "FINANCE/BUSINESS SERVICE MGR",
+      "salary": "75331.84",
+      "travel": "1867.38"
+    },
+    {
+      "person_name": "CONNOR,STACEY F",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "39314.35",
+      "travel": "44.00"
+    },
+    {
+      "person_name": "CORBITT,MARGARET J",
+      "job_title": "BUSINESS SERV SECRETARY/CLERK",
+      "salary": "30906.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,KERRA O",
+      "job_title": "PSYCHO-ED SOCIAL WORKER",
+      "salary": "67609.21",
+      "travel": "1714.95"
+    },
+    {
+      "person_name": "DAVIS,YVONNE W",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "50523.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEVLIN,EDDIE T",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2137.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOWLING,PHILLIP B",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "33255.00",
+      "travel": "5469.55"
+    },
+    {
+      "person_name": "ELLIS,AMY E",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "44649.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLUKER,CAROLYN",
+      "job_title": "DIRECTOR OF GLRS",
+      "salary": "78069.48",
+      "travel": "9711.75"
+    },
+    {
+      "person_name": "GODWIN,CHASE J",
+      "job_title": "PSYCHO-ED SOCIAL WORKER",
+      "salary": "39208.82",
+      "travel": "59.50"
+    },
+    {
+      "person_name": "GORDON,DEBRA A",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14747.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANNANS,BARBARA A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "55.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,JILL",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "2100.00",
+      "travel": "64.50"
+    },
+    {
+      "person_name": "HAYWARD,VERONICA G",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2970.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRY,MARGIE P",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "71704.80",
+      "travel": "1991.05"
+    },
+    {
+      "person_name": "HERRIN,JANET",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "50229.70",
+      "travel": "42.90"
+    },
+    {
+      "person_name": "HOLDER,W  K",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "46018.15",
+      "travel": "203.10"
+    },
+    {
+      "person_name": "JACKSON,PAMELA B",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "43473.03",
+      "travel": "4611.59"
+    },
+    {
+      "person_name": "JAMES,MARY L",
+      "job_title": "TEACHER SUPPORT SPECIALIST",
+      "salary": "45062.50",
+      "travel": "2347.50"
+    },
+    {
+      "person_name": "JURY,JUSTIN M",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "36794.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KITCHEN,SOPHIA L",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "11848.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LASSETER,MARIA M",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "39227.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,LORI A",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "5493.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,MARVIN R",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "38120.04",
+      "travel": "6170.00"
+    },
+    {
+      "person_name": "LEWIS,MARGARET C",
+      "job_title": "PSYCHO-ED SCHOOL SEC/CLERK",
+      "salary": "21460.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LILES,KRISTIE L",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "36648.36",
+      "travel": "23.10"
+    },
+    {
+      "person_name": "MANSFIELD,BRENDA L",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14136.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLELLAN,ROY E",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "13117.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCPHAUL,SHONDA N",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "8109.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCRAE,TRINA D",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "18379.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MULLIS,TAMMY E",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14584.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MUSGROVE,SHERRY J",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "9075.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ODEN,RILEY",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "165.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,VICTORIA J",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "220.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PINKNEY,BRENDA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3080.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWERS,RHONDA R",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "64492.68",
+      "travel": "7114.76"
+    },
+    {
+      "person_name": "RITCH,TRACI F",
+      "job_title": "PSYCHO-ED SOCIAL WORKER",
+      "salary": "32031.08",
+      "travel": "936.65"
+    },
+    {
+      "person_name": "ROBBINS,DANA A",
+      "job_title": "PSYCHO-ED SCHOOL PSYCHOLOGIST",
+      "salary": "70149.25",
+      "travel": "3841.71"
+    },
+    {
+      "person_name": "ROWELL,CAROLINE",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "16139.83",
+      "travel": "44.00"
+    },
+    {
+      "person_name": "SELF,MICHAEL R",
+      "job_title": "DIRECTOR OF PSYCHO-ED PROG",
+      "salary": "97036.68",
+      "travel": "1951.41"
+    },
+    {
+      "person_name": "SMITH,ANGELA D",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "1210.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPRADLEY,ROBERT V",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "8910.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STOVALL,MARGARET P",
+      "job_title": "RESA DIRECTOR",
+      "salary": "90660.24",
+      "travel": "5348.47"
+    },
+    {
+      "person_name": "STRICKLAND,HAZEL L",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "8070.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWACKARD,SHIRLEY",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "330.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,AMMIE",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "11317.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,PAULETTE B",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "36177.00",
+      "travel": "3150.50"
+    },
+    {
+      "person_name": "TAYLOR,REBECCA H",
+      "job_title": "BUSINESS SERV SECRETARY/CLERK",
+      "salary": "30906.00",
+      "travel": "68.50"
+    },
+    {
+      "person_name": "TILLMAN,WILLIAM",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "4205.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TODD,CASSIE W",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "15225.00",
+      "travel": "165.00"
+    },
+    {
+      "person_name": "TRULL,CAROL L",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "10591.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITFIELD,ROSETTA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4180.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOD,JAMES B",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "55.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODS,MARK W",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14603.57",
+      "travel": "0.00"
+    }
+  ]
+}

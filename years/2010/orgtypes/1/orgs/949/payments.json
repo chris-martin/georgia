@@ -1,0 +1,40 @@
+{
+  "payments": [
+    {
+      "person_name": "BRADDY,GARY",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "291.45"
+    },
+    {
+      "person_name": "CARTER,ROBERT W",
+      "job_title": "DIRECTOR",
+      "salary": "18931.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREWS,JOHNNIE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "258.98"
+    },
+    {
+      "person_name": "GREENE,MIKE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "355.42"
+    },
+    {
+      "person_name": "LARCHE,JIM",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "359.80"
+    },
+    {
+      "person_name": "SPIRES,JANICE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "183.74"
+    }
+  ]
+}

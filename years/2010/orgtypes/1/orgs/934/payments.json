@@ -1,0 +1,52 @@
+{
+  "payments": [
+    {
+      "person_name": "BOSS,PATRICK",
+      "job_title": "TEMPORARY",
+      "salary": "685.00",
+      "travel": "140.00"
+    },
+    {
+      "person_name": "DARDEN,KAYLEY",
+      "job_title": "TEMPORARY",
+      "salary": "770.00",
+      "travel": "224.00"
+    },
+    {
+      "person_name": "KARSTEDT,ETHAN",
+      "job_title": "TEMPORARY",
+      "salary": "415.00",
+      "travel": "112.00"
+    },
+    {
+      "person_name": "KARSTEDT,NICOLE",
+      "job_title": "INSTRUCTOR",
+      "salary": "32504.58",
+      "travel": "9019.34"
+    },
+    {
+      "person_name": "NEWBERRY,FARRAH",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "50074.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICE,JACKLEN",
+      "job_title": "OFFICE ADMINISTRATOR",
+      "salary": "2412.00",
+      "travel": "214.50"
+    },
+    {
+      "person_name": "TRUELOVE,JERRY",
+      "job_title": "BOARD MEMBER",
+      "salary": "75.00",
+      "travel": "82.50"
+    },
+    {
+      "person_name": "WHITED,BOBBIE",
+      "job_title": "OFFICE ADMINISTRATOR",
+      "salary": "1042.52",
+      "travel": "0.00"
+    }
+  ]
+}

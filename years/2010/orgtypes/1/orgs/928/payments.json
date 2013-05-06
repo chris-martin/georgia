@@ -1,0 +1,418 @@
+{
+  "payments": [
+    {
+      "person_name": "ALI,SHELINA",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "54804.47",
+      "travel": "182.63"
+    },
+    {
+      "person_name": "ANDREWS,JAMES W",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "560.56"
+    },
+    {
+      "person_name": "BEASLEY,MADISON M",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "441.16"
+    },
+    {
+      "person_name": "BELL,KISCHA",
+      "job_title": "CLERK (AL)",
+      "salary": "35387.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEMBRY,JOHN W",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "1899.56"
+    },
+    {
+      "person_name": "BODWELL,JASON",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "54823.21",
+      "travel": "1806.53"
+    },
+    {
+      "person_name": "BROWN,CHRISTOPHER",
+      "job_title": "FORMER EMPLOYEE",
+      "salary": "1547.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,MIA",
+      "job_title": "CLERK (AL)",
+      "salary": "32651.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRON,JENERRAH LATOYA",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "43540.04",
+      "travel": "50.00"
+    },
+    {
+      "person_name": "CAMERON,KIMBERLY",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "63179.74",
+      "travel": "5808.82"
+    },
+    {
+      "person_name": "CLARKE,DAN",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "82162.05",
+      "travel": "589.45"
+    },
+    {
+      "person_name": "COLEMAN,RENITA L",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "60577.32",
+      "travel": "1330.49"
+    },
+    {
+      "person_name": "COLLIER,TONI D",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "41550.20",
+      "travel": "661.96"
+    },
+    {
+      "person_name": "CORMIER,JEREMY",
+      "job_title": "FINANCIAL OPS GEN (WL)",
+      "salary": "22348.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNAGAN,JOSEPH DAVID",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "58655.32",
+      "travel": "4382.98"
+    },
+    {
+      "person_name": "DURRAH,ARLENE",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "76645.87",
+      "travel": "464.65"
+    },
+    {
+      "person_name": "FOIL,PHILLIP",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "129530.40",
+      "travel": "5823.27"
+    },
+    {
+      "person_name": "FRYE,JEFFREY",
+      "job_title": "COMUNICATN/OUTRCH SPEC(EL)",
+      "salary": "46624.39",
+      "travel": "14972.80"
+    },
+    {
+      "person_name": "GIPSON,DAVID",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "89977.28",
+      "travel": "4888.91"
+    },
+    {
+      "person_name": "GODFREY,DAVID",
+      "job_title": "FACILITIES OP/PL SPEC (SP)",
+      "salary": "73355.48",
+      "travel": "457.28"
+    },
+    {
+      "person_name": "GRIFFITH,MATTHEW",
+      "job_title": "FORMER EMPLOYEE",
+      "salary": "672.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALRON,ALLISON",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "18136.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDEN,JAMMIE",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "82756.29",
+      "travel": "354.20"
+    },
+    {
+      "person_name": "HARRISON,JULIE",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "28845.82",
+      "travel": "77.67"
+    },
+    {
+      "person_name": "HIX,KRISTOPHER SHANE",
+      "job_title": "COMUNICATN/OUTRCH SPEC (SP)",
+      "salary": "71755.63",
+      "travel": "1218.79"
+    },
+    {
+      "person_name": "HUNTER,RAYMON",
+      "job_title": "SYSTEMS ADMINISTRATOR (SP)",
+      "salary": "65248.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IVEY,CHERRY",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "66589.23",
+      "travel": "9990.30"
+    },
+    {
+      "person_name": "JAIKARAN,BIANCA",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "30282.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,GLENDALE",
+      "job_title": "CHIEF ADMINISTRATIVE OFFICER",
+      "salary": "88249.78",
+      "travel": "5.00"
+    },
+    {
+      "person_name": "JONES,REGINA",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "66726.73",
+      "travel": "303.45"
+    },
+    {
+      "person_name": "KELLY,KEVIN",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "85596.18",
+      "travel": "1977.10"
+    },
+    {
+      "person_name": "KING,MARK",
+      "job_title": "DATABASE ADMINISTRATOR(AL)",
+      "salary": "78811.72",
+      "travel": "276.93"
+    },
+    {
+      "person_name": "LADD,ANDREW",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "41147.74",
+      "travel": "707.96"
+    },
+    {
+      "person_name": "LARRABEE,TED",
+      "job_title": "INSURANCE INVESTIGATION",
+      "salary": "86149.49",
+      "travel": "14605.07"
+    },
+    {
+      "person_name": "LINTON,NICOLE",
+      "job_title": "COMUNICATN/OUTRCH SPEC (SP)",
+      "salary": "11256.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,JOHN",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "25666.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASON,GREGORY",
+      "job_title": "CHIEF OPERATING OFFICER",
+      "salary": "122899.28",
+      "travel": "4256.09"
+    },
+    {
+      "person_name": "MCCOY,SCOTT",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "74.90"
+    },
+    {
+      "person_name": "MCCULLOUGH,GARY",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "349.90"
+    },
+    {
+      "person_name": "MCELROY,BEVERLY",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "90713.05",
+      "travel": "304.19"
+    },
+    {
+      "person_name": "MITCHELL,DOUGLAS B",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWCOMB,PATRICK J",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "68923.97",
+      "travel": "2489.79"
+    },
+    {
+      "person_name": "NORTH,CHARLES KEVIN",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "74050.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATTON,STACY",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "87.80"
+    },
+    {
+      "person_name": "PEARL,MATTHEW",
+      "job_title": "FORMER EMPLOYEE",
+      "salary": "444.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REYNOLDS,ALFREDA",
+      "job_title": "CLERK (AL)",
+      "salary": "32857.58",
+      "travel": "139.00"
+    },
+    {
+      "person_name": "RICHARDSON,ELMOS A",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "395.60"
+    },
+    {
+      "person_name": "ROSS,RICH",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "42388.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSSELL,JAN",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "49103.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDS,DEREK",
+      "job_title": "DATABASE ADMINISTRATOR (EL)",
+      "salary": "69909.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHOOLCRAFT,GARRY",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "56770.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHROER,ANDREA",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "53642.37",
+      "travel": "1806.66"
+    },
+    {
+      "person_name": "SMILEY,DEBBIE",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "61012.38",
+      "travel": "8997.89"
+    },
+    {
+      "person_name": "SOPER,CURT",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "102705.46",
+      "travel": "4108.01"
+    },
+    {
+      "person_name": "STEINMETZ,TOM",
+      "job_title": "CHIEF FINANCIAL OFFICER",
+      "salary": "104356.10",
+      "travel": "1779.16"
+    },
+    {
+      "person_name": "STUCKEY,JILL",
+      "job_title": "ENVIRON HEALTH/PROTECTION",
+      "salary": "81464.72",
+      "travel": "22297.99"
+    },
+    {
+      "person_name": "SZWAK,ANDREW",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "50834.67",
+      "travel": "873.14"
+    },
+    {
+      "person_name": "THOMPSON,GERALD",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "557.50"
+    },
+    {
+      "person_name": "THOMPSON,GRADY",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "1083.70"
+    },
+    {
+      "person_name": "THOMPSON,KEVIN",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "50296.99",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "TIESLAU,RICHARD",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "40792.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER-WHITE,MARGIE",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "43955.49",
+      "travel": "3648.10"
+    },
+    {
+      "person_name": "WARREN,J C",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "1073.45"
+    },
+    {
+      "person_name": "WIGGINS,BOB",
+      "job_title": "FORMER EMPLOYEE",
+      "salary": "10630.23",
+      "travel": "691.60"
+    },
+    {
+      "person_name": "WILLIAMS,TRACY",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "45293.79",
+      "travel": "151.27"
+    },
+    {
+      "person_name": "WILSON,JENNIFER",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "56444.76",
+      "travel": "7.50"
+    },
+    {
+      "person_name": "YAWN,KIM",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "66306.14",
+      "travel": "1029.65"
+    },
+    {
+      "person_name": "ZACHERY,CHARLOTTE ELAINE",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "54241.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZACKERY,VALERIE",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "42150.41",
+      "travel": "977.69"
+    }
+  ]
+}

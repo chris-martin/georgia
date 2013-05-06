@@ -3,6 +3,7 @@ package org.chris_martin.georgia
 import org.mozilla.javascript.{NativeObject, NativeArray, ScriptableObject, Context}
 import java.io.Reader
 import collection.JavaConversions._
+import util.parsing.json.{JSONArray, JSONObject}
 
 case class Org(id: String, title: String)
 
@@ -61,5 +62,14 @@ object Org {
       )
     }
   }
+
+  def json(orgs: Seq[Org]): JSONObject = JSONObject(Map(
+    "orgs" -> JSONArray(
+      orgs.sortBy(_.id).map(x => JSONObject(Map(
+        "id" -> x.id,
+        "title" -> x.title
+      ))).toList
+    )
+  ))
 
 }

@@ -1,0 +1,82 @@
+{
+  "payments": [
+    {
+      "person_name": "AMERSON,CHARLES D",
+      "job_title": "STARTER TEMPORARY",
+      "salary": "418.75",
+      "travel": "128.57"
+    },
+    {
+      "person_name": "ARMSTRONG,ASHLEY M",
+      "job_title": "STARTER TEMPORARY",
+      "salary": "140.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAGWELL,JOHN W",
+      "job_title": "BOARD MEMBER",
+      "salary": "300.00",
+      "travel": "745.83"
+    },
+    {
+      "person_name": "CAMP,TIM",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "256.20"
+    },
+    {
+      "person_name": "COOPER,ABBY A",
+      "job_title": "STARTER TEMPORARY",
+      "salary": "202.50",
+      "travel": "156.57"
+    },
+    {
+      "person_name": "DAVIS,HECK H",
+      "job_title": "BOARD MEMBER",
+      "salary": "300.00",
+      "travel": "110.13"
+    },
+    {
+      "person_name": "KARSTEDT,ETHAN G",
+      "job_title": "STARTER TEMPORARY",
+      "salary": "870.00",
+      "travel": "385.28"
+    },
+    {
+      "person_name": "KARSTEDT,NICOLE M",
+      "job_title": "PROG EVAL & DVLPMT SPEC(WL)",
+      "salary": "29062.77",
+      "travel": "8871.42"
+    },
+    {
+      "person_name": "NEWBERRY,FARRAH H",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "49999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICE,JACKLEN B",
+      "job_title": "CLERICAL WORKER",
+      "salary": "5146.30",
+      "travel": "171.70"
+    },
+    {
+      "person_name": "SEAMON,ASHLEY L",
+      "job_title": "PROG EVAL & DVLPMT SPEC(WL)",
+      "salary": "3333.54",
+      "travel": "455.97"
+    },
+    {
+      "person_name": "TRUELOVE,JERRY A",
+      "job_title": "BOARD MEMBER",
+      "salary": "300.00",
+      "travel": "211.82"
+    },
+    {
+      "person_name": "YODER,RUFUS L",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "425.01"
+    }
+  ]
+}

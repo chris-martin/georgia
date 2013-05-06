@@ -1,0 +1,664 @@
+{
+  "payments": [
+    {
+      "person_name": "AHMED,SAMIR",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "72100.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,MONIQUE P",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "37193.76",
+      "travel": "174.25"
+    },
+    {
+      "person_name": "BAGGETT,DONALD J",
+      "job_title": "SAFETY & COMP SPEC(WL)",
+      "salary": "43775.28",
+      "travel": "8898.08"
+    },
+    {
+      "person_name": "BAKER,ROBERT B",
+      "job_title": "COMMISSIONER",
+      "salary": "116452.32",
+      "travel": "2872.61"
+    },
+    {
+      "person_name": "BARBER,JAMIE CHARLENE",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "61044.72",
+      "travel": "889.52"
+    },
+    {
+      "person_name": "BEDINGFIELD,JOHN PHILIP",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "58431.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKSHEAR,ALONZA K",
+      "job_title": "DOCUMENT & RECORDS SPEC(WL)",
+      "salary": "45128.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOND,THOMAS K",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "120544.08",
+      "travel": "76.77"
+    },
+    {
+      "person_name": "BOWLES,LEON EDWIN",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "89651.28",
+      "travel": "1620.25"
+    },
+    {
+      "person_name": "BOYER,QUAWANDA A",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "38266.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BREWER,MERLINE J",
+      "job_title": "BUS AUDIT/INVESTIGATOR(AL)",
+      "salary": "47971.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROCK-SOLDAVINI,JADA",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "74789.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUCKNER,DOROTHY W",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "59907.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUFFINGTON,TIMOTHY LYNN",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "52718.64",
+      "travel": "3798.64"
+    },
+    {
+      "person_name": "CAMERON,BERNARD",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "34530.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CEARFOSS,DANIEL R",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "88312.32",
+      "travel": "932.40"
+    },
+    {
+      "person_name": "CHANEY,JOSEPH KEVIN",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "2152.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAUVET,JANEY",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "57473.52",
+      "travel": "542.84"
+    },
+    {
+      "person_name": "CLAY,YOLANDA RENEE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26216.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONLEY,MARGIE A",
+      "job_title": "HUM RES GENERALIST (SP)",
+      "salary": "58626.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOGLER,STANLEY B",
+      "job_title": "SAFETY & COMP SPEC(WL)",
+      "salary": "38107.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORNELIUS,CYNTHIA",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "82131.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUCICH,DONA DRAKE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "28428.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CULBREATH,WILLIE J",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "32000.16",
+      "travel": "657.32"
+    },
+    {
+      "person_name": "DICKENSON,DARREN S",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "2048.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DONALDSON,WILLIAM N",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "58620.48",
+      "travel": "3166.67"
+    },
+    {
+      "person_name": "EATON,CHARLES M",
+      "job_title": "COMMISSIONER",
+      "salary": "116452.32",
+      "travel": "302.41"
+    },
+    {
+      "person_name": "EDGE,WILLIAM M",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "60488.16",
+      "travel": "1966.21"
+    },
+    {
+      "person_name": "EPPS,PANDORA",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "86014.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVERETT,H DOUG",
+      "job_title": "COMMISSIONER",
+      "salary": "116452.32",
+      "travel": "10257.49"
+    },
+    {
+      "person_name": "FLANNAGAN,DEBORAH K",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "108741.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRANKS,BEVERLY W",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "36686.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAINES,WINIFRED",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "38934.24",
+      "travel": "20.57"
+    },
+    {
+      "person_name": "GIBSON,JAMES D",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "45907.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBSON,NANCY G",
+      "job_title": "LEGAL SERVICES",
+      "salary": "80000.16",
+      "travel": "43.27"
+    },
+    {
+      "person_name": "GINN,ROBERT R",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "21992.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,CAROLYN S",
+      "job_title": "SAFETY & COMP SPEC(WL)",
+      "salary": "38770.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOGANS,BRENDA A",
+      "job_title": "BUS AUDIT/INVESTIGATOR(WL)",
+      "salary": "35569.44",
+      "travel": "73.72"
+    },
+    {
+      "person_name": "HWANG,ANGELA MANNLING",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "59334.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,OTANIA L",
+      "job_title": "COMP & LICENSING TECH (AL)",
+      "salary": "41498.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENSEN,ANNALISA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "28967.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,JOYCE B",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "794.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,LILLIAN E",
+      "job_title": "FINANCIAL COMPLIANCE",
+      "salary": "30687.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,ONTERIO K",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "31827.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,DAPHNE B",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "56650.08",
+      "travel": "2039.00"
+    },
+    {
+      "person_name": "KADUK,JOHN L",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "55608.24",
+      "travel": "7.00"
+    },
+    {
+      "person_name": "KERNIZAN,MICHEL E",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "3540.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KERNIZAN,SHEREE W",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "89665.68",
+      "travel": "1135.75"
+    },
+    {
+      "person_name": "KILLINGS,BOLIN H",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "56307.84",
+      "travel": "683.00"
+    },
+    {
+      "person_name": "LAIRSEY,JOSHUA M",
+      "job_title": "SAFETY & COMP SPEC(WL)",
+      "salary": "43775.28",
+      "travel": "7423.19"
+    },
+    {
+      "person_name": "LEAF,KELLI J",
+      "job_title": "LEGAL SERVICES",
+      "salary": "77500.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LESHER,CANDES E",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "49169.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,DAVID M",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "48000.00",
+      "travel": "639.54"
+    },
+    {
+      "person_name": "LEWIS,JOYCE L",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "42182.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUCAS,BETTY F",
+      "job_title": "BUS AUDIT/INVESTIGATOR(WL)",
+      "salary": "38877.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASON,GARY LAMAR",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "58796.64",
+      "travel": "2641.22"
+    },
+    {
+      "person_name": "MCALISTER,WILLIAM REECE",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "69444.24",
+      "travel": "56.75"
+    },
+    {
+      "person_name": "MCBRIDE,ALICIA D",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "45000.00",
+      "travel": "2071.90"
+    },
+    {
+      "person_name": "MCCARTER,JOHN PAUL",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "54035.04",
+      "travel": "6724.17"
+    },
+    {
+      "person_name": "MCCULLOUGH,SHIRLEY ANN",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "33997.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDONALD,LAUREN W",
+      "job_title": "COMMISSIONER",
+      "salary": "58226.16",
+      "travel": "3779.04"
+    },
+    {
+      "person_name": "MCGHEE,GIGI S",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "33381.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGRIFF,DANNY LAWRENCE",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "75961.92",
+      "travel": "5891.05"
+    },
+    {
+      "person_name": "MCGUIRE,CLARE A",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "69654.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKNIGHT,LISA C",
+      "job_title": "COMP & LICENSING TECH (AL)",
+      "salary": "41498.88",
+      "travel": "1071.42"
+    },
+    {
+      "person_name": "MORGAN,ROBERT B",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "73035.36",
+      "travel": "7953.46"
+    },
+    {
+      "person_name": "MORGAN,WILLIAM A",
+      "job_title": "BUS AUDIT/INVESTIGATOR(AL)",
+      "salary": "52464.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRIS,ALLISON STOKES",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "64632.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NANTZ,MICHAEL CHELCY",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "63869.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,REGINALD",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "17867.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NESBITT,CATHY W",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "13720.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWSOME,THOMAS J",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "71787.60",
+      "travel": "1284.59"
+    },
+    {
+      "person_name": "PACE,ROBERT C",
+      "job_title": "SAFETY & COMP SPEC(WL)",
+      "salary": "46954.08",
+      "travel": "1347.64"
+    },
+    {
+      "person_name": "PERRY,RACHEL",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "52153.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERSSON,HEATHER A",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "55000.08",
+      "travel": "1111.35"
+    },
+    {
+      "person_name": "PRITCHETT,TERRY G",
+      "job_title": "BUDGET/PORTFOLIO",
+      "salary": "74160.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REINHARDT,PATRICK J",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "63857.04",
+      "travel": "655.24"
+    },
+    {
+      "person_name": "ROETGER,STEVEN D",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "50000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSEMOND,MASHAUN G",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "55608.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSSELL,MICHAEL A",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "60647.52",
+      "travel": "1070.32"
+    },
+    {
+      "person_name": "SEARS,JANICE DENISE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "30000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEWELL,DENNIS ROLAND",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "56010.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHADIX,RENEE F",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "53209.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,JASON W",
+      "job_title": "COMP & LICENSING TECH (AL)",
+      "salary": "40632.72",
+      "travel": "12.28"
+    },
+    {
+      "person_name": "SMITH,PHILIP J",
+      "job_title": "LEGAL SERVICES",
+      "salary": "87443.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPEIR,ANGELIA ELIZABETH",
+      "job_title": "COMMISSIONER",
+      "salary": "58226.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAIR,JEFFREY CARLTON",
+      "job_title": "LEGAL SERVICES",
+      "salary": "77703.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STARKS,TONIKA M",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "51078.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SURRATT,TARA D",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "52530.00",
+      "travel": "1003.05"
+    },
+    {
+      "person_name": "SWANN,CHRISTOPHER B",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "62830.08",
+      "travel": "1359.89"
+    },
+    {
+      "person_name": "TANNER,SALLIE KEMPTON",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "38773.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,LISA DORA",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "38721.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,VICTORIA LEE",
+      "job_title": "UTILITIES REGULATN SPEC(WL)",
+      "salary": "49977.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THEBERT,MICHELLE LYNN",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "66210.72",
+      "travel": "85.78"
+    },
+    {
+      "person_name": "THOMAS,VERONICA",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "72297.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWE,JERRY ALAN",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "59170.80",
+      "travel": "6444.17"
+    },
+    {
+      "person_name": "TROKEY,ROBERT LUTHER",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "70040.16",
+      "travel": "2007.64"
+    },
+    {
+      "person_name": "TRUSS,JULIA M",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "63695.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TYER,NANCY JO",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "89919.12",
+      "travel": "64.35"
+    },
+    {
+      "person_name": "UPSHAW,WILLIAM J",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "46814.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VAUGHAN,ROBERT J",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "79181.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VINSON,CHERYL E",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "43932.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WACKERLY,GEORGE A",
+      "job_title": "UTILITIES REGULATN SPEC(AL)",
+      "salary": "64485.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELCOME,PATRICIA",
+      "job_title": "CLERK (AL)",
+      "salary": "31077.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,ROBERT R",
+      "job_title": "UTILITIES & PIPELINE COMP",
+      "salary": "69444.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHATLEY,EARNEST",
+      "job_title": "FACILITIES OP/PL SPEC(WL)",
+      "salary": "38862.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLINGHAM,CLAUDETTE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "40676.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WISE,STANCIL O",
+      "job_title": "COMMISSIONER",
+      "salary": "116452.32",
+      "travel": "2874.92"
+    },
+    {
+      "person_name": "WOLFE,BARBARA F",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "42461.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YARLEY,SAMUEL A",
+      "job_title": "SAFETY & COMP SPEC(WL)",
+      "salary": "43775.28",
+      "travel": "8253.20"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "payments": [
+    {
+      "person_name": "ALEXANDER,ROBERT B",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "90971.76",
+      "travel": "805.39"
+    },
+    {
+      "person_name": "ANDERSON,PATRICIA G",
+      "job_title": "BILLINGS GENERALIST (WL)",
+      "salary": "36970.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,RICHARD",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "139999.92",
+      "travel": "6682.84"
+    },
+    {
+      "person_name": "APONTE,DANIA",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "91117.20",
+      "travel": "242.50"
+    },
+    {
+      "person_name": "BARROW,CHRIS",
+      "job_title": "ENGINEERING TECH (EL)",
+      "salary": "29140.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BASS,CARLA",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "36289.68",
+      "travel": "8.19"
+    },
+    {
+      "person_name": "BEALL,LAURA",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "85459.60",
+      "travel": "622.84"
+    },
+    {
+      "person_name": "BORDEN,BRIAN",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "60198.48",
+      "travel": "44.00"
+    },
+    {
+      "person_name": "BOWMAN,JERRY",
+      "job_title": "BOARD MEMBER",
+      "salary": "1172.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRD,DEBORAH",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "69000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRD,JAMES",
+      "job_title": "BOARD MEMBER",
+      "salary": "1155.00",
+      "travel": "479.04"
+    },
+    {
+      "person_name": "CANTERBERRY,DONNA",
+      "job_title": "LEGAL ANALYSIS SPEC (AL)",
+      "salary": "51270.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASSELL,DAVID",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "56246.32",
+      "travel": "46.20"
+    },
+    {
+      "person_name": "CROCKER,JOHN",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "36581.95",
+      "travel": "253.75"
+    },
+    {
+      "person_name": "DEMPSEY,VICKI",
+      "job_title": "PAYROLL SPEC (AL)",
+      "salary": "7287.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNARD,BENECIA",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "43536.08",
+      "travel": "345.52"
+    },
+    {
+      "person_name": "DERISO,WALTER",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "5999.56"
+    },
+    {
+      "person_name": "EVANS,DONALD",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "80263.68",
+      "travel": "8915.60"
+    },
+    {
+      "person_name": "EVANS,DWIGHT",
+      "job_title": "BOARD MEMBER",
+      "salary": "840.00",
+      "travel": "220.50"
+    },
+    {
+      "person_name": "FARIAS,KATHERINE",
+      "job_title": "OFFICE ADMINISTRATOR (AL)",
+      "salary": "54074.10",
+      "travel": "3.39"
+    },
+    {
+      "person_name": "FJELSTUL,KIRK R",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "175412.88",
+      "travel": "134.00"
+    },
+    {
+      "person_name": "FLEMING,CHARLES B",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "93072.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRANKLIN,GAIL",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "86110.80",
+      "travel": "1872.91"
+    },
+    {
+      "person_name": "GOODWIN,ROBERT W",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "93166.32",
+      "travel": "214.28"
+    },
+    {
+      "person_name": "GREEN,SHAUN",
+      "job_title": "CIVENG/DESIGN/CONST (AL",
+      "salary": "75586.08",
+      "travel": "369.52"
+    },
+    {
+      "person_name": "GRIZZARD,SAMANTHA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "29133.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEIMER,CREW S",
+      "job_title": "ENGINEER",
+      "salary": "107803.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENZE,ROGER",
+      "job_title": "ENGINEER",
+      "salary": "107896.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODGSON,LARA",
+      "job_title": "BOARD MEMBER",
+      "salary": "1260.00",
+      "travel": "361.71"
+    },
+    {
+      "person_name": "HORSLEY,TODD J",
+      "job_title": "CONTRACT COMP SPEC (AL)",
+      "salary": "87975.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,BETTY",
+      "job_title": "BILLINGS GENERALIST (WL)",
+      "salary": "37655.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEYS,JOHN",
+      "job_title": "COMMUNICATN/OUTRCHSPEC (SP",
+      "salary": "92802.00",
+      "travel": "1939.61"
+    },
+    {
+      "person_name": "KING,CHERYL",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "48576.92",
+      "travel": "146.77"
+    },
+    {
+      "person_name": "KNIGHT,ALTON W",
+      "job_title": "BOARD MEMBER",
+      "salary": "1082.85",
+      "travel": "427.01"
+    },
+    {
+      "person_name": "LAMBERT,WILLIE H",
+      "job_title": "BUDGET SPEC (WL)",
+      "salary": "57104.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANCE,WILL",
+      "job_title": "PLANNG & POLCY DEV SPEC(EL)",
+      "salary": "13980.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,LISA",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "26663.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEVY,JACQUELINE",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "44421.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LONG,TODD",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "119166.74",
+      "travel": "1567.37"
+    },
+    {
+      "person_name": "MARTIN,CHRISTOPHER",
+      "job_title": "BOARD MEMBER",
+      "salary": "735.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGHEE,KENDRA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23999.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMAHAN,JOHN",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "65598.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCQUEEN,JULIE",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "53560.08",
+      "travel": "613.78"
+    },
+    {
+      "person_name": "MCQUEEN,TOM",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "330.00"
+    },
+    {
+      "person_name": "MECKE,WILLIAM",
+      "job_title": "MANAGER",
+      "salary": "92124.63",
+      "travel": "197.92"
+    },
+    {
+      "person_name": "MORI,DARBY",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "43733.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NASH,ALVIN",
+      "job_title": "BOARD MEMBER",
+      "salary": "1255.00",
+      "travel": "386.29"
+    },
+    {
+      "person_name": "NASH,CHARLOTTE",
+      "job_title": "BOARD MEMBER",
+      "salary": "1260.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,JEROME M",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "93841.68",
+      "travel": "336.59"
+    },
+    {
+      "person_name": "REDDY,NARENDER G",
+      "job_title": "BOARD MEMBER",
+      "salary": "1260.00",
+      "travel": "520.72"
+    },
+    {
+      "person_name": "RICHARDSON,ALFRED J",
+      "job_title": "FLEET OPERATIONS SPEC (WL)",
+      "salary": "57867.36",
+      "travel": "5337.38"
+    },
+    {
+      "person_name": "RITCHEY,JAMES",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "180833.04",
+      "travel": "742.56"
+    },
+    {
+      "person_name": "ROBERSON,MICHAEL",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "74160.00",
+      "travel": "1986.45"
+    },
+    {
+      "person_name": "SIMMONS,MONIQUE",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "113250.00",
+      "travel": "82.00"
+    },
+    {
+      "person_name": "THOMAS,JEANIE",
+      "job_title": "BOARD MEMBER",
+      "salary": "330.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "UZZELL,DENISE",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "71303.28",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "VANZANDT,WANDA",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "41000.16",
+      "travel": "44.78"
+    },
+    {
+      "person_name": "VOYLES,BOB",
+      "job_title": "BOARD MEMBER",
+      "salary": "1155.00",
+      "travel": "298.80"
+    },
+    {
+      "person_name": "VULOV,VALENTIN",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "64722.96",
+      "travel": "979.22"
+    },
+    {
+      "person_name": "WADE,NADARA",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "52961.76",
+      "travel": "180.50"
+    },
+    {
+      "person_name": "WELSH,DANIEL",
+      "job_title": "BUSINESS OP GENERALIST (EL)",
+      "salary": "637.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,J T",
+      "job_title": "BOARD MEMBER",
+      "salary": "1545.00",
+      "travel": "637.26"
+    },
+    {
+      "person_name": "WILLIAMS,MITZI",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "67999.98",
+      "travel": "12.70"
+    },
+    {
+      "person_name": "ZUEHLKE,KAI",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "60000.00",
+      "travel": "0.00"
+    }
+  ]
+}

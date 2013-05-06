@@ -1,0 +1,34 @@
+{
+  "payments": [
+    {
+      "person_name": "ARCHER,WILLIAM C",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "115.00"
+    },
+    {
+      "person_name": "BRADLEY,JENNY L",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "573.90"
+    },
+    {
+      "person_name": "CARRUTH,WILLIAM A",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "99.00"
+    },
+    {
+      "person_name": "JENKINS,MABEL C",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "392.30"
+    },
+    {
+      "person_name": "WHEELER,THOMAS W",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "245.50"
+    }
+  ]
+}

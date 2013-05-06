@@ -1,0 +1,3832 @@
+{
+  "payments": [
+    {
+      "person_name": "ABDULLAH,AHMAD",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "43633.39",
+      "travel": "55.58"
+    },
+    {
+      "person_name": "ABERCROMBIE,ANDREA D",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "48450.24",
+      "travel": "3005.00"
+    },
+    {
+      "person_name": "ABRAMS,JANICE C",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "52800.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADAMCAK,PATRICIA M",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "51153.12",
+      "travel": "2311.94"
+    },
+    {
+      "person_name": "ADAMS,GLADYS",
+      "job_title": "CLERK (AL)",
+      "salary": "36770.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADAMS,REBECCA SUSAN",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "38307.13",
+      "travel": "41.00"
+    },
+    {
+      "person_name": "ALDANA,CAMILLE S",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "57382.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALEXANDER,SHEILA MARIE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "44598.24",
+      "travel": "166.16"
+    },
+    {
+      "person_name": "ALLEN,BILLY U",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "79912.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,GEORGIA A",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "55000.08",
+      "travel": "560.21"
+    },
+    {
+      "person_name": "ALPER,ANTHONY ALBERT",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "51027.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALTMAN,LEROY TALBERT",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "59587.92",
+      "travel": "1484.92"
+    },
+    {
+      "person_name": "AMMONS,KRISTAL L",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "68248.56",
+      "travel": "529.26"
+    },
+    {
+      "person_name": "ANDERSON,BENJAMIN",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "47272.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,CHARLES C",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "63000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,KIMBERLY JO",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "44151.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANGULO,EDGAR",
+      "job_title": "PROGRAM CONSULTANT (WL)",
+      "salary": "43355.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANIKPE,IFEANYI",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "123.90"
+    },
+    {
+      "person_name": "ARNOLD,ANGELA G",
+      "job_title": "BUDGET SPEC (SP)",
+      "salary": "61505.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARNOLD,SHERRY BELL",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "36666.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARTHUR,TONYA R",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "30964.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASH,RICHARD BERELLE",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "47574.00",
+      "travel": "336.63"
+    },
+    {
+      "person_name": "ASHSHAHEED,LAWANA S",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "44688.00",
+      "travel": "114.13"
+    },
+    {
+      "person_name": "ASHWORTH,LAUREL",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "59.40"
+    },
+    {
+      "person_name": "ATKINSON,MARY DIANE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "31486.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AUSTIN,LESLIE",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "42816.39",
+      "travel": "19.15"
+    },
+    {
+      "person_name": "AUSTIN,RALPH",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "510.22"
+    },
+    {
+      "person_name": "AVERY,CHERYL PLEDGER",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "47280.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BABB,LYNDA A",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "41732.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAGLEY,GREGORY A",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "6499.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,TANORRIS",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "24414.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,ADRIENNE G",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "46354.08",
+      "travel": "885.70"
+    },
+    {
+      "person_name": "BANKS,IRENE K",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "31817.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BANKS,KEVIN",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "36300.00",
+      "travel": "203.54"
+    },
+    {
+      "person_name": "BARNES,BESSIE A",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "58877.28",
+      "travel": "236.33"
+    },
+    {
+      "person_name": "BARNES,JEANESTAL",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "47477.28",
+      "travel": "1710.97"
+    },
+    {
+      "person_name": "BARNES,KATHANETTE P",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "37196.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,LOVEY DENISE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "80183.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BASKETT-OWENS,BERTHA LYNETTE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "64195.44",
+      "travel": "115.90"
+    },
+    {
+      "person_name": "BASS,JENNIFER A",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "64999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BASS,TIFFANY",
+      "job_title": "CLERK (AL)",
+      "salary": "10926.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BASS,TONYA A",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "37389.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAZILE,CLAUDETTE V",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "82060.08",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "BEAVERS,ELIZABETH D",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "37785.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEDDINGFIELD,RYAN",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "86.05"
+    },
+    {
+      "person_name": "BELTON,TERRIE P",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "2994.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENSON,ROBIN E",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "27427.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENSON,SHIRLEY B",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "79188.96",
+      "travel": "348.00"
+    },
+    {
+      "person_name": "BERKELEY,KARESHA L",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "47280.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BERRY,DORIS LORRAINE",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "39914.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEVELLE,DEBORAH K",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "72350.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIAS,WENDY V",
+      "job_title": "CLERK (AL)",
+      "salary": "14466.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIGBY,KIWANNIS",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "29489.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BINA III,WILLIAM FRANK",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "127.00"
+    },
+    {
+      "person_name": "BLACK,MILDRED B",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "67980.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLAKELY,CHERYL D",
+      "job_title": "CLERK (WL)",
+      "salary": "34321.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLANTON,KATHERINE M",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "28525.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BODE,BRUCE W",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "BOLTON,BETTY J",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "36306.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOLTWOOD,MARY M",
+      "job_title": "DATABASE ADMINISTRATOR(AL)",
+      "salary": "47280.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BONA,JOSEPH ROSARIO",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "30.47"
+    },
+    {
+      "person_name": "BOWDEN,MAE P",
+      "job_title": "PLANNG & POLCY DEV SPEC(WL)",
+      "salary": "40080.00",
+      "travel": "1858.69"
+    },
+    {
+      "person_name": "BOYCE,PAUL",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "48.60"
+    },
+    {
+      "person_name": "BRADFORD,FREDIA MURIEL",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "37272.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANNING,TERRI L",
+      "job_title": "PERSONNEL SERVICES WORKER",
+      "salary": "132680.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRIDGES,GWENDOLYN LOUISE",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "34994.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,CRYSTAL L",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "126.10"
+    },
+    {
+      "person_name": "BROWN,DEMETRIUS L",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "50046.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SAFIYA D",
+      "job_title": "CUSTOMER SERVICE SPEC (SP)",
+      "salary": "36605.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SHEREE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "18241.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,TONY L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "80370.96",
+      "travel": "2478.84"
+    },
+    {
+      "person_name": "BRUCATO,RONALD F",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "45444.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRUCE,DEBORAH SUSAN",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "37202.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRUMMER,DENA",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "38958.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYANT,DOROTHY",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "38475.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURDETTE,BRIAN K",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "273.53"
+    },
+    {
+      "person_name": "BURKS,TARA MICHELL",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "41296.08",
+      "travel": "107.06"
+    },
+    {
+      "person_name": "BURTON,BOBBIE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25030.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURTON,JOYE B",
+      "job_title": "COMUNICATN/OUTRCH SPEC (SP)",
+      "salary": "7053.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,MARVIS R",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "76084.56",
+      "travel": "1489.95"
+    },
+    {
+      "person_name": "BUTLER,WILLIAM",
+      "job_title": "BOARD MEMBER",
+      "salary": "2415.00",
+      "travel": "1111.56"
+    },
+    {
+      "person_name": "BYRDSELL,KANDES",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "29879.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAIN,MARQUITA S",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "9479.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAIRO,MARY E",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "39654.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALDWELL,COLETTE",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "51499.92",
+      "travel": "329.61"
+    },
+    {
+      "person_name": "CALHOUN,YOLANDE",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "58938.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANNON,GEORGANA K",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "47477.28",
+      "travel": "594.76"
+    },
+    {
+      "person_name": "CARR,RUTH ANNE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "91182.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARRIER,LYNN C",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "67361.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARROLL,KIM",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "33.22"
+    },
+    {
+      "person_name": "CARSON,JANICE MARIE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "25454.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,MAYA",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "53578.80",
+      "travel": "44.24"
+    },
+    {
+      "person_name": "CARTER,SHIRLEY",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25030.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTHAN,ANGELA M",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "36049.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CATALON-SCOTT,CARLA",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "51001.92",
+      "travel": "5115.37"
+    },
+    {
+      "person_name": "CAUDILL,USHA R",
+      "job_title": "CLERK (AL)",
+      "salary": "28999.92",
+      "travel": "23.40"
+    },
+    {
+      "person_name": "CHAMBERS-ASHFORD,TANYA",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "48810.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAPMAN,LAURA S",
+      "job_title": "BILLINGS GENERALIST (WL)",
+      "salary": "40631.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHARLES,ROOSEVELT",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "53148.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHEEKS,EDDIE R",
+      "job_title": "BOARD MEMBER",
+      "salary": "2625.00",
+      "travel": "2123.24"
+    },
+    {
+      "person_name": "CHRISTIAN,CYNTHIA LYNN",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "45365.28",
+      "travel": "742.04"
+    },
+    {
+      "person_name": "CHUKWUMA,GLORIA A",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "48377.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,RAMONA WYATT",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "75439.20",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "CLAYTON,WESLEY A",
+      "job_title": "MAIL SERVICES WKR (AL)",
+      "salary": "24356.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLEARY,STEPHANIE",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "41917.92",
+      "travel": "81.00"
+    },
+    {
+      "person_name": "CLEMONS,MATTIE D",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "59096.16",
+      "travel": "428.40"
+    },
+    {
+      "person_name": "CLEVELAND,JAVANESE LANILE",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "49812.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLOUD,SHARON M",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "34922.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COHEN,BETSY D",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "62026.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLBURN,CHARLES D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "75000.06",
+      "travel": "15.86"
+    },
+    {
+      "person_name": "COLE,JOHN",
+      "job_title": "AUDITOR/EXAMINER (SP)",
+      "salary": "26114.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLE,SANDRA W",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "38402.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,SHARON K",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "72013.20",
+      "travel": "276.29"
+    },
+    {
+      "person_name": "COMPTON,GIA BROWN",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "83617.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONNALLY,WENDY K",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "36049.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONNER,EDWARD D",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "191.71"
+    },
+    {
+      "person_name": "CONNOLLY,JAMES N",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "106415.04",
+      "travel": "577.17"
+    },
+    {
+      "person_name": "COTTON,JIMMIE L",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "39017.52",
+      "travel": "1605.02"
+    },
+    {
+      "person_name": "COVINGTON,KRISTIN",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "54053.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,MATTIE J",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "78712.08",
+      "travel": "48.05"
+    },
+    {
+      "person_name": "CRANE,SANDRA D",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "64657.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAVEN,CATHERINE H",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "34871.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROWDER,BRENT L",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "43999.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRUCE,JADA N",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "42653.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRUTCHFIELD,RUSSELL EDWARD",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "61455.26",
+      "travel": "1029.51"
+    },
+    {
+      "person_name": "CURRY,JEANNETTE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "38256.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CURRY-CLIFTON,JOLANDA",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "51980.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUSUMANO,ALFRED",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "89162.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANCY,LANIKA S",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "23395.27",
+      "travel": "85.80"
+    },
+    {
+      "person_name": "DARDEN,TRUDDIE EDWARDS",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "58.40"
+    },
+    {
+      "person_name": "DARTER,KENNETH",
+      "job_title": "COMPUTER SYS ANALYST (SP)",
+      "salary": "62415.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,BRENDA W",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "40533.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,BRIDGET",
+      "job_title": "OPERATIONS ANALYST (EL)",
+      "salary": "23331.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,GLENDA H",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "131.30"
+    },
+    {
+      "person_name": "DAVIS,SHANDRIA B",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "26249.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,SHANNON T",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "25428.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,SHANTEL M",
+      "job_title": "CUSTOMER SERVICE SPEC (SP)",
+      "salary": "36605.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,TAMARA",
+      "job_title": "TELECOMMUNICATIONS SP (AL)",
+      "salary": "44884.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,VINCENT R",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "62335.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS-SAMS,MAJORIE REESE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "57740.40",
+      "travel": "1082.92"
+    },
+    {
+      "person_name": "DEBARR,ADRIENE",
+      "job_title": "CLAIMS EXAMINER (AL)",
+      "salary": "38625.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DECAY,MELANIE B",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "78836.16",
+      "travel": "877.81"
+    },
+    {
+      "person_name": "DECK,WILLIAM E",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "85100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEES,DARRYL S",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "59978.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELAHANTY,JANET E",
+      "job_title": "INFORMATION SYS WORKER",
+      "salary": "55096.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELAINE,CECOLA",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "29001.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DERBY,DONNA S",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "41878.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DICKERSON,TARA D",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "2708.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DILL,BELINDA",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "37462.19",
+      "travel": "4023.18"
+    },
+    {
+      "person_name": "DIXON,LOLITA",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "5557.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOBBS,DIANA L",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "60762.24",
+      "travel": "838.85"
+    },
+    {
+      "person_name": "DOBBS,JANICE M",
+      "job_title": "INFORMATION SYS WORKER",
+      "salary": "15425.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORSEY,CAROL F",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "27227.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORSEY,DANIEL R",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "4552.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORSEY,HAZEL K",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "78791.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORSEY,JERISTE",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "27232.29",
+      "travel": "7.00"
+    },
+    {
+      "person_name": "DOWD,BRIAN D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "63018.72",
+      "travel": "1627.29"
+    },
+    {
+      "person_name": "DOWNING,CARRIE L",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "30090.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUBAS,NANCY J",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "17167.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUBBERLY,JERRY L",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "124266.60",
+      "travel": "201.36"
+    },
+    {
+      "person_name": "DUNCAN,CHRISTA",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "17333.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,ROSE MARIE",
+      "job_title": "CLERK (AL)",
+      "salary": "33529.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,VALERIE D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "83770.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNSTON,FRANCIS",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "32.57"
+    },
+    {
+      "person_name": "DUTTERA,M  JULIAN",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "266.22"
+    },
+    {
+      "person_name": "EARLES,ALISON CLINE",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "44852.25",
+      "travel": "278.40"
+    },
+    {
+      "person_name": "ECHOLS,DARLENE",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "15538.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ECHOLS,ELIZABETH ANN",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "45671.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ECHOLS,MARIAN C",
+      "job_title": "CLERK (SP)",
+      "salary": "41133.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,CARLADENISE A",
+      "job_title": "CHIEF OF STAFF",
+      "salary": "139999.92",
+      "travel": "2965.92"
+    },
+    {
+      "person_name": "EDWARDS,MATIA L",
+      "job_title": "COMUNICATN/OUTRCH SPEC (SP)",
+      "salary": "18453.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,ROLAND",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "50089.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELDER,MOLLIE DELORIS",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "50391.36",
+      "travel": "4.68"
+    },
+    {
+      "person_name": "ELLIS,MARILYN",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "50688.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLISON,JOHNNIE R",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "55295.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ENGLISH,INMAN",
+      "job_title": "BOARD MEMBER",
+      "salary": "945.00",
+      "travel": "1002.00"
+    },
+    {
+      "person_name": "ESPINOZA,DANIEL M",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "27744.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,KIMBERLY M",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "28521.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS-MADDOX,SHELDIA",
+      "job_title": "COMPUTER SYS ANALYST (SP)",
+      "salary": "60811.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARDAN,SHAKIRA",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "57058.73",
+      "travel": "157.41"
+    },
+    {
+      "person_name": "FIDDIMAN,JAMIE L",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "44258.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINLAYSON,ROBERT MALCOLM",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "91584.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINLEY,RASHUNDA",
+      "job_title": "PHARMACY WKR (WL)",
+      "salary": "30000.00",
+      "travel": "379.50"
+    },
+    {
+      "person_name": "FLEMING,BARBARA MARTIN",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "54364.32",
+      "travel": "1971.23"
+    },
+    {
+      "person_name": "FLINN,SUZANNE R",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "43260.00",
+      "travel": "5933.27"
+    },
+    {
+      "person_name": "FLINT,HOPE",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "30341.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOWERS,RUNETTE",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "94.79"
+    },
+    {
+      "person_name": "FLOWERS,TRACEY M",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "32418.24",
+      "travel": "195.32"
+    },
+    {
+      "person_name": "FOSTER,BONITA A",
+      "job_title": "SECRETARY (WL)",
+      "salary": "33498.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,COURTNEY L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "30900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOYE,ANGELICA DERONICA",
+      "job_title": "FINANCIAL OPS SPEC (SP)",
+      "salary": "62153.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAILS-BIRDSONG,PAMELA",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "43121.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRANKLIN,CAROL MAGEE",
+      "job_title": "BENEFITS TECH (AL)",
+      "salary": "37454.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREDERKING,SCOTT EDWARD",
+      "job_title": "BUDGET/PORTFOLIO",
+      "salary": "114781.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREDUA,AMMA",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "27525.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEH,ROBYN A",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "47586.00",
+      "travel": "2233.08"
+    },
+    {
+      "person_name": "FREEMAN,MICHELE D",
+      "job_title": "CLERK (AL)",
+      "salary": "26210.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEMAN,OLLIE R",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28584.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEMAN,YVONNE",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "53148.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FULLER,ANDREA J",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "89222.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GALLA,ABDALLAH",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "35743.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARCIA,PATRICIA",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "18025.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARNER,LORI S",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "48113.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAY,KIM",
+      "job_title": "BOARD MEMBER",
+      "salary": "945.00",
+      "travel": "61.44"
+    },
+    {
+      "person_name": "GEE,PAULA R",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25030.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBBS,QUINTIN",
+      "job_title": "FACILITIES",
+      "salary": "58584.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBLIN,ANN M",
+      "job_title": "BENEFITS TECH (AL)",
+      "salary": "38848.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILES,JEAN N",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "60780.96",
+      "travel": "1905.46"
+    },
+    {
+      "person_name": "GOLDSTEIN,NANCY D",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "122569.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODWINE,CYNTHIA BUTLER",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "87493.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,PAMELA L",
+      "job_title": "CONTRACT COMP SPEC (AL)",
+      "salary": "42136.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,TONI L",
+      "job_title": "PARALEGAL (WL)",
+      "salary": "33990.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRACE,LISA YVONNE",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "40599.84",
+      "travel": "1226.12"
+    },
+    {
+      "person_name": "GRAHAM,GENEISE M",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "36992.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,JOANNE W",
+      "job_title": "PHARMACY WKR (WL)",
+      "salary": "17862.82",
+      "travel": "398.50"
+    },
+    {
+      "person_name": "GRAVES,CARLA D",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "45870.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAY,GILLETTA H",
+      "job_title": "PHARMACIST (AL)",
+      "salary": "82728.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,SASHA D",
+      "job_title": "SECRETARY (AL)",
+      "salary": "26724.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREENBERG,DORIS M",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "1419.28"
+    },
+    {
+      "person_name": "GREENE,RICHARD L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "100302.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREENE,YVONNE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "55274.88",
+      "travel": "2024.97"
+    },
+    {
+      "person_name": "GREER,DANA M",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "61800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,FRANKIE L",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "47477.28",
+      "travel": "2520.49"
+    },
+    {
+      "person_name": "GRIFFIN,MARY",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25030.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIMES,EVELYN",
+      "job_title": "CLERK (AL)",
+      "salary": "25561.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GROGAN,KATIE Y",
+      "job_title": "CLERK (AL)",
+      "salary": "27057.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GROSS,ALEXANDER S",
+      "job_title": "BOARD MEMBER",
+      "salary": "2625.00",
+      "travel": "513.81"
+    },
+    {
+      "person_name": "GRUBBS,RODERICK L",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "49620.18",
+      "travel": "596.60"
+    },
+    {
+      "person_name": "GUPTA,ARVIND",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "1451.00"
+    },
+    {
+      "person_name": "HAGEBAK,JUDITH E",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "12505.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,DEBBIE",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "127963.44",
+      "travel": "67.68"
+    },
+    {
+      "person_name": "HAMILTON,GELANE G",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "92205.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMPTON,BETTY J",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "102386.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMPTON,NANCY C",
+      "job_title": "CUSTOMER SERVICE SPEC (SP)",
+      "salary": "44894.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANCOCK,SARAH B",
+      "job_title": "PHARMACIST (AL)",
+      "salary": "73889.04",
+      "travel": "2519.11"
+    },
+    {
+      "person_name": "HANES,JANE P",
+      "job_title": "PERSONNEL SERVICES WORKER",
+      "salary": "44063.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANKINS,JOHN MARK",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "94497.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANNAH,LARRY T",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "47896.56",
+      "travel": "1129.70"
+    },
+    {
+      "person_name": "HARDIN,TIFFANY S",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "29399.52",
+      "travel": "2038.76"
+    },
+    {
+      "person_name": "HARPER,GLENDA",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "46823.61",
+      "travel": "227.56"
+    },
+    {
+      "person_name": "HARRIS,MARY A",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "28490.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,SHARIEE",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "41715.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,STACEY D",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "69095.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARTIN,DAVID W",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "13538.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HASKELL,MARREON M",
+      "job_title": "BUS AUDIT/INVESTIGATOR(WL)",
+      "salary": "36333.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HATCHETT,THOMAS",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "265.48"
+    },
+    {
+      "person_name": "HAWKINS,ARLENE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28960.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,ETTA LISA",
+      "job_title": "PHARMACIST (AL)",
+      "salary": "87574.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,SHARON D",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "30354.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,SHAYWEN",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "48953.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,TINA L",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "48065.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAYS,JOHN M",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "61243.98",
+      "travel": "1411.36"
+    },
+    {
+      "person_name": "HEAD,BARRY NELSON",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "109494.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEAD,MICHAEL",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "45478.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,BRUCE D",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "53238.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,GLADYS N",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "30529.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,MELODIE A",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "28176.43",
+      "travel": "14.20"
+    },
+    {
+      "person_name": "HENDERSON,MICHAEL",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "33469.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,MIRIAM",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "52127.28",
+      "travel": "91.05"
+    },
+    {
+      "person_name": "HEYWARD,EDWINLYN R",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "78621.35",
+      "travel": "234.51"
+    },
+    {
+      "person_name": "HICKS,GLORIA JEANETTE",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "20565.89",
+      "travel": "2209.23"
+    },
+    {
+      "person_name": "HICKS,MELVA ANN",
+      "job_title": "FACILITIES",
+      "salary": "76543.68",
+      "travel": "837.50"
+    },
+    {
+      "person_name": "HIGH,BRENDA L",
+      "job_title": "FINANCIAL OPS SPEC (SP)",
+      "salary": "66042.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,ABISOLA",
+      "job_title": "RESEARCH SPECIALIST (WL)",
+      "salary": "32418.24",
+      "travel": "70.20"
+    },
+    {
+      "person_name": "HILL,SEQUOYAH",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "32104.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILTON,PHYLLIS ANN",
+      "job_title": "BUS AUDIT/INVESTIGATOR(WL)",
+      "salary": "39752.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HINES,JUANITA D",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "32724.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HINTON,ALISA K",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "93556.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIYABU,JORDANOS J",
+      "job_title": "BILLINGS GENERALIST (WL)",
+      "salary": "31841.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODGES,TERRI L",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "69822.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOGAN,ALICE MARIE",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "41250.06",
+      "travel": "1613.05"
+    },
+    {
+      "person_name": "HOLDEN,KARIMA A",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "27449.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLINS,DACIA F",
+      "job_title": "FINANCIAL WKR (WL)",
+      "salary": "27669.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLMES,RICHARD",
+      "job_title": "BOARD MEMBER",
+      "salary": "945.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOPKINS,GREGORY",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "194.56"
+    },
+    {
+      "person_name": "HOPKINS,MARSHA A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "94554.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOTTON,G  ERIK",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "60414.34",
+      "travel": "3009.90"
+    },
+    {
+      "person_name": "HOUGH,HESTER J",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "43037.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOUPE,RANDY",
+      "job_title": "INSURANCE INVESTIGATION",
+      "salary": "64069.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOUSTON,KAREN YOLANDA",
+      "job_title": "OPERATIONS ANALYST (SP)",
+      "salary": "47055.84",
+      "travel": "-135.81"
+    },
+    {
+      "person_name": "HUANG,HE SHENG",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "47905.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,LASHARN M",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "115818.24",
+      "travel": "1277.94"
+    },
+    {
+      "person_name": "HUMPHERY,BETTY J",
+      "job_title": "SECRETARY (WL)",
+      "salary": "31747.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUNTER,PAMELA P",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "34879.92",
+      "travel": "1171.22"
+    },
+    {
+      "person_name": "INGRAM,PENNY WHITE",
+      "job_title": "CUSTOMER SERVICE SPEC (SP)",
+      "salary": "42423.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IVEY,JILLEON L",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "29091.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IVY,CATHERINE B",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "66937.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,KIMBERLY L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "42787.78",
+      "travel": "926.46"
+    },
+    {
+      "person_name": "JACKSON,LAURENE DUHART",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "37152.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,LEAMESO S",
+      "job_title": "SECRETARY (AL)",
+      "salary": "4360.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,MICHEALLA A",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "48852.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARRARD,C  MATTHEW",
+      "job_title": "OPERATIONS ANALYST (SP)",
+      "salary": "67016.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFERY,ROBERT GLEN",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "73245.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JELLERSON,IRENE A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "64820.64",
+      "travel": "-197.93"
+    },
+    {
+      "person_name": "JENNINGS,ONDRAY TYRONE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "75748.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JETER,PATRICIA ZEIGLER",
+      "job_title": "PHARMACIST (AL)",
+      "salary": "84443.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,CANESSA L",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "69654.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,DONNA M",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "45924.72",
+      "travel": "903.59"
+    },
+    {
+      "person_name": "JOHNSON,FREDA M",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "39141.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,KENYATTA SHELEE",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "31659.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,PHYLLIS M",
+      "job_title": "OFFICE ADMINISTRATOR (AL)",
+      "salary": "54223.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,THERESA M",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "34763.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ANNIKA",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "29832.37",
+      "travel": "77.69"
+    },
+    {
+      "person_name": "JONES,GRAYLING R",
+      "job_title": "INFO SECURITY SPEC (WL)",
+      "salary": "48553.45",
+      "travel": "107.83"
+    },
+    {
+      "person_name": "JONES,LAURYN S",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "50389.20",
+      "travel": "1234.60"
+    },
+    {
+      "person_name": "JONES,MICHELLE P",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "12500.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,TOSHICA L",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES-GOLDEN,OLIVE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "32817.60",
+      "travel": "185.93"
+    },
+    {
+      "person_name": "JONES-SHERWOOD,F RENEE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "56650.08",
+      "travel": "270.42"
+    },
+    {
+      "person_name": "JORDAN,CHERYL D",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "29452.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JULIAO-IRIZARRY,YOCASTA",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "54792.87",
+      "travel": "358.40"
+    },
+    {
+      "person_name": "KAMATH,M  VINAYAK",
+      "job_title": "BOARD MEMBER",
+      "salary": "2310.00",
+      "travel": "1963.20"
+    },
+    {
+      "person_name": "KEMLE,KATHY",
+      "job_title": "BOARD MEMBER",
+      "salary": "1890.00",
+      "travel": "1185.00"
+    },
+    {
+      "person_name": "KILLEBREW,LAURA L",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "73407.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIMBLE,EMMA JEAN",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "40830.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,RACHEL L",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "17468.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,SHARON D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "91278.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KINGSLAND,CHARLES E",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "53574.96",
+      "travel": "28.00"
+    },
+    {
+      "person_name": "KINLAW,KATHLEEN",
+      "job_title": "BOARD MEMBER",
+      "salary": "1470.00",
+      "travel": "288.86"
+    },
+    {
+      "person_name": "KIRKLAND,EMMALIE ANNE",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "49068.48",
+      "travel": "428.14"
+    },
+    {
+      "person_name": "KIRPATRICK,KAY",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "26.00"
+    },
+    {
+      "person_name": "KLARMAN,CHRISTINE C",
+      "job_title": "PHARMACIST (AL)",
+      "salary": "71509.68",
+      "travel": "-20.82"
+    },
+    {
+      "person_name": "KLEMANN,GILBERT S",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "483.74"
+    },
+    {
+      "person_name": "KNIGHT,MARGARET SHUMATE",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "33990.00",
+      "travel": "757.41"
+    },
+    {
+      "person_name": "KOFFI,JACQUELINE K",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "62656.38",
+      "travel": "172.14"
+    },
+    {
+      "person_name": "KONNEH,DORIS R",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "74907.00",
+      "travel": "594.85"
+    },
+    {
+      "person_name": "LANE,JEFFREY DAVID",
+      "job_title": "INVESTIGATIONS",
+      "salary": "82865.76",
+      "travel": "1018.42"
+    },
+    {
+      "person_name": "LAWRIMORE,BARBARA A",
+      "job_title": "COMPUTER SYS ANALYST (SP)",
+      "salary": "76753.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWSON,ERIKA D",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "0.00",
+      "travel": "1443.37"
+    },
+    {
+      "person_name": "LEE,BRENETTE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "6559.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,JAMES R",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "187.84"
+    },
+    {
+      "person_name": "LEE,MARION ONEILL",
+      "job_title": "BOARD MEMBER",
+      "salary": "2415.00",
+      "travel": "2001.29"
+    },
+    {
+      "person_name": "LEE,WILLIAM H",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "10.40"
+    },
+    {
+      "person_name": "LEGGETT,HOWARD C",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "70798.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LESTER,JESSIMAE D",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "39553.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,CECELIA M",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "60826.56",
+      "travel": "171.50"
+    },
+    {
+      "person_name": "LEWIS,MAXINE E",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "47280.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINDSEY,JOSEPH",
+      "job_title": "CLERK (AL)",
+      "salary": "23131.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINE,CARL WINN",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "74348.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LIPSCOMB,SUZANNAHLOUISE B",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "22138.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LLOYD,WILLIAM J",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "44640.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOGGINS,TERESA L",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "11250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LORYS,ROBYN ANDERSON",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "117.00"
+    },
+    {
+      "person_name": "LOWE,BARBARA KENT",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "61018.32",
+      "travel": "493.44"
+    },
+    {
+      "person_name": "LOWRY,JAMES R",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "959.96"
+    },
+    {
+      "person_name": "MADDEN,PAMELA S",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "61039.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MADDOX,KEVIN L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "59673.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAHER,DEANN BEATRICE",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "39068.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAHONE,CAROLYN L",
+      "job_title": "OPERATIONS ANALYST (EL)",
+      "salary": "37131.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALLORY,KENNETH W",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "42363.36",
+      "travel": "202.00"
+    },
+    {
+      "person_name": "MANNING,RHONDA L",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "44538.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,D  WAYNE",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "175.50"
+    },
+    {
+      "person_name": "MARTIN,KAREN CARTER",
+      "job_title": "LEGAL ANALYSIS SPEC (SP)",
+      "salary": "45413.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASON,CICELY R",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "8332.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAULDIN,SUSAN JOYCE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "55487.76",
+      "travel": "1242.18"
+    },
+    {
+      "person_name": "MAY,J  RUSSELL",
+      "job_title": "BOARD MEMBER",
+      "salary": "735.00",
+      "travel": "471.80"
+    },
+    {
+      "person_name": "MAYFIELD,LETICIA N",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "59030.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAZO,JACINTO DEL",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "89.78"
+    },
+    {
+      "person_name": "MAZZARELLI,URSULA LURLEEN",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "21542.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCBRAYER,KENNETH E",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "42770.16",
+      "travel": "958.91"
+    },
+    {
+      "person_name": "MCCANTS,KHALILAH M",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "13249.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLURE-BENSON,KAREN",
+      "job_title": "INSURANCE INVESTIGATION",
+      "salary": "59388.24",
+      "travel": "1052.04"
+    },
+    {
+      "person_name": "MCCORD-ESTES,ALICIA",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "82755.60",
+      "travel": "4340.40"
+    },
+    {
+      "person_name": "MCCORMICK,SANDRA",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "55120.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCOURT,TOMMIE KAY",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "52461.60",
+      "travel": "81.73"
+    },
+    {
+      "person_name": "MCCOY,SHERYL P",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "31173.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCRACKEN,EVA MAE",
+      "job_title": "CLERK (WL)",
+      "salary": "36758.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCULLOUGH,PATRICIA",
+      "job_title": "HR TRANSACTIONS TECH (WL)",
+      "salary": "27671.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDAVID,EDWARD CHANDLER",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "322.55"
+    },
+    {
+      "person_name": "MCGAHA,WENDELLA NICOLE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "25687.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCILVAINE,IRIS F",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "54128.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMILLAN,ANGEL",
+      "job_title": "RESEARCH SPECIALIST (WL)",
+      "salary": "25664.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMILLION,LORRAINE A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "56142.00",
+      "travel": "234.49"
+    },
+    {
+      "person_name": "MCMOORE,TIFFANY L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28949.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCNAMARA,KELLY M",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "61820.88",
+      "travel": "247.31"
+    },
+    {
+      "person_name": "MCNATT,JIM HUGH",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "134741.95",
+      "travel": "16.87"
+    },
+    {
+      "person_name": "MCNEILL,WARREN ANZELL",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "54370.56",
+      "travel": "183.76"
+    },
+    {
+      "person_name": "MEDOWS,RHONDA M",
+      "job_title": "COMMISSIONER",
+      "salary": "182988.00",
+      "travel": "17498.39"
+    },
+    {
+      "person_name": "MEEKS,KAY HENDRICKS",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "48839.75",
+      "travel": "1786.74"
+    },
+    {
+      "person_name": "MERRITTE,HATTIE B",
+      "job_title": "BENEFITS TECH (EL)",
+      "salary": "28367.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIDDLEBROOKS,SANDRA D",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "54075.12",
+      "travel": "639.99"
+    },
+    {
+      "person_name": "MIDDLETON,PATRICIA A",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "75000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,BURTON",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "44753.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,DAISY",
+      "job_title": "BENEFITS TECH (EL)",
+      "salary": "25030.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,FAYE M",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "61834.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,SHIRLEY P",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "0.00",
+      "travel": "481.65"
+    },
+    {
+      "person_name": "MILLIONES,GREEDY K",
+      "job_title": "TRNG & DEVLPMNT SPEC (AL)",
+      "salary": "46350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLS,ANTONIA",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "39654.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,DAVID",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "34391.04",
+      "travel": "151.50"
+    },
+    {
+      "person_name": "MITCHELL,JOANNE D",
+      "job_title": "CONTRACT COMP SPEC (SP)",
+      "salary": "53464.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOBLEY,ROSALYN Y",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "47277.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MONROE,TRACY L",
+      "job_title": "PROC,SUPPLY,WARHSE TECH(AL)",
+      "salary": "28786.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,NANCY V",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "44766.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,VANESSA",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "39074.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,WYLENE A",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "63123.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOREY,KATHERINE L",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "36239.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORGAN,CANVETIES M",
+      "job_title": "BUDGET SPEC (AL)",
+      "salary": "43550.72",
+      "travel": "234.96"
+    },
+    {
+      "person_name": "MORGAN,JOSHUA B",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "48801.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRIS,LENEEQUA L",
+      "job_title": "HUM RES SPECIALIST (SP)",
+      "salary": "50717.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORTON,IONA SPEAR",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "42835.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSS,TROYDRICK R",
+      "job_title": "MAIL SERVICES WKR (WL)",
+      "salary": "21077.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSS-PARKER,ANNETTE",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "52612.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOULTRIE,FRANKLIN E",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "16116.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MULLINS,ANITA FAYE",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "0.00",
+      "travel": "1422.29"
+    },
+    {
+      "person_name": "MUNTER,HAROLD G",
+      "job_title": "CHIEF INFORMATION OFFICER",
+      "salary": "128152.08",
+      "travel": "875.72"
+    },
+    {
+      "person_name": "NACIN,GERTRUDE L",
+      "job_title": "SOCIAL SERVICES",
+      "salary": "81995.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NAIR,DEV J",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "55501.19",
+      "travel": "469.27"
+    },
+    {
+      "person_name": "NELSON,CHERYL B",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "33876.72",
+      "travel": "1768.33"
+    },
+    {
+      "person_name": "NETTLES,JOHN R",
+      "job_title": "BUDGET SPEC (AL)",
+      "salary": "54823.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWMAN,KATHERINE N",
+      "job_title": "CLERK (AL)",
+      "salary": "25020.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NGUYEN,VAN",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "82900.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOLES,FAITH B",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "50548.32",
+      "travel": "862.78"
+    },
+    {
+      "person_name": "NORTHCUTT,DOROTHY A",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "31280.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORTON,ANDI",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OCONNOR,MICHAEL",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "56.00"
+    },
+    {
+      "person_name": "OLIVER,BARBARA ANN",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "47991.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ONEAL,LORRAINE",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "47477.28",
+      "travel": "1987.65"
+    },
+    {
+      "person_name": "ONEAL,TANEKO L",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "32582.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ORRICK,CHRISTINA L",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "42287.18",
+      "travel": "949.75"
+    },
+    {
+      "person_name": "OSTRANDER,DAVID R",
+      "job_title": "COMPLIANCE INVESTIGATOR(AL)",
+      "salary": "53560.08",
+      "travel": "1134.82"
+    },
+    {
+      "person_name": "OWENS,CHARLES FRANKLIN",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "112519.20",
+      "travel": "4076.82"
+    },
+    {
+      "person_name": "PALMER,TIMOTHY J",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "193.83"
+    },
+    {
+      "person_name": "PANOS,GEORGE C",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "75000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,ANN MCKEE",
+      "job_title": "BOARD MEMBER",
+      "salary": "630.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,RUTH E",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "38917.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARSON,LINDA CAROL",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "37216.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PASS,HARRY A",
+      "job_title": "OFFICE ADMIN GENERLIST (SP)",
+      "salary": "40434.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATE,CLAIRE",
+      "job_title": "PROG EVAL & DVLPMT SPEC(WL)",
+      "salary": "31440.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATEL,MAMTA N",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "3724.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATTERSON,DIANNE FOMBLY",
+      "job_title": "CUSTOMER SERVICE SPEC (SP)",
+      "salary": "35670.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATTERSON,WANDA ROWE",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "83997.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAULSEN,WILLIAM",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "623.72"
+    },
+    {
+      "person_name": "PAYNE,VINCENT A",
+      "job_title": "FINANCIAL OPS SPEC (SP)",
+      "salary": "56749.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEAVY,SHARON LATICE",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "36585.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEOPLES,JAMES T",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "95394.00",
+      "travel": "1742.76"
+    },
+    {
+      "person_name": "PERRY,ERIKA Y",
+      "job_title": "RESEARCH SPECIALIST (WL)",
+      "salary": "27690.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERRY,JOHN THEODORE",
+      "job_title": "BOARD MEMBER",
+      "salary": "3465.00",
+      "travel": "1040.84"
+    },
+    {
+      "person_name": "PERRY,PHYLLIS A",
+      "job_title": "SECRETARIES-LEGAL (WL)",
+      "salary": "27426.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERSON,GAYLE D",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "53039.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PINKNEY,CHAKEA R",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "37162.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PLATT,ALLAN F",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "30.90"
+    },
+    {
+      "person_name": "POOLE,PAULETTE M",
+      "job_title": "PLANNG & POLCY DEV SPEC(WL)",
+      "salary": "44258.40",
+      "travel": "650.30"
+    },
+    {
+      "person_name": "PORTER,PAMELA J",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "61000.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POSTON,ROMUNDA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "-982.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,JOHN H",
+      "job_title": "FINANCIAL OPS SPEC (SP)",
+      "salary": "61045.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRESCOTT,MICHELLE D",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "30624.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRESTON,MARGIE M",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "79352.16",
+      "travel": "-752.92"
+    },
+    {
+      "person_name": "PRICE,CYNTHIA ANN",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "35381.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRICE,DARLENE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "10005.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRICE,MARGARET M",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "24612.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRINE,TONI",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "85280.16",
+      "travel": "761.56"
+    },
+    {
+      "person_name": "RACHEL,ELOISE STEELE",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "58266.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAINEY,JACQUELYN",
+      "job_title": "PURCH & PROC SPEC (AL)",
+      "salary": "39971.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RANDALL,EYDIE G",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "31404.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAUH-FERENCE,MARY S",
+      "job_title": "LEGAL OFFICER (SP)",
+      "salary": "70007.94",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "RAY-SMITH,ANNETTA L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "75268.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAYNER,GILDA",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "76369.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDFEARN,CAROLANNE",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "307.52"
+    },
+    {
+      "person_name": "REESE,CLYDE L",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "130000.08",
+      "travel": "62.50"
+    },
+    {
+      "person_name": "REEVES,CAROLYN H",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "35234.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REGISTER,JEANETTE M",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "58065.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REGISTER,TINA P",
+      "job_title": "CLERK (AL)",
+      "salary": "25750.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REID,BRENDA C",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "7434.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REYNOLDS,KATONYA",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "22316.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RHODES,LYNNETTE R",
+      "job_title": "LEGAL OFFICER (SP)",
+      "salary": "73351.52",
+      "travel": "293.12"
+    },
+    {
+      "person_name": "RICE,MARY P",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "43458.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIDDLE,DAVID",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "89724.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIDDLE,LYNETTE L",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERSON,ANDREA A",
+      "job_title": "CONTRACT COMP SPEC (SP)",
+      "salary": "61800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERSON,EVELYN G",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "49847.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,LEMUEL",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "48959.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,REUBEN J",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "634.21"
+    },
+    {
+      "person_name": "ROBERTS,SHONDA M",
+      "job_title": "COMP & LICENSING TECH (WL)",
+      "salary": "27771.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,ELESIA S",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "40333.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,JOE SAM",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "301.59"
+    },
+    {
+      "person_name": "ROBINSON,RICHARD E",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "767.48"
+    },
+    {
+      "person_name": "ROBINSON,WANDA",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "79435.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON-SMITH,CHERYL",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "53044.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RODRIGUEZ,HECTOR",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "40174.08",
+      "travel": "2805.57"
+    },
+    {
+      "person_name": "ROGERS,MICHELE L",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "46233.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROGERS,YOLANDA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "10157.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROMSIEWICZ,SUSAN J",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "31544.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RORK,MICHELLE MICKEY",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "42787.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSE,ARCHER",
+      "job_title": "BOARD MEMBER",
+      "salary": "945.00",
+      "travel": "303.80"
+    },
+    {
+      "person_name": "ROSS,LYNETTE",
+      "job_title": "CLERK (WL)",
+      "salary": "36583.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,PATRICIA J",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "8373.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS-BOAKYE,EMMA K",
+      "job_title": "CLERK (AL)",
+      "salary": "23390.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROUNDTREE,WILLIAM",
+      "job_title": "BOARD MEMBER",
+      "salary": "2835.00",
+      "travel": "1634.10"
+    },
+    {
+      "person_name": "RUSH,GRETSER B",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "62367.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSSELL,ARGARTHA LEE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "82266.48",
+      "travel": "61.28"
+    },
+    {
+      "person_name": "RUSSELL,STEVEN B",
+      "job_title": "PURCH & PROC SPEC (AL)",
+      "salary": "10500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RYAN,LINDSAY",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "34363.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SALAAM,ZAKIYYAH",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "28521.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAUNDERS,ADRIANE J",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "66152.16",
+      "travel": "1098.87"
+    },
+    {
+      "person_name": "SAUVAIN,JANICE",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "62212.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAVAGE,CATHERINE M",
+      "job_title": "SECRETARY (AL)",
+      "salary": "37530.96",
+      "travel": "259.60"
+    },
+    {
+      "person_name": "SCANDRICK-KEIT,DAPHANIE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "72491.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHOENFELD,KAREN",
+      "job_title": "INFORMATION SYS WORKER",
+      "salary": "64596.00",
+      "travel": "1620.18"
+    },
+    {
+      "person_name": "SCOTT,CASSAUNDRA D",
+      "job_title": "HUM RES SPECIALIST (SP)",
+      "salary": "54628.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,EDWARD J",
+      "job_title": "CONTRACT COMP SPEC (AL)",
+      "salary": "36499.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,PHYLLIS A",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "49903.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,PRISCILLA H",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "16140.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEALY,MYRA F",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "44152.56",
+      "travel": "1587.45"
+    },
+    {
+      "person_name": "SEERY,VIRGINIA L",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "39725.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SENTER,DEBORAH TROY",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "98793.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHARE,ILONA S",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "100724.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEKELL,LISA MARIE",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "84048.00",
+      "travel": "189.00"
+    },
+    {
+      "person_name": "SHELTON,MARGARET HUCKEBA",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "50055.60",
+      "travel": "820.77"
+    },
+    {
+      "person_name": "SHEPPARD,DEBORAH W",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "47280.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHILESKY,MICHAEL",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "31977.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMMONS,ALENA S",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "27562.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMMONS,TIFFANY D",
+      "job_title": "CLERK (AL)",
+      "salary": "23828.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMS,PERRY",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "86090.37",
+      "travel": "284.70"
+    },
+    {
+      "person_name": "SIMS-KINCAID,STEPHANIE C",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "29001.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINGER,RICHARD S",
+      "job_title": "BOARD MEMBER",
+      "salary": "630.00",
+      "travel": "23.80"
+    },
+    {
+      "person_name": "SKRINE,BONNETTA J",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "35519.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMILEY,DEBORAH BEAVERS",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "56556.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,CHERYL Y",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "28783.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,DIANA PATRICIA",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "51163.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,GLORIA",
+      "job_title": "CLERICAL WORKER",
+      "salary": "20690.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,IDRISA L",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "31104.31",
+      "travel": "16.38"
+    },
+    {
+      "person_name": "SMITH,LANDRY C",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "42701.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,PAMELA G",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "52403.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ROBERT KENNETH",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "44951.28",
+      "travel": "90.61"
+    },
+    {
+      "person_name": "SNOW,ANNETTE V",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "43916.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOLOMON,RANDALL P",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "22166.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOMERSET,DEBRA",
+      "job_title": "BUDGET SPEC (SP)",
+      "salary": "57464.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STACKHOUSE,SHIRLEY A",
+      "job_title": "CUSTOMER SERVICE SPEC (SP)",
+      "salary": "47762.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAFFORD,NANCY",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "41346.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STANFORD,MARCIA ROBERTS",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "52118.64",
+      "travel": "867.96"
+    },
+    {
+      "person_name": "STANTON,MAUREEN B",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "40920.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEELE,GEORGE A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "94999.92",
+      "travel": "115.36"
+    },
+    {
+      "person_name": "STEELE,RENEA",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "106000.08",
+      "travel": "4152.36"
+    },
+    {
+      "person_name": "STEPHNEY,SHELIA S",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "32959.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEVENS,BRENDA S",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "41647.92",
+      "travel": "768.40"
+    },
+    {
+      "person_name": "STEWART,LORRIE J",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "62925.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STOKES,ROMERO M",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "41875.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,DAVID MICHAEL",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "61800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STROZIER,FEMALIE",
+      "job_title": "CLERK (AL)",
+      "salary": "23047.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SULLIVAN,MARCINE A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "96881.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUMMERS,CARIE L",
+      "job_title": "SENIOR EXECUTIVE",
+      "salary": "134236.08",
+      "travel": "97.89"
+    },
+    {
+      "person_name": "SUMMERS,ROLAND",
+      "job_title": "BOARD MEMBER",
+      "salary": "4620.00",
+      "travel": "4787.21"
+    },
+    {
+      "person_name": "SUMNER,JEAN R",
+      "job_title": "BOARD MEMBER",
+      "salary": "3150.00",
+      "travel": "2920.21"
+    },
+    {
+      "person_name": "SYKES,ANDREA",
+      "job_title": "BENEFITS TECH (WL)",
+      "salary": "29305.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TARVER,JESSICA",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "29115.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TATE,JACQUELINE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "58705.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAWIA,CHARLES K",
+      "job_title": "INFORMATION SYS WORKER",
+      "salary": "24277.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,KATRICE MARCIA",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "44785.68",
+      "travel": "2765.89"
+    },
+    {
+      "person_name": "TEELE,NANCY K",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "42873.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TEGGA,YEMSRACH",
+      "job_title": "BUS AUDIT/INVESTIGATOR(WL)",
+      "salary": "33014.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TEITELBAUM,ALEXIS",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "52600.00",
+      "travel": "1094.09"
+    },
+    {
+      "person_name": "TERRY,PATRICIA WALKER",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "49063.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THATCHER,REBECCA S",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "43816.32",
+      "travel": "326.50"
+    },
+    {
+      "person_name": "THOMAS,DAVID W",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "53100.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,DIANNE B",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "52911.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,KATHRYN J",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "46931.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS-LOCKMAN,GAIL",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "46915.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,EVELYN",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "28685.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,HUBERT",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "45000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,JANET",
+      "job_title": "AUDITOR/EXAMINER (SP)",
+      "salary": "54253.20",
+      "travel": "1722.87"
+    },
+    {
+      "person_name": "THOMPSON,KRISTAL Y",
+      "job_title": "GRANTS SPECIALIST (WL)",
+      "salary": "35625.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THREAT,DARRYL C",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "79410.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TIERNEY,WILLIAM",
+      "job_title": "HUM RES SPECIALIST (SP)",
+      "salary": "44081.04",
+      "travel": "1212.80"
+    },
+    {
+      "person_name": "TILLMAN,SHERYL S",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "46446.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TISDALE,CATINA A",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "36920.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TLEMCANI,SAID S",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "9886.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOLBERT,PAULA H",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "50758.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOUSSAINT,MARCIA",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "49999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWERS,SYLVIA Y",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "26595.75",
+      "travel": "99.03"
+    },
+    {
+      "person_name": "TRAIL,MARK DANIEL",
+      "job_title": "PROFESSIONAL HEALTH CARE WORKR",
+      "salary": "102483.72",
+      "travel": "207.77"
+    },
+    {
+      "person_name": "TRUESDALE,JAMES F",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "65272.86",
+      "travel": "185.02"
+    },
+    {
+      "person_name": "TUCKER,CHERYL A",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "88729.92",
+      "travel": "1064.70"
+    },
+    {
+      "person_name": "TURNER,SANDRA E",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "49083.36",
+      "travel": "15.15"
+    },
+    {
+      "person_name": "UPCHURCH,JOHN C",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "90640.08",
+      "travel": "671.36"
+    },
+    {
+      "person_name": "VAUGHNS,LESLIE D",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "51754.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VAULT,STEPHEN W",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "42744.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VINSON,ANNITA JEAN",
+      "job_title": "CLERK (WL)",
+      "salary": "24463.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VIRGIL,FRANCHESCA M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26841.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VOLTZ,PRINCESS DELORES",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "43829.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADDELL,KAREN R",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "69820.81",
+      "travel": "105.10"
+    },
+    {
+      "person_name": "WADE,LINDSEY C",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "58000.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAGNER,DENNIS R",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "33714.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAINSCOTT,CYNTHIA",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "90.30"
+    },
+    {
+      "person_name": "WALDON,ANGELA BROWN",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "75103.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,JOHNNIE D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "61034.40",
+      "travel": "1329.79"
+    },
+    {
+      "person_name": "WALKER,PATRICIA A",
+      "job_title": "CLERK (AL)",
+      "salary": "40434.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,PATRICIA A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "2000.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,SHAWN N",
+      "job_title": "SOCIAL SERVICES",
+      "salary": "81900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,TERESA",
+      "job_title": "PURCH & PROC SPEC  (WL)",
+      "salary": "32273.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,TRACY L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25030.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER-WOODY,LINDA L",
+      "job_title": "CLERK (WL)",
+      "salary": "22388.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALLS,MARION ELVIS",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "20130.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTON,PATRICIA L",
+      "job_title": "OFFICE ADMIN GENERLIST (SP)",
+      "salary": "44810.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,TIFFINEY L",
+      "job_title": "PURCH & PROC SPEC  (WL)",
+      "salary": "52530.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,ADRIAN M",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "92272.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,GERALDINE W",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "32426.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,SONDRA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "24322.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,ARNITA E",
+      "job_title": "INSURANCE INVESTIGATION",
+      "salary": "55560.24",
+      "travel": "770.38"
+    },
+    {
+      "person_name": "WAYMAN,STEPHANIE J",
+      "job_title": "OPERATIONS ANALYST (EL)",
+      "salary": "33101.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEATHINGTON,JESSE JOEL",
+      "job_title": "LEGAL ANALYSIS SPEC (AL)",
+      "salary": "23499.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEIL,RICHARD",
+      "job_title": "BOARD MEMBER",
+      "salary": "1995.00",
+      "travel": "320.57"
+    },
+    {
+      "person_name": "WESSON,DANITA L",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "52034.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WESSON,WAVERLY O",
+      "job_title": "BUSINESS ANALYST (WL)",
+      "salary": "37780.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHALEY,PATRICIA",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "57260.88",
+      "travel": "2235.54"
+    },
+    {
+      "person_name": "WHITE,CHARLES L",
+      "job_title": "BOARD MEMBER",
+      "salary": "4410.00",
+      "travel": "1421.78"
+    },
+    {
+      "person_name": "WHITE,CLYDE A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "76137.60",
+      "travel": "1985.21"
+    },
+    {
+      "person_name": "WHITE,PHYLLIS MICHELLE",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "53580.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,TOMIA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "18209.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,VICKIE M",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "34977.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITESIDE,LINDA M",
+      "job_title": "INFORMATION SYS WORKER",
+      "salary": "11618.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WICKERSHAM,MARY ELEANOR",
+      "job_title": "PLANNG & POLCY DEV SPEC(SP)",
+      "salary": "56090.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCHER,BRYANT L",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "67860.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,ALLISON MICHELLE",
+      "job_title": "BUSINESS OP GENERALIST (AL)",
+      "salary": "29399.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILKERSON,LADONNA LATRICIA",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "38388.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,ANN L",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "35232.61",
+      "travel": "2710.54"
+    },
+    {
+      "person_name": "WILLIAMS,BERLINDA A",
+      "job_title": "CLERK (AL)",
+      "salary": "25850.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,CHERYL",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "82567.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,ERIC",
+      "job_title": "SYSTEMS ADMINISTRATOR (WL)",
+      "salary": "32876.14",
+      "travel": "336.44"
+    },
+    {
+      "person_name": "WILLIAMS,GARY M",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "619.80"
+    },
+    {
+      "person_name": "WILLIAMS,LAJUANA L",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "0.00",
+      "travel": "31.72"
+    },
+    {
+      "person_name": "WILLIAMS,LAQUONTA Y",
+      "job_title": "PROGRAM CONSULTANT (AL)",
+      "salary": "40599.84",
+      "travel": "1568.16"
+    },
+    {
+      "person_name": "WILLIAMS,TAVIS T",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "28232.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLS,JAMES STEPHEN",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "50076.00",
+      "travel": "4164.55"
+    },
+    {
+      "person_name": "WILSON,JOYCE L",
+      "job_title": "COMPUTER SYS ANALYST (SP)",
+      "salary": "64687.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,TAMARA R",
+      "job_title": "INFORMATION SYS WORKER",
+      "salary": "23036.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,TRACY R",
+      "job_title": "ACCOUNTANT (WL)",
+      "salary": "2974.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINBORN,CHARLES ANTHONY",
+      "job_title": "COMPLIANCE INVESTIGATOR(WL)",
+      "salary": "38408.40",
+      "travel": "2707.22"
+    },
+    {
+      "person_name": "WOODALL,BILLY G",
+      "job_title": "BENEFITS TECH (EL)",
+      "salary": "34517.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODSIDE,MICHAEL BOLTON",
+      "job_title": "BILLINGS GENERALIST (WL)",
+      "salary": "39486.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODWARD,KORI A",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "63690.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOLERY,WILLIAM A",
+      "job_title": "BOARD MEMBER",
+      "salary": "3675.00",
+      "travel": "996.22"
+    },
+    {
+      "person_name": "WU,PEI LING",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "36958.54",
+      "travel": "100.62"
+    },
+    {
+      "person_name": "WYATT,MEGAN BAILEY",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "91137.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WYNECOFF,RONALD",
+      "job_title": "AUDITOR/EXAMINER (AL)",
+      "salary": "53560.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YELTON,FRANCES R",
+      "job_title": "QUALITY ASSURANCE SPEC (AL)",
+      "salary": "43634.16",
+      "travel": "1463.52"
+    },
+    {
+      "person_name": "YOUNG,HAROLD A",
+      "job_title": "PROGRAM CONSULTANT (WL)",
+      "salary": "51499.92",
+      "travel": "663.90"
+    },
+    {
+      "person_name": "YOUNG,JOHNNA",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "36992.16",
+      "travel": "729.15"
+    },
+    {
+      "person_name": "YU,ASHLEY LIQUN",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "70000.08",
+      "travel": "79.74"
+    }
+  ]
+}

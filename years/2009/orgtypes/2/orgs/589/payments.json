@@ -1,0 +1,958 @@
+{
+  "payments": [
+    {
+      "person_name": "AKINRUNTAN,AKINYELE A",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "59731.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,ELIJAH MIGUEL",
+      "job_title": "INSTRUCTOR",
+      "salary": "6800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,NANCY M",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "21471.42",
+      "travel": "2.79"
+    },
+    {
+      "person_name": "ANDERSON,CRYSTAL LYNN",
+      "job_title": "INSTRUCTOR",
+      "salary": "37200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,JEFFREY COLE",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "1193.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,RHONDA L",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "38404.73",
+      "travel": "1700.38"
+    },
+    {
+      "person_name": "ASPINWALL,NEIL",
+      "job_title": "VICE PRESIDENT",
+      "salary": "93349.98",
+      "travel": "2057.68"
+    },
+    {
+      "person_name": "BAKEY,DAVID JOHN",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARBER,SHANE ROBERT",
+      "job_title": "INSTRUCTOR",
+      "salary": "1500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRINGTON,NANCY S",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "49589.83",
+      "travel": "1234.83"
+    },
+    {
+      "person_name": "BEECHER,AMANDA E",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "3362.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNER,BETTY H",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,MELISSA ANN",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "7619.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOUNT,RHONDA C",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "23396.86",
+      "travel": "312.96"
+    },
+    {
+      "person_name": "BONVECHIO,KIMBERLY I",
+      "job_title": "INSTRUCTOR",
+      "salary": "4000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOSS,KAREN ELIZABETH",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "6002.44",
+      "travel": "529.93"
+    },
+    {
+      "person_name": "BRANTLEY,SUSAN K",
+      "job_title": "IT",
+      "salary": "39205.02",
+      "travel": "260.11"
+    },
+    {
+      "person_name": "BRIEFMAN,HEATHER H",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "828.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKER,SHERON A",
+      "job_title": "INSTRUCTOR",
+      "salary": "5000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SUZANNE COLLINS",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "51634.98",
+      "travel": "341.17"
+    },
+    {
+      "person_name": "BURLESON,ELLEN M",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "50277.50",
+      "travel": "1532.19"
+    },
+    {
+      "person_name": "BUTLER,JASON D",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CERNIGLIA,JESSICA ELAINE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "182.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHARACTER,WILLIE R",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLIETT,CATHY JEANETTE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "5538.44",
+      "travel": "206.00"
+    },
+    {
+      "person_name": "COOK,ADRIAN G",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "53267.50",
+      "travel": "2609.63"
+    },
+    {
+      "person_name": "COOK,DORA L",
+      "job_title": "CONTINUING EDUCATION PROFESSIONAL",
+      "salary": "400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COSS,GLORIA JEANETTE",
+      "job_title": "CONTINUING EDUCATION PROFESSIONAL",
+      "salary": "280.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COURSON,BOBBY H",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "22863.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREWS,CORI LEIGH",
+      "job_title": "INSTRUCTOR",
+      "salary": "45562.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREWS,DONNA L",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "36907.97",
+      "travel": "168.00"
+    },
+    {
+      "person_name": "DAVIS,DEANNA",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1997.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,TRACEY LEE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "17176.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAY,AMBER K",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "3121.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEAL,JOEL EVANS",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "4552.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEAN,BREANNA MARIE",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "903.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEASON,WILLIAM E",
+      "job_title": "VICE PRESIDENT",
+      "salary": "126649.98",
+      "travel": "2117.50"
+    },
+    {
+      "person_name": "DEWITT,MARK",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORMINEY,SYLVIA ANN",
+      "job_title": "INSTRUCTOR",
+      "salary": "5000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ECKLE,LINDA L",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EGENLAUF,GINA MARIE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "14935.77",
+      "travel": "387.34"
+    },
+    {
+      "person_name": "ELLIOTT,HOLLEE MARIE",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2079.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,DEBRA A",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "419.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FALES,HELEN L",
+      "job_title": "INSTRUCTOR",
+      "salary": "5000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FALES,PAULA M",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "37200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FALES,WARNIE D",
+      "job_title": "INSTRUCTOR",
+      "salary": "2000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARR,HARBIN C",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "58000.02",
+      "travel": "1101.74"
+    },
+    {
+      "person_name": "FAUST,CAROLYN JO",
+      "job_title": "INSTRUCTOR",
+      "salary": "2000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOWERS,THOMAS E",
+      "job_title": "INSTRUCTOR",
+      "salary": "6000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FUSSELL,ROBERT C",
+      "job_title": "INSTRUCTOR",
+      "salary": "2000.00",
+      "travel": "26.23"
+    },
+    {
+      "person_name": "GEIGER,ANNA BROYLES",
+      "job_title": "CONTINUING EDUCATION PROFESSIONAL",
+      "salary": "1200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBLIN,MELISSA A",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "7000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,MAMIE R",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "980.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,REBECCA H",
+      "job_title": "INSTRUCTOR",
+      "salary": "44200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,TARA BRANDI",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1137.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,WILLIAM RAMSEY",
+      "job_title": "INSTRUCTOR",
+      "salary": "6000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRELL,ELISHA KENNERLY",
+      "job_title": "COACH",
+      "salary": "2142.00",
+      "travel": "182.98"
+    },
+    {
+      "person_name": "HARTLEY,THOMAS BRYAN",
+      "job_title": "STUDENT SERVICES PROFESSIONAL",
+      "salary": "22500.00",
+      "travel": "631.57"
+    },
+    {
+      "person_name": "HASNAIN,SYED SADIQ",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "65930.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,JAMES CURTIS",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "16974.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRIX,C ANTHONY",
+      "job_title": "PROFESSOR",
+      "salary": "82560.00",
+      "travel": "36.77"
+    },
+    {
+      "person_name": "HENDRIX,CASSANDRA GAIL",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "982.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRIX,DINA E",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEREFORD,ROBERT TAYLOR",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "51250.02",
+      "travel": "65.21"
+    },
+    {
+      "person_name": "HOIT-THETFORD,ELIZABETH",
+      "job_title": "INSTRUCTOR",
+      "salary": "1500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLAND-WASDIN,ANGELA S",
+      "job_title": "ASSOC/ASST DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "40494.96",
+      "travel": "1394.42"
+    },
+    {
+      "person_name": "HOPE,PATRICIA DIANE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "20619.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,DEBBIE M",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "35700.00",
+      "travel": "584.40"
+    },
+    {
+      "person_name": "HOWELL,LISA N",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "50612.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACOBS,SUSAN B",
+      "job_title": "SERVICE / MAINTENANCE FOREMAN/LEAD",
+      "salary": "24466.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,LORI",
+      "job_title": "INSTRUCTOR",
+      "salary": "2999.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNS,APRIL",
+      "job_title": "INSTRUCTOR",
+      "salary": "300.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,CORRY B",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "81600.00",
+      "travel": "685.77"
+    },
+    {
+      "person_name": "JOHNSON,DEBORAH LEE",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1135.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,MELONY J",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORISHIE,LAWRENCE K",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOYNER,TAMMY SHERON",
+      "job_title": "LIBRARY TECHNICAL/PARAPROFESSIONAL",
+      "salary": "406.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEELER,MARGARET A",
+      "job_title": "INSTRUCTOR",
+      "salary": "36720.00",
+      "travel": "485.35"
+    },
+    {
+      "person_name": "KELLY,SHARON LYNN",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "63332.52",
+      "travel": "13.00"
+    },
+    {
+      "person_name": "KENNEBREW,PHYLLIS ELAINE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "2915.64",
+      "travel": "346.00"
+    },
+    {
+      "person_name": "KIKUCHI,CHRISTINE MARIE",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "44000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,REBECCA S",
+      "job_title": "INSTRUCTOR",
+      "salary": "4000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIRKLAND,TIFFANY ELAINE",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2692.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KITCHEN,WILLIE ANDREW",
+      "job_title": "INSTRUCTOR",
+      "salary": "4000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KOMANECKY,SHARON KAY",
+      "job_title": "ASSOC/ASST DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "38336.27",
+      "travel": "1025.97"
+    },
+    {
+      "person_name": "LACEFIELD,ROBERTA S",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "49612.50",
+      "travel": "1614.61"
+    },
+    {
+      "person_name": "LANG,PEGGY A",
+      "job_title": "SERVICE / MAINTENANCE FOREMAN/LEAD",
+      "salary": "14885.25",
+      "travel": "53.58"
+    },
+    {
+      "person_name": "LANIER,STANLEY LIN",
+      "job_title": "INSTRUCTOR",
+      "salary": "38905.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LARISCY,TERRY L",
+      "job_title": "SKILLED CRAFTSPERSON",
+      "salary": "27914.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEONARD,M ELIZABETH",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "29212.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LIGHTFOOT,ROBERT C",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "43387.50",
+      "travel": "485.01"
+    },
+    {
+      "person_name": "LIPSETT,CAROLYN J",
+      "job_title": "INSTRUCTOR",
+      "salary": "4000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LYNN,JOHN D",
+      "job_title": "INSTRUCTOR",
+      "salary": "36310.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAJDI,FARHAD",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "46192.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATTOX,WHITNEY B",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "3733.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLANTOC,CAROL CREWS",
+      "job_title": "CONTINUING EDUCATION PROFESSIONAL",
+      "salary": "856.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCINTOSH,WILLIAM DAWSON",
+      "job_title": "INSTRUCTOR",
+      "salary": "6000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEEKS,DEBORAH D",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "28348.07",
+      "travel": "436.23"
+    },
+    {
+      "person_name": "MEEKS,DONNA P",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "47152.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MELTON,JAMES MITCHELL",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "4516.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIXON,SONYA L",
+      "job_title": "INSTRUCTOR",
+      "salary": "2000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,PEGGY S",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "22803.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORAN,CRYSTAL L",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "1130.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,MELBA B",
+      "job_title": "INSTRUCTOR",
+      "salary": "6000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOWICKI,STEPHEN A",
+      "job_title": "INSTRUCTOR",
+      "salary": "43962.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OCEGUERA,MELISSA C",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1486.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENS,CURTIS L",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "23155.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PALMER,DAVID ALLEN",
+      "job_title": "PRESIDENT",
+      "salary": "170965.56",
+      "travel": "1652.26"
+    },
+    {
+      "person_name": "PASCHALL,NATASHA R",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1385.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAUL,GILLIAN W",
+      "job_title": "TEMPORARY FACULTY",
+      "salary": "5350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAYNE,HARRELL",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "16373.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POTTS,HOWARD E",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "56612.50",
+      "travel": "2216.66"
+    },
+    {
+      "person_name": "RAINEY,ERICA MICHELLE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "20065.92",
+      "travel": "605.40"
+    },
+    {
+      "person_name": "REDDICK,TYRINA YARALLA",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "1909.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RELYEA,CRISTINA ELIZABETH",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "124.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RHODES,B GAIL",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "41121.81",
+      "travel": "1872.49"
+    },
+    {
+      "person_name": "RIGGINS,JAMES D",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIGGINS,PEGGY H",
+      "job_title": "INSTRUCTOR",
+      "salary": "1500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,CONNIE MAE",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "16188.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,CRAIG R",
+      "job_title": "IT",
+      "salary": "32067.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,NATHANIEL",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "16188.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,NATHANIEL",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "11089.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROGERS,DWIGHT ROBERSON",
+      "job_title": "INSTRUCTOR",
+      "salary": "5500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,BARBARA E",
+      "job_title": "INSTRUCTOR",
+      "salary": "7500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROWLAND,DAVID A",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "47959.98",
+      "travel": "479.52"
+    },
+    {
+      "person_name": "ROWLAND,RESSA ANGELENA",
+      "job_title": "INSTRUCTOR",
+      "salary": "5000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUDICK,BETHANY J",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "854.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUDICK,PAMELA ANNE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "24421.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAINI,PAPANI FAAGI",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1116.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SARGALSKI,THOMAS JAMES",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "22415.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SELBY,SARA E",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "74124.96",
+      "travel": "305.53"
+    },
+    {
+      "person_name": "SLEDGE,JOHNNIE SMITH",
+      "job_title": "INSTRUCTOR",
+      "salary": "4000.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,CARASTINE",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "16188.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,JOEL L",
+      "job_title": "ACADEMIC SERVICES PROFESSIONAL",
+      "salary": "34492.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,MOLLY",
+      "job_title": "PROFESSOR",
+      "salary": "61652.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMOKE,DARRICK L",
+      "job_title": "INSTRUCTOR",
+      "salary": "6000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOLOMON,KESHIA DANIELLE",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2679.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPEIGHT,ANGELA Y",
+      "job_title": "ASSOC/ASST DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "30000.00",
+      "travel": "341.60"
+    },
+    {
+      "person_name": "SPIVEY,ANDREW",
+      "job_title": "INSTRUCTOR",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STURGES,LARRY ALLEN",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "4639.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUTTON,BRENDA A",
+      "job_title": "INSTRUCTOR",
+      "salary": "7500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWEAT,BRIAN STACY",
+      "job_title": "INSTRUCTOR",
+      "salary": "41620.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWEAT,JENNY HURWITZ",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "20087.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SY,KADIDIA",
+      "job_title": "INSTRUCTOR",
+      "salary": "37200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TANNER,GREGORY N",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "16688.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,DEMAURIO ANTJUAN",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2056.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,CALVIN WESLEY",
+      "job_title": "SKILLED CRAFTSPERSON",
+      "salary": "22107.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THORNTON,LALA T",
+      "job_title": "INSTRUCTOR",
+      "salary": "16008.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,DANA M",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "440.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TYGER,RONA LYNETTE",
+      "job_title": "INSTRUCTOR",
+      "salary": "48560.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VANDENHENDE,MARK",
+      "job_title": "VICE PRESIDENT",
+      "salary": "103350.00",
+      "travel": "3175.35"
+    },
+    {
+      "person_name": "WADE,EDWARD M",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "4576.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARREN,DANIEL CLAYTON",
+      "job_title": "SERVICE / MAINTENANCE SUPERVISOR",
+      "salary": "31000.02",
+      "travel": "741.86"
+    },
+    {
+      "person_name": "WILLIAMS,JANICE",
+      "job_title": "LIBRARY PROFESSIONAL AD",
+      "salary": "41280.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,SHARON M",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "22730.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINGFIELD,ROBERT DERRICK",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "33530.30",
+      "travel": "51.31"
+    },
+    {
+      "person_name": "WOZNY,CHRISTOPHER E",
+      "job_title": "INSTRUCTOR",
+      "salary": "62410.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,BEVERLY R",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "22776.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "XIANG,LI",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "573.13",
+      "travel": "0.00"
+    }
+  ]
+}

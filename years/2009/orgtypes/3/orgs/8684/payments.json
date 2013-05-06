@@ -1,0 +1,388 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAMS,TRACEY J",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "47453.04",
+      "travel": "676.15"
+    },
+    {
+      "person_name": "ALFORD,DEBORAH C",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "2334.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,JANICE L",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "39124.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEAL,RICHARD R",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "78221.04",
+      "travel": "5234.12"
+    },
+    {
+      "person_name": "BECKWORTH,MELISSA ANN",
+      "job_title": "ENTERPRISE TECHNICIAN",
+      "salary": "33501.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENETEAU,PAMELA PEBBLES",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "8829.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOSTOCK,JAMES A",
+      "job_title": "TECHNOLOGY DIRECTOR",
+      "salary": "87170.04",
+      "travel": "6770.84"
+    },
+    {
+      "person_name": "BROWN,PHYLLIS",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "65565.54",
+      "travel": "98.28"
+    },
+    {
+      "person_name": "BRYANT,GERALD ALLEN",
+      "job_title": "CUSTODIAL PERSONNEL",
+      "salary": "11100.05",
+      "travel": "67.23"
+    },
+    {
+      "person_name": "CHAMBLIN,ELIZABETH LOU",
+      "job_title": "VOCATIONAL DIRECTOR",
+      "salary": "24615.03",
+      "travel": "1298.59"
+    },
+    {
+      "person_name": "CROSBY,BOND C",
+      "job_title": "STUDENT CLERK/AIDE",
+      "salary": "4654.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROUCH,JOHN J",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "44124.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,KENNETH EUGENE",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "86165.04",
+      "travel": "7920.60"
+    },
+    {
+      "person_name": "DAVIS,DEBORAH M",
+      "job_title": "FINANCE/BUSINESS SERVICE MGR",
+      "salary": "63518.04",
+      "travel": "1087.16"
+    },
+    {
+      "person_name": "DAWSON,SHATERRA N",
+      "job_title": "STUDENT CLERK/AIDE",
+      "salary": "578.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUGGAN,GAIL",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "78221.04",
+      "travel": "4472.51"
+    },
+    {
+      "person_name": "EDENFIELD,SUSAN S",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "54602.20",
+      "travel": "3632.71"
+    },
+    {
+      "person_name": "FAGLER,DONNA S",
+      "job_title": "FAMILY SERVICES COORDINATOR",
+      "salary": "31884.64",
+      "travel": "4760.31"
+    },
+    {
+      "person_name": "FAISH,RACHEL L",
+      "job_title": "OTHER INSTRUCTIONAL PROVIDER",
+      "salary": "40630.24",
+      "travel": "6468.49"
+    },
+    {
+      "person_name": "GABRIEL,GLORIA J",
+      "job_title": "STAFF DEVELOPMENT SPECIALIST",
+      "salary": "86165.04",
+      "travel": "5158.90"
+    },
+    {
+      "person_name": "GANT,TERRY ELAINE",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "47453.04",
+      "travel": "442.97"
+    },
+    {
+      "person_name": "GLOVER,SHANNON RENEE",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "33499.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANSON,PATRICIA",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14492.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILLIARD,AMY S",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "762.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOBBS,ESTHER FRANCIS",
+      "job_title": "SECRETARY",
+      "salary": "35196.96",
+      "travel": "220.03"
+    },
+    {
+      "person_name": "HODGES,DONNA BENNETT",
+      "job_title": "PSYCHO-ED SCHOOL PSYCHOLOGIST",
+      "salary": "61760.78",
+      "travel": "1017.14"
+    },
+    {
+      "person_name": "HOOD,BRANDI S",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "8105.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOPKINS,FAITH C",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "38457.96",
+      "travel": "256.78"
+    },
+    {
+      "person_name": "HOWELL,MARCIA D",
+      "job_title": "ENTERPRISE TECHNICIAN",
+      "salary": "29039.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUTCHESON,JENNIFER M",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "54738.96",
+      "travel": "5371.43"
+    },
+    {
+      "person_name": "JENKINS,AMY M",
+      "job_title": "SECRETARY",
+      "salary": "8418.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,CHARLES C",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "16955.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEASURE,CYNTHIA A",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "55403.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOTT,YVONNE U",
+      "job_title": "CUSTODIAL PERSONNEL",
+      "salary": "14104.96",
+      "travel": "3614.22"
+    },
+    {
+      "person_name": "MATANANE,TOMMY C",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "50607.00",
+      "travel": "2697.76"
+    },
+    {
+      "person_name": "MCGAW,JAMES A",
+      "job_title": "INFORMATION SERV PERSONNEL",
+      "salary": "15070.02",
+      "travel": "987.50"
+    },
+    {
+      "person_name": "MCGAW,MYRTLE M",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "86165.04",
+      "travel": "4026.05"
+    },
+    {
+      "person_name": "MITCHELL,LISA M",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "33549.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURDOCK,KAREN DAWN",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "84756.00",
+      "travel": "1491.85"
+    },
+    {
+      "person_name": "NOBLES,KATHY K",
+      "job_title": "IS PERSONNEL - INSTRUCTION SERV",
+      "salary": "34932.96",
+      "travel": "997.82"
+    },
+    {
+      "person_name": "PEEBLES,NINA DAVIS",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "54413.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POSTELL,DAMIEN C",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "11445.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,MELANIE C",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "45216.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAMPSON,CASSANDRA A",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "9810.67",
+      "travel": "109.40"
+    },
+    {
+      "person_name": "SAXON,PATRICIA M",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "76118.04",
+      "travel": "4557.55"
+    },
+    {
+      "person_name": "SHAPPELL,LORI J",
+      "job_title": "OTHER INSTRUCTIONAL PROVIDER",
+      "salary": "39717.54",
+      "travel": "4207.00"
+    },
+    {
+      "person_name": "SIMMONS,NELTRICIA",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "15527.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMALLEY,DEBRA G",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "76118.04",
+      "travel": "3835.09"
+    },
+    {
+      "person_name": "STEWART,ALECIA H",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "60940.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,MELVIN",
+      "job_title": "YOUTH APPRENTICESHIP DIRECTOR",
+      "salary": "72954.84",
+      "travel": "2687.33"
+    },
+    {
+      "person_name": "STEWART,WENDY J",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14268.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,CUMMY J",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "15009.14",
+      "travel": "42.12"
+    },
+    {
+      "person_name": "SULLIVAN,HARRISS E",
+      "job_title": "RESA DIRECTOR",
+      "salary": "67801.86",
+      "travel": "3770.92"
+    },
+    {
+      "person_name": "TAVARES,A ZACHARIAH",
+      "job_title": "ENTERPRISE TECH COORDINATOR",
+      "salary": "64500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,LESTER C",
+      "job_title": "ENTERPRISE TECHNICIAN",
+      "salary": "50247.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VENEKLASEN,CLAY B",
+      "job_title": "ENTERPRISE TECHNICIAN",
+      "salary": "29391.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADLEY,SANDRA",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "14492.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATKINS,SUSAN REEVES",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "83379.84",
+      "travel": "2200.87"
+    },
+    {
+      "person_name": "WHITFIELD,HOLLY RACHELLE",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "9903.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,ANGEL M",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "13517.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,KATHY HUGHES",
+      "job_title": "OTHER INSTRUCTIONAL PROVIDER",
+      "salary": "58313.16",
+      "travel": "7177.43"
+    },
+    {
+      "person_name": "WILLIAMS,PAMALA A",
+      "job_title": "PSYCHO-ED SPEC ED SPECIALIST",
+      "salary": "56647.86",
+      "travel": "413.18"
+    },
+    {
+      "person_name": "WILLIAMSON,BARBARA C",
+      "job_title": "PSYCHO-ED SCHOOL SEC/CLERK",
+      "salary": "37340.04",
+      "travel": "100.42"
+    },
+    {
+      "person_name": "YOUMANS,DEBORAH ANN",
+      "job_title": "DIRECTOR OF PSYCHO-ED PROG",
+      "salary": "88389.00",
+      "travel": "2260.47"
+    }
+  ]
+}

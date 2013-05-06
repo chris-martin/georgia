@@ -1,0 +1,22 @@
+{
+  "payments": [
+    {
+      "person_name": "MCFALLS,TIMOTHY",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "150.49"
+    },
+    {
+      "person_name": "RHODENIZER,CARL",
+      "job_title": "BOARD MEMBER",
+      "salary": "1050.00",
+      "travel": "93.98"
+    },
+    {
+      "person_name": "STAPLETON,W  M",
+      "job_title": "BOARD MEMBER",
+      "salary": "1680.00",
+      "travel": "2584.05"
+    }
+  ]
+}

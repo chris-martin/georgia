@@ -1,0 +1,562 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAMS,A  HARRIS",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,GARY B",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "7810.82"
+    },
+    {
+      "person_name": "AVERA,KERI ALLISON",
+      "job_title": "APPLICATIONS CLERK",
+      "salary": "32347.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,MARGO",
+      "job_title": "DOCUMENTS CLERK",
+      "salary": "35430.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,ANNE ELIZABETH",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "2861.00"
+    },
+    {
+      "person_name": "BARRETT,STEPHEN SEAN",
+      "job_title": "SYSTEMS ENGINEER",
+      "salary": "47500.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,VICKI LYNN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENDER,PATTY M",
+      "job_title": "DEPUTY CLERK (JUD)",
+      "salary": "44896.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BISHOP,SABRINA E",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKWELL,KEITH R",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "1296.54"
+    },
+    {
+      "person_name": "BOGGS,MICHAEL P",
+      "job_title": "JUDGE",
+      "salary": "80323.39",
+      "travel": "8402.02"
+    },
+    {
+      "person_name": "BONNER,CHARLES DORRIER",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "106100.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANT,LA'SEAN Z",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHANDLER,H  JOSEPH",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLOUD,MARK V",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONLEY,JANET LYNNE",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "78556.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEMETZ,ROBERT A",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "18183.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DERRICO,RACHEL A",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIAMOND,LOLA M",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DILLARD,STEPHEN LOUIS A",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "8390.70"
+    },
+    {
+      "person_name": "DORVEE,IDA P",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "109677.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOYLE,AMY KATHLEEN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOYLE,SARA L",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "1793.92"
+    },
+    {
+      "person_name": "EARLES,JOHN ALLEN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLINGTON,JOHN J",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "13662.28"
+    },
+    {
+      "person_name": "ELZEY,PHILIP ROBERT",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EPTON-KEITT,CAROL ELIZABETH",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "23423.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEIL,CLYDE H",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "55290.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FELTON,JULE W",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GALLOWAY,SARA ELLEN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARDNER,TIFFANY DAWN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "80233.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAUDIOSI,LORRE J",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALDAR,LISA MICHELE",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "80233.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMRICK,GORDON L",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "103180.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDEN,CINDY A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "31506.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,ANITA WALDEN",
+      "job_title": "INTAKE CLERK",
+      "salary": "20000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,SUSAN A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEAD,MARTI A",
+      "job_title": "REMITITUR CLERK",
+      "salary": "50199.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERNANDEZ,DANIEL B",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "64273.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HINES,MARY H",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUTCHINSON,ROBIN M",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INDERMARK,KRISTEN J",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "105518.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IVEY,JUDITH DOZIER",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "11942.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,CATHERINE LAWLER",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "80233.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,CRYSTAL W",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,C  LYNN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "108593.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,LAVERNE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "31506.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,TERESA C",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,ANN HARRIETT",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,JAN R",
+      "job_title": "DIR OF FISCAL SVCS",
+      "salary": "97750.08",
+      "travel": "243.99"
+    },
+    {
+      "person_name": "KILPATRICK,PAMELA ANN R",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,LINDA T",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNOWLES,ALLISON ROBIN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "82922.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LI,ELIZABETH DAY",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "70534.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUTTRELL,STEPHANY J",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "75315.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATTUCH,KATHRYN OFFER",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAYER,JUDY",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "40860.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCBRIDE,VALERI J",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "108564.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCFADDEN,CHRISTOPHER J",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "2367.44"
+    },
+    {
+      "person_name": "MCGHEE-GLISSON,MARTHA L",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIKELL,CHARLES B",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "14913.43"
+    },
+    {
+      "person_name": "MILLER,M  YVETTE",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "693.84"
+    },
+    {
+      "person_name": "MOODY,TIFFANI ZIMMERMAN",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "102444.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,WILLIAM CARL",
+      "job_title": "FILE LIBRARIAN",
+      "salary": "24000.00",
+      "travel": "5.00"
+    },
+    {
+      "person_name": "MULLER,BRETT M",
+      "job_title": "SYSTEMS ANALYST (JUD)",
+      "salary": "64000.08",
+      "travel": "151.50"
+    },
+    {
+      "person_name": "O'BRIEN,BRENDA C",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "31506.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "O'DEA,SARA B",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "11307.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENS,MONICA R",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "108564.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,TRACEY L",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAYNE,DAVID C",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHIPPS,HERBERT E",
+      "job_title": "JUDGE",
+      "salary": "166186.32",
+      "travel": "13118.33"
+    },
+    {
+      "person_name": "RAYBURN,BONNIE ALLEN",
+      "job_title": "INTAKE CLERK",
+      "salary": "4000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBBLEE,PAUL A",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "13999.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,BENITA H",
+      "job_title": "PERSONNEL REPRESENTATIVE",
+      "salary": "39322.08",
+      "travel": "30.00"
+    },
+    {
+      "person_name": "ROBISON,LAURA H",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RODGERS,DEBORAH",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "42319.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUGGERI,JOHN J",
+      "job_title": "DIR OF TECH SVCS",
+      "salary": "108380.64",
+      "travel": "308.31"
+    },
+    {
+      "person_name": "SCHAIKEWITZ,PEARL S",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "17933.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,CHRISTINA K",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,J D",
+      "job_title": "JUDGE",
+      "salary": "83093.16",
+      "travel": "1563.44"
+    },
+    {
+      "person_name": "SPARROW,HOLLY K O",
+      "job_title": "CLERK OF THE COURT",
+      "salary": "120000.00",
+      "travel": "319.79"
+    },
+    {
+      "person_name": "STEELE,CARRIE ANNE",
+      "job_title": "ACCOUNTANT (JUD)",
+      "salary": "46514.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,GLENNA L",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "42880.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STOVER,TAMMY R",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "40321.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TALLENT,JANEY H",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "31506.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TODD,ANNETTE A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAKEFIELD,MICHAEL S",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEISBECKER,AMY LLOYD",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "7539.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHISNANT,JULIANNE SWILLEY",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,DIANA H",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "110580.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT-RHEAVES,ANGELIA G",
+      "job_title": "LEGAL ASSISTANT (JUD)",
+      "salary": "108593.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZILTON,RANEE HARRY",
+      "job_title": "ORDERS CLERK",
+      "salary": "30000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZIMMERMAN,DEBORAH SUE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "63012.24",
+      "travel": "0.00"
+    }
+  ]
+}

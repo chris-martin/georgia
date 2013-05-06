@@ -1,0 +1,52 @@
+{
+  "payments": [
+    {
+      "person_name": "BRANNON,BRIAN",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "121.38"
+    },
+    {
+      "person_name": "BROOKS,CATHERINE",
+      "job_title": "NETWORK ADMINISTRATOR",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,ROBERT W",
+      "job_title": "DIRECTOR",
+      "salary": "24000.00",
+      "travel": "965.76"
+    },
+    {
+      "person_name": "DANIEL,WOODSON",
+      "job_title": "DIRECTOR",
+      "salary": "42000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBSON,DONNA",
+      "job_title": "DATA ENTRY CLERK 1",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRUBBS,ELAINE",
+      "job_title": "DATA ENTRY CLERK 1",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITAKER,GLENDA",
+      "job_title": "BOOKKEEPER",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,CAROLYN",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "63.75"
+    }
+  ]
+}

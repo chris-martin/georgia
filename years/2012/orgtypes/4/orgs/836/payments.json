@@ -1,0 +1,2782 @@
+{
+  "payments": [
+    {
+      "person_name": "ABBOTT,BILLIE AVALIE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "8188.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,IVAN H",
+      "job_title": "PRESIDENT",
+      "salary": "159920.00",
+      "travel": "1502.86"
+    },
+    {
+      "person_name": "ALLISON,HOPE ALEXANDRIA",
+      "job_title": "ADMISSIONS ASSISTANT, TCSG",
+      "salary": "10077.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,ASHLEY MARIE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1714.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARHART,SUSAN MARY",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "11196.00",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "AVERY,WILLIAM S",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "37968.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,VALENCIA JAMIELLE",
+      "job_title": "WORKFORCE INVESTMENT ACT COORD",
+      "salary": "30388.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAIRD,FLOYD DON",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "17823.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BANKSTON,JENNY HEARD",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "2826.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARFIELD,JOHN THOMAS",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "54484.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,JULIA ELIZABETH",
+      "job_title": "FINANCIAL AID SPECIALIST TCSG",
+      "salary": "32754.00",
+      "travel": "264.95"
+    },
+    {
+      "person_name": "BARNICKEL,JUDITH A",
+      "job_title": "RECEIVING & DISTRIBUTION SPEC",
+      "salary": "23772.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARTLEY,CHERRIE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "2016.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BASTING,JAMES W",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "3888.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEDSOLE,MELISSA JO",
+      "job_title": "BOOKSTORE ASSISTANT (TCSG)",
+      "salary": "23050.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELFLOWER,SHANNON",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "52428.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,ANDREW SCOTT",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "52788.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENBROOKS,PAMELA SUE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13302.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,ALAINA L",
+      "job_title": "ACCOUNTING DIRECTOR (TCSG)",
+      "salary": "68041.00",
+      "travel": "661.28"
+    },
+    {
+      "person_name": "BENNETT,WILLIAM D",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "1150.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BERNHARD,SUSAN JEANNINE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13287.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BERRYHILL,DANIEL LESLIE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6535.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEST,CARLA LYNN",
+      "job_title": "PROJECT MANAGER",
+      "salary": "48859.00",
+      "travel": "8130.04"
+    },
+    {
+      "person_name": "BIGGINS,INEAKEY L",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "7141.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BISHOP,JOSEPH H",
+      "job_title": "ADULT LITERACY COORDINATOR",
+      "salary": "12706.65",
+      "travel": "282.00"
+    },
+    {
+      "person_name": "BLACK,TRACI JEAN",
+      "job_title": "RECEPTIONIST",
+      "salary": "3877.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLASSINGAME,PATRICE D",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "9766.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOODWORTH,WENDY MARIE",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "50004.00",
+      "travel": "560.03"
+    },
+    {
+      "person_name": "BLUNT,CHERONIE ANDERSON",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "26250.00",
+      "travel": "893.21"
+    },
+    {
+      "person_name": "BOONE,COURTNEY BRE'ANNA",
+      "job_title": "EDUCATIONAL AIDE",
+      "salary": "2690.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOONE,MICHELE C",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "66077.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYD,RAYFIELD",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4085.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAGG,TERRY L",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "48660.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAINARD,MICHAEL",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "26727.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANNEN,RODNEY E",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANSON,WHITTNEY LEWALLEN",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "30702.00",
+      "travel": "197.58"
+    },
+    {
+      "person_name": "BRASWELL,JUDIETH ANN",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "22203.00",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "BRAUTIGAM,LAURIE JEAN",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "18537.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ALEXANDRA ELYSE",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "7545.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,BOBBY L",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "58085.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,BRENDA LEE",
+      "job_title": "VICE PRESIDENT",
+      "salary": "94500.00",
+      "travel": "2539.08"
+    },
+    {
+      "person_name": "BROWN,CENTERIA MONIQUE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "3173.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,JANIE L",
+      "job_title": "ADMINISTRATIVE SUPPORT ASST",
+      "salary": "27408.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,PHILAMENIA R",
+      "job_title": "ADMISSIONS ASSISTANT, TCSG",
+      "salary": "29723.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,TAMMY LYNN",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "24825.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,WILLIAM J",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5750.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRUNER,JANA M",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "54016.20",
+      "travel": "53.53"
+    },
+    {
+      "person_name": "BRYANT,PHYLLIS REGINA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4038.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYANT,TRAUMEIKA S",
+      "job_title": "FINANCIAL AID SPECIALIST TCSG",
+      "salary": "33504.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUCHANAN,SUZANNE B",
+      "job_title": "EXECUTIVE ASST TO PRESIDENT",
+      "salary": "44808.00",
+      "travel": "319.00"
+    },
+    {
+      "person_name": "BUNN,DUMONT C",
+      "job_title": "LIBRARY SERVICES DIRECTOR",
+      "salary": "68607.31",
+      "travel": "194.30"
+    },
+    {
+      "person_name": "BUSH,ISABELLE R",
+      "job_title": "LIBRARIAN",
+      "salary": "48000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTTS,JASON K",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "222.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTTS,PATRICK LASHON",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "14747.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALDWELL,DEDRA D",
+      "job_title": "GED EXAMINER",
+      "salary": "23634.00",
+      "travel": "699.93"
+    },
+    {
+      "person_name": "CAMPBELL,RENAE BROOKS",
+      "job_title": "INSTRUCTOR, CHILD ENRICHMT CTR",
+      "salary": "980.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANNON,HELEN M",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1988.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARLSON,BREANNA",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1054.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARPENTER,BERNARD DANNY",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "442.02"
+    },
+    {
+      "person_name": "CARR,HEATHER ANN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "14874.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARSWELL,LARA VICTORIA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "3935.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHATMAN,PATRICIA E",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "19104.00",
+      "travel": "40.00"
+    },
+    {
+      "person_name": "CHINA,ERVIN JAMAR",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "46485.43",
+      "travel": "533.50"
+    },
+    {
+      "person_name": "CHINA,GABRIELE S",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHIT-AROON,LESLEY GAIL",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "11385.00",
+      "travel": "282.00"
+    },
+    {
+      "person_name": "CLARINGTON,MORRIS BERNARD",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "58864.00",
+      "travel": "325.00"
+    },
+    {
+      "person_name": "CLAY,RICHARD HAROLD",
+      "job_title": "LIBRARY ASSISTANT (DTAE)",
+      "salary": "34848.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLIATT,SOTERA",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "23556.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLIETT,BRENDA M",
+      "job_title": "PROGRAM ASSISTANT (DTAE)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLOUGH,DANIELLE GANN",
+      "job_title": "REGISTRAR, OFFICE ASSISTANT",
+      "salary": "26975.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLOUGH,MICHAEL A",
+      "job_title": "INFORMATION SYSTEM ADMINISTRAT",
+      "salary": "58440.00",
+      "travel": "199.98"
+    },
+    {
+      "person_name": "COLBERT,PEGGY L",
+      "job_title": "LIBRARY ASSISTANT (DTAE)",
+      "salary": "21684.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLE,ADRIAN STERLING",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2359.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLEY,DEVESTER",
+      "job_title": "FINANCIAL AID SPECIALIST TCSG",
+      "salary": "32754.00",
+      "travel": "296.00"
+    },
+    {
+      "person_name": "COLLINS,HOLLY MCMULLEN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2776.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLON,KIMBERLY CARMEN",
+      "job_title": "GED EXAMINER",
+      "salary": "448.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLSON,JUDY LYNN",
+      "job_title": "BOOKSTORE MANAGER (TCSG)",
+      "salary": "31968.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOGLE,SENECA LEIGH",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2143.00",
+      "travel": "293.30"
+    },
+    {
+      "person_name": "COOK,LONNIE HAROLD",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "49252.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOPER,CYNTHIA D",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13990.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COPELAND,CHRISTOPHER BRETT",
+      "job_title": "COORDINATOR (TCSG)",
+      "salary": "33880.08",
+      "travel": "178.00"
+    },
+    {
+      "person_name": "CORDES,MARY ELIZABETH",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6300.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,LORNA",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "59448.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAIG,TIMOTHY G",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "45460.00",
+      "travel": "890.00"
+    },
+    {
+      "person_name": "CROMBIE,MARION P",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "14674.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROOKER,ANDREW THOMAS",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4995.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROW,KIMBER D",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "2024.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,BRETT CHARLES",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13060.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CURTIS,MEGAN E",
+      "job_title": "INSTRUCTOR, CHILD ENRICHMT CTR",
+      "salary": "651.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUTLER-ERVIN,MICHELLE L",
+      "job_title": "CHILD ENRICHMENT CTR DIRECTOR",
+      "salary": "61718.00",
+      "travel": "423.00"
+    },
+    {
+      "person_name": "DAFFER,PETER ZITO",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4420.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DALTON,SARAH E",
+      "job_title": "PROGRAM ASSISTANT (DTAE)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,RICKI LYNN",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "899.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DARDY,DONESHA JONES",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "933.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,ERIC C",
+      "job_title": "MAINTENANCE TECHNICIAN (DTAE)",
+      "salary": "33000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,SHABREA S",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "17200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,SHAMIKA WALKER",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1846.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS-WATKINS,VARIAN DENISE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "18841.50",
+      "travel": "60.00"
+    },
+    {
+      "person_name": "DEES,KENNETH P",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6125.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNIS,MAYME L",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "9175.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNIS,NOAH",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "26703.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,WILMA B",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "18832.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOBBS,JOHN S",
+      "job_title": "TECHNICAL SUPPORT SPEC (DTAE)",
+      "salary": "34216.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DODSON,JOHNNY LEE",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "14817.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOODNATH,JENNY",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,BETH M",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4661.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,RUDOLPH KIM",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "1843.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURHAM,RAY MALONE",
+      "job_title": "FINANCIAL AID SPECIALIST TCSG",
+      "salary": "29498.09",
+      "travel": "296.00"
+    },
+    {
+      "person_name": "DURHAM,SHANNON SNELLGROVE",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "59815.00",
+      "travel": "486.50"
+    },
+    {
+      "person_name": "DUTCHER,DONNA LYNN",
+      "job_title": "SPECIAL SERVICES COORDINATOR",
+      "salary": "44003.00",
+      "travel": "793.60"
+    },
+    {
+      "person_name": "DYE-SHERMAN,KANDACE WISTORIA",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "17793.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EARLY,MARCUS A",
+      "job_title": "PROGRAM SPECIALIST (DTAE)",
+      "salary": "50004.00",
+      "travel": "612.50"
+    },
+    {
+      "person_name": "EARLY,SHAWNA C",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "59408.00",
+      "travel": "1695.65"
+    },
+    {
+      "person_name": "ECKLES,KARMEN RENEE",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDDY,SHARON D",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6520.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDGE,OSCAR",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2740.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDGE,STEVEN WESLEY",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "8530.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,VALARIE MICHELLE",
+      "job_title": "ADMISSIONS ASSISTANT, TCSG",
+      "salary": "24875.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EPPLER,DELORES D",
+      "job_title": "PROJECT SPECIALIST, DTAE",
+      "salary": "37284.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVERDING,CRISTITA C",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "24252.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVERIDGE,FELICIA",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "80750.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EWING,REBECCA J",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "61836.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FANNON,JUDY B",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "49457.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FELTON,ADELINE RUMPH",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "16950.00",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "FELTS,ADOLPHUS",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "51227.00",
+      "travel": "1315.74"
+    },
+    {
+      "person_name": "FERGUSON,DOROTHY J",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "65832.00",
+      "travel": "3357.32"
+    },
+    {
+      "person_name": "FERGUSON,LARRY",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "16740.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERRER,CRISTINA",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "4464.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FISHER,CATHERINE A",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOWERS,JEFFREY ELLIOTT",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2529.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOYD,JULIE A",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "55044.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORD,TIMOTHY CHANTEZ",
+      "job_title": "ASSESSMENT SPECIALIST 1 (TCSG)",
+      "salary": "20994.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,BRUCE",
+      "job_title": "DIRECTOR (TCSG)",
+      "salary": "70704.00",
+      "travel": "1260.00"
+    },
+    {
+      "person_name": "FOSTER,KAY K",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "1515.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,ROBERT A",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "3400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GALLMAN,DENNIS HOWE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "3120.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARNER,MELLISSA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "7164.00",
+      "travel": "1957.66"
+    },
+    {
+      "person_name": "GARY,LOUISE BRYANT",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "23556.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GELTER,ELENA",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "17172.00",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "GEMOULES,PAMELA LOUISE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "17507.50",
+      "travel": "290.00"
+    },
+    {
+      "person_name": "GERARD,ROBERT A",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "46238.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILLIS,SHARON W",
+      "job_title": "ADMISSIONS ASSISTANT, TCSG",
+      "salary": "26447.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLOVER,SHIRLEY D",
+      "job_title": "FINANCIAL AID DIRECTOR (TCSG)",
+      "salary": "48327.28",
+      "travel": "303.90"
+    },
+    {
+      "person_name": "GRAENING,EDWARD THOMAS",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "6084.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAHL,KATIE LYNN",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "1051.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAMLING,HOLLY LYNN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2293.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAVES,KEITH RUSSELL",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "22.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREENE,STEVE E",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "65012.00",
+      "travel": "417.12"
+    },
+    {
+      "person_name": "GROVE,EVELYN M",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "52601.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GUNN,KIMBERLY DRIVER",
+      "job_title": "HIGH SCHOOL COORDINATOR",
+      "salary": "47280.00",
+      "travel": "178.02"
+    },
+    {
+      "person_name": "HALBERT,VICKY O",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "61667.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDY,CHERONDA VERNELLE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "9261.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDY,KENNETH A",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "54142.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARKINS,DEBRA S",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "54900.00",
+      "travel": "58.00"
+    },
+    {
+      "person_name": "HARMON,SHIRLEY LANELL",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5661.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIEL-TURNER,LESLIE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "1075.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,EDITH CHRISTINE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "13536.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,JAMES",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "41017.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,YATAIVA SHADORA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "3627.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HART,VERONICA TRINETTA",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "20601.00",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "HAYWOOD,SANDRA J",
+      "job_title": "ADMISSIONS ASSISTANT, TCSG",
+      "salary": "12743.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEATH,CHARLES E",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "26175.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRICKS,WILLIAM F",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "6972.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERNANDEZ,ESIQUIO",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "58060.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIBBITTS,PAUL E",
+      "job_title": "BOARD MEMBER",
+      "salary": "630.00",
+      "travel": "1059.13"
+    },
+    {
+      "person_name": "HICKEY,VALENCIA MCARTHUR",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "58764.00",
+      "travel": "325.00"
+    },
+    {
+      "person_name": "HILL,PRISCILLA A",
+      "job_title": "ADVISOR",
+      "salary": "34341.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILLSMAN,TANDREKA DENISE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "996.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HINES,SYLVIA F",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "24186.25",
+      "travel": "251.33"
+    },
+    {
+      "person_name": "HINSON,SUSAN L",
+      "job_title": "ACCOUNTING TECHNICIAN (TCSG)",
+      "salary": "37320.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODGES,VERNARD L",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOFFMAN,JEFFREY C",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "56856.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOFFMANN,JOAN L",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "8875.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOFKNECHT,CHRISTIE W",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4586.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLOWAY,AMY",
+      "job_title": "VP FOR ACADEMIC AFFAIRS",
+      "salary": "98004.00",
+      "travel": "1117.82"
+    },
+    {
+      "person_name": "HOOVER,CATHY K",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "59000.00",
+      "travel": "466.00"
+    },
+    {
+      "person_name": "HOWARD,ANISSA K",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "1845.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,HANK TYCE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6844.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,JOHN EDWARD",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "480.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,LARONDA SHENIK",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "24012.00",
+      "travel": "318.57"
+    },
+    {
+      "person_name": "HOWARD,PHILIP L",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "48527.00",
+      "travel": "614.10"
+    },
+    {
+      "person_name": "HOWELL,ASHLEY JAMES",
+      "job_title": "INSTRUCTOR, CHILD ENRICHMT CTR",
+      "salary": "14272.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,WOODIE JR",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "8504.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUNTER-TYUS,ARTTRELL Y-YEIMA",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "42829.00",
+      "travel": "624.00"
+    },
+    {
+      "person_name": "ICARD,KELLY H",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "60449.00",
+      "travel": "1392.18"
+    },
+    {
+      "person_name": "IVEY,PATRICK L",
+      "job_title": "CAREER PLACEMENT & DEVEL DIR",
+      "salary": "62900.00",
+      "travel": "1384.65"
+    },
+    {
+      "person_name": "JACKSON,AUMI DARVIA",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "663.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,BRANDILYN N",
+      "job_title": "SKILLED TRADES WORKER",
+      "salary": "1500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,CRAIG B",
+      "job_title": "VICE PRES OF STUDENT AFFAIRS",
+      "salary": "92040.00",
+      "travel": "399.00"
+    },
+    {
+      "person_name": "JACKSON,DECARLA RICKELLE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "846.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,LASHANDRIA KWANTA",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "3875.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,LATAYNA",
+      "job_title": "FINANCIAL AID SPECIALIST TCSG",
+      "salary": "34838.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,YSHIKA LATREASE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1846.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACQUES,ELVYN E",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "25152.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,SHANDRA FONISHA",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1114.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JANSEN,BARBARA A",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "85200.00",
+      "travel": "869.84"
+    },
+    {
+      "person_name": "JENKINS,SONJA",
+      "job_title": "REGISTRAR (DTAE)",
+      "salary": "65279.00",
+      "travel": "354.00"
+    },
+    {
+      "person_name": "JOHANSEN,WILLIAM C",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5930.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,CATHY D",
+      "job_title": "DIRECTOR (TCSG)",
+      "salary": "88030.00",
+      "travel": "266.00"
+    },
+    {
+      "person_name": "JOHNSON,IRIS LORRAINE",
+      "job_title": "EDUCATIONAL AIDE",
+      "salary": "892.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,JEREMIAH JAMES",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "21512.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,JOE LEWIS",
+      "job_title": "MAINTENANCE TECHNICIAN (DTAE)",
+      "salary": "27000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,KEVIN A",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "567.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,MITCHELL HALL",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "2986.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,PAMELA SEARCY",
+      "job_title": "TUTOR  (DTAE)",
+      "salary": "2007.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,WILBUR JAMES",
+      "job_title": "PROFESSIONAL EDUCATION WORKER",
+      "salary": "3773.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOINER,MATHUE M",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "192.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,CAROL F",
+      "job_title": "HUMAN RESOURCES DIR (TCSG)",
+      "salary": "58608.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,CYNTHIA P",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "5904.00",
+      "travel": "282.00"
+    },
+    {
+      "person_name": "JONES,ERIN L",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "1283.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLY,JANET HEARD",
+      "job_title": "PUBLIC RELATIONS & INFO DIR",
+      "salary": "56275.00",
+      "travel": "1835.04"
+    },
+    {
+      "person_name": "KENDRICK,LAKESHIA",
+      "job_title": "RECEPTIONIST",
+      "salary": "26996.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KERHIN,LISA M",
+      "job_title": "ADMISSIONS ASSISTANT, TCSG",
+      "salary": "214.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KERSEY,JOSEPH MICHAEL",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "33996.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,BEATRICE",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22164.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,CHRISTINA DENISE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "10349.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,JOI",
+      "job_title": "ADULT LITERACY COORDINATOR",
+      "salary": "52284.00",
+      "travel": "739.30"
+    },
+    {
+      "person_name": "KING,KASANDRA DENEYCE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "3110.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KRATZ,AMY L",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "10317.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KUHN,CAROL A",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "81148.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAIDLER,ARTIE BEN",
+      "job_title": "TECHNOLOGY SUPPORT SPEC (DTAE)",
+      "salary": "32800.00",
+      "travel": "154.00"
+    },
+    {
+      "person_name": "LAMBERT,CANDLER B",
+      "job_title": "ADVISOR",
+      "salary": "43652.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANE,JAMES R",
+      "job_title": "DEAN FOR ACADEMIC AFFAIRS",
+      "salary": "96000.00",
+      "travel": "271.62"
+    },
+    {
+      "person_name": "LANKFORD,JACQUELINE MCKENZIE",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "3383.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWSON,BEVERLY",
+      "job_title": "GED TESTING ASSISTANT",
+      "salary": "14071.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWSON,SHALOREE MARQUEL",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1977.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWSON,WAYNE",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAYSON,SYLVIA ANN",
+      "job_title": "GED EXAMINER",
+      "salary": "2288.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,DARON D",
+      "job_title": "ASSESSMENT SPECIALIST 2 (TCSG)",
+      "salary": "35004.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LELAND,HUGH H",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "49408.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LESTER,SAMUEL M",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "65102.00",
+      "travel": "1973.44"
+    },
+    {
+      "person_name": "LEWIS,LINDA FAYE",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "46500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINDSEY,MILDRED D",
+      "job_title": "ADULT LITERACY COORDINATOR",
+      "salary": "10761.00",
+      "travel": "282.00"
+    },
+    {
+      "person_name": "LLOYD,JETENDRA MCDONALD",
+      "job_title": "ADMISSIONS ASSISTANT, TCSG",
+      "salary": "12397.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKHART,DWIGHT STEVEN",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "47916.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKHART,ENRIQUE ZIMBABWE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "15096.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LODGE,CHRISTOPHER R",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "56166.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LODGE,JACINTA CHARMAINE",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "6857.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOGGINS,STEPHANIE CHANTEL",
+      "job_title": "PROGRAM ASSISTANT (DTAE)",
+      "salary": "21530.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LONG,ALICIA G",
+      "job_title": "COORDINATOR (TCSG)",
+      "salary": "45888.00",
+      "travel": "308.00"
+    },
+    {
+      "person_name": "LOWDER-HAASTRUP,JANITA V",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "21437.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWE,ASYA LACONIA",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "6431.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUCAS,BRITTANY J",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "45460.00",
+      "travel": "1637.11"
+    },
+    {
+      "person_name": "LUCAS,KANEICE BEMBRY",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5571.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUEALLEN,SHAYONNA ALEASE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "2407.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MACKEY,DANA MICHELLE",
+      "job_title": "GED EXAMINER",
+      "salary": "20239.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MACKEY,FELICIA A",
+      "job_title": "ADVISOR",
+      "salary": "51680.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALONE,EDWARD K",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "4680.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANN,JEREMY CHRISTOPHER",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "1842.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANVILLE,PHILLIP LAWRENCE",
+      "job_title": "RESEARCH ASSISTANT",
+      "salary": "12579.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARSHALL,ALICIA I",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "333.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,ANITA OSBORN",
+      "job_title": "MARKETING ASSISTANT, DTAE",
+      "salary": "900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,JOLIE ANN",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "49150.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,SHAMIKA TIAIRA",
+      "job_title": "BOOKSTORE ASSISTANT (TCSG)",
+      "salary": "3259.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,SHARON DENISE",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTINEZ-CHAVEZ,LIZETH",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "18409.50",
+      "travel": "40.00"
+    },
+    {
+      "person_name": "MASHBURN,JAMES GREGORY",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5280.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAYTON,ANNE TERRY",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "4493.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCARTHY,SEAN M",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4593.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLAIN,YOULANDA A",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "11106.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCORD,SHELLY",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13129.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCRARY,DANNY L",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4861.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCRARY,EDITH",
+      "job_title": "TRANSPORTATION SERVICES WORKER",
+      "salary": "7245.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDANIEL,JUDITH ANN",
+      "job_title": "STUDENT AFFAIRS ASSISTANT",
+      "salary": "16544.27",
+      "travel": "1150.83"
+    },
+    {
+      "person_name": "MCDONALD,ALICIA NICOLE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "11923.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDONALD,DEBRA L",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "11050.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDONALD,JOHNNY M",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "4188.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCFARLIN,BILL THOMAS",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2414.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGRIFF,KRISTY DENISE",
+      "job_title": "HUMAN RESOURCES TECHNICIAN",
+      "salary": "30000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCIVER,RENISHA S",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "631.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMICHAEL,THOMAS J",
+      "job_title": "BOARD MEMBER",
+      "salary": "630.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MERCER,DERRICK DEON",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "11956.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEYER,DANIEL E",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "45000.00",
+      "travel": "507.00"
+    },
+    {
+      "person_name": "MEYERS,SABRIYA AQUILA",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "445.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,CARRIE A",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "52488.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,DEENA L",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "33379.96",
+      "travel": "2575.27"
+    },
+    {
+      "person_name": "MILLER,JOHN DAVID",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "8892.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,YOLANDA L",
+      "job_title": "ACCOUNTING TECHNICIAN (TCSG)",
+      "salary": "30651.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIMS,GEORGE HOWARD",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "4460.00",
+      "travel": "40.00"
+    },
+    {
+      "person_name": "MINTER,COLBRETTA Q",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "2749.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,DEREK LINTON",
+      "job_title": "BOOKSTORE ASSISTANT (TCSG)",
+      "salary": "1717.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOEHLENKAMP,DEE V",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "53172.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MONTANO,KIMBERLY NICOLE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1034.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,ALEXIA QUINTELLA",
+      "job_title": "EDUCATIONAL AIDE",
+      "salary": "7781.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,DEBRA L",
+      "job_title": "ACCOUNTING TECHNICIAN (TCSG)",
+      "salary": "33180.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRIS,SHANNON C",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "320.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,CHARLES DANNY",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "54286.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,JUTTA K",
+      "job_title": "CUSTODIAN (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,KIMBERLY S",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "5780.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,KIMBERLY SHERIE",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "10555.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWBERRY,ANGELA LATOYCE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "23508.00",
+      "travel": "1546.15"
+    },
+    {
+      "person_name": "NEWBY,BEN",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "27550.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOBLES,BRITTNI NICOLE",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORRIS,STEVEN L",
+      "job_title": "OPERATIONS DIRECTOR - EVENING",
+      "salary": "26400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "O'BEAR,DONNA WOODFORK",
+      "job_title": "INSTRUCTOR, CHILD ENRICHMT CTR",
+      "salary": "23842.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "O'DEA,PAUL F",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "50979.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "O'HARA,MICHAEL B",
+      "job_title": "BOARD MEMBER",
+      "salary": "630.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "O'SHIELDS,JEAN MURRELL",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "15471.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OCHOA,HOPE LYNN",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "177.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ODUMS,BLANCHE R",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "15075.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OFOSU-ANIM,GEORGE ASARE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "22369.50",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "OLEN,JAMES W",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "48900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OMDAHL,PHILIP T",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "41818.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENS,WENDY",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "512.00",
+      "travel": "61.20"
+    },
+    {
+      "person_name": "PACE,JOHN MICHAEL",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "6159.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAEZ,RUDOLPH A",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "50856.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARADIS,LINDA T",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "56166.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARHAM,ANDREW L",
+      "job_title": "BUSINESS & INDUSTRY SVCS SPEC",
+      "salary": "39360.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,CHRISTY",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "5890.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER-ANDERSON,CHERISE M",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "7956.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATTERSON,LINDA M",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6520.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETERSDORFF,JOSEPH",
+      "job_title": "MAINTENANCE SUPERVISOR-DTAE",
+      "salary": "48000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEZON,ALEX",
+      "job_title": "INSTRUCTOR CONTINUING EDU DTAE",
+      "salary": "33996.00",
+      "travel": "205.02"
+    },
+    {
+      "person_name": "PHILLIPS,STEPHANIE W",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "54228.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHILLIPS,TAMMY A",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4300.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIKE,JAMES SHANNON",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "9300.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIKE,KIMBERLEE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "22243.50",
+      "travel": "604.00"
+    },
+    {
+      "person_name": "PRESSWOOD-HUNTER,CHERYL DENISE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "3502.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRICE,DEBBIE P",
+      "job_title": "ADVISOR",
+      "salary": "51460.10",
+      "travel": "517.47"
+    },
+    {
+      "person_name": "PRICKETT,DONNA T",
+      "job_title": "PURCHASING TECHNICIAN (DTAE)",
+      "salary": "32628.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRIEST,MARSHA W",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "294.68"
+    },
+    {
+      "person_name": "PROULX,KIM ANN",
+      "job_title": "TUTOR  (DTAE)",
+      "salary": "33368.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PURVIS,DREW CORNEIL",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13602.99",
+      "travel": "275.22"
+    },
+    {
+      "person_name": "RAY,HOLLY MARIE",
+      "job_title": "INSTRUCTOR, CHILD ENRICHMT CTR",
+      "salary": "14451.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAY-RILEY,SABRINA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5156.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REID-KITTLE,DONNA LEE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "947.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REYNOLDS,KATERINA MICHELLE",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "6511.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICE,DONALD WADE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "3831.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RILEY,INDIA BREANA",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "554.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,ELMA DIZON",
+      "job_title": "FOOD SERVICE EMPLOYEE (TCSG)",
+      "salary": "22350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,ETHEL LEE",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "48684.00",
+      "travel": "2312.43"
+    },
+    {
+      "person_name": "ROWLAND,SUSAN JEAN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13304.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROZIER,VEATRICE D",
+      "job_title": "ADVISOR",
+      "salary": "43652.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUMAGE,JAMES M",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "8457.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUMNEY,CYNTHIA C",
+      "job_title": "DISTANCE EDUCATION SPECIALIST",
+      "salary": "80913.00",
+      "travel": "793.78"
+    },
+    {
+      "person_name": "RUTHERFORD,DIANNE E",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "47199.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RYNDERS,RANDALL P",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "74384.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SACKS,BRUCE E",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "59176.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SARTAIN,ANNE D",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "61284.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHEUERMANN,ELENA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "7454.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHMIDT,BRIAN",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "50256.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHNECK-SCOTT,ADRIA RAE",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "7012.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHOFILL,STEPHANIE LYNN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "1288.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCRUGGS,JEFFREY TODD",
+      "job_title": "VICE PRESIDENT ECONOMIC DEV",
+      "salary": "107812.00",
+      "travel": "1330.14"
+    },
+    {
+      "person_name": "SCRUGGS,KELLY",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "3344.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEARS,ANTHONY DEWAYNE",
+      "job_title": "PROGRAM SPECIALIST (DTAE)",
+      "salary": "2380.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SELPH,SCOTT PATRICK",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "13527.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHAW,JULIA NELL",
+      "job_title": "DEAN FOR ACADEMIC AFFAIRS",
+      "salary": "92285.00",
+      "travel": "633.82"
+    },
+    {
+      "person_name": "SHELLEY,ANTONIO D",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "59640.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHELLEY,KOURTNEY LATIMORE",
+      "job_title": "RECRUITER/ADMN COUNSELOR DTAE",
+      "salary": "37104.00",
+      "travel": "81.60"
+    },
+    {
+      "person_name": "SHELLEY-BROWN,LAWANDA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6392.00",
+      "travel": "282.00"
+    },
+    {
+      "person_name": "SHENNETT,ANNIE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26280.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHUMWAY,ILKA I",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "22401.00",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "SIEGEL,SHIRLEY ANN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "8182.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINGLETON,CEDRIC LEE",
+      "job_title": "SECURITY OFFICER (TCSG)",
+      "salary": "6840.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINIARD,MICHELLE",
+      "job_title": "VICE PRESIDENT OF ADMIN (DTAE)",
+      "salary": "94548.00",
+      "travel": "1532.98"
+    },
+    {
+      "person_name": "SMALL,HEATHER ELAINE",
+      "job_title": "SECRETARY (AL)",
+      "salary": "627.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMALL,TARRELL D",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "50004.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ALICE E",
+      "job_title": "TESTING SPECIALIST",
+      "salary": "36275.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,CHERI JOSEPHINE",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "4773.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,DWAYNE EDWARD",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "47049.00",
+      "travel": "390.06"
+    },
+    {
+      "person_name": "SMITH,LINDA H",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "62500.00",
+      "travel": "342.08"
+    },
+    {
+      "person_name": "SMITH,TAMIKA L",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "592.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,VICKIE LATRICE",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "1749.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,WILLIAM JAMES",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SNELGROVE,BRIAN C",
+      "job_title": "DIRECTOR (TCSG)",
+      "salary": "83505.00",
+      "travel": "1895.51"
+    },
+    {
+      "person_name": "SOPHA,ROGER M",
+      "job_title": "MANAGER (DTAE)",
+      "salary": "64268.00",
+      "travel": "182.28"
+    },
+    {
+      "person_name": "SORENSON,KELLY WHITE",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "53944.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOUTHERLAND,LYNN R",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "25207.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPARROW,JANIS H",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPEAR,HARVEY C",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "3427.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPEIR,JAMES RICKIE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5640.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPENCE,PAMELA ANN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "19537.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIVEY,MILTON ANTHONY",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "8428.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIVEY,TIFFANY MINYON",
+      "job_title": "TUTOR  (DTAE)",
+      "salary": "34487.19",
+      "travel": "564.00"
+    },
+    {
+      "person_name": "STALNAKER,TOMMY",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STARKS,EDWARD P  S",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "56241.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STATHAM,CYNTHIA",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "6264.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEADMAN,CAMBRI LAVON",
+      "job_title": "MEDIA SPECIALIST, DTAE",
+      "salary": "1928.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEELE,DANIELLE A",
+      "job_title": "SECRETARY (AL)",
+      "salary": "26573.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STELK,CHERYL C",
+      "job_title": "INSTITUTIONAL ADVANCEMENT DIR",
+      "salary": "67378.00",
+      "travel": "709.00"
+    },
+    {
+      "person_name": "STEPHENS,KRYSTAL TIFFANY",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1634.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEPHENS,QUINTERIOUS JERMAL",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "2470.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,AMANDA D",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "9824.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,RYA NEKISHA",
+      "job_title": "EDUCATIONAL AIDE",
+      "salary": "833.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART-NICHOLSON,MALINDA",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "6777.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART-SALES,TONI",
+      "job_title": "ADVISOR",
+      "salary": "34770.00",
+      "travel": "1113.25"
+    },
+    {
+      "person_name": "STONE,CHARLES E",
+      "job_title": "SATELLITE OPERATIONS DIRECTOR",
+      "salary": "61500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRAWDER,IVY RENNE",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "825.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRICKLAND,SHERRY L",
+      "job_title": "ADMINISTRATIVE SUPPORT ASST",
+      "salary": "33504.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STYLES,BARCADO V",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "3224.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUTLIFF,PATRICIA D",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "2799.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWIFT,DEENTRA",
+      "job_title": "BOOKSTORE ASSISTANT (TCSG)",
+      "salary": "27600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TANNER,JANET L",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "49905.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,ALESIA ANNE",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "90837.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,APRIL S",
+      "job_title": "COORDINATOR (TCSG)",
+      "salary": "36960.00",
+      "travel": "1066.86"
+    },
+    {
+      "person_name": "THOMAS,LEWIS PAUL",
+      "job_title": "TECHNICAL SUPPORT SPEC (DTAE)",
+      "salary": "24472.50",
+      "travel": "6933.28"
+    },
+    {
+      "person_name": "THOMAS,MELODI NICOLE",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "15640.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,IKE CHARLES",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "8240.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THORNE,SACHEEN N",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "4250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TORRES,DANIELA LUCINDA",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "51064.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TORWEIHE,GIRLY NOE MI",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "6189.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWLES,LEON E",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "52404.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRESSLER,CHRISTEL D",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "22094.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TROTTER,SHELLA NICOLE",
+      "job_title": "BOOKSTORE ASSISTANT (TCSG)",
+      "salary": "1987.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,DEANNA L",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "629.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TYER,RANDALL DENNIS",
+      "job_title": "MAINTENANCE TECHNICIAN (DTAE)",
+      "salary": "27000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "USHER,EUNICE CAROLINE",
+      "job_title": "PROFESSIONAL EDUCATION WORKER",
+      "salary": "9297.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VARNER,CHARLES FRANKLIN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5080.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VEST,KRISTY LYNN",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "16790.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VICKERS,JOHN J",
+      "job_title": "MAINTENANCE TECHNICIAN (DTAE)",
+      "salary": "24312.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VIZZI,ANGELA LOUISE",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "3612.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALDON,SHANE",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "69549.40",
+      "travel": "613.00"
+    },
+    {
+      "person_name": "WALKER,ELI C",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "29869.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,SUSAN M",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "58918.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,TANEKIA ANTWANETTE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "1145.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,WILLIE E",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "1054.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER-ASKEW,CARRIE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "18154.50",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "WALLACE,RICHARD P",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "50084.00",
+      "travel": "624.00"
+    },
+    {
+      "person_name": "WALTON,JENNIFER NICOLE",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "103.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTON,MONECIA D",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "60834.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,JOHN ELDON",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5372.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARREN,LARRY F",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "46872.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARREN,SUSAN A",
+      "job_title": "STUDENT AFFAIRS ASSISTANT",
+      "salary": "26447.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,NATALIE NICOLE",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "7080.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATERS,EMORY STEPHEN",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "45171.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATKINS,COURTNEY JAMES",
+      "job_title": "FINANCIAL AID SPECIALIST TCSG",
+      "salary": "2879.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATKINS,THERESA A",
+      "job_title": "STUDENT AFFAIRS ASSISTANT",
+      "salary": "313.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,CRYSTAL J",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "20948.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEBB,DANIEL P",
+      "job_title": "ADMISSIONS DIRECTOR (TCSG)",
+      "salary": "79535.00",
+      "travel": "361.75"
+    },
+    {
+      "person_name": "WEBB,LARRY P",
+      "job_title": "TECHNOLOGY SUPPORT SPEC (DTAE)",
+      "salary": "33184.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,ASHLEY SHANTA",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "4313.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,JANICE",
+      "job_title": "INSTRUCTIONAL AIDE",
+      "salary": "26634.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,LACHELL SOPHIA",
+      "job_title": "PROGRAM ASSISTANT (DTAE)",
+      "salary": "11090.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WESTBROOK,KENNETHIA BROWN",
+      "job_title": "OPERATIONS DIRECTOR - EVENING",
+      "salary": "523.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHEELER,MELANIE ENGLISH",
+      "job_title": "INSTRUCTOR, CHILD ENRICHMT CTR",
+      "salary": "3749.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHIDDON,LYNN M",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "76881.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,NICHOLAS EARL",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "8738.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITEHEAD,BRANDON MICHAEL",
+      "job_title": "MARKETING ASSISTANT, DTAE",
+      "salary": "22296.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITEHEAD,DEASTRICE",
+      "job_title": "EDUCATIONAL AIDE",
+      "salary": "1118.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WICKER,DENISE ANN",
+      "job_title": "EDUCATIONAL AIDE",
+      "salary": "1618.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILBANKS,ROBERT J",
+      "job_title": "SECURITY CHIEF, DTAE",
+      "salary": "45000.00",
+      "travel": "1185.00"
+    },
+    {
+      "person_name": "WILBURN,RHONDA MAE",
+      "job_title": "PROGRAM ASSISTANT (DTAE)",
+      "salary": "17235.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,LISBELL",
+      "job_title": "RECEPTIONIST",
+      "salary": "3841.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILKERSON,BRENDA E",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "14529.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILKES,CHRISTOPHER WILL",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "5208.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,GARRETT BRANDON",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "17688.00",
+      "travel": "40.00"
+    },
+    {
+      "person_name": "WILLIAMS,HEATHER FAYE",
+      "job_title": "INSTRUCTOR, CHILD ENRICHMT CTR",
+      "salary": "29124.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JAMES L",
+      "job_title": "MAINTENANCE TECHNICIAN (DTAE)",
+      "salary": "33000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,STEPHEN D",
+      "job_title": "BOARD MEMBER",
+      "salary": "630.00",
+      "travel": "531.90"
+    },
+    {
+      "person_name": "WILLIAMS,TRELAINE",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "10540.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,BRIDGETTE L",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "68037.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,JESSICA M",
+      "job_title": "FEDERAL WORK STUDY STUDENT",
+      "salary": "3973.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,JESSICA NICOLE",
+      "job_title": "FINANCIAL AID SPECIALIST TCSG",
+      "salary": "28722.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,SAMUEL A",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "48864.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,TODD EDWARD",
+      "job_title": "ADJUNCT FACULTY-APO (TCSG)",
+      "salary": "9874.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WIMSATT,FREDIA A",
+      "job_title": "INSTRUCTOR, TECHNICAL  (DTAE)",
+      "salary": "59127.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WISE,JUNE A",
+      "job_title": "LIBRARY ASSISTANT (DTAE)",
+      "salary": "21684.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOLFORK,CAROL H",
+      "job_title": "INSTRUCTOR, GENERAL CORE (DTAE",
+      "salary": "55861.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WREASE,PAMELA ALICIA A",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "3136.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,ANN M",
+      "job_title": "STUDENT AFFAIRS SPECIALIST",
+      "salary": "36600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,JOANNA ELIZABETH",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "5306.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZODY,SUSANA",
+      "job_title": "ADJUNCT FACULTY HRLY (TCSG)",
+      "salary": "19499.00",
+      "travel": "322.00"
+    }
+  ]
+}

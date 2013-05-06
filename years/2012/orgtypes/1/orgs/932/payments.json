@@ -1,0 +1,52 @@
+{
+  "payments": [
+    {
+      "person_name": "CROMLEY,LEE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "557.48"
+    },
+    {
+      "person_name": "HARRIS,MARTHA",
+      "job_title": "OFFICE ADMINISTRATOR",
+      "salary": "30488.88",
+      "travel": "265.20"
+    },
+    {
+      "person_name": "LUCAS,JAMES",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "788.80"
+    },
+    {
+      "person_name": "NIKITOPOULOS,RAE KAREN",
+      "job_title": "COMMUNICATIONS DIRECTOR",
+      "salary": "36014.88",
+      "travel": "1700.34"
+    },
+    {
+      "person_name": "PERRY,SCHLEY L",
+      "job_title": "BOARD MEMBER",
+      "salary": "150.00",
+      "travel": "396.78"
+    },
+    {
+      "person_name": "ROBINSON,WAVELL",
+      "job_title": "BOARD MEMBER",
+      "salary": "150.00",
+      "travel": "736.44"
+    },
+    {
+      "person_name": "RUARK,JOHN MARVIN",
+      "job_title": "BOARD MEMBER",
+      "salary": "120.00",
+      "travel": "503.88"
+    },
+    {
+      "person_name": "SEATON,WILLIAM R",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "83018.88",
+      "travel": "7089.81"
+    }
+  ]
+}

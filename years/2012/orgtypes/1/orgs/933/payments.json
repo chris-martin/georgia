@@ -1,0 +1,40 @@
+{
+  "payments": [
+    {
+      "person_name": "ALEXANDER,BRITTANY",
+      "job_title": "OFFICE ADMINISTRATOR",
+      "salary": "9655.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIDELL,HOLLY",
+      "job_title": "NUTRITION",
+      "salary": "18584.34",
+      "travel": "124.35"
+    },
+    {
+      "person_name": "HOWELL,ROBERT",
+      "job_title": "VICE PRESIDENT",
+      "salary": "38808.78",
+      "travel": "916.07"
+    },
+    {
+      "person_name": "HUTTO,JEWELL",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "36846.00",
+      "travel": "4771.62"
+    },
+    {
+      "person_name": "STRAUGHAN,JERRY",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "128.19"
+    },
+    {
+      "person_name": "THOMASON,LARRY",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "252.45"
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "payments": [
+    {
+      "person_name": "ANDERSON,JANET W",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "57289.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,SUSAN K",
+      "job_title": "FINANCIAL EXAMINER (SP)",
+      "salary": "73755.12",
+      "travel": "9928.16"
+    },
+    {
+      "person_name": "ASHLEY,ALICIA D",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "35783.76",
+      "travel": "9461.17"
+    },
+    {
+      "person_name": "BAKER,JAMES RYAN",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "42126.36",
+      "travel": "3808.92"
+    },
+    {
+      "person_name": "BALL,SHEILA BERSCH",
+      "job_title": "SECRETARY (AL)",
+      "salary": "36486.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAUGUSS,ROBERT FRANKLIN",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "50280.48",
+      "travel": "2299.45"
+    },
+    {
+      "person_name": "BINFORD,LORI ANN",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "99865.44",
+      "travel": "319.79"
+    },
+    {
+      "person_name": "BLACK,M  KATHRYN",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "29819.68",
+      "travel": "6536.06"
+    },
+    {
+      "person_name": "BOHANNON,BRITTANY N",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "54101.04",
+      "travel": "1954.70"
+    },
+    {
+      "person_name": "BRAHANA,PATRICK T",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "53966.88",
+      "travel": "5135.13"
+    },
+    {
+      "person_name": "BRANTLEY,VICKI LEIGH",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "70226.02",
+      "travel": "4966.33"
+    },
+    {
+      "person_name": "BRASWELL,ROBERT MARK",
+      "job_title": "COMMISSIONER",
+      "salary": "136204.56",
+      "travel": "1448.89"
+    },
+    {
+      "person_name": "BROWN,DENISE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "80834.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SUSAN",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "56961.84",
+      "travel": "17.21"
+    },
+    {
+      "person_name": "BRYAN,JANET LYN",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "72034.68",
+      "travel": "2721.36"
+    },
+    {
+      "person_name": "BRYAN,MICHAEL DURRELL",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "67231.92",
+      "travel": "3955.54"
+    },
+    {
+      "person_name": "BURNS,AMANDA N",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "2094.77",
+      "travel": "680.87"
+    },
+    {
+      "person_name": "BYERS,MATTHEW JOEL",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "65183.76",
+      "travel": "-510.82"
+    },
+    {
+      "person_name": "CAMPBELL,GEORGE E",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "53966.88",
+      "travel": "107.61"
+    },
+    {
+      "person_name": "CARNES,DERRELL R",
+      "job_title": "DEPUTY COMM ADM THRFT BK SPV",
+      "salary": "126328.08",
+      "travel": "894.40"
+    },
+    {
+      "person_name": "CARNEY,HAROLD JOSEPH",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "79214.64",
+      "travel": "2874.49"
+    },
+    {
+      "person_name": "CAUDELL,STEVEN K",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "13184.73",
+      "travel": "1535.68"
+    },
+    {
+      "person_name": "CLEMONS,MORGAN I",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "17666.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COATS,ERNEST DEMPSEY",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "43253.29",
+      "travel": "277.46"
+    },
+    {
+      "person_name": "COOK,CASEY M",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "29203.57",
+      "travel": "5146.16"
+    },
+    {
+      "person_name": "CRAIG,WILLIAM H",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "35783.76",
+      "travel": "5210.13"
+    },
+    {
+      "person_name": "CROWLEY,PETER W",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "32530.56",
+      "travel": "4266.59"
+    },
+    {
+      "person_name": "DANIEL,CANDICE M",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "64946.64",
+      "travel": "3970.14"
+    },
+    {
+      "person_name": "DELETTERA,BRADLEY R",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "1355.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNIS,KATELIN E",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "19766.83",
+      "travel": "3305.46"
+    },
+    {
+      "person_name": "DUNCAN,ROBERT JACKSON",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "3144.63",
+      "travel": "346.24"
+    },
+    {
+      "person_name": "ECHOLS,LAUREN JESSICA",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "36265.59",
+      "travel": "961.50"
+    },
+    {
+      "person_name": "FAISON-HOLMES,FELICIA NICOLE",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "74759.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FISHER,AARON L",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "36533.76",
+      "travel": "9216.21"
+    },
+    {
+      "person_name": "FORD,GARY F",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "105415.92",
+      "travel": "657.96"
+    },
+    {
+      "person_name": "GODFREY,LORI M",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "88074.96",
+      "travel": "1122.94"
+    },
+    {
+      "person_name": "GREENE,ERIKA",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "30445.27",
+      "travel": "649.02"
+    },
+    {
+      "person_name": "GREENE,VICTOR A",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "58928.34",
+      "travel": "2880.43"
+    },
+    {
+      "person_name": "HAGLER,KEVIN B",
+      "job_title": "DEPUTY COMM ADM THRFT BK SPV",
+      "salary": "126328.08",
+      "travel": "2514.48"
+    },
+    {
+      "person_name": "HARPER,IRENE",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "35671.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,BENJAMIN C",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "13554.40",
+      "travel": "3408.86"
+    },
+    {
+      "person_name": "HARRIS,MARILYN R",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "56947.84",
+      "travel": "788.31"
+    },
+    {
+      "person_name": "HAYNIE,CHARLENE D",
+      "job_title": "FINANCIAL OPS SPEC (AL)",
+      "salary": "63294.72",
+      "travel": "105.72"
+    },
+    {
+      "person_name": "HEDGEBETH,FELICIA ANN",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "72339.60",
+      "travel": "845.64"
+    },
+    {
+      "person_name": "HERNDON,ROBERT HARVEY",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "53966.88",
+      "travel": "5196.71"
+    },
+    {
+      "person_name": "HOLDER,NATALIE D",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "36141.54",
+      "travel": "6610.23"
+    },
+    {
+      "person_name": "HOOKS,MICHAEL F",
+      "job_title": "FINANCIAL EXAMINER (SP)",
+      "salary": "92910.96",
+      "travel": "580.30"
+    },
+    {
+      "person_name": "HUTCHERSON,LANGFORD",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "33750.51",
+      "travel": "3987.41"
+    },
+    {
+      "person_name": "HYDE,CAROL F",
+      "job_title": "DATABASE ADMINISTRATOR(AL)",
+      "salary": "71250.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,JACK B",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "16129.74",
+      "travel": "1211.65"
+    },
+    {
+      "person_name": "JOHNSON,JAMES ROBERT",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "59495.52",
+      "travel": "5388.83"
+    },
+    {
+      "person_name": "JOHNSON,MERIAN S",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "41433.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,JOYCE R",
+      "job_title": "FINANCIAL EXAMINER (SP)",
+      "salary": "92523.84",
+      "travel": "2733.58"
+    },
+    {
+      "person_name": "KEANE,PAMELA ANNE",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "64605.92",
+      "travel": "-330.15"
+    },
+    {
+      "person_name": "KEELING,FRANKIE DENISE",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "34970.28",
+      "travel": "5500.75"
+    },
+    {
+      "person_name": "KILLEEN,MICHAEL G",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "94033.20",
+      "travel": "26.52"
+    },
+    {
+      "person_name": "KINARD,MELINDA A",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "40783.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KOEPPEL,TERESA H",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "54966.72",
+      "travel": "1246.17"
+    },
+    {
+      "person_name": "LONG,DEBORAH L",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "40164.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,RENEE M",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "92495.52",
+      "travel": "214.81"
+    },
+    {
+      "person_name": "MCCLELLAN,KATHERINE E",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "2710.88",
+      "travel": "223.14"
+    },
+    {
+      "person_name": "MCELHENEY,HOWARD JUSTIN",
+      "job_title": "FINANCIAL EXAMINER (SP)",
+      "salary": "55563.04",
+      "travel": "2954.64"
+    },
+    {
+      "person_name": "MCMEANS,DAVID P",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "25351.94",
+      "travel": "7623.17"
+    },
+    {
+      "person_name": "MCNEER,DENNIS E",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "77639.04",
+      "travel": "5660.86"
+    },
+    {
+      "person_name": "MEHTA,KAUSHIK R",
+      "job_title": "SUPPLY/INV/WAREHSE WKR (AL)",
+      "salary": "35961.84",
+      "travel": "1253.38"
+    },
+    {
+      "person_name": "MILLEN,LAURA M",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "48694.72",
+      "travel": "28.00"
+    },
+    {
+      "person_name": "MITCHELL,DAISY",
+      "job_title": "FINANCIAL EXAMINER (SP)",
+      "salary": "73647.12",
+      "travel": "577.06"
+    },
+    {
+      "person_name": "MIXON,JAMES DANIEL",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "7439.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOODY,JAKEISE RASHARD",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "4066.32",
+      "travel": "1515.64"
+    },
+    {
+      "person_name": "MOODY,LARRY J",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "54020.26",
+      "travel": "4261.31"
+    },
+    {
+      "person_name": "NELSON,SUSAN H",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "40847.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWBERRY,JUDY CARTER",
+      "job_title": "DEPUTY COMM ADM THRFT BK SPV",
+      "salary": "126328.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOBLES,KIMBERLY J",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "40226.32",
+      "travel": "2985.71"
+    },
+    {
+      "person_name": "NORRIS,PRESLEY L",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "45921.40",
+      "travel": "2762.34"
+    },
+    {
+      "person_name": "O'BRIEN,PATRICK J",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "32530.56",
+      "travel": "11167.86"
+    },
+    {
+      "person_name": "OLEARY,HELEN",
+      "job_title": "LEGAL OFFICER (SP)",
+      "salary": "78261.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ORNELAS,FERNANDO",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "45347.76",
+      "travel": "1013.95"
+    },
+    {
+      "person_name": "PARKER,WILLIAM R",
+      "job_title": "FINANCIAL EXAMINER (SP)",
+      "salary": "73647.12",
+      "travel": "7480.23"
+    },
+    {
+      "person_name": "PLEGER,STEPHEN S",
+      "job_title": "DEPUTY COMMISSIONER",
+      "salary": "129000.24",
+      "travel": "802.90"
+    },
+    {
+      "person_name": "POOLE,MATTHEW BRETT",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "36857.04",
+      "travel": "1355.20"
+    },
+    {
+      "person_name": "POPE,JOHNNY C",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "5421.76",
+      "travel": "685.95"
+    },
+    {
+      "person_name": "PRESSLER,MARK",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "59272.74",
+      "travel": "5099.25"
+    },
+    {
+      "person_name": "RAMACHANDRAN,MURALI",
+      "job_title": "FINANCIAL COMPLIANCE",
+      "salary": "80788.64",
+      "travel": "358.52"
+    },
+    {
+      "person_name": "REID,SCOTT A",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "51285.18",
+      "travel": "1144.48"
+    },
+    {
+      "person_name": "RICHARDSON,LUCAS A",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "34021.60",
+      "travel": "6967.82"
+    },
+    {
+      "person_name": "RIDDICK,MARY VIRGINIA",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "84642.48",
+      "travel": "1520.97"
+    },
+    {
+      "person_name": "ROBINSON,MATHEW JOSHUA",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "49986.54",
+      "travel": "1566.43"
+    },
+    {
+      "person_name": "ROGERS,CACEY R",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "38871.10",
+      "travel": "7281.79"
+    },
+    {
+      "person_name": "ROSE,LATOSHA S",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "28914.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSENTRETER,SUSAN L",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "8224.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SARTAIN,HEATHER MARIE",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "91174.56",
+      "travel": "1188.63"
+    },
+    {
+      "person_name": "SENKBEIL,AMY Y",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "32530.56",
+      "travel": "6999.83"
+    },
+    {
+      "person_name": "SHELEY,SANDRA LEANNE",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "80666.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHELLEY,LARRY E",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "83214.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHIRE,RALPH J",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "2888.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHUMPERT,REBECCA DAWN",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "16129.74",
+      "travel": "2640.83"
+    },
+    {
+      "person_name": "SMITH,MARK ALAN",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "67231.92",
+      "travel": "2755.08"
+    },
+    {
+      "person_name": "SNEED,MELISSA KAY",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "91170.48",
+      "travel": "953.67"
+    },
+    {
+      "person_name": "SONNIER,JOHN E",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "17801.06",
+      "travel": "1638.16"
+    },
+    {
+      "person_name": "STANFORD,DANIEL N",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "13554.40",
+      "travel": "466.72"
+    },
+    {
+      "person_name": "STRELLA,JESSICA",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "33813.02",
+      "travel": "6018.82"
+    },
+    {
+      "person_name": "SUTPHIN,JOHN F",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "28010.00",
+      "travel": "3393.61"
+    },
+    {
+      "person_name": "TAN,STANLEY K",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "16129.74",
+      "travel": "2672.96"
+    },
+    {
+      "person_name": "THOMAS,BETTY J",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "66286.44",
+      "travel": "798.66"
+    },
+    {
+      "person_name": "THOMAS,MICHAEL B",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "23581.81",
+      "travel": "2524.74"
+    },
+    {
+      "person_name": "THOMPSON,DEREK LUKE",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "70303.14",
+      "travel": "3318.71"
+    },
+    {
+      "person_name": "THOMPSON,DUSTIN M",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "33565.67",
+      "travel": "4948.54"
+    },
+    {
+      "person_name": "TUCKER,SUE ANN",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "61949.04",
+      "travel": "4292.86"
+    },
+    {
+      "person_name": "TUCKER,TERRY",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "76519.17",
+      "travel": "6937.22"
+    },
+    {
+      "person_name": "VAUGHN,KEVIN L",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "36221.26",
+      "travel": "7155.31"
+    },
+    {
+      "person_name": "WARD,ARDEN E",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "16129.74",
+      "travel": "867.91"
+    },
+    {
+      "person_name": "WARD,CHRISTOPHER M",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "24397.92",
+      "travel": "4085.90"
+    },
+    {
+      "person_name": "WEBB,CAROL ANNE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "97554.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEN,AUSTIN",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "32530.56",
+      "travel": "6507.21"
+    },
+    {
+      "person_name": "WHITESIDES,TRACY DILL",
+      "job_title": "DEPUTY COMM ADM THRFT BK SPV",
+      "salary": "126328.08",
+      "travel": "2315.40"
+    },
+    {
+      "person_name": "WIDINCAMP,DAVID T",
+      "job_title": "FINANCIAL EXAMINER (SP)",
+      "salary": "86107.68",
+      "travel": "6048.75"
+    },
+    {
+      "person_name": "WILLIAMS,VICTORIA L",
+      "job_title": "FINANCIAL EXAMINER (WL)",
+      "salary": "40423.84",
+      "travel": "9425.78"
+    },
+    {
+      "person_name": "YANCY,EVANS R",
+      "job_title": "FINANCIAL EXAMINER (AL)",
+      "salary": "69472.08",
+      "travel": "1996.08"
+    },
+    {
+      "person_name": "YOUNG,KENDRA D",
+      "job_title": "FINANCIAL EXAMINER (EL)",
+      "salary": "29819.68",
+      "travel": "7319.22"
+    }
+  ]
+}

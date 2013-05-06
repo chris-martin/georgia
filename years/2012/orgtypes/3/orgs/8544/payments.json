@@ -1,0 +1,808 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAM,JOSHUA",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "8010.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADAMS,TONYA",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "20984.36",
+      "travel": "61.20"
+    },
+    {
+      "person_name": "ADDIS JR ,HOWARD B",
+      "job_title": "RESA DIRECTOR",
+      "salary": "133147.92",
+      "travel": "5777.81"
+    },
+    {
+      "person_name": "ANDERSON,SHANNON",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6075.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,BRADEN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "120.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARTHUR,ANNA M",
+      "job_title": "SOCIAL WORKER ASSISTANT",
+      "salary": "28885.10",
+      "travel": "155.04"
+    },
+    {
+      "person_name": "BALES,SANDY C",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "88764.88",
+      "travel": "4065.77"
+    },
+    {
+      "person_name": "BARNHARD,CARTLIN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNWELL,ELIZABETH P",
+      "job_title": "TEACHER OF VISUALLY IMPAIRED",
+      "salary": "59167.97",
+      "travel": "6654.65"
+    },
+    {
+      "person_name": "BAY,EVELYN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "45.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELFLOWER,SUZANNE A",
+      "job_title": "OTHER INSTRUCTIONAL PROVIDER",
+      "salary": "42171.03",
+      "travel": "1011.84"
+    },
+    {
+      "person_name": "BENNETT,LYDIA A",
+      "job_title": "PSYCHO-ED SPEC ED SPECIALIST",
+      "salary": "71823.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENSON,STACEY L",
+      "job_title": "PSYCHO-ED SPEC ED SPECIALIST",
+      "salary": "72623.32",
+      "travel": "4024.66"
+    },
+    {
+      "person_name": "BERGHOLM,BONNY E",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "64051.54",
+      "travel": "281.54"
+    },
+    {
+      "person_name": "BIGGERS,CHARMANE G",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "31305.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACK,PHILLIP L",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "5127.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOBO,BARBARA M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOURGEOIS,ROBERT R",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "38691.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BREWER,JOHN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "660.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,LAURA C",
+      "job_title": "DIRECTOR OF GLRS",
+      "salary": "104799.60",
+      "travel": "12351.34"
+    },
+    {
+      "person_name": "BUFFINGTON,BRIAN K",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "53634.00",
+      "travel": "1939.05"
+    },
+    {
+      "person_name": "BURGER,JESSICA B",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "52852.80",
+      "travel": "244.08"
+    },
+    {
+      "person_name": "CAFFREY,CAROLYN E",
+      "job_title": "PSYCHO-ED SPEC ED SPECIALIST",
+      "salary": "66346.36",
+      "travel": "1566.84"
+    },
+    {
+      "person_name": "CAGLE,TERRIE Y",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "43598.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARROLL,KELLEE",
+      "job_title": "PSYCHO-ED SCHOOL SEC/CLERK",
+      "salary": "19686.12",
+      "travel": "215.07"
+    },
+    {
+      "person_name": "CARTLEDGE,MELINDA F",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "12284.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CATHEY,WHITNEY B",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "24721.74",
+      "travel": "781.19"
+    },
+    {
+      "person_name": "CATLEDGE,MICHAEL R",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "85893.92",
+      "travel": "6694.60"
+    },
+    {
+      "person_name": "CHRISTY,KARA M",
+      "job_title": "BUSINESS SERV SECRETARY/CLERK",
+      "salary": "42327.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COCHRAN,BONNIE L",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "47078.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLWELL,MICHAEL J",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "52441.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONTRERAS,DONALD A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "180.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRUMLEY,CAROL C",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "48573.12",
+      "travel": "1276.30"
+    },
+    {
+      "person_name": "DIEHL,LAURA E",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "10139.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DILLS,LEWIS K",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "43548.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DODDS,DEBORAH S",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "6225.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORSEY,KEVIN",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "44855.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DROZYNSKI,HELEN R",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "53081.59",
+      "travel": "121.36"
+    },
+    {
+      "person_name": "DUNN,RITA P",
+      "job_title": "TEACHER OF VISUALLY IMPAIRED",
+      "salary": "57627.06",
+      "travel": "2975.69"
+    },
+    {
+      "person_name": "DUNN,TERESIA G",
+      "job_title": "TEACHER OF VISUALLY IMPAIRED",
+      "salary": "35095.41",
+      "travel": "1999.91"
+    },
+    {
+      "person_name": "ELROD,TARA",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "34254.92",
+      "travel": "531.76"
+    },
+    {
+      "person_name": "EVANS,TERESA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "975.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERREIRA,TROY M",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "19454.07",
+      "travel": "234.91"
+    },
+    {
+      "person_name": "FLORY,REBECKA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "268.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOWERS,JENNIFER S",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "34767.96",
+      "travel": "2645.06"
+    },
+    {
+      "person_name": "FORD,CAROL P",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "60.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRANKS,DIANE S",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "27626.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREDERICK,DIANA G",
+      "job_title": "PSYCHO-ED SCHOOL PSYCHOLOGIST",
+      "salary": "41133.04",
+      "travel": "1311.12"
+    },
+    {
+      "person_name": "FREEMAN,SHIRLEY A",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "27252.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBSON,GREGORY A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "120.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,GRETCHEN G",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "8651.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARKINS,CHERYL",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "134.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HATFIELD,DARLENE C",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "26470.80",
+      "travel": "24.48"
+    },
+    {
+      "person_name": "HEAD,CATHY S",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "15124.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLT,JOSHUA L",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "3044.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOOD,STEVE",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "47133.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOOTS,RAYMOND J",
+      "job_title": "PLANT OPERATIONS DIRECTOR/MGR",
+      "salary": "128019.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,APRIL M",
+      "job_title": "SCHOOL IMPROVEMENT SPECIALIST",
+      "salary": "91947.60",
+      "travel": "354.96"
+    },
+    {
+      "person_name": "HUFF,FAITH H",
+      "job_title": "MISCELLANEOUS ACTIVITIES",
+      "salary": "50981.76",
+      "travel": "8073.15"
+    },
+    {
+      "person_name": "HULSEY,CURTIS",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "17770.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUNTER,MARLENE M",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "42937.56",
+      "travel": "303.30"
+    },
+    {
+      "person_name": "HYDE,CYNTHIA B",
+      "job_title": "TEACHER OF VISUALLY IMPAIRED",
+      "salary": "32457.82",
+      "travel": "4827.54"
+    },
+    {
+      "person_name": "IVES,JOANNE C",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "27876.96",
+      "travel": "157.59"
+    },
+    {
+      "person_name": "JACKSON,DOUG",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "28061.79",
+      "travel": "14.79"
+    },
+    {
+      "person_name": "JACKSON,TIFFANY S",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "27225.96",
+      "travel": "114.10"
+    },
+    {
+      "person_name": "JACQUES,CHRISTY M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1440.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARRARD,TYLER",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1128.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ANGELA C",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "56815.46",
+      "travel": "67.83"
+    },
+    {
+      "person_name": "JORDAN,ROBERT T",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "49179.96",
+      "travel": "2031.37"
+    },
+    {
+      "person_name": "KENNEDY,WILLIAM L",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "41049.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIRKPATRICK,PAMELA B",
+      "job_title": "DIRECTOR OF GLRS",
+      "salary": "87108.60",
+      "travel": "4789.11"
+    },
+    {
+      "person_name": "KRAMER,STEPHEN A",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "51050.82",
+      "travel": "113.20"
+    },
+    {
+      "person_name": "KRISE,RICHARD M",
+      "job_title": "SCHOOL IMPROVEMENT SPECIALIST",
+      "salary": "54625.96",
+      "travel": "5748.74"
+    },
+    {
+      "person_name": "LANZER,GEORGE",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "56066.48",
+      "travel": "121.80"
+    },
+    {
+      "person_name": "LARISCY,KRISTI K",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "20456.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOLLEY,DEBORAH",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1215.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,DINAH W",
+      "job_title": "DIRECTOR OF CHILD SERVE",
+      "salary": "59685.78",
+      "travel": "1134.22"
+    },
+    {
+      "person_name": "MARTIN,JENNIFER",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "120.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,JUDY",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "36791.30",
+      "travel": "106.59"
+    },
+    {
+      "person_name": "MAWDESLEY,THOMAS D",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCBRIDE,JIM A",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "36137.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCOY,LORI L",
+      "job_title": "TECHNOLOGY DIRECTOR",
+      "salary": "74679.68",
+      "travel": "3345.17"
+    },
+    {
+      "person_name": "MCDUFFIE,MARVIN",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "46577.70",
+      "travel": "69.36"
+    },
+    {
+      "person_name": "MCDUFFIE,MEG E",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "51698.30",
+      "travel": "88.25"
+    },
+    {
+      "person_name": "NEWSOME,STACI",
+      "job_title": "FINANCE/BUSINESS SERVICE MGR",
+      "salary": "79353.24",
+      "travel": "1873.23"
+    },
+    {
+      "person_name": "OGLESBY,POLLY R",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "60.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLDHAM,CHRISTOPHER",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1325.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PALMER,DANNY",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "26358.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PALMER,DARREN J",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "47586.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,VERA M",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "21702.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAYNE,SUSAN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "60.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POOLE,CYNTHIA L",
+      "job_title": "PHYSICAL THERAPIST",
+      "salary": "63383.75",
+      "travel": "2197.50"
+    },
+    {
+      "person_name": "PROCTOR,SUSAN T",
+      "job_title": "STAFF DEVELOPMENT SPECIALIST",
+      "salary": "60606.58",
+      "travel": "3303.62"
+    },
+    {
+      "person_name": "REYNOLDS,CONICE M",
+      "job_title": "SOCIAL WORKER ASSISTANT",
+      "salary": "25277.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REYNOLDS,ELIZABETH P",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "52152.52",
+      "travel": "2796.39"
+    },
+    {
+      "person_name": "ROBERTS,ROY",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "24433.84",
+      "travel": "668.43"
+    },
+    {
+      "person_name": "RUNDBAKEN,VICKIE R",
+      "job_title": "VOCATIONAL DIRECTOR",
+      "salary": "76795.80",
+      "travel": "9139.10"
+    },
+    {
+      "person_name": "RUTHERFORD,ELIZABETH M",
+      "job_title": "FEDERAL PROGRAMS DIRECTOR",
+      "salary": "43245.92",
+      "travel": "2661.67"
+    },
+    {
+      "person_name": "SATTERFIELD,JESSICA E",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "34077.94",
+      "travel": "343.36"
+    },
+    {
+      "person_name": "SEADER,MEREDITH L",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "24776.00",
+      "travel": "811.54"
+    },
+    {
+      "person_name": "SHAW,AMY B",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "18608.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHELNUT,TAMMY D",
+      "job_title": "BUSINESS SERV SECRETARY/CLERK",
+      "salary": "24403.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHORES,RITA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "150.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHULTZ,BRIDGETT M",
+      "job_title": "TEACHER OF VISUALLY IMPAIRED",
+      "salary": "45400.34",
+      "travel": "4109.27"
+    },
+    {
+      "person_name": "SHURTLEFF,LISA",
+      "job_title": "PSYCHOEDUCATIONAL COUNSELOR",
+      "salary": "40118.20",
+      "travel": "831.17"
+    },
+    {
+      "person_name": "SKELTON,CATHY A",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "50308.82",
+      "travel": "42.84"
+    },
+    {
+      "person_name": "SMITH,TONYA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1095.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPENCER,CONICE R",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "20741.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPOON,MARY M",
+      "job_title": "PSYCHO-EDUCATIONAL TEACHER",
+      "salary": "57072.96",
+      "travel": "33.30"
+    },
+    {
+      "person_name": "STEELE,KAILA C",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "3985.62",
+      "travel": "36.72"
+    },
+    {
+      "person_name": "STRAIT,RAMONA B",
+      "job_title": "INTERPRETER",
+      "salary": "55701.81",
+      "travel": "4613.33"
+    },
+    {
+      "person_name": "TABOR,SHELIA R",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "24259.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRELL,ROGER E",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "24120.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,C  RONALD",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "399.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,CASEY",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "32880.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,JULIUS L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2376.00",
+      "travel": "26.52"
+    },
+    {
+      "person_name": "THRIFT,SUMMER",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2940.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWNLEY,RANDALL",
+      "job_title": "MISCELLANEOUS ACTIVITIES",
+      "salary": "45477.48",
+      "travel": "10726.83"
+    },
+    {
+      "person_name": "TOWNSEN,STEPHEN R",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "27391.32",
+      "travel": "3020.62"
+    },
+    {
+      "person_name": "TRUELOVE,DENVER J",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "36471.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ULMER,OWEN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6270.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VANDIVER,JENNIFER",
+      "job_title": "SECRETARY",
+      "salary": "41514.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VITANGE,JOHN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "60.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADE,DUSTIN O",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "41049.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAYNE,DOUGLAS M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "120.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELBORN,JAMES R",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1202.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,PRECILLA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "45.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILEY,JULIA",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "28887.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JEREMY H",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "85987.08",
+      "travel": "7858.47"
+    },
+    {
+      "person_name": "WILLIAMS,MARCIA W",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "57504.88",
+      "travel": "5571.00"
+    },
+    {
+      "person_name": "WILLIAMS,MELANIE",
+      "job_title": "PSYCHO-ED SCHOOL SEC/CLERK",
+      "salary": "32235.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINDER,BRENDA A",
+      "job_title": "HUMAN RESOURCES PERSONNEL",
+      "salary": "43536.04",
+      "travel": "2300.22"
+    },
+    {
+      "person_name": "WRIGHT,YONAH S",
+      "job_title": "PSYCH-ED PARAPRO/TEACHER AIDE",
+      "salary": "27688.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YORK,BEATRICE C",
+      "job_title": "BUSINESS SERV SECRETARY/CLERK",
+      "salary": "40201.56",
+      "travel": "0.00"
+    }
+  ]
+}

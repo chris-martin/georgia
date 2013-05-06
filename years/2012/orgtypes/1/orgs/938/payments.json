@@ -1,0 +1,40 @@
+{
+  "payments": [
+    {
+      "person_name": "FOLSOM,PAUL",
+      "job_title": "BOARD MEMBER",
+      "salary": "300.00",
+      "travel": "185.50"
+    },
+    {
+      "person_name": "JACKSON,MONIQUE",
+      "job_title": "OFFICE ADMINISTRATOR",
+      "salary": "13100.00",
+      "travel": "485.27"
+    },
+    {
+      "person_name": "JOHNSON,DANIEL",
+      "job_title": "BOARD MEMBER",
+      "salary": "100.00",
+      "travel": "167.00"
+    },
+    {
+      "person_name": "MCKINNON,WAYNE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "102.00"
+    },
+    {
+      "person_name": "METTS,DARYL",
+      "job_title": "BOARD MEMBER",
+      "salary": "50.00",
+      "travel": "45.90"
+    },
+    {
+      "person_name": "WETHERINGTON,FRED",
+      "job_title": "BOARD MEMBER",
+      "salary": "300.00",
+      "travel": "236.50"
+    }
+  ]
+}

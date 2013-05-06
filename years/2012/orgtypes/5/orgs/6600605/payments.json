@@ -1,0 +1,496 @@
+{
+  "payments": [
+    {
+      "person_name": "ANDERSEN,LACEY",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "46000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,ALVIN",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "41457.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,SHERINA",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "7080.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AVERY,DERRICK",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "44000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BANKS,HANEEFAH",
+      "job_title": "SCHOOL FOOD SERVICE MANAGER",
+      "salary": "44000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,ETOLYA",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "41413.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,SABRINA",
+      "job_title": "MIDDLE SCHOOL COUNSELOR",
+      "salary": "43578.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BODDIE,ANGELA",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWLES,LAKETA",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYD-EDWARDS,WHITNEY",
+      "job_title": "GRADE 11 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANCH,SONJA",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "42018.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWNING,CHIARA",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHIDEBELU-EZE,C  OBI",
+      "job_title": "GRADE 11 TEACHER",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHLEBEK,JOYCE",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "32500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,MIGNON C",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "31000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLIER,SHARON D",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "24960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COTTRELL,CANDI",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "37950.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWFORD,ARITA",
+      "job_title": "GRADE 10 TEACHER",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUTLER,JESSICA",
+      "job_title": "GRADE 9 TEACHER",
+      "salary": "42413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGLAS,N'KIESHA",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "39413.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNMEYER,ADRIAN",
+      "job_title": "GRADE 9 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DWIGHT,OCTAVIAN",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "34000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,SHONDRA",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "39413.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEW,JERROLD",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "30160.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRENCH,TRINA",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "30000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARCIA,RAFAEL",
+      "job_title": "GRADE 10 TEACHER",
+      "salary": "48677.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARCIA,WILKNEKEYA",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLASS-HESS,DALE R",
+      "job_title": "ESOL TEACHER",
+      "salary": "41996.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,WHITNEY",
+      "job_title": "GRADE 11 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,WINSTON",
+      "job_title": "DIRECTOR OF STUDENT SERVICES",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,BRUCE",
+      "job_title": "SECURITY PERSONNEL/SECURITY OFFICER",
+      "salary": "40000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,CARL",
+      "job_title": "GRADE 9 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRUBBS,JUDI",
+      "job_title": "COMMUNITY SERVICES SECRETARY",
+      "salary": "41200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAGINS,NICOLE",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "36564.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMPTON,CHARLES",
+      "job_title": "GRADE 12 TEACHER",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENRY,STACY",
+      "job_title": "SPECIAL EDUCATION SPECIALIST",
+      "salary": "65000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,TASHANDA",
+      "job_title": "SPECIAL EDUCATION SPECIALIST",
+      "salary": "31000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,KEELAH",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "43560.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFERSON,MARCHELLE",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "42500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JILES,NATALIE",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "41000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDON,SHAWNTELL",
+      "job_title": "GRADE 10 TEACHER",
+      "salary": "41000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOYCE,DONALD",
+      "job_title": "GRADE 10 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNOX,ARANYA",
+      "job_title": "HIGH SCHOOL COUNSELOR",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,LARK",
+      "job_title": "GRADE 9 TEACHER",
+      "salary": "43000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINDSEY,MATTHEW",
+      "job_title": "RVI TEACHER",
+      "salary": "43500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWE,MARCIA",
+      "job_title": "PRINCIPAL",
+      "salary": "85000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARQUEZ,KEVIN",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "40917.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,AKIYO",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,DEWAYNE",
+      "job_title": "GRADE 11 TEACHER",
+      "salary": "31000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,GARY",
+      "job_title": "SUPERINTENDENT",
+      "salary": "155547.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,JOSEPH",
+      "job_title": "GRADE 10 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLURE,TRACY",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCLAIN,TEMEKA",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "37113.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,JAMES H",
+      "job_title": "RVI TEACHER",
+      "salary": "45500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOTT,CHARLENE",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "22000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWSOME,JANICE",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "39413.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORMAN,SHURHEA M",
+      "job_title": "GRADE 9 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOWELL,DARRIE G",
+      "job_title": "ASSISTANT PRINCIPAL",
+      "salary": "45000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLSEN,CARLA",
+      "job_title": "FINANCE/BUSINESS SERVICE MGR",
+      "salary": "70000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ORGETRICE,STEFANIE G",
+      "job_title": "DATA CLERK",
+      "salary": "43000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAREMORE,JEFFREY L",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PECOT,MARCIA",
+      "job_title": "GRADE 9 TEACHER",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEREZ,HIRAM",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHELPS,MICHAEL",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "39413.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAGSDALE,LYNDSAY",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "32500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAINEY,JANNARD",
+      "job_title": "PRINCIPAL",
+      "salary": "90000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAINEY,KRYSTAL L",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "39413.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,JERILYN",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "42500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,JUSTIN",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "48500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHOATES,LE'AQUA",
+      "job_title": "GRADE 10 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMS,DAROLD",
+      "job_title": "SECURITY PERSONNEL/SECURITY OFFICER",
+      "salary": "36000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMART,DAWN",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "39413.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPRINGER,GARY",
+      "job_title": "IN-SCHOOL SUSP TEACHER",
+      "salary": "36565.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEMBRIDGE,JENTRELL",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "39413.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STILWELL,JOHN",
+      "job_title": "GRADE 10 TEACHER",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TORRES (BULNES),LEONORA",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "39413.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,TENNARD",
+      "job_title": "GRADE 9 TEACHER",
+      "salary": "36565.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTON,TRACY",
+      "job_title": "DATA CLERK",
+      "salary": "27500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,ADRIAN",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "11000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,BETHANY",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "29000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,MARCUS",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WORLEY,CHRISTOPHER",
+      "job_title": "HUMAN RESOURCES PERSONNEL",
+      "salary": "41000.00",
+      "travel": "0.00"
+    }
+  ]
+}

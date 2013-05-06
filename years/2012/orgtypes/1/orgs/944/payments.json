@@ -1,0 +1,40 @@
+{
+  "payments": [
+    {
+      "person_name": "BAUGHMAN,BENJAMIN E",
+      "job_title": "DOCUMENT & RECORDS SPEC(SP)",
+      "salary": "18716.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEMAN,CHELSEY",
+      "job_title": "CLERK",
+      "salary": "4892.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAPP,BENJAMIN D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "32006.43",
+      "travel": "942.02"
+    },
+    {
+      "person_name": "SPENCE,MELVINA P",
+      "job_title": "CLERK (EL)",
+      "salary": "8106.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,ERIC M",
+      "job_title": "FACILITIES OP/PL SPEC(WL)",
+      "salary": "14457.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THRASH,NATALIE",
+      "job_title": "CLERK",
+      "salary": "7157.50",
+      "travel": "0.00"
+    }
+  ]
+}

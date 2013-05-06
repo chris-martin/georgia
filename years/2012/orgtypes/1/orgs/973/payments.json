@@ -1,0 +1,1804 @@
+{
+  "payments": [
+    {
+      "person_name": "ACKERMAN,RENITA D",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61315.49",
+      "travel": "412.01"
+    },
+    {
+      "person_name": "ADAMS,LASHAUNDA R",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "24954.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADKINSON,QUINTON",
+      "job_title": "SYSTEMS ADMINISTRATOR I",
+      "salary": "69166.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AKIN,PHILIP ANDREW",
+      "job_title": "SOFTWARE PROJECT LEADER",
+      "salary": "92672.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALEXANDER,JOHN T",
+      "job_title": "SENIOR COLLECTION ANALYST",
+      "salary": "50906.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALEXANDER,SONAR R",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62400.87",
+      "travel": "403.83"
+    },
+    {
+      "person_name": "ANDERSON,JANE B",
+      "job_title": "SR. PRIZE ANALYST",
+      "salary": "55252.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANTHONY,KAREN N",
+      "job_title": "RETAILER SERVICES COORDINATOR",
+      "salary": "38575.58",
+      "travel": "25.67"
+    },
+    {
+      "person_name": "APONTE LOPEZ,BRENDA L",
+      "job_title": "INFORMATION TECHNOLOGY AUDITOR",
+      "salary": "56343.89",
+      "travel": "1277.75"
+    },
+    {
+      "person_name": "ARRINGTON,SHELBY C",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "64828.28",
+      "travel": "548.31"
+    },
+    {
+      "person_name": "ASHLEY,JOLYNN",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "57282.70",
+      "travel": "1951.61"
+    },
+    {
+      "person_name": "AUSTIN,TYRONE J",
+      "job_title": "ASSISTANT DISTRICT MANAGER",
+      "salary": "73936.38",
+      "travel": "589.20"
+    },
+    {
+      "person_name": "BAILEY,SALENA N",
+      "job_title": "SENIOR PLATFORMS ENGINEER",
+      "salary": "71402.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,JERRY L",
+      "job_title": "SYSTEMS ADMINISTRATOR II",
+      "salary": "52745.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALL,JUANITA",
+      "job_title": "PLAYER INFORMATION REPRESENTATIVE",
+      "salary": "34427.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARLOW,NIKISHIA M",
+      "job_title": "COMPUTER OPERATIONS SPECIALIST",
+      "salary": "44125.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,CANDESSIA F",
+      "job_title": "ADMINISTRATIVE SECRETARY",
+      "salary": "37516.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENTON,WAIKEETA",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "49708.03",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "BETHEA,TIFFANY D",
+      "job_title": "KIOSK SUPERVISOR",
+      "salary": "31013.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BINION,GLENDA S",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62839.45",
+      "travel": "679.27"
+    },
+    {
+      "person_name": "BLACK,DEBRA A",
+      "job_title": "SYSTEMS ADMINISTRATOR I",
+      "salary": "64556.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOLTON,TIMOTHY D",
+      "job_title": "DRAW SPECIALIST",
+      "salary": "35070.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BONNER,RICKY D",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "48767.67",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "BRADLEY,EDWARD",
+      "job_title": "CORPORATE ACCOUNTS MANAGER",
+      "salary": "104746.04",
+      "travel": "4871.90"
+    },
+    {
+      "person_name": "BRAGG,GENE",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60055.16",
+      "travel": "701.86"
+    },
+    {
+      "person_name": "BRASWELL,JAMES",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "1604.36"
+    },
+    {
+      "person_name": "BRAY,DANYELLE W",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "25870.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,CHANDALA R",
+      "job_title": "PROMOTIONS & MARKETING MANAGER",
+      "salary": "70994.63",
+      "travel": "3151.56"
+    },
+    {
+      "person_name": "BROWN,DINO A R",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "57590.91",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "BROWN,RICHARD A",
+      "job_title": "SYSTEMS ADMINISTRATOR II",
+      "salary": "48868.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SHAREKA W",
+      "job_title": "SR. RETAILER CONTRACTS COORDINATOR",
+      "salary": "54998.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BULLOCK,CHRISTOPHER",
+      "job_title": "DIRECTOR OF INFO. TECHNOLOGY & SOFTWARE SECURITY",
+      "salary": "35704.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURKES,JULIUS D",
+      "job_title": "WAREHOUSE SUPERVISOR",
+      "salary": "57261.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURTON,LINDA H",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63780.71",
+      "travel": "334.90"
+    },
+    {
+      "person_name": "BURTON,TINA R",
+      "job_title": "ORGANIZATIONAL DEVELOPMENT MANAGER",
+      "salary": "93913.23",
+      "travel": "20.14"
+    },
+    {
+      "person_name": "BYRD,APRIL D",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "29504.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRD,LAURA W",
+      "job_title": "CORPORATE ACCOUNTS MANAGER",
+      "salary": "108165.27",
+      "travel": "4798.97"
+    },
+    {
+      "person_name": "CALDWELL,PATRICK V",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63361.29",
+      "travel": "233.65"
+    },
+    {
+      "person_name": "CALDWELL,VANITA",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "36222.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAREY-DAVIS,BRIDGETT M",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "49410.79",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "CARR,NATASHA R",
+      "job_title": "DRAW SPECIALIST",
+      "salary": "33875.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARSWELL,KAREN R",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "34542.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASLIN,HENRY",
+      "job_title": "PROMOTIONS & MARKETING REPRESENTATIVE",
+      "salary": "44101.88",
+      "travel": "1442.27"
+    },
+    {
+      "person_name": "CATER,JERRY",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "30217.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHANCE,SHERRI R",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60676.67",
+      "travel": "505.07"
+    },
+    {
+      "person_name": "CHIVERS,CALE KENNETH",
+      "job_title": "CUSTOMER OPERATIONS MANAGER",
+      "salary": "109476.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,CYNTHIA L",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61956.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COHN,MARLENE I",
+      "job_title": "PUBLIC INFORMATION DIRECTOR",
+      "salary": "90906.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,BRANDEN R",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "31041.56",
+      "travel": "224.66"
+    },
+    {
+      "person_name": "COLLINS,LINDA W",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "33359.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,KAREN K",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60742.11",
+      "travel": "505.07"
+    },
+    {
+      "person_name": "COOKE,RUSSELL R",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61295.59",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "COPELAND,AVRIL W",
+      "job_title": "PLAYER INFORMATION REPRESENTATIVE",
+      "salary": "25979.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORMIER,EBONY D",
+      "job_title": "COMMUNICATIONS SPECIALIST",
+      "salary": "42447.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAIG,KIMBERLY I",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "37212.98",
+      "travel": "385.14"
+    },
+    {
+      "person_name": "CROMWELL,MELANIE J",
+      "job_title": "PROJECT PLANNING COORDINATOR",
+      "salary": "63612.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRUTCHER,HENRY",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "12541.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CULBREATH,EDDY W",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60253.50",
+      "travel": "505.59"
+    },
+    {
+      "person_name": "CUMMINGS,DARNELL MOORE",
+      "job_title": "OFFICE SUPERVISOR",
+      "salary": "47253.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,CHOVINE R",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62738.54",
+      "travel": "932.32"
+    },
+    {
+      "person_name": "DAWSON,RENEE",
+      "job_title": "CASH MANAGEMENT COORDINATOR",
+      "salary": "64943.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEFRANCISCO,MARGARET R",
+      "job_title": "CEO/PRESIDENT",
+      "salary": "456114.93",
+      "travel": "15511.88"
+    },
+    {
+      "person_name": "DEWITT,ZENOVIA R",
+      "job_title": "FINANCE ASSISTANT",
+      "salary": "37871.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DILLARD,WYLIE H",
+      "job_title": "STATEWIDE SALES DIRECTOR",
+      "salary": "119686.84",
+      "travel": "4024.86"
+    },
+    {
+      "person_name": "DIMLING,JOHN A",
+      "job_title": "VICE PRESIDENT, SALES",
+      "salary": "163797.78",
+      "travel": "1196.93"
+    },
+    {
+      "person_name": "DIX,ROLAND T",
+      "job_title": "ADMINISTRATIVE SPECIALIST",
+      "salary": "33272.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORSEY,JACKIE",
+      "job_title": "COMPUTER OPERATIONS SPECIALIST",
+      "salary": "49923.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUDLEY,DOLLY M",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "49896.75",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "EDMONDS-COUCH,CARISSA",
+      "job_title": "OFFICE SUPERVISOR",
+      "salary": "48607.21",
+      "travel": "388.98"
+    },
+    {
+      "person_name": "ELLIS,DONALD F",
+      "job_title": "MIS DIRECTOR",
+      "salary": "131039.07",
+      "travel": "85.47"
+    },
+    {
+      "person_name": "ELLIS,KAREN L",
+      "job_title": "RETAILER SERVICES COORDINATOR",
+      "salary": "47117.26",
+      "travel": "25.67"
+    },
+    {
+      "person_name": "ENGLAND,LIONEL D",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62406.56",
+      "travel": "374.90"
+    },
+    {
+      "person_name": "ENGLISH,THOMAS SHANE",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63586.30",
+      "travel": "476.36"
+    },
+    {
+      "person_name": "EVANS,JOHN WILLIE",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "21516.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,SCHACARA Q",
+      "job_title": "PLAYER INFORMATION REPRESENTATIVE",
+      "salary": "25374.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,TREBA T",
+      "job_title": "KIOSK SUPERVISOR",
+      "salary": "59156.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FISH,PATRICIA A R",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63339.30",
+      "travel": "334.90"
+    },
+    {
+      "person_name": "FOSTER,RONALD V",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "48012.12",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "FRANKLIN,ROBERT C",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "47542.36",
+      "travel": "242.66"
+    },
+    {
+      "person_name": "FREEDLUND,KURT D",
+      "job_title": "COO & GENERAL COUNSEL",
+      "salary": "240407.59",
+      "travel": "14930.61"
+    },
+    {
+      "person_name": "GAMMAGE,MARGARY H",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62018.54",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "GANGONE,LUCAS",
+      "job_title": "RESEARCH & PRODUCT DEVELOPMENT MANAGER",
+      "salary": "98582.73",
+      "travel": "1531.34"
+    },
+    {
+      "person_name": "GARNETT,MARCIA L",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "34902.25",
+      "travel": "165.39"
+    },
+    {
+      "person_name": "GEORGE,DAVID",
+      "job_title": "MANAGER, NETWORK COMMUNICATIONS",
+      "salary": "101650.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBBS,ROBERT F",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "26824.53",
+      "travel": "666.04"
+    },
+    {
+      "person_name": "GLASSCHO,JEFFREY C",
+      "job_title": "DRAW SPECIALIST",
+      "salary": "50315.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GODDARD,TESSA L",
+      "job_title": "GAMING & QUALITY ASSURANCE SPECIALIST",
+      "salary": "54844.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODWIN,DIANE",
+      "job_title": "RETAILER SERVICES COORDINATOR",
+      "salary": "42853.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOSHA,TUJUAN",
+      "job_title": "DRAW SPECIALIST",
+      "salary": "48827.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAY,SYLVIA M",
+      "job_title": "COMPUTER OPERATIONS SPECIALIST",
+      "salary": "55431.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,BRITTANY N",
+      "job_title": "KIOSK SUPERVISOR",
+      "salary": "38407.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,RUTH I",
+      "job_title": "STAFF ACCOUNTANT",
+      "salary": "45403.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRESHAM,LESLIE A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61551.75",
+      "travel": "505.07"
+    },
+    {
+      "person_name": "HALL,ELIZABETH K",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61600.69",
+      "travel": "432.93"
+    },
+    {
+      "person_name": "HALL,JACQUELYN M",
+      "job_title": "OFFICE SUPERVISOR",
+      "salary": "43270.50",
+      "travel": "143.70"
+    },
+    {
+      "person_name": "HALL,JACQUELYN P",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63537.81",
+      "travel": "515.70"
+    },
+    {
+      "person_name": "HALL-CURTIS,DEBORAH D",
+      "job_title": "KIOSK SUPERVISOR",
+      "salary": "58994.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMILTON,MELISSA C",
+      "job_title": "PROMOTIONS & MARKETING REPRESENTATIVE",
+      "salary": "35730.88",
+      "travel": "8241.58"
+    },
+    {
+      "person_name": "HANSON,JOAN C",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61120.16",
+      "travel": "617.38"
+    },
+    {
+      "person_name": "HARRIS,DIANE",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62418.21",
+      "travel": "394.83"
+    },
+    {
+      "person_name": "HARRIS,MARK A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63535.38",
+      "travel": "403.83"
+    },
+    {
+      "person_name": "HARRIS,TAMELA DENISE",
+      "job_title": "SENIOR FINANCIAL ANALYST",
+      "salary": "72979.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,TERI E",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62405.90",
+      "travel": "372.90"
+    },
+    {
+      "person_name": "HARRIS,WENDELL",
+      "job_title": "SENIOR SYSTEMS ARCHITECT",
+      "salary": "106654.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,DARLENE",
+      "job_title": "MARKETING & PROMOTIONS COORDINATOR",
+      "salary": "57240.69",
+      "travel": "565.80"
+    },
+    {
+      "person_name": "HASKINS,LARRY MAURICE",
+      "job_title": "KIOSK MANAGER",
+      "salary": "78017.55",
+      "travel": "552.62"
+    },
+    {
+      "person_name": "HATCHER,TERESA S",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62499.77",
+      "travel": "437.25"
+    },
+    {
+      "person_name": "HEAD,RUBYSTINE",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "50138.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,AERICA L",
+      "job_title": "PRIZE ANALYST",
+      "salary": "26674.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDLEY,DONALD A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61607.38",
+      "travel": "561.31"
+    },
+    {
+      "person_name": "HERRON,AUDRA",
+      "job_title": "HUMAN RESOURCES SPECIALIST",
+      "salary": "11662.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,GEORGE H",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61331.49",
+      "travel": "334.90"
+    },
+    {
+      "person_name": "HILL,NATORIA W",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "31469.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,PERSONDRA",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "14274.20",
+      "travel": "101.47"
+    },
+    {
+      "person_name": "HINDSMAN,VALERIE BOUVIER",
+      "job_title": "MANAGER, FINANCIAL  ACCOUNTING",
+      "salary": "96737.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODOR,JOHN M",
+      "job_title": "DISTRICT MANAGER I",
+      "salary": "85349.39",
+      "travel": "2542.71"
+    },
+    {
+      "person_name": "HOLLOWAY,EDDIE T",
+      "job_title": "MANAGER, DATA CENTER OPERATIONS",
+      "salary": "63577.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLMES,LATONYA",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "18192.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLMES,TIFFANI M",
+      "job_title": "STAFF ACCOUNTANT",
+      "salary": "35097.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUDSON,DIXIE",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60006.82",
+      "travel": "539.60"
+    },
+    {
+      "person_name": "HUFF,MARGIE",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "7535.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUNT,JOAN V",
+      "job_title": "PLAYER INFORMATION COORDINATOR",
+      "salary": "63484.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUNTER,LAWRENCE",
+      "job_title": "PROMOTIONS & MARKETING REPRESENTATIVE",
+      "salary": "42468.55",
+      "travel": "3539.97"
+    },
+    {
+      "person_name": "HUTCHINSON,JAMES E",
+      "job_title": "SENIOR VICE PRESIDENT, MARKETING & GAME DEVELOPMENT",
+      "salary": "179527.68",
+      "travel": "8240.45"
+    },
+    {
+      "person_name": "IHEANCHO,JANET C",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "48627.92",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "IRBY,JANAI",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "29056.67",
+      "travel": "224.66"
+    },
+    {
+      "person_name": "JACKSON,EXCELLION A",
+      "job_title": "KENO SALES REPRESENTATIVE",
+      "salary": "59584.30",
+      "travel": "403.83"
+    },
+    {
+      "person_name": "JACKSON,JOVON F",
+      "job_title": "SENIOR OPERATIONS AUDITOR",
+      "salary": "64678.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON-HARRIS,MARKETTA L",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "55323.77",
+      "travel": "505.07"
+    },
+    {
+      "person_name": "JAMES,WILLIAM C",
+      "job_title": "CORPORATE ACCOUNTS MANAGER",
+      "salary": "111901.37",
+      "travel": "1642.50"
+    },
+    {
+      "person_name": "JANWADKER,KEDAR",
+      "job_title": "SENIOR SOFTWARE DEVELOPER",
+      "salary": "72010.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARRETT,GARY",
+      "job_title": "COMPUTER OPERATIONS SPECIALIST",
+      "salary": "53245.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARRETT,GERALDINE",
+      "job_title": "RETAILER CONTRACTS COORDINATOR",
+      "salary": "62371.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JASSEN,ANITA C",
+      "job_title": "GAMING SECURITY MANAGER",
+      "salary": "109719.85",
+      "travel": "52.00"
+    },
+    {
+      "person_name": "JOHNSON,ALEXANDER",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "45533.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,DANIEL",
+      "job_title": "CHIEF TECHNOLOGY OFFICER",
+      "salary": "196404.65",
+      "travel": "1775.85"
+    },
+    {
+      "person_name": "JOHNSON,JACQUELINE D",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60457.26",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "JOHNSON,JEREMY D",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "59382.78",
+      "travel": "437.53"
+    },
+    {
+      "person_name": "JOHNSON,ROBERT",
+      "job_title": "RETAILER CONTRACTS COORDINATOR",
+      "salary": "43043.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,SHAQUILA C",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "1141.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,CATHERINE P",
+      "job_title": "RETAILER SERVICES COORDINATOR",
+      "salary": "31413.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,DOMINIQUE",
+      "job_title": "RETAILER ACCOUNT ANALYST",
+      "salary": "22242.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,GLEN R",
+      "job_title": "PROMOTIONS & MARKETING REPRESENTATIVE",
+      "salary": "44769.80",
+      "travel": "9415.74"
+    },
+    {
+      "person_name": "JONES,JAMES W",
+      "job_title": "NETWORK ENGINEER I",
+      "salary": "59808.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,SHARON A",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "33310.83",
+      "travel": "163.45"
+    },
+    {
+      "person_name": "KATICH,EDWARD J",
+      "job_title": "VICE PRESIDENT, AUDIT & SECURITY",
+      "salary": "120197.65",
+      "travel": "3447.97"
+    },
+    {
+      "person_name": "KENNARD,JAMIE LYNN",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "11057.26",
+      "travel": "248.84"
+    },
+    {
+      "person_name": "KESTER,KELLY C",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "22765.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KESTERTON,TRACI",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "65041.62",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "KIDD,ANTOINETTE T",
+      "job_title": "MANAGER, HUMAN RESOURCES",
+      "salary": "87862.20",
+      "travel": "126.17"
+    },
+    {
+      "person_name": "KING,ERIC",
+      "job_title": "SECURITY TECHNICIAN",
+      "salary": "63895.28",
+      "travel": "441.56"
+    },
+    {
+      "person_name": "KING,PATRICIA S",
+      "job_title": "ASSISTANT DISTRICT MANAGER",
+      "salary": "73754.54",
+      "travel": "556.58"
+    },
+    {
+      "person_name": "KNAPP,JOANNE E",
+      "job_title": "MANAGER, OPERATIONS",
+      "salary": "101413.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNIGHT,BRIDGETTE",
+      "job_title": "LOTTERY DRAW MANAGER",
+      "salary": "65763.98",
+      "travel": "311.48"
+    },
+    {
+      "person_name": "KNIGHT,KENNETH W",
+      "job_title": "MANAGER, FINANCIAL PLANNING & ANALYSIS",
+      "salary": "121456.86",
+      "travel": "1290.34"
+    },
+    {
+      "person_name": "LAMB,ROBERT D",
+      "job_title": "SENIOR GAMING & QUALITY ASSURANCE SPECIALIST",
+      "salary": "63397.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANDROCHE,JERRY",
+      "job_title": "VICE PRESIDENT, CORPORATE AFFAIRS",
+      "salary": "155706.10",
+      "travel": "1131.79"
+    },
+    {
+      "person_name": "LANE,ARTHUR A",
+      "job_title": "ADMINISTRATIVE SPECIALIST",
+      "salary": "21483.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LARKIN,BEVERLY R",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63001.82",
+      "travel": "403.83"
+    },
+    {
+      "person_name": "LAURENCE,TERESA L",
+      "job_title": "RETAILER CONTRACTS COORDINATOR",
+      "salary": "59202.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAVENDER,LYNNELLE",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "45508.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWRENCE,SHARMAN L",
+      "job_title": "SENIOR VICE PRESIDENT, FINANCE",
+      "salary": "168690.04",
+      "travel": "35.61"
+    },
+    {
+      "person_name": "LEAZER,DAVID",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62954.33",
+      "travel": "347.83"
+    },
+    {
+      "person_name": "LESLIE,NATHANIEL",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "14296.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LESTER,STACY L",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63322.37",
+      "travel": "403.82"
+    },
+    {
+      "person_name": "LEWIS,LORI A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60403.25",
+      "travel": "527.07"
+    },
+    {
+      "person_name": "LUBECK,PAUL G",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60875.01",
+      "travel": "334.90"
+    },
+    {
+      "person_name": "MADDOX,RODNEY D",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63575.32",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "MASON,ADEL M",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "42729.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASON,JACQUELYN S",
+      "job_title": "SENIOR ACCOUNTANT",
+      "salary": "68254.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASSEY,STEVEN L",
+      "job_title": "DISTRICT MANAGER I",
+      "salary": "84948.69",
+      "travel": "828.62"
+    },
+    {
+      "person_name": "MAZZOTTA,LEE",
+      "job_title": "COMPUTER OPERATIONS COORDINATOR",
+      "salary": "54141.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCRARY,DEIDRE",
+      "job_title": "SR. RETAILER SALES SPECIALIST",
+      "salary": "56024.87",
+      "travel": "242.66"
+    },
+    {
+      "person_name": "MCCREARY,GREGORY",
+      "job_title": "INVESTIGATOR",
+      "salary": "66068.06",
+      "travel": "285.00"
+    },
+    {
+      "person_name": "MCCUMBER,KIMBERLY W",
+      "job_title": "DISTRICT MANAGER I",
+      "salary": "83938.66",
+      "travel": "1443.54"
+    },
+    {
+      "person_name": "MECCA,GERALD J",
+      "job_title": "SENIOR VICE PRESIDENT, ADMINISTRATION",
+      "salary": "195230.98",
+      "travel": "2701.19"
+    },
+    {
+      "person_name": "MIKELL,LINDA",
+      "job_title": "RETAILER CONTRACTS COORDINATOR",
+      "salary": "62179.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MINOR,CANDERE",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "4485.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MISBAH,PHYLLIS",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "49908.59",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "MITCHELL,FELICIA R",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "66245.35",
+      "travel": "513.62"
+    },
+    {
+      "person_name": "MOHAN,SNEHA P",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61800.56",
+      "travel": "242.66"
+    },
+    {
+      "person_name": "MOODY,WILLIS",
+      "job_title": "PURCHASING REPRESENTATIVE",
+      "salary": "36890.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOREIRA,GUIVIA C",
+      "job_title": "GAMING & QUALITY ASSURANCE COORDINATOR",
+      "salary": "37833.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORSE,ROSEMARIE",
+      "job_title": "VICE PRESIDENT, LEGAL AFFAIRS",
+      "salary": "144823.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MULLINS,LAUREN M",
+      "job_title": "DIGITAL COMMUNICATIONS SPECIALIST",
+      "salary": "41413.43",
+      "travel": "36.96"
+    },
+    {
+      "person_name": "NEAL,JEROME",
+      "job_title": "WAREHOUSE CLERK",
+      "salary": "34928.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,SHACORA S",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "10695.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NUNNALLY,ARNELL C",
+      "job_title": "WAREHOUSE CLERK",
+      "salary": "32733.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENS,ERICA P",
+      "job_title": "RETAILER SALES MANAGER",
+      "salary": "84337.43",
+      "travel": "312.90"
+    },
+    {
+      "person_name": "PADGETT,CAMERON M",
+      "job_title": "MANAGER, RETAILER ACCOUNTING",
+      "salary": "81406.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PANKEY,SCOTT A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61761.93",
+      "travel": "485.14"
+    },
+    {
+      "person_name": "PARHAM,MICHAEL A",
+      "job_title": "GAMING SERVICES MANAGER",
+      "salary": "103832.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,DOUGLAS T",
+      "job_title": "VICE PRESIDENT, HUMAN RESOURCES",
+      "salary": "150157.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,JOSEPH G",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "59501.83",
+      "travel": "458.07"
+    },
+    {
+      "person_name": "PARKS,VICTOR W",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "46987.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARRISH,PAUL R",
+      "job_title": "ADMINISTRATIVE COORDINATOR",
+      "salary": "32833.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATTABHI,JORDAN D",
+      "job_title": "COMPUTER OPERATIONS COORDINATOR",
+      "salary": "56325.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATTERSON-ODEJIMI,JACQUELINE",
+      "job_title": "HUMAN RESOURCES SPECIALIST",
+      "salary": "45620.67",
+      "travel": "16.66"
+    },
+    {
+      "person_name": "PAUL,COLETTE V",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "48715.66",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "PEREZ,MONICA M",
+      "job_title": "RETAILER SERVICES COORDINATOR",
+      "salary": "33685.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERRITT,STACEY G",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60904.25",
+      "travel": "497.07"
+    },
+    {
+      "person_name": "PERRY,CELESTE",
+      "job_title": "RETAILER CONTRACTS COORDINATOR",
+      "salary": "48531.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERRY,SUSAN L",
+      "job_title": "PRIZE ANALYST",
+      "salary": "32544.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETERS,RICKIE A",
+      "job_title": "SR. RETAILER SALES SPECIALIST",
+      "salary": "57304.33",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "PITSENBARGER,CHARLENE M",
+      "job_title": "DISTRICT MANAGER I",
+      "salary": "83893.72",
+      "travel": "743.50"
+    },
+    {
+      "person_name": "POOLE,SYRETTA SHUNTA",
+      "job_title": "PRIZE ANALYST",
+      "salary": "25700.63",
+      "travel": "85.47"
+    },
+    {
+      "person_name": "POWERS,DANIEL J",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "38581.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRUITT,HARRY H",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60447.93",
+      "travel": "563.00"
+    },
+    {
+      "person_name": "RABURN,JASON",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61201.13",
+      "travel": "403.83"
+    },
+    {
+      "person_name": "RASBERRY,DARREN L",
+      "job_title": "DRAW SPECIALIST",
+      "salary": "50847.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAUTENBERG,TONI M",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61284.64",
+      "travel": "484.25"
+    },
+    {
+      "person_name": "RAWLS,JANET L",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61078.94",
+      "travel": "624.60"
+    },
+    {
+      "person_name": "REDDICK,TANDI H",
+      "job_title": "MEDIA RELATIONS MANAGER",
+      "salary": "86036.32",
+      "travel": "183.69"
+    },
+    {
+      "person_name": "REEDY,TYRONE",
+      "job_title": "DATABASE ADMINISTRATOR",
+      "salary": "82718.85",
+      "travel": "369.14"
+    },
+    {
+      "person_name": "REID,CHRISTINE A",
+      "job_title": "PRIZE ANALYST",
+      "salary": "14211.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REID,GREGORY L",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62396.84",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "REID,SHARI L",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "23311.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICE,BOBBI J",
+      "job_title": "ADMINISTRATIVE SECRETARY",
+      "salary": "26504.81",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "RICO,HECTOR",
+      "job_title": "GAMING SERVICES COORDINATOR",
+      "salary": "34540.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RILEY,MICHAEL E",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "33457.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERSON,PEGGY E",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "33429.22",
+      "travel": "16.00"
+    },
+    {
+      "person_name": "ROBERSON,SANDRA",
+      "job_title": "RETAILER ACCOUNT ANALYST",
+      "salary": "41860.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,FELIX M",
+      "job_title": "MANAGER, ADMINISTRATIVE SERVICES",
+      "salary": "81257.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,ISAAC J",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63143.94",
+      "travel": "378.14"
+    },
+    {
+      "person_name": "ROBINSON,RACHEL M",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "49472.92",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "ROLAND,DONNA A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62819.84",
+      "travel": "446.83"
+    },
+    {
+      "person_name": "ROSA,TERISA J",
+      "job_title": "VICE PRESIDENT, CUSTOMER OPERATIONS",
+      "salary": "145996.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROUCHE,DEVEDA MICHELLE",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "30466.03",
+      "travel": "123.17"
+    },
+    {
+      "person_name": "ROURKE,H  LEIGH",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "30558.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSSELL,KEVIN L",
+      "job_title": "SENIOR SOFTWARE DEVELOPER",
+      "salary": "67145.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDERS,SYLVIA L",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "32690.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHOUBERT,JOAN",
+      "job_title": "SENIOR VICE PRESIDENT, FINANCE, PLANNING AND DEVELOPMENT",
+      "salary": "111470.38",
+      "travel": "1341.19"
+    },
+    {
+      "person_name": "SCHROEDER,THOMAS A",
+      "job_title": "SENIOR ATTORNEY",
+      "salary": "135938.97",
+      "travel": "1555.39"
+    },
+    {
+      "person_name": "SEAY,DEBRA W",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60157.36",
+      "travel": "617.38"
+    },
+    {
+      "person_name": "SEGERS,KRISTI N",
+      "job_title": "MANAGER, RETAILER SERVICES",
+      "salary": "67209.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHAVER,RONALD L",
+      "job_title": "DISTRICT MANAGER I",
+      "salary": "84924.63",
+      "travel": "1164.38"
+    },
+    {
+      "person_name": "SHEFFIELD,JESSICA M",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62394.30",
+      "travel": "447.14"
+    },
+    {
+      "person_name": "SHELTON,CHARLES DERRICK",
+      "job_title": "DISTRICT MANAGER II",
+      "salary": "86902.95",
+      "travel": "465.07"
+    },
+    {
+      "person_name": "SIDENER,LORI A",
+      "job_title": "OFFICE SUPERVISOR",
+      "salary": "47045.47",
+      "travel": "111.87"
+    },
+    {
+      "person_name": "SIMS,TANYETTA L",
+      "job_title": "KIOSK SUPERVISOR",
+      "salary": "41805.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLATER,NICKIESHA",
+      "job_title": "LEAD SALES ASSOCIATE",
+      "salary": "7064.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMART,TIMOTHY",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "64898.38",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "SMITH,CLIFTON H",
+      "job_title": "OPERATIONS DIRECTOR",
+      "salary": "118441.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,DOYLE A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "59576.16",
+      "travel": "505.07"
+    },
+    {
+      "person_name": "SMITH,JONATHAN L",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62468.27",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "SMITH,MONICA C",
+      "job_title": "OFFICE SUPERVISOR",
+      "salary": "47135.25",
+      "travel": "304.31"
+    },
+    {
+      "person_name": "SMITH,NADLIE A",
+      "job_title": "GAMES ANALYST",
+      "salary": "53466.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,REGINA H",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63360.16",
+      "travel": "378.14"
+    },
+    {
+      "person_name": "SMITH,WANDA E",
+      "job_title": "OFFICE SUPERVISOR",
+      "salary": "29963.46",
+      "travel": "271.97"
+    },
+    {
+      "person_name": "SNELL,WESLEY",
+      "job_title": "MANAGER, INFORMATION SECURITY",
+      "salary": "10246.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STARKS,KIMBERLY",
+      "job_title": "MEDIA RELATIONS SPECIALIST",
+      "salary": "46745.29",
+      "travel": "1223.84"
+    },
+    {
+      "person_name": "STOCKARD,LYNDA C",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62390.70",
+      "travel": "817.81"
+    },
+    {
+      "person_name": "STOKES,CATHERINE C",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "50061.75",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "STONE,TAMELA L",
+      "job_title": "OFFICE SUPERVISOR",
+      "salary": "48907.96",
+      "travel": "475.22"
+    },
+    {
+      "person_name": "STUBBS,LINDA S",
+      "job_title": "RETAILER CONTRACTS COORDINATOR",
+      "salary": "44500.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SU,YING C",
+      "job_title": "SENIOR SOFTWARE DEVELOPER",
+      "salary": "66832.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TANNER,RUSSELL H",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61062.50",
+      "travel": "484.25"
+    },
+    {
+      "person_name": "TARPLEY,RONALD J",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "59198.63",
+      "travel": "347.83"
+    },
+    {
+      "person_name": "TARTT,REGINALD T",
+      "job_title": "SENIOR RETAILER SERVICES COORDINATOR",
+      "salary": "45619.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,ALLYSON P",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "61858.79",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "TAYLOR,EILEEN J",
+      "job_title": "PRIZE ANALYST",
+      "salary": "27755.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,FRANK A",
+      "job_title": "SENIOR NETWORK ENGINEER",
+      "salary": "97893.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,YASHIMA BATTISTE",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "64186.01",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "TEAMOR,WILLIAM",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "11538.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRELL-ZANDERS,ROSALYND D",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "8970.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THAYER,CONNIE L",
+      "job_title": "OFFICE ASSISTANT",
+      "salary": "26440.90",
+      "travel": "16.00"
+    },
+    {
+      "person_name": "THOMAS,BRIAN C",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "58677.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,ERINN D",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "56625.74",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "THOMAS,KEILYNN D",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "32239.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,VICTOR WADE",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "57875.58",
+      "travel": "280.66"
+    },
+    {
+      "person_name": "THOMPSON,ROBERT E",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "60368.36",
+      "travel": "271.67"
+    },
+    {
+      "person_name": "THOMPSON,SHERRI W",
+      "job_title": "PARALEGAL",
+      "salary": "58872.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOFANI,RICHARD J",
+      "job_title": "DIRECTOR OF SECURITY",
+      "salary": "106778.77",
+      "travel": "867.38"
+    },
+    {
+      "person_name": "TOLLIVER,ROY C",
+      "job_title": "SENIOR OPERATIONS AUDITOR",
+      "salary": "73750.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUCKER,WILLIAM N",
+      "job_title": "PURCHASING MANAGER",
+      "salary": "85691.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,TWANNA",
+      "job_title": "PAYROLL & BENEFITS COORDINATOR",
+      "salary": "55186.94",
+      "travel": "14.87"
+    },
+    {
+      "person_name": "VANBUSKIRK,M  JEFFREY",
+      "job_title": "INFORMATION TECHNOLOGY DIRECTOR",
+      "salary": "117602.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VASALLO,LUIS A",
+      "job_title": "KENO SALES REPRESENTATIVE",
+      "salary": "63064.77",
+      "travel": "403.83"
+    },
+    {
+      "person_name": "WALDEN,MICHAEL L",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62940.20",
+      "travel": "701.86"
+    },
+    {
+      "person_name": "WALKER,ANTONIO D",
+      "job_title": "RETAILER SALES SPECIALIST",
+      "salary": "49354.37",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "WALLACE,EDITH",
+      "job_title": "ASSISTANT DISTRICT MANAGER",
+      "salary": "72848.34",
+      "travel": "424.75"
+    },
+    {
+      "person_name": "WALLACE,LAMARRA",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "1923.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,RENITA WALTERS",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63681.69",
+      "travel": "604.18"
+    },
+    {
+      "person_name": "WASHINGTON,AUDRINA V",
+      "job_title": "OPERATIONS AUDITOR",
+      "salary": "51626.16",
+      "travel": "21.00"
+    },
+    {
+      "person_name": "WASHINGTON,CLARENCE",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "34739.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,UNDRA R",
+      "job_title": "GRAPHIC ARTIST",
+      "salary": "57188.20",
+      "travel": "296.90"
+    },
+    {
+      "person_name": "WATSON,BILLY WAYNE",
+      "job_title": "DISTRICT MANAGER I",
+      "salary": "79628.36",
+      "travel": "770.28"
+    },
+    {
+      "person_name": "WATSON,JOHN M",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "63258.92",
+      "travel": "365.90"
+    },
+    {
+      "person_name": "WATSON,VALERIE J",
+      "job_title": "ADVERTISING AND BUDGET ANALYST",
+      "salary": "63612.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELDON,SHEREE",
+      "job_title": "MANAGER, GAMES ADMINISTRATION",
+      "salary": "98699.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WENDEL,MAUREEN",
+      "job_title": "GAMING SERVICES COORDINATOR",
+      "salary": "55197.47",
+      "travel": "12.00"
+    },
+    {
+      "person_name": "WHYTE,CAROL A",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "62637.88",
+      "travel": "224.65"
+    },
+    {
+      "person_name": "WILCOX,DAVID",
+      "job_title": "SECURITY SPECIALIST",
+      "salary": "46520.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,BRITTANY M",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "3836.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,TANISHA SHONTA",
+      "job_title": "GAMES ANALYST",
+      "salary": "61715.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,TIJUANA",
+      "job_title": "KIOSK SALES ASSOCIATE",
+      "salary": "31158.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINBORNE,REGINALD F",
+      "job_title": "DRAW SPECIALIST",
+      "salary": "37447.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WORD,RONALD",
+      "job_title": "KENO SALES REPRESENTATIVE",
+      "salary": "59843.37",
+      "travel": "233.66"
+    },
+    {
+      "person_name": "WORTHY,YOLANDA E",
+      "job_title": "LEAD SALES ASSOCIATE",
+      "salary": "33884.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YANCEY,PATRICIA W",
+      "job_title": "SALES REPRESENTATIVE",
+      "salary": "64023.62",
+      "travel": "536.07"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "payments": [
+    {
+      "person_name": "BROWN,MARILYN M",
+      "job_title": "SECRETARY (AL)",
+      "salary": "2394.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DONOHUE,WILLIAM A",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "144231.52",
+      "travel": "4425.55"
+    },
+    {
+      "person_name": "HORTMAN,JOY S",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "44139.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,FRANK L",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "32869.32",
+      "travel": "0.00"
+    }
+  ]
+}

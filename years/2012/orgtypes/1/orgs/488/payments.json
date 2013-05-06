@@ -1,0 +1,958 @@
+{
+  "payments": [
+    {
+      "person_name": "ALLEN,SELENE S",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "1062.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AUKERMAN,MARY KATHERINE",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "45500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,JEFFERY C",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "15643.27",
+      "travel": "356.34"
+    },
+    {
+      "person_name": "BANNISTER,STANLEY MARK",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "56160.12",
+      "travel": "7370.66"
+    },
+    {
+      "person_name": "BARNHART,RITA C",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "44571.36",
+      "travel": "1360.23"
+    },
+    {
+      "person_name": "BEEDLES,BARBARA J",
+      "job_title": "CLERK (WL)",
+      "salary": "30567.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,DALE O",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "34345.68",
+      "travel": "266.26"
+    },
+    {
+      "person_name": "BLAYLOCK,JAMES M",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "29.48"
+    },
+    {
+      "person_name": "BOLDUC,JAMES JOSEPH",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "29399.52",
+      "travel": "357.52"
+    },
+    {
+      "person_name": "BOLLINGER,L  MAC",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25500.00",
+      "travel": "382.18"
+    },
+    {
+      "person_name": "BRACEY,GARNER",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "21750.06",
+      "travel": "58.00"
+    },
+    {
+      "person_name": "BRANNEN,WALLACE L",
+      "job_title": "GROUNDS/MAINTENANCEWKR(WL)",
+      "salary": "25999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRETT,MYLENE B",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "16634.96",
+      "travel": "111.04"
+    },
+    {
+      "person_name": "BRYANT,LORAN GLYNN",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "5835.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRD,RENEE CLARICE",
+      "job_title": "CLERK (WL)",
+      "salary": "23699.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALHOUN,VALYNSKY O",
+      "job_title": "GROUNDS/MAINTENANCEWKR(WL)",
+      "salary": "25999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALLAWAY,JANICE N",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "37771.44",
+      "travel": "202.66"
+    },
+    {
+      "person_name": "CANAVAGGIO,GEORGE GUY",
+      "job_title": "CLAIMS&APPEALS OFFICER (AL)",
+      "salary": "41360.64",
+      "travel": "612.75"
+    },
+    {
+      "person_name": "CASEY,RODNEY NEAL",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "1022.76"
+    },
+    {
+      "person_name": "CLACK,JOHNNY THOMAS",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "31128.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLAYTON,DEBORAH L",
+      "job_title": "SECRETARY (AL)",
+      "salary": "30567.84",
+      "travel": "87.40"
+    },
+    {
+      "person_name": "COLEMAN,DEBRA L",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28158.00",
+      "travel": "58.00"
+    },
+    {
+      "person_name": "COLLINS,ELIJAH",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "21963.64",
+      "travel": "406.51"
+    },
+    {
+      "person_name": "CONLEY,JENNIFER LINDSEY",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "19562.50",
+      "travel": "1294.93"
+    },
+    {
+      "person_name": "COOK,THOMAS E",
+      "job_title": "ASST COMM, FLD OPS & CLAIMS",
+      "salary": "96615.38",
+      "travel": "2465.60"
+    },
+    {
+      "person_name": "COOPER,CYNTHIA MCCLAIN",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "12626.37",
+      "travel": "185.99"
+    },
+    {
+      "person_name": "COUTURIER,CRAIG STEVEN",
+      "job_title": "PROGRAM SERVICES-LEGAL",
+      "salary": "46185.56",
+      "travel": "6258.08"
+    },
+    {
+      "person_name": "COWART,JAMES ERNEST",
+      "job_title": "GROUNDS MAINT TECH (SP)",
+      "salary": "40000.08",
+      "travel": "341.33"
+    },
+    {
+      "person_name": "CRAVEY,DANIEL W",
+      "job_title": "PROGRAM SERVICES-LEGAL",
+      "salary": "64999.92",
+      "travel": "1611.39"
+    },
+    {
+      "person_name": "CRAWFORD,CAROL DENISE",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "29399.52",
+      "travel": "67.00"
+    },
+    {
+      "person_name": "DALE,LINDSEY MARIE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "24437.50",
+      "travel": "493.86"
+    },
+    {
+      "person_name": "DANIELS,FREDDIE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26958.48",
+      "travel": "67.00"
+    },
+    {
+      "person_name": "DAVIS,BOBBY J",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "56160.12",
+      "travel": "5456.23"
+    },
+    {
+      "person_name": "DAVIS,PHILIPPA LETICE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25281.12",
+      "travel": "415.98"
+    },
+    {
+      "person_name": "DISOLA,LEILA MARIE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "18062.50",
+      "travel": "446.78"
+    },
+    {
+      "person_name": "DODGEN,APRIL F",
+      "job_title": "BUDGET SPEC (WL)",
+      "salary": "44216.82",
+      "travel": "221.96"
+    },
+    {
+      "person_name": "DOWNEY,HUGH LEE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25281.12",
+      "travel": "172.24"
+    },
+    {
+      "person_name": "EDWARDS,LARRY",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "81999.96",
+      "travel": "4467.68"
+    },
+    {
+      "person_name": "EVANS,HARRY L",
+      "job_title": "PROGRAM SERVICES-LEGAL",
+      "salary": "39322.48",
+      "travel": "4921.03"
+    },
+    {
+      "person_name": "EVANS,LENORA C",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "37440.00",
+      "travel": "204.94"
+    },
+    {
+      "person_name": "EVANS,SHAUN CHRISTOPHER",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "18300.00",
+      "travel": "407.44"
+    },
+    {
+      "person_name": "FEAGIN,RUSSELL K",
+      "job_title": "GROUNDS MAINT TECH (SP)",
+      "salary": "43500.00",
+      "travel": "1691.22"
+    },
+    {
+      "person_name": "FERGUSON,MARILYN M",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "37020.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINCHER,FRED T",
+      "job_title": "BOARD MEMBER",
+      "salary": "1155.00",
+      "travel": "921.36"
+    },
+    {
+      "person_name": "FLOYD,DAVID ROSS",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26173.44",
+      "travel": "169.00"
+    },
+    {
+      "person_name": "FOREHAND,LANIER W",
+      "job_title": "GROUNDS MAINT TECH (SP)",
+      "salary": "36000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,JAMES DAVID",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25281.12",
+      "travel": "673.23"
+    },
+    {
+      "person_name": "FREEMAN,EARNEST R",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "14139.55",
+      "travel": "171.04"
+    },
+    {
+      "person_name": "GAY,AVA DENISE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "42204.00",
+      "travel": "299.69"
+    },
+    {
+      "person_name": "GIBBS,JOHN KEVIN",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "19125.00",
+      "travel": "473.20"
+    },
+    {
+      "person_name": "GILMORE,TESSA",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25500.00",
+      "travel": "289.36"
+    },
+    {
+      "person_name": "GILYARD,CYNTHIA",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25500.00",
+      "travel": "179.20"
+    },
+    {
+      "person_name": "GOSS,MELANIE D",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "32418.24",
+      "travel": "197.56"
+    },
+    {
+      "person_name": "GRAHAM,RICHARD ALLEN",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "64999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,MARY A",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "41000.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMBRIGHT,CHRISTOPHER LAUGHTON",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "52691.28",
+      "travel": "151.37"
+    },
+    {
+      "person_name": "HANLEY,SHAWN MICHAEL",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "113.98"
+    },
+    {
+      "person_name": "HAYES,ANNIE",
+      "job_title": "SECRETARY (AL)",
+      "salary": "16346.15",
+      "travel": "622.70"
+    },
+    {
+      "person_name": "HAYES,CYNTHIA L",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "28669.12",
+      "travel": "348.52"
+    },
+    {
+      "person_name": "HAYES,MILTON",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26958.72",
+      "travel": "280.18"
+    },
+    {
+      "person_name": "HAYNES,LIONEL",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "33066.72",
+      "travel": "179.20"
+    },
+    {
+      "person_name": "HENDRIX,ROBERT R",
+      "job_title": "BOARD MEMBER",
+      "salary": "1260.00",
+      "travel": "2554.70"
+    },
+    {
+      "person_name": "HERRING,CHRISTINE",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "37235.76",
+      "travel": "2256.54"
+    },
+    {
+      "person_name": "HOLTON,ROY LEE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "13734.45",
+      "travel": "302.62"
+    },
+    {
+      "person_name": "HOLTZ,DANIEL D",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "96000.00",
+      "travel": "754.46"
+    },
+    {
+      "person_name": "HOPKINS,CHARLES H",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26958.72",
+      "travel": "184.48"
+    },
+    {
+      "person_name": "HORTON,STEPHEN MICHAEL",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26039.52",
+      "travel": "196.14"
+    },
+    {
+      "person_name": "HOWARD,JIMMY WALLACE",
+      "job_title": "GROUNDS MAINT TECH (SP)",
+      "salary": "34999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUDSON,ROBERT MICHAEL",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "32418.24",
+      "travel": "1529.01"
+    },
+    {
+      "person_name": "HUNNICUT,MICHAEL",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "12750.00",
+      "travel": "433.36"
+    },
+    {
+      "person_name": "HUNNICUTT,ELIZABETH J",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "41220.91",
+      "travel": "493.90"
+    },
+    {
+      "person_name": "HUNTER,BARRY RANDOLPH",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "21625.96",
+      "travel": "187.30"
+    },
+    {
+      "person_name": "HURST,TERESA L",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "29721.76",
+      "travel": "1270.18"
+    },
+    {
+      "person_name": "HUSSEY,JAMES KAAPUNNI",
+      "job_title": "BOARD MEMBER",
+      "salary": "1155.00",
+      "travel": "1632.98"
+    },
+    {
+      "person_name": "INGLE,MELISSA L",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "30066.96",
+      "travel": "588.92"
+    },
+    {
+      "person_name": "JEFFERY,VOGEL J",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "7437.50",
+      "travel": "479.39"
+    },
+    {
+      "person_name": "JOHNSON,BARBARA J",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "31728.96",
+      "travel": "602.66"
+    },
+    {
+      "person_name": "JOHNSON,JACQUELINE RUTH",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25281.12",
+      "travel": "500.36"
+    },
+    {
+      "person_name": "JOHNSON,JUDY M",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "34641.60",
+      "travel": "1320.03"
+    },
+    {
+      "person_name": "JOHNSON,KELLY S",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26940.72",
+      "travel": "172.06"
+    },
+    {
+      "person_name": "JOHNSON,ROBERT JOE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "15937.50",
+      "travel": "512.57"
+    },
+    {
+      "person_name": "JONES,CHARLA W",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "14296.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,DEBORAH",
+      "job_title": "CLAIMS&APPEALS OFFICER (EL)",
+      "salary": "28782.25",
+      "travel": "340.39"
+    },
+    {
+      "person_name": "JONES,WONDA FAYE",
+      "job_title": "HUM RES SPECIALIST (WL)",
+      "salary": "47020.08",
+      "travel": "163.10"
+    },
+    {
+      "person_name": "JONES,YOLANDA JOYE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "1062.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KENT,JAMES E",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "35947.35",
+      "travel": "1081.90"
+    },
+    {
+      "person_name": "LAVENDER,LINDA MARIE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26039.52",
+      "travel": "201.43"
+    },
+    {
+      "person_name": "LEDFORD,JONATHAN EDWARD",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25281.12",
+      "travel": "175.30"
+    },
+    {
+      "person_name": "LESTER,WILLIAM T",
+      "job_title": "GROUNDS/MAINTENANCEWKR(SP)",
+      "salary": "32418.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,JOHN PAUL",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "21250.00",
+      "travel": "545.70"
+    },
+    {
+      "person_name": "LLOYD,BEVERLY ANN",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "32418.24",
+      "travel": "514.16"
+    },
+    {
+      "person_name": "LOFTUS,ALICE RENE",
+      "job_title": "BUDGET SPEC (WL)",
+      "salary": "42677.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWERY,JOEL JONATHAN",
+      "job_title": "GROUNDS/MAINTENANCEWKR(WL)",
+      "salary": "25999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALPASS,TONYA",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "33714.96",
+      "travel": "3624.74"
+    },
+    {
+      "person_name": "MARSHALL,DEBRA J",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "22950.00",
+      "travel": "153.00"
+    },
+    {
+      "person_name": "MAULDIN,SANDRA R",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "12964.20",
+      "travel": "129.40"
+    },
+    {
+      "person_name": "MCCORD,HENRY STANCEL",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "29352.00",
+      "travel": "1058.16"
+    },
+    {
+      "person_name": "MCKENZIE,JOHN ALVIN",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "12750.00",
+      "travel": "405.65"
+    },
+    {
+      "person_name": "MIDDLETON,JEWEL L",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "44571.36",
+      "travel": "618.54"
+    },
+    {
+      "person_name": "MILES,WILLIE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26039.52",
+      "travel": "212.76"
+    },
+    {
+      "person_name": "MILLS,KENNETH GEORGE",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "2018.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MODLY,CHRISTOPHER STEPHEN",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "2307.12",
+      "travel": "123.06"
+    },
+    {
+      "person_name": "MOHR,JANICE A",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "30300.08",
+      "travel": "406.70"
+    },
+    {
+      "person_name": "MOORE,JENELLE ALANA",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "30499.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORGAN,GEORGE P",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "34986.96",
+      "travel": "1705.97"
+    },
+    {
+      "person_name": "NAYLOR,KAROL PAMELA",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "29399.52",
+      "travel": "918.98"
+    },
+    {
+      "person_name": "NELSON,BERNARD NELSON",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "21250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NICHOLLS,DAPHNE GRACE",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "14000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOLES,MICHAEL L",
+      "job_title": "CLAIMS&APPEALS OFFICER (AL)",
+      "salary": "45499.92",
+      "travel": "5774.42"
+    },
+    {
+      "person_name": "O'NEAL,DEBRA LYNN",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "22087.50",
+      "travel": "599.36"
+    },
+    {
+      "person_name": "PAJEROWSKI,JANET SUSAN",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25800.00",
+      "travel": "439.60"
+    },
+    {
+      "person_name": "PARTLOW,MICHAEL",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "29987.52",
+      "travel": "585.12"
+    },
+    {
+      "person_name": "PEREZ,ERICA ANTRINETTE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "2125.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHILLIPS,PAT",
+      "job_title": "BOARD MEMBER",
+      "salary": "1470.00",
+      "travel": "1459.49"
+    },
+    {
+      "person_name": "POLLARD,ROBERT ALLEN",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25281.12",
+      "travel": "216.94"
+    },
+    {
+      "person_name": "POWELL,MICHAEL RALPH",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "5616.40",
+      "travel": "787.49"
+    },
+    {
+      "person_name": "PRICE,JAMES L",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "34986.96",
+      "travel": "397.44"
+    },
+    {
+      "person_name": "PRITCHETT,VINCENT MAURICE",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "33066.72",
+      "travel": "609.62"
+    },
+    {
+      "person_name": "REEVES,JAMES ELESTER",
+      "job_title": "CLAIMS&APPEALS OFFICER (AL)",
+      "salary": "40599.84",
+      "travel": "528.64"
+    },
+    {
+      "person_name": "ROBBINS,BILLY GLENN",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "28758.72",
+      "travel": "697.94"
+    },
+    {
+      "person_name": "ROBERSON,TERRY LEE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "25743.62",
+      "travel": "897.23"
+    },
+    {
+      "person_name": "ROBINSON,ARTIS",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "33143.52",
+      "travel": "682.52"
+    },
+    {
+      "person_name": "ROBY,MICHAEL EARL",
+      "job_title": "ASST COMM, FLD OPS & CLAIMS",
+      "salary": "66833.40",
+      "travel": "7731.82"
+    },
+    {
+      "person_name": "ROOD,STEPHEN A",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "19272.00",
+      "travel": "131.44"
+    },
+    {
+      "person_name": "ROPER,RAMONA",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26039.52",
+      "travel": "428.44"
+    },
+    {
+      "person_name": "SCOTT,ROBERT POWELL",
+      "job_title": "CLAIMS&APPEALS OFFICER (EL)",
+      "salary": "29286.92",
+      "travel": "226.80"
+    },
+    {
+      "person_name": "SHROPSHIRE,DAIRELLE CASTILLIAN",
+      "job_title": "SECRETARY (AL)",
+      "salary": "26169.68",
+      "travel": "58.00"
+    },
+    {
+      "person_name": "SIMONS,ERNEST R",
+      "job_title": "CONTRACT COMP SPEC (AL)",
+      "salary": "60000.00",
+      "travel": "304.20"
+    },
+    {
+      "person_name": "SIMPSON,SHELLY ANN MARIE",
+      "job_title": "SECRETARY (AL)",
+      "salary": "12989.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLAY,HOWARD NEIL",
+      "job_title": "CLAIMS&APPEALS OFFICER (AL)",
+      "salary": "14683.19",
+      "travel": "99.35"
+    },
+    {
+      "person_name": "SMITH,BRIAN ORLANDO",
+      "job_title": "SUPPLY/INV/WAREHSE WKR (AL)",
+      "salary": "23500.08",
+      "travel": "40.80"
+    },
+    {
+      "person_name": "SMITH,ROBERT KEITH",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "2888.68",
+      "travel": "212.86"
+    },
+    {
+      "person_name": "SNYDER,LILLIAN RAE",
+      "job_title": "COMP AUDITOR/MONITOR(WL)",
+      "salary": "41000.04",
+      "travel": "4121.21"
+    },
+    {
+      "person_name": "SPAULDING,ROBERT G",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "34345.68",
+      "travel": "1442.23"
+    },
+    {
+      "person_name": "STEWART,RODERICA NICHELLE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "23178.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STOCKTON,JUSTIN LEE",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "15828.84",
+      "travel": "282.31"
+    },
+    {
+      "person_name": "STUMPF,HARRY D",
+      "job_title": "COMP AUDITOR/MONITOR (AL)",
+      "salary": "56160.12",
+      "travel": "3681.87"
+    },
+    {
+      "person_name": "SUGGS,JON ALLAN",
+      "job_title": "COMUNICATN/OUTRCH SPEC(WL)",
+      "salary": "29208.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TACKETT,WILLIAM CHADWIC",
+      "job_title": "GROUNDS/MAINTENANCEWKR(WL)",
+      "salary": "25999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THARPE,ROSEMERY",
+      "job_title": "SECRETARY (AL)",
+      "salary": "11160.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUCKER,WILLIAM R",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "33066.72",
+      "travel": "883.63"
+    },
+    {
+      "person_name": "TURNER,ROBERT M",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "33714.96",
+      "travel": "300.60"
+    },
+    {
+      "person_name": "WALLACE,BOOKER TELEFERRO",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "19125.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,HERBERT LEON",
+      "job_title": "CLAIMS&APPEALS OFFICER (AL)",
+      "salary": "42134.40",
+      "travel": "115.12"
+    },
+    {
+      "person_name": "WATERS,TOMMY SCOTT",
+      "job_title": "GROUNDS/MAINTENANCEWKR(SP)",
+      "salary": "30000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,LATOYA D",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "9562.50",
+      "travel": "484.64"
+    },
+    {
+      "person_name": "WELTER,APRIL DAWN",
+      "job_title": "VET FIELD SRV OFFICER (WL)",
+      "salary": "15309.50",
+      "travel": "175.81"
+    },
+    {
+      "person_name": "WHEELER,PETER",
+      "job_title": "COMMISSIONER",
+      "salary": "139322.64",
+      "travel": "1410.44"
+    },
+    {
+      "person_name": "WHITFIELD,SHERRI DELANE",
+      "job_title": "VET FIELD SVCOFFICER(AL)",
+      "salary": "32418.24",
+      "travel": "965.68"
+    },
+    {
+      "person_name": "WHITNEY,DENNIS RAY",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITTED,CHARLES EDWARD",
+      "job_title": "BOARD MEMBER",
+      "salary": "1050.00",
+      "travel": "2164.59"
+    },
+    {
+      "person_name": "WILLIS,JOEL",
+      "job_title": "CLAIMS&APPEALS OFFICER (AL)",
+      "salary": "45218.40",
+      "travel": "656.05"
+    },
+    {
+      "person_name": "WILSON,RHONDA JEAN",
+      "job_title": "CLAIMS&APPEALS OFFICER (EL)",
+      "salary": "11550.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,WILLIAM CLARENCE",
+      "job_title": "SYSTEMS ADMINISTRATOR (AL)",
+      "salary": "45600.00",
+      "travel": "4479.50"
+    },
+    {
+      "person_name": "WISE,BELINDA ANNE",
+      "job_title": "CLAIMS&APPEALS OFFICER (EL)",
+      "salary": "17150.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODIE,ALAN R",
+      "job_title": "VET FIELD SRV OFFICER (EL)",
+      "salary": "26039.52",
+      "travel": "163.90"
+    },
+    {
+      "person_name": "WOODS,SHAROD TERRELL",
+      "job_title": "SECRETARY (WL)",
+      "salary": "5125.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNGBLOOD,PHILIP GREGORY",
+      "job_title": "BOARD MEMBER",
+      "salary": "44107.56",
+      "travel": "4461.33"
+    },
+    {
+      "person_name": "ZERINGUE,BRIAN J",
+      "job_title": "COMUNICATN/OUTRCH SPEC(AL)",
+      "salary": "45866.88",
+      "travel": "234.54"
+    }
+  ]
+}

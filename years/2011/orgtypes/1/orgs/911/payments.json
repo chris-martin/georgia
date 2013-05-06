@@ -1,0 +1,742 @@
+{
+  "payments": [
+    {
+      "person_name": "ABEL,DENNIS W",
+      "job_title": "STATE PATROL (SP)",
+      "salary": "54403.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,J C",
+      "job_title": "JANITOR",
+      "salary": "17887.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARMSTRONG,JOHN R",
+      "job_title": "COMMUNICATIONS OFFICER 2 (GWCC",
+      "salary": "13894.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARMSTRONG,SHAWN J",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "40366.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAGGETT,TIMOTHY L",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "13154.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,TED E",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "6878.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNETT,MICHAEL D",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "57713.81",
+      "travel": "280.00"
+    },
+    {
+      "person_name": "BECKWORTH,RICHARD L",
+      "job_title": "MAINTENANCE MECHANIC 2",
+      "salary": "56598.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIRD,HENRY N",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "3873.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACK,JANET L",
+      "job_title": "ACCOUNTING CLERK (JUD)",
+      "salary": "37811.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLEVINS,SHERI N",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "842.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLIHOVDE,DEBORAH E",
+      "job_title": "SECRETARY",
+      "salary": "42980.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOULIS,PATRICIA A",
+      "job_title": "BUYER (GWCC)",
+      "salary": "41375.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANSCOME,GLENN C",
+      "job_title": "GENERAL MANAGER (GWCC)",
+      "salary": "218952.07",
+      "travel": "5160.47"
+    },
+    {
+      "person_name": "BROOKS,STEVEN B",
+      "job_title": "JANITOR",
+      "salary": "1814.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SARAH B",
+      "job_title": "CLIENT SUPPORT WORKER (WL)",
+      "salary": "1970.94",
+      "travel": "13.00"
+    },
+    {
+      "person_name": "BUICE,SAMUEL E",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "43274.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNEY,CHARLES",
+      "job_title": "MACHINE OPERATOR (JUD)",
+      "salary": "2040.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAMPBELL,ROY K",
+      "job_title": "STATE PATROL",
+      "salary": "62955.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARNEY,MICHAEL M",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "54852.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CEPIC,NERMIN",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "40128.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLANTON,BARBARA M",
+      "job_title": "CLERK, INFORMATION (LEG)",
+      "salary": "3332.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,TRISTA A",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "3312.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONE,JOHNNY R",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "1119.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,DAVID M",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "4270.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COWHIG,ROBERT K",
+      "job_title": "DIRECTOR",
+      "salary": "152018.19",
+      "travel": "748.90"
+    },
+    {
+      "person_name": "CRITTENDEN,JOHN A",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "445.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,WILLIAM H",
+      "job_title": "CUSTODIAN LEAD (GWCC)",
+      "salary": "40998.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,FRANK I",
+      "job_title": "SUPERVISOR",
+      "salary": "56058.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUDICH,DEBRA S",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "3817.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUDICH,PETER",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "39552.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,HOYT G",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "3289.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURHAM,GAIL C",
+      "job_title": "DIRECTOR",
+      "salary": "105181.41",
+      "travel": "200.16"
+    },
+    {
+      "person_name": "DURHAM,MATTHEW J",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "5508.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,SUE",
+      "job_title": "CLERK, INFORMATION (LEG)",
+      "salary": "6324.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLIOTT,RAYMOND H",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "37982.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FAITH,BRIAN W",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "48136.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FITTS,BOBBY L",
+      "job_title": "MAINTENANCE MECHANIC 2",
+      "salary": "39937.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FITZGERALD,JERRY D",
+      "job_title": "COMMUNICATIONS OFFICER 2 (GWCC",
+      "salary": "6497.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRITTS,FRANKLIN A",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "30162.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FROEDE,SUSAN K",
+      "job_title": "ADMINISTRATIVE ASSISTANT (AUD)",
+      "salary": "43628.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARRISS,JOSHUA D",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "4342.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GATLIN,RONALD S",
+      "job_title": "CLERK, INFORMATION (LEG)",
+      "salary": "71.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAVLEE,KRISTEN L",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "2455.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAY,BRAD L",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "1453.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,NIQUETTE M",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "4213.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRESHAM,DENNIS",
+      "job_title": "SUPERVISOR",
+      "salary": "67482.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GROSSMAN,PAUL M",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "12812.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,WARREN M",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "48986.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,HILLARY N",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "14583.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRICKSON,ESTELLE H",
+      "job_title": "CLERK, INFORMATION (LEG)",
+      "salary": "6324.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,DAVID J",
+      "job_title": "COMMUNICATIONS OFFICER 2 (GWCC",
+      "salary": "39599.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODGE,CHARLOTTE L",
+      "job_title": "JANITOR",
+      "salary": "34014.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODGE,THOMAS L",
+      "job_title": "JANITOR",
+      "salary": "33009.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUFF,GREGORY A",
+      "job_title": "FACILITY SAFETY OFFCR (WL)",
+      "salary": "13215.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUFF,JOHNNY D",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "4110.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUFF,STERLING A",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "9072.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,BARBARA L",
+      "job_title": "SUPERVISOR",
+      "salary": "48333.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,JEMELLE R",
+      "job_title": "JANITOR",
+      "salary": "6311.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEANUM,PHILIP R",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "47751.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEELING,RONALD E",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "1975.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,DAVID F",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "6903.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,DAVID F",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "157.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,KEVIN D",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "2759.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,ROBERT L",
+      "job_title": "PUBLIC SAFETY DIRECTOR (GWCC)",
+      "salary": "94704.27",
+      "travel": "2105.20"
+    },
+    {
+      "person_name": "KELLY,ANDREW",
+      "job_title": "STATE PATROL (SP)",
+      "salary": "7370.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KOHOUTEK,PATRICK L",
+      "job_title": "MACHINE OPERATOR (JUD)",
+      "salary": "31427.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAMBRIGHT,WILLIAM",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "15880.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANGDON,LINDA K",
+      "job_title": "COMMUNICATIONS OFFICER 2 (GWCC",
+      "salary": "37721.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEBLANC,JOSEPH E",
+      "job_title": "COMMUNICATIONS OFFICER 2 (GWCC",
+      "salary": "9240.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,MICHAEL F",
+      "job_title": "STATE PATROL",
+      "salary": "76280.98",
+      "travel": "318.00"
+    },
+    {
+      "person_name": "LITTON,GARRETT E",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "1547.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LITTON,TAMIRA B",
+      "job_title": "CLERK, INFORMATION (LEG)",
+      "salary": "1314.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWE,LARRY J",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "2737.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOYD,KERRIE A",
+      "job_title": "ENVIRON COMPLIANCE SPC(AL)",
+      "salary": "1302.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAHARRY,PAUL T",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "13190.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAJOR,RONALD",
+      "job_title": "JANITOR",
+      "salary": "23353.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTYNUSKA,DAVID G",
+      "job_title": "JANITOR",
+      "salary": "30186.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLATCHEY,ROBIN F",
+      "job_title": "COMMUNICATIONS OFFICER 2 (GWCC",
+      "salary": "1210.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGHEE,JAMES B",
+      "job_title": "MAINTENANCE MECHANIC 2",
+      "salary": "45597.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGHEE,WESLEY J",
+      "job_title": "MACHINE OPERATOR (JUD)",
+      "salary": "947.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKNIGHT,BRIAN H",
+      "job_title": "CLIENT SUPPORT WORKER (WL)",
+      "salary": "38375.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEYERS,CARL R",
+      "job_title": "CLERK, OFFICE (LAW)",
+      "salary": "27129.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEYERS,SUSAN M",
+      "job_title": "CLIENT SUPPORT WORKER (WL)",
+      "salary": "23297.55",
+      "travel": "139.83"
+    },
+    {
+      "person_name": "MURRY,DOUGLAS T",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "30666.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,TYLER N",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "1315.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PENNINGTON,HOMER",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "41049.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REXROTH,TRENTON T",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "245.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REYNOLDS,RON E",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "16562.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIVERS,JAMES B",
+      "job_title": "STATE PATROL (SP)",
+      "salary": "34319.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RONZO,ELIZABETH M",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "47082.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROTHERMEL,BETHANY C",
+      "job_title": "CLIENT SUPPORT WORKER (WL)",
+      "salary": "7520.54",
+      "travel": "241.34"
+    },
+    {
+      "person_name": "RUIZ,ALINA M",
+      "job_title": "CLIENT SUPPORT WORKER (WL)",
+      "salary": "36260.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAUVE,ANGELA M",
+      "job_title": "CLIENT SUPPORT WORKER (WL)",
+      "salary": "4347.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SERRA,BENJAMIN C",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "39663.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHAW,BILLY B",
+      "job_title": "CUSTODIAN LEAD (GWCC)",
+      "salary": "35777.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SICKEL,CHRIS F",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "4940.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPICER,CARLTON J",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "30688.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPICER,CARLTON J",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "3017.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEPHENS,WILLIAM V",
+      "job_title": "DIRECTOR",
+      "salary": "33230.74",
+      "travel": "658.52"
+    },
+    {
+      "person_name": "STUDDARD,MICHAEL D",
+      "job_title": "MANAGER",
+      "salary": "67398.03",
+      "travel": "565.28"
+    },
+    {
+      "person_name": "STVINCENT,CRAIG J",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "45573.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,DIANE A",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "7606.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,TIMOTHY J",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "7137.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,TERRY B",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "19602.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,NAOMI R",
+      "job_title": "ENVIRON COMPLIANCE SPC(AL)",
+      "salary": "47592.59",
+      "travel": "3874.68"
+    },
+    {
+      "person_name": "THURMOND,RYAN H",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "10188.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUCKER,SARAH L",
+      "job_title": "JANITOR",
+      "salary": "34587.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VULLO,ADAMO D",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "365.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,ANNIE J",
+      "job_title": "CUSTODIAN LEAD (GWCC)",
+      "salary": "48597.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,BARBARA A",
+      "job_title": "JANITOR",
+      "salary": "34426.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARBINGTON,DIANE L",
+      "job_title": "SECRETARY",
+      "salary": "40647.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELLS,CHRIS A",
+      "job_title": "FACILITY SAFETY OFFCR (WL)",
+      "salary": "16918.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELLS,STEVEN J",
+      "job_title": "FACILITY SAFETY OFFCR (WL)",
+      "salary": "22322.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHEELER,RYAN D",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "4650.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,CHARLES M",
+      "job_title": "MACHINE OPERATOR (JUD)",
+      "salary": "19693.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,HANK J",
+      "job_title": "FACILITY SAFETY OFFCR (WL)",
+      "salary": "7462.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JOHN S",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "1697.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,MICHAEL A",
+      "job_title": "JANITOR",
+      "salary": "1235.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODWARD,ERIC D",
+      "job_title": "FIREFIGHTNGPREVENTNSPEC(WL)",
+      "salary": "4530.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODWARD,JAMES B",
+      "job_title": "POLICE OFFICER 2 (GWCC)",
+      "salary": "12017.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODWARD,PATRICIA A",
+      "job_title": "COMMUNICATIONS OFFICER 2 (GWCC",
+      "salary": "16940.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZIMMER,MARTHA F",
+      "job_title": "SERVICE DESK REP 2 (GWCC)",
+      "salary": "4779.00",
+      "travel": "0.00"
+    }
+  ]
+}

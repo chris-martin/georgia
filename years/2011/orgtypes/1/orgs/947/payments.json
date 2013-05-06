@@ -1,0 +1,82 @@
+{
+  "payments": [
+    {
+      "person_name": "AVERY,KIMBERLY",
+      "job_title": "PROGRAMMER (WL)",
+      "salary": "37890.98",
+      "travel": "389.82"
+    },
+    {
+      "person_name": "BROOKS,CATHERINE",
+      "job_title": "FINANCIAL WKR(AL)",
+      "salary": "40185.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYSON,HOMER",
+      "job_title": "BOARD MEMBER",
+      "salary": "2076.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,KAYE",
+      "job_title": "BOARD MEMBER",
+      "salary": "1730.00",
+      "travel": "303.60"
+    },
+    {
+      "person_name": "CARTER,ROBERT W",
+      "job_title": "DIRECTOR",
+      "salary": "98712.63",
+      "travel": "3935.93"
+    },
+    {
+      "person_name": "GARRISON,ROGER",
+      "job_title": "BOARD MEMBER",
+      "salary": "2076.00",
+      "travel": "1891.35"
+    },
+    {
+      "person_name": "GIBSON,DONNA",
+      "job_title": "PROGRAMMER (WL)",
+      "salary": "31108.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRUBBS,ELAINE",
+      "job_title": "FINANCIAL WKR(AL)",
+      "salary": "47005.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUTCHESON,WAYNE",
+      "job_title": "BOARD MEMBER",
+      "salary": "2076.00",
+      "travel": "1479.73"
+    },
+    {
+      "person_name": "KOST,JENNIFER",
+      "job_title": "PROGRAMMER (WL)",
+      "salary": "32084.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEURIFOY,ANNE",
+      "job_title": "PROGRAMMER (WL)",
+      "salary": "31695.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPROUSE,STEVE",
+      "job_title": "BOARD MEMBER",
+      "salary": "346.00",
+      "travel": "1011.22"
+    },
+    {
+      "person_name": "WHITAKER,GLENDA H",
+      "job_title": "FISCAL OFFICER (AUD)",
+      "salary": "43411.19",
+      "travel": "0.00"
+    }
+  ]
+}

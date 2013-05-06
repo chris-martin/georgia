@@ -1,0 +1,28 @@
+{
+  "payments": [
+    {
+      "person_name": "CARTER,ROBERT W",
+      "job_title": "DIRECTOR",
+      "salary": "18931.56",
+      "travel": "599.39"
+    },
+    {
+      "person_name": "CREWS,JOHNNIE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "546.77"
+    },
+    {
+      "person_name": "GREENE,MIKE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "586.46"
+    },
+    {
+      "person_name": "SPIRES,JANICE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "511.25"
+    }
+  ]
+}

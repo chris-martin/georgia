@@ -1,0 +1,4954 @@
+{
+  "payments": [
+    {
+      "person_name": "ACKERMAN,ANTONIO",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24386.68",
+      "travel": "56.10"
+    },
+    {
+      "person_name": "ADAMS,KAYLA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "4357.52",
+      "travel": "33.10"
+    },
+    {
+      "person_name": "ADEOGUN,RASHIDAT A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADEWALE,JOYCE M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALARCON,MARIBEL SANCHEZ",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "75.29"
+    },
+    {
+      "person_name": "ALCOTT,BRIAN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "851.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALEXANDER,CAROLYN D",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22077.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALEXANDER,DEBORAH U",
+      "job_title": "BUSINESS OP GENERALIST (SP)",
+      "salary": "45907.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALEXANDER,DESIRE L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "16682.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALEXANDER,TERESSA GRACE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "57.92"
+    },
+    {
+      "person_name": "ALLEN,BOBBY",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "79999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,JAMES",
+      "job_title": "INSTRUCTOR",
+      "salary": "1513.75",
+      "travel": "1288.45"
+    },
+    {
+      "person_name": "ALLEN,JEANETTE S",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25268.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,RAJI L",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "2991.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,VALENCIA C",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "2294.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLIGOOD,TERESA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "18434.52",
+      "travel": "226.49"
+    },
+    {
+      "person_name": "AMMONS,JENNIFER GREENE",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "99584.16",
+      "travel": "1636.54"
+    },
+    {
+      "person_name": "ANDERSON,LORI R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21260.24",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "ANDERSON,MIRANDA JEAN",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "28846.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,FELMA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANGLIN,CASSIE MILLER",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "11065.21",
+      "travel": "220.32"
+    },
+    {
+      "person_name": "ARMSTEAD,LINDA B",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARNOLD,CARLETTA CARTER",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "29250.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARNOLD,SHANORRIS C",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "18214.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARTHUR,YOLONDA N",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24445.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASHMON,SHARIE Y",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "1224.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AYERS,PHYLLIS STYLES",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "33498.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AYOTTE,STACY L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BABIKAN,RONDA M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20917.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BABIN,ROBERTA A",
+      "job_title": "INSTRUCTOR",
+      "salary": "363.75",
+      "travel": "233.36"
+    },
+    {
+      "person_name": "BAILEY,CYNTHIA L",
+      "job_title": "OFFICE ADMINISTRATOR (AL)",
+      "salary": "40225.68",
+      "travel": "1947.64"
+    },
+    {
+      "person_name": "BAILEY,MELANIE L",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "31910.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,PATSY K",
+      "job_title": "ASSISTANT TO THE COMMISSIONER",
+      "salary": "72092.64",
+      "travel": "328.50"
+    },
+    {
+      "person_name": "BAKER,BARBARA GAIL",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9362.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,BRADLY P",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "27368.57",
+      "travel": "1032.75"
+    },
+    {
+      "person_name": "BALAKRISHNAN,SANKARAN",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "66949.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALY,KAFI A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5958.19",
+      "travel": "35.65"
+    },
+    {
+      "person_name": "BANKS,SHONELL",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9307.07",
+      "travel": "54.00"
+    },
+    {
+      "person_name": "BANNISTER,JENNIFER S",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "25412.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARFIELD,ELBERT E",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "35569.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARFIELD,SYBIL COREAN",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "38692.56",
+      "travel": "341.82"
+    },
+    {
+      "person_name": "BARNES,DEBORAH SMITH",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "41937.12",
+      "travel": "289.75"
+    },
+    {
+      "person_name": "BARNES,STANLEY M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "21098.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRON,MIMI A",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "49645.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BATES,DEBRA GAIL",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "33101.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BATES,SHARON P",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "37920.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BATTLE,GLENDA G",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAUGH,VANNESSA DUNN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26055.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAULKMON,RUTH M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "28000.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAUM,LAURA I",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24445.44",
+      "travel": "94.00"
+    },
+    {
+      "person_name": "BEAN,TERESA DIANE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEARD,SHERON MARIE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "29098.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BECHNER,FLOY",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "1224.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,DANA L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22077.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,OTIS C",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,TREVA N",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27542.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELLEW,DOYLE B",
+      "job_title": "FACILITIES OP/PL SPEC(WL)",
+      "salary": "63689.05",
+      "travel": "613.00"
+    },
+    {
+      "person_name": "BENEFIELD,MICHAEL GENE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "28369.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,JAMES B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20950.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BETANCOURT,EDDIE N",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "82399.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEYNON,JOHN L",
+      "job_title": "MAIL SERVICES WKR (WL)",
+      "salary": "11758.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIRD,TONYA MCCLELLAN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIVINS,KECIA T",
+      "job_title": "SAFETY & COMP SPEC(SP)",
+      "salary": "44500.08",
+      "travel": "1671.85"
+    },
+    {
+      "person_name": "BLACKWELL,FOLUKE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22077.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOAN,MELANIE P",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOATFIELD,LAURIE S",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "12077.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOATRIGHT,KAY B",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "48783.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOGUCKI,RONALD CHESTER",
+      "job_title": "INSTRUCTOR",
+      "salary": "10444.00",
+      "travel": "2343.16"
+    },
+    {
+      "person_name": "BONE,DEBRA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5958.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOOKER,YVETTE MICHELLE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "36679.20",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "BOOTH,BONNIE JONES",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27582.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BORSH,JEAN M",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "70000.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWLES,EUNICE D",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26055.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRADDY,KENNETH T",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23740.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRADER,JOSHUA JAMES",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "12767.55",
+      "travel": "674.94"
+    },
+    {
+      "person_name": "BRANHAM,CHERRY M",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "24804.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRASWELL,ANNA KRISTEN",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "34283.33",
+      "travel": "893.02"
+    },
+    {
+      "person_name": "BRIDGES,TAWANDA MILLET",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "22162.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROCK,MICHAEL KELLY",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "6071.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,CARL G",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "13036.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,KAREN D",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "40823.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,MARCIA L",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "48842.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,TIFFANY M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "27929.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,BEATRICE E",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21172.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,BRENDA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "14944.59",
+      "travel": "117.00"
+    },
+    {
+      "person_name": "BROWN,CONNIE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23994.96",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "BROWN,ETHEL P",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5107.02",
+      "travel": "108.95"
+    },
+    {
+      "person_name": "BROWN,GLORIA G",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "8587.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ISAAC D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20683.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,KAMESHIA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "20662.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,LESHAWN JEANNETTE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9650.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,STEPHANIE PATRICE",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "13469.72",
+      "travel": "146.00"
+    },
+    {
+      "person_name": "BROWN,SYLVIA A",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "22491.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWNLEE,PATRICIA D",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25472.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYANT,LAJUANA COLLINS",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "48583.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURKE,CATHY S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURKE,DENISE P",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "42065.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURKE,ETHEL L",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "31649.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURKS,PAUL S",
+      "job_title": "INSTRUCTOR",
+      "salary": "3213.75",
+      "travel": "1015.17"
+    },
+    {
+      "person_name": "BYERS,CLYDE E",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "39513.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRD,LARRY KEITH",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "29531.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRON,EMMA I",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "35524.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAIN,RANDALL KYLE",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "40174.08",
+      "travel": "1293.64"
+    },
+    {
+      "person_name": "CALL,THOMAS B",
+      "job_title": "INSTRUCTOR",
+      "salary": "8106.87",
+      "travel": "3983.90"
+    },
+    {
+      "person_name": "CALLAWAY,REBEKAH S",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAMPBELL,FELICIA MICHELLE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "29918.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAMPBELL,PAUL",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23870.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANDIS,SHANNON DANIELLE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "19280.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANDLIN,JAMES EDWARD",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21266.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARMICHAEL,TERESA B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,CYNTHIA J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23994.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,JUARIA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "29922.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,RUBY USHER",
+      "job_title": "BUSINESS OP GENERALIST (WL)",
+      "salary": "25711.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,VERNA BENITA",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "41534.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CATRON,JEAN TENNER",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "36883.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHALMERS,DOUGLAS",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "80.80"
+    },
+    {
+      "person_name": "CHANEY,PAMELA C",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "21935.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHANT,THOMAS MICHAEL",
+      "job_title": "INSTRUCTOR",
+      "salary": "10263.75",
+      "travel": "3015.01"
+    },
+    {
+      "person_name": "CHAPMAN,CINDY RENEE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "30531.12",
+      "travel": "96.90"
+    },
+    {
+      "person_name": "CHATMAN,NELDA S",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "51702.24",
+      "travel": "138.00"
+    },
+    {
+      "person_name": "CHEW,MACK A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHINN,YOSHANDA LATASHA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "23072.26",
+      "travel": "119.98"
+    },
+    {
+      "person_name": "CHOUDHRY,RIAZ AHMAD",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24482.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,CAROLYN S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21304.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,CHARDA L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22730.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,RUBY WALDEN",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "47712.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARKE,ROXANNE R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20683.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLINTON,SHARIA",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "1224.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLURE,KIMLYN V",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "4643.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CODY,TERESA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "6809.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COKER,BARBARA A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COKER,LYNDA",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "147.46"
+    },
+    {
+      "person_name": "COLE,STEFANIE D",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLEMAN,JIMMY LEE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "32788.56",
+      "travel": "223.96"
+    },
+    {
+      "person_name": "COLLINS,DEBRA R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,JOHN WILLIS",
+      "job_title": "MECHANIC (WL)",
+      "salary": "35089.68",
+      "travel": "601.13"
+    },
+    {
+      "person_name": "CONNELL,DAVID W",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "43.00"
+    },
+    {
+      "person_name": "COOK,MARTHA FRANCES",
+      "job_title": "CLERK (AL)",
+      "salary": "23551.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORN,RICHARD",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "13971.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORY,LORI J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "18054.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COURCHAINE,JOSEPH J",
+      "job_title": "COMPUTER SYS ANALYST (AL)",
+      "salary": "89372.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COURTOIS,CHARLES B",
+      "job_title": "PLANNG & POLCY DEV SPEC (AL",
+      "salary": "43098.72",
+      "travel": "753.00"
+    },
+    {
+      "person_name": "COUSINS,GLORIA K",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "40731.36",
+      "travel": "180.00"
+    },
+    {
+      "person_name": "COUTURE,DONALD J",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "47796.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,BRIAN KEITH",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "39896.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,MARILYN LOUISE",
+      "job_title": "CLERK (WL)",
+      "salary": "28676.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAFT,EFFIE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "3680.00",
+      "travel": "21.96"
+    },
+    {
+      "person_name": "CRAIG,AMANDA M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26381.28",
+      "travel": "164.90"
+    },
+    {
+      "person_name": "CRAM,HILLARY MICHELE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "24449.48",
+      "travel": "1762.64"
+    },
+    {
+      "person_name": "CRAWFORD,ARLENE LOUISE",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "20693.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWFORD,LESLIE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5958.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWLEY,AMBER L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "1699.88",
+      "travel": "35.70"
+    },
+    {
+      "person_name": "CRAWLEY,NOEL K",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5952.95",
+      "travel": "59.99"
+    },
+    {
+      "person_name": "CRAWLEY,TAMARA L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "24205.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROSBY,LEROY",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "19776.17",
+      "travel": "357.00"
+    },
+    {
+      "person_name": "CROSS,TERESA MICHELLE",
+      "job_title": "INSTRUCTOR",
+      "salary": "463.75",
+      "travel": "131.10"
+    },
+    {
+      "person_name": "CROWDER,TERENCE",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "24311.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROWE,JOHN DAVID",
+      "job_title": "INSTRUCTOR",
+      "salary": "1638.75",
+      "travel": "505.42"
+    },
+    {
+      "person_name": "CRUMBLEY,FELICIA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24751.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMBEE,JAHALA N",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "37652.21",
+      "travel": "337.90"
+    },
+    {
+      "person_name": "CUMMINGS,WILLIE PEARL",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "33076.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUNNINGHAM,CAMILE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5107.02",
+      "travel": "71.00"
+    },
+    {
+      "person_name": "CUNNINGHAM,JOHN MICHAEL",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "32310.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUNNINGHAM,JOSEPH M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "25671.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANBERT,THERESA",
+      "job_title": "INSTRUCTOR",
+      "salary": "363.75",
+      "travel": "215.91"
+    },
+    {
+      "person_name": "DANIEL,AYANA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "8469.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,FRANK L",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "29167.92",
+      "travel": "734.89"
+    },
+    {
+      "person_name": "DART,BILLIE J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24751.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVE,MONAY J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9362.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,DONNA B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "7660.53",
+      "travel": "118.00"
+    },
+    {
+      "person_name": "DAVIS,JAMES D",
+      "job_title": "CRIMINAL INVESTIGATOR (AL)",
+      "salary": "48303.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,JENNIE ELLIOTT",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26055.60",
+      "travel": "188.64"
+    },
+    {
+      "person_name": "DAVIS,KALESHA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "851.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,LINDA RUTH",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "19445.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,SHARKIRAN V",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20342.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEBOSE,DIONNE M",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22077.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNY,JOHN F",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "27253.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENT,LESTER",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33553.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEUTSCH,JOHNNY P",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24442.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIAL,GREGORY T",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "49943.11",
+      "travel": "1160.47"
+    },
+    {
+      "person_name": "DICKENSON-MEZA,STACIA S",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "71.00"
+    },
+    {
+      "person_name": "DICKSON,BRANDI W",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33285.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DILLARD,MARY ELIZABETH",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "37082.56",
+      "travel": "965.70"
+    },
+    {
+      "person_name": "DIRKS,FAYE M",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "20200.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIX,WANDA KAY",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "41125.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,LESLIE LOUISE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27241.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,MARY BETH",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOBBS,SYLVIA G",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23994.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORMAN,MACK S",
+      "job_title": "INSTRUCTOR",
+      "salary": "2113.75",
+      "travel": "1324.79"
+    },
+    {
+      "person_name": "DOUGLAS,GENEVA M",
+      "job_title": "RECEPTIONIST (WL)",
+      "salary": "23203.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOZIER,GREGORY C",
+      "job_title": "COMMISSIONER",
+      "salary": "140714.88",
+      "travel": "1093.59"
+    },
+    {
+      "person_name": "DRAKEFORD,DEXTER EUGENE",
+      "job_title": "INSTRUCTOR",
+      "salary": "6063.75",
+      "travel": "2016.50"
+    },
+    {
+      "person_name": "DRAWDY,KIMLA M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20420.71",
+      "travel": "281.98"
+    },
+    {
+      "person_name": "DRIVER,CHARMAINE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "48295.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUFFEY,MARCIA BARTON",
+      "job_title": "PAYROLL SPEC (SP)",
+      "salary": "50810.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUKE,VAN A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,CHRISTOPHER L",
+      "job_title": "INSTRUCTOR",
+      "salary": "7508.75",
+      "travel": "800.21"
+    },
+    {
+      "person_name": "DUNN,DEBRA A",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "28692.54",
+      "travel": "823.70"
+    },
+    {
+      "person_name": "EATMON,SHANA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EBENROTH,ANNA J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDGINGTON,DONNA LYNN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "12767.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,JAMIE R",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "24322.08",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "EDWARDS,KIMBERLY VICTORIA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24589.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,SOLOMON",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21813.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,WILLIAM TONY",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "38388.00",
+      "travel": "1024.21"
+    },
+    {
+      "person_name": "EKMARK,ALLEN C",
+      "job_title": "DATABASE ADMINISTRATOR(AL)",
+      "salary": "108661.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELDER,JAMES E",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "65557.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELDRIDGE,LY",
+      "job_title": "FACILITIES MANAGEMENT WORKER",
+      "salary": "8478.00",
+      "travel": "210.05"
+    },
+    {
+      "person_name": "ELLIOTT,CRYSTAL M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23037.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ENGLAND,LEAH C",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "46115.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,ANIKA J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "355.75"
+    },
+    {
+      "person_name": "EVANS,DOROTHY SUE",
+      "job_title": "CLERK (WL)",
+      "salary": "14343.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,JUAN L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "27.00"
+    },
+    {
+      "person_name": "EVANS,LINDA",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,MARK ANTHONY",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27241.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVERAGE,JUDY RAY",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "37478.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FACE,REBECCA D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FALLS,SHARON D",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "42878.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEARS,BARBARA M",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "31545.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERGUSON,HEATHER B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9829.18",
+      "travel": "450.29"
+    },
+    {
+      "person_name": "FERGUSON,LUCILLE C",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23942.76",
+      "travel": "54.06"
+    },
+    {
+      "person_name": "FIELDING,DIANA G",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "46809.18",
+      "travel": "167.97"
+    },
+    {
+      "person_name": "FINCHER,LARRY EMMITT",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "43466.72",
+      "travel": "467.00"
+    },
+    {
+      "person_name": "FINKLEY,DANA J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5107.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FISHER,GEORGE T",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21813.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLEMING,CHRISTINE CLAY",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "119040.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOYD,TERESA J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20513.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOLSOME,PATRICIA C",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "52014.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORD,ANNABEL GAY",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "28786.80",
+      "travel": "289.75"
+    },
+    {
+      "person_name": "FORTNER,JANET S",
+      "job_title": "CLERK (AL)",
+      "salary": "23828.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOUCHE,CHARLIE L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "6041.31",
+      "travel": "175.98"
+    },
+    {
+      "person_name": "FRANKLIN,RICHARD LEDALE",
+      "job_title": "CLERK (SP)",
+      "salary": "31999.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FROST,CYNTHIA M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "386.25"
+    },
+    {
+      "person_name": "FRY,EVELYN M",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "13088.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FULLER,RONNIE C",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "28832.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FUQUA,MARY L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GABAY,JOY PATRICIA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "31593.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GALLOWAY,VIRGINIA A",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "252.84"
+    },
+    {
+      "person_name": "GAMBLE,WILBUR T",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "574.76"
+    },
+    {
+      "person_name": "GANT,MARY GRIGGS",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "5212.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARDNER,BARBARA ANN",
+      "job_title": "BUSINESS OP GENERALIST (WL)",
+      "salary": "28233.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARDNER,MARCIE E",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24442.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARNTO,DONNA L",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "74786.40",
+      "travel": "1989.79"
+    },
+    {
+      "person_name": "GAY,KELLY H",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "84.84"
+    },
+    {
+      "person_name": "GEORGE,CHRISTOPHER P",
+      "job_title": "INSTRUCTOR",
+      "salary": "5488.75",
+      "travel": "1689.87"
+    },
+    {
+      "person_name": "GERHARDT,JEFFREY ALLEN",
+      "job_title": "INSTRUCTOR",
+      "salary": "900.00",
+      "travel": "263.12"
+    },
+    {
+      "person_name": "GIBSON,CHAUNCY D",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "50091.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIERMAN,MARSHA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILBERT,THERESA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILES,BRENDA GAYLE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "32785.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILLESPIE,JAMES",
+      "job_title": "INSTRUCTOR",
+      "salary": "8321.25",
+      "travel": "1966.70"
+    },
+    {
+      "person_name": "GILMORE,LISA DENISE",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "29399.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLOVER,ANNETTE ROWENA",
+      "job_title": "BUSINESS OP GENERALIST (WL)",
+      "salary": "30214.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLOVER,SHERRI JOYNER",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "33228.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODROE,WILLIAM BRIAN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOOLSBY,OTIS DARRELL",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "67848.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,DEBBRA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOSSETT,MERRY",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26506.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOWEN,MARJORIE ELLEN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRADY,SHAYLA A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "2553.51",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "GRAHAM,LATOYA E",
+      "job_title": "LEGAL OFFICER (AL)",
+      "salary": "67575.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAHAM,LATOYA N",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20826.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,JEROME A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,THOMAS LEONARD",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "44230.80",
+      "travel": "5891.40"
+    },
+    {
+      "person_name": "GRAY,CAPRICE LAVETTE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "10214.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAY,TYNNETTA N",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "21910.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,STACY S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREENE,MARCY F",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20957.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIBBLE,SANDRA LEE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "27923.67",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "GRIFFIN,ROBERT H",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "22500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFITH,MICHAEL",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23269.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GROOVER,VIVIAN LEIGH",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "49271.28",
+      "travel": "946.29"
+    },
+    {
+      "person_name": "GROSS,BRODERICK C",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "24861.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GWYNN,CHRISTOPHER S",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "64890.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALE,ERNEST FELIX",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20064.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,CASSANDRA ANN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "29893.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,DIANE GLEASON",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26394.72",
+      "travel": "98.00"
+    },
+    {
+      "person_name": "HALL,KIMBERLY M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24445.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,LORETTA",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "37720.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,SARAH ANNE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "107.00"
+    },
+    {
+      "person_name": "HALL,SHAKERAH S",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "24008.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMMOND,CAROL H",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "35269.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANCOCK,MICHAEL S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANSON-CASTLES,PATRICIA A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "9205.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDEN,MICHELLE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "45786.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDNETT,GWENDOLYN",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "20614.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDY,PAMELA C",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "56179.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARPER,DONZELLA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "8383.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRELL,TONA D",
+      "job_title": "OFFICE ADMINISTRATOR (AL)",
+      "salary": "35858.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,MARTHA JORDAN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "25687.68",
+      "travel": "867.49"
+    },
+    {
+      "person_name": "HARRIS,QATIYA DAI",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20383.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,APRIL D",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "15375.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,YOLANDA LYNN",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "11206.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARTSFIELD,DENAE",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "1485.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,KATHY JEAN",
+      "job_title": "SAFETY & COMP SPEC(SP)",
+      "salary": "53411.52",
+      "travel": "90.00"
+    },
+    {
+      "person_name": "HAWK,NIKITA C",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "28258.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKE,WANDA A",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "39824.16",
+      "travel": "244.00"
+    },
+    {
+      "person_name": "HAWKES,DEBBIE JO",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "24930.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,SHARON JARRELL",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "582.95"
+    },
+    {
+      "person_name": "HAYES,WINIFRED DENISE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "38248.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEAD,JEREMY",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24445.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEARD,JOHNNETTE W",
+      "job_title": "HUM RES GENERALIST (AL)",
+      "salary": "57462.26",
+      "travel": "309.00"
+    },
+    {
+      "person_name": "HEARD,WILLIE R",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEATH,CLARENCE L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEATHERLY,JOE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "259.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HECK,DONNA G",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HELTON,KEVIN MATTHEW",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26830.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,CARLA R",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENRY,MELISSA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENRY,WAYMOND L",
+      "job_title": "FACILITIES",
+      "salary": "92801.76",
+      "travel": "2428.16"
+    },
+    {
+      "person_name": "HERRING,BRUCE B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20683.44",
+      "travel": "819.97"
+    },
+    {
+      "person_name": "HICKS,DERL E",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "22135.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HICKS,RODNEY JAY",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "82360.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HICKS-YOUNG,TARGGIE T",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "20024.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGGINS,HERMAN RAY",
+      "job_title": "LEGISLATIVE LIAISON",
+      "salary": "67083.41",
+      "travel": "946.78"
+    },
+    {
+      "person_name": "HILL,HUNTER",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "62.62"
+    },
+    {
+      "person_name": "HILL,KAREN",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,SHAMEL L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "27976.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,SHWANDA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24547.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,VICKI L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,WENDY N",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILLMAN,LINDA DIXON",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "35446.56",
+      "travel": "246.44"
+    },
+    {
+      "person_name": "HOLBROOK,DEBORAH W",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "2340.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLIS,JACQUELINE F",
+      "job_title": "PLANNG & POLCY DEV SPEC(AL)",
+      "salary": "42134.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLOWAY,JOHN W",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "25408.15",
+      "travel": "91.75"
+    },
+    {
+      "person_name": "HOLLOWAY,LSHAROL G",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21018.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLOWAY,POLLY A",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33112.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOOKER,DAVID E",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "31492.80",
+      "travel": "173.85"
+    },
+    {
+      "person_name": "HOUSE-HARRISON,MARY",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27889.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOUSEWORTH,BURNIE G",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,PAMELA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,ROXANNE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "33101.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWELL,DAFFNEY D",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "29111.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWELL-MIMS,SHIRLEY",
+      "job_title": "BUSINESS OP GENERALIST (WL)",
+      "salary": "27699.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUDSON,LAVETTE A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21304.02",
+      "travel": "83.99"
+    },
+    {
+      "person_name": "HUGGINS,CONNIE A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23828.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,MICHAEL A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HULET,MARGARET A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUMPHERY,GISELE D",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "36666.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HURST,BRENDA FAYE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "42352.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUSBANDS,CHERYL ANN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "11439.81",
+      "travel": "199.80"
+    },
+    {
+      "person_name": "HYLTON,MARSHA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "4770.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INGRAM,CHEVELLA M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21216.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INGRAM,GAIL SMITH",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "36055.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INGRAM,SHALETHA T",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23596.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IRWIN,KRISTY LYNN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "98.94"
+    },
+    {
+      "person_name": "ISOM,NICOLE C",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "645.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ISRAEL,ANEITA J",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "39567.36",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "JACK,YVONNE B",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "38019.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,CARLOTTA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21081.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,DAVID H",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "1224.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,ERIKA ROSHELL",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "31564.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,LANIECE M",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "15372.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,RODNEY L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "2553.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,DONNA M",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "38791.86",
+      "travel": "1403.82"
+    },
+    {
+      "person_name": "JAMES,KAMILLA KYELLE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9289.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFERY,ANDREA W",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "29922.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,ADRIANE M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,DIANE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26480.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,EILEEN EVETTE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24442.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENNINGS,LAURIE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "36366.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JESTER,MICHELLE D",
+      "job_title": "BUSINESS OP GENERALIST (WL)",
+      "salary": "23924.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOELSON-ESPEUT,JENIFER LYNN",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "15217.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,ALLEN K",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "1013.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,BARBARA J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23994.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,BESSIE R",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,BRYANNA DELL",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "18725.74",
+      "travel": "395.00"
+    },
+    {
+      "person_name": "JOHNSON,CINDY D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "18713.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,COHESTER S",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27198.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,ERICA N",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "35569.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,HOLLY B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "228.41"
+    },
+    {
+      "person_name": "JOHNSON,JULIUS",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24897.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,KILA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "21995.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,KRISTIN ANTONIA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "2587.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,LATRICIA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "30158.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,MAMIE V",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "30330.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,RHONDA BROWN",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22077.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,SHELLEY L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5753.91",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "JOHNSON,SHEREE MICHELLE",
+      "job_title": "CLERK (WL)",
+      "salary": "29968.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,STACY S",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "25075.86",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "JOINER,ELOISE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ARTYSIA L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "14537.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,BARBRA P",
+      "job_title": "CLERK (WL)",
+      "salary": "21627.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ISABEL M",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,JANTESSA Y",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20369.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,JEFFREY D",
+      "job_title": "INSTRUCTOR",
+      "salary": "63.75",
+      "travel": "54.61"
+    },
+    {
+      "person_name": "JONES,KRISTY H",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "26361.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,RHONDA N",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "25235.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,TONORA S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "19492.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,TYNISHA L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "124.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,KIMBERLY C",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,MICHELE",
+      "job_title": "BUDGET/PORTFOLIO",
+      "salary": "95856.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KECK,GREGORY A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "11954.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLY,JAMES K",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "64000.08",
+      "travel": "1109.84"
+    },
+    {
+      "person_name": "KEMP,MELISSA ANN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5107.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KENDRICK,ANGELA D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "175.98"
+    },
+    {
+      "person_name": "KENYON,KAMISHA B",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "25212.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KESLER,THERESA S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "68.85"
+    },
+    {
+      "person_name": "KETTLES,BARBARA JEAN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEYS,HAROLD EUGENE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "28659.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KHALEES,BARBAREE A",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "27844.68",
+      "travel": "369.00"
+    },
+    {
+      "person_name": "KHAN,RASHEED A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "16766.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,HAROLD W",
+      "job_title": "TRANSPORTATION SERVICES WORKER",
+      "salary": "860.00",
+      "travel": "1169.60"
+    },
+    {
+      "person_name": "KITCHENS,MARY J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "KNOTTS,ANTHONY H",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "41920.32",
+      "travel": "156.60"
+    },
+    {
+      "person_name": "KNOWLES-PHILLIPS,AIMEE CHERIE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "16354.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNOX,RAYMOND",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21231.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KOMJATHY,THOMAS J",
+      "job_title": "INSTRUCTOR",
+      "salary": "6760.21",
+      "travel": "3757.33"
+    },
+    {
+      "person_name": "KOZIEL,SHEILA S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KUHN,EVA",
+      "job_title": "INSTRUCTOR",
+      "salary": "7991.88",
+      "travel": "1487.53"
+    },
+    {
+      "person_name": "KYZER,KENNETH L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAGARDE,CHERITA S",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23828.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAKE,RITA A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "98.99"
+    },
+    {
+      "person_name": "LAMB,MISTY ANN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAMBERT,ANGELA FAYE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9362.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAND,THOMAS M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANG,RONNIE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "474.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANIER,KENNETH A",
+      "job_title": "INSTRUCTOR",
+      "salary": "5213.75",
+      "travel": "1549.42"
+    },
+    {
+      "person_name": "LANNING,JASON D",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26055.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAPOINT,MARY B",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24295.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LARISCY,MIRIAM H",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "12890.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LASORSA,PAUL",
+      "job_title": "INFO SECURITY SPEC (AL)",
+      "salary": "74715.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWSON,ROBERT H",
+      "job_title": "CLERK (WL)",
+      "salary": "22590.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,AMY LOUISE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24554.88",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "LEHR,DANNY F",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "23420.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEON,NOEMI",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "4215.29",
+      "travel": "118.00"
+    },
+    {
+      "person_name": "LESTER,JAMES M",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "25395.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,LANA D",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "35181.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,SHARON L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20583.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LIVINGSTON,MARK A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKHART,ROSE N",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOFTON,JEROME",
+      "job_title": "INSTRUCTOR",
+      "salary": "6088.13",
+      "travel": "905.98"
+    },
+    {
+      "person_name": "LOFTON,JOY",
+      "job_title": "INSTRUCTOR",
+      "salary": "9203.75",
+      "travel": "950.69"
+    },
+    {
+      "person_name": "LONG,LEANNA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23755.32",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "LOUDERMILK,JOYCE A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "134.90"
+    },
+    {
+      "person_name": "LOVE,SHARMEEN M",
+      "job_title": "CLERK (WL)",
+      "salary": "2504.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWE,ELTYMIECE LORRAINE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "44314.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWERY,PAMELA S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUNSFORD,JANICE L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MACK,LARRY DANIEL",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "7072.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALONE,CATHERINE C",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "31767.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALOY,CHERI A",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "53341.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANLEY,BEVERLY JAN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26365.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANN,CHARLENE DENISE",
+      "job_title": "COMPUTER SYS ANALYST (SP)",
+      "salary": "19983.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANN,JOHNNY RAY",
+      "job_title": "BUDGET SPEC (AL)",
+      "salary": "50293.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANORD,PENNY S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "26035.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANSON,BRITTANY MARCHE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "24403.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANZO,REBECA MERCADO",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "9362.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARCHANT,JACQUELINE",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "29354.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARKS,LISA TAYLOR",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "38573.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARLER,VIRGINIA SUSAN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "11823.08",
+      "travel": "119.98"
+    },
+    {
+      "person_name": "MARTIE,MICHAEL I",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,BARBARA A",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "40769.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,DEBRA L",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "26394.72",
+      "travel": "169.93"
+    },
+    {
+      "person_name": "MARTIN,KELLY M",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "44659.68",
+      "travel": "901.56"
+    },
+    {
+      "person_name": "MARTIN,REBECCA SUE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "36052.32",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "MARTIN,SHARON PATRICIA",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "37086.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,SONJA K",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,TAMMY",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33368.88",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "MASON,SUSAN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "3404.68",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "MATHEY-APOSSAN,JAMILLE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAYS,CANDICE E",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22961.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLAIN,JOSEPH",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "55865.52",
+      "travel": "84.65"
+    },
+    {
+      "person_name": "MCCLUSKY,HEIDI",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "10399.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCOY,LAWANDA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "26361.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDONALD,HUGH M",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "6867.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDONALD,SHANNON N",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "21627.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDUFFIE,LARRY WAYNE",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "28438.25",
+      "travel": "1393.06"
+    },
+    {
+      "person_name": "MCDUFFIE,SANDRA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24442.56",
+      "travel": "107.00"
+    },
+    {
+      "person_name": "MCGEEHEN,KATHY D",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "14828.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGINTY,ANNA J",
+      "job_title": "HUM RES SPECIALIST (EL)",
+      "salary": "26672.16",
+      "travel": "228.98"
+    },
+    {
+      "person_name": "MCILWAIN,ALEX B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKEEVER,CYNTHIA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "35446.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCLEAN,LILLIE A",
+      "job_title": "LEGAL OFFICER (WL)",
+      "salary": "61800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCLEOD,JODIE L",
+      "job_title": "SAFETY & COMP SPEC(SP)",
+      "salary": "58914.24",
+      "travel": "1248.06"
+    },
+    {
+      "person_name": "MCMICHAEL,GLORIA L",
+      "job_title": "CUSTOMER SERVICE SPEC (AL)",
+      "salary": "52459.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMURRY,THOMAS W",
+      "job_title": "CHIEF INFORMATION OFFICER",
+      "salary": "103000.08",
+      "travel": "1647.15"
+    },
+    {
+      "person_name": "MCRAE,TOMMY L",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "27234.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEADOWS,MAMIE L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "30392.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MELCHERT,DAVID HENRY",
+      "job_title": "INSTRUCTOR",
+      "salary": "63.75",
+      "travel": "115.62"
+    },
+    {
+      "person_name": "MERRITT,THOMAS FRANK",
+      "job_title": "INSTRUCTOR",
+      "salary": "36192.00",
+      "travel": "1929.51"
+    },
+    {
+      "person_name": "MIKELL,ROBERT G",
+      "job_title": "DEPUTY COMMISSIONER",
+      "salary": "113299.92",
+      "travel": "3950.19"
+    },
+    {
+      "person_name": "MILEY,CAROLYN ANN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "32224.08",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "MILLER,DOROTHY BEA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "19587.79",
+      "travel": "483.97"
+    },
+    {
+      "person_name": "MILLER,JENIFER",
+      "job_title": "PURCH & PROC SPEC (AL)",
+      "salary": "38500.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,KAREN ALICE",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "38388.00",
+      "travel": "477.03"
+    },
+    {
+      "person_name": "MILLER,RICHARD M",
+      "job_title": "INVESTIGATIONS",
+      "salary": "73563.60",
+      "travel": "1346.00"
+    },
+    {
+      "person_name": "MILLER,RICKY GLENN",
+      "job_title": "INSTRUCTOR",
+      "salary": "3388.75",
+      "travel": "356.14"
+    },
+    {
+      "person_name": "MILLS,TAWANA JESTER",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "28218.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIMS,JANICE DELOIS",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "33834.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MINTER,NATASHA R",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIRACLE,SHEILA STEWART",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "48595.43",
+      "travel": "16793.67"
+    },
+    {
+      "person_name": "MITCHELL,ALEX S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,DOROTHY M",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "17533.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,MARY J",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "36708.30",
+      "travel": "357.93"
+    },
+    {
+      "person_name": "MITCHELL,MICHAEL B",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "69396.24",
+      "travel": "1479.84"
+    },
+    {
+      "person_name": "MITCHELL,SONYA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "22320.24",
+      "travel": "665.49"
+    },
+    {
+      "person_name": "MONIZ,MICHAEL J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "7066.21",
+      "travel": "213.90"
+    },
+    {
+      "person_name": "MONROE,DARLENE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "38491.04",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "MONTGOMERY,KRISTINA LAPAIGE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "60.28"
+    },
+    {
+      "person_name": "MOORE,FELICIA M",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "29147.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,SCOTT",
+      "job_title": "INSTRUCTOR",
+      "salary": "3013.75",
+      "travel": "284.50"
+    },
+    {
+      "person_name": "MORAN,RACHELLE MARIE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "12750.36",
+      "travel": "569.50"
+    },
+    {
+      "person_name": "MORGAN,TAMMY JEAN",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "36407.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORREALE,CHARLES A",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "31866.02",
+      "travel": "795.86"
+    },
+    {
+      "person_name": "MORRIS,PATRICIA A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24442.56",
+      "travel": "169.20"
+    },
+    {
+      "person_name": "MORRIS,SHIRLEY A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23828.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRISON,SCOTT KENNETH",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "31268.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORTON,JOHN R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20337.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORTON,PETER M",
+      "job_title": "INSTRUCTOR",
+      "salary": "3988.75",
+      "travel": "1278.85"
+    },
+    {
+      "person_name": "MORTON,WHITNEY D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "18494.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSLEY,BELINDA M",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "41622.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MUEHLBERGER,PAUL W",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "7407.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURRAY,STEPHEN W",
+      "job_title": "TRANSPORTATION SERVICES WORKER",
+      "salary": "840.00",
+      "travel": "524.00"
+    },
+    {
+      "person_name": "MUTNICK,FRANK",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "14821.86",
+      "travel": "31.50"
+    },
+    {
+      "person_name": "NAKAI,ROBERT E",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "86488.32",
+      "travel": "289.77"
+    },
+    {
+      "person_name": "NALLEY,JAMIE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "5958.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NALLY,FAYE BEATRICE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27431.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NASH,SHEILA R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "15230.42",
+      "travel": "288.98"
+    },
+    {
+      "person_name": "NELOMS,NICOLE MONTREAL",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,BERNARD",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24442.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,BRUCE E",
+      "job_title": "INSTRUCTOR",
+      "salary": "63.75",
+      "travel": "14.10"
+    },
+    {
+      "person_name": "NELSON,ELIZABETH",
+      "job_title": "CLERK (AL)",
+      "salary": "22924.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWELL-MAPP,CARLA D",
+      "job_title": "PURCH & PROC SPEC  (WL)",
+      "salary": "33737.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NICELY,TINA R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NINER,BRENDA B",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "3497.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NIXON,NANCY V",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "9024.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOLLEY,VANESSA",
+      "job_title": "CLERK (AL)",
+      "salary": "44252.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORMAN,MELISSA P",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "17937.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOVAK,CHERYL P",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26703.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NWOGOR,FIDELIA E",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "ODUM,MISTIE M",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OGLESBY,SONYA K",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OHANLON,PATRICK JEROME",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "34392.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OKELLEY,BRENDA A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLIVER,DANIELLE V",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLIVER,LINDA J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5936.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OROURKE,PATRICK M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5076.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OVERSTREET,BRENDA K",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "17534.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWEN,SHERRY M",
+      "job_title": "INSTRUCTOR",
+      "salary": "2331.25",
+      "travel": "725.80"
+    },
+    {
+      "person_name": "OWENS,ALLAN DALE",
+      "job_title": "INSTRUCTOR",
+      "salary": "63.75",
+      "travel": "65.80"
+    },
+    {
+      "person_name": "OXFORD,DAVID R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARAMESWARAN,NATARAJAN",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "64890.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARHAM-CARROLL,JEANETTE",
+      "job_title": "SECRETARY (AL)",
+      "salary": "26248.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,JEFFREY LLOYD",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "41239.92",
+      "travel": "2205.32"
+    },
+    {
+      "person_name": "PARKER,SARA SABB",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "18965.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,TERESA K",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "50293.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARNELL,SHIRLEY J",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "11988.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PASS,TOMIA L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATMON,YKINNA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5923.82",
+      "travel": "61.76"
+    },
+    {
+      "person_name": "PATRICK,TRUMMIE L",
+      "job_title": "BOARD MEMBER",
+      "salary": "735.00",
+      "travel": "302.00"
+    },
+    {
+      "person_name": "PATTERSON,SELMA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "47.30"
+    },
+    {
+      "person_name": "PAULK,DARLENE A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24094.92",
+      "travel": "726.81"
+    },
+    {
+      "person_name": "PAYNE,SHERRI A",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "37620.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PENY,CHARLES",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "2265.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERRY,CRYSTAL F",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETERS-KNIGHT,BRENDA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21021.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHAM,LAN T",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PILCHER,WILLIAM",
+      "job_title": "INSTRUCTOR",
+      "salary": "5808.75",
+      "travel": "2507.19"
+    },
+    {
+      "person_name": "PIPPEN,PATRICIA A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIPPINS,MICHAEL G",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "20015.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIRO,LORAINE G",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "89154.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITTS,ANGELIA J",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33388.70",
+      "travel": "1339.98"
+    },
+    {
+      "person_name": "PLESS,VICKY LAWANDA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "8511.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POLLARD,ORETHA L",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "38388.00",
+      "travel": "98.00"
+    },
+    {
+      "person_name": "POLSTON,KIMBERLY D",
+      "job_title": "ACCOUNTANT (EL)",
+      "salary": "32536.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POMA,MICHAEL T",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "67058.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POPE,LOLITA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23390.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POSEY,CLARENCE D",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "42011.76",
+      "travel": "165.50"
+    },
+    {
+      "person_name": "POTTS,TIMOTHY ROSS",
+      "job_title": "INFORMATION SYS WORKER",
+      "salary": "57201.07",
+      "travel": "900.20"
+    },
+    {
+      "person_name": "POWELL,KEITH",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "33762.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRESCOTT,JOEANN P",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33476.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRICE,LANAISHA L",
+      "job_title": "BUSINESS OP GENERALIST (WL)",
+      "salary": "17319.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRIOR,BETSY M",
+      "job_title": "BUDGET SPEC (AL)",
+      "salary": "46452.96",
+      "travel": "58.25"
+    },
+    {
+      "person_name": "PRIVETT,JAMES D",
+      "job_title": "INSTRUCTOR",
+      "salary": "63.75",
+      "travel": "24.44"
+    },
+    {
+      "person_name": "PROSSER,DEREK S",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "44659.92",
+      "travel": "3590.47"
+    },
+    {
+      "person_name": "RAIFORD,JANICE HARRIS",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "43713.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAMEY,CHRISTOPHER VAUGHN",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "37934.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RANDALL,JESSICA F",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "30781.22",
+      "travel": "41.50"
+    },
+    {
+      "person_name": "RAWLS,WILLIAM M",
+      "job_title": "FACILITIES OP/PL SPEC (AL)",
+      "salary": "42226.80",
+      "travel": "3145.49"
+    },
+    {
+      "person_name": "RAY,CATHERINE D",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23932.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAY,TRACY V",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "79911.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDDING,RUBY ANN",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "28044.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDFERN,RHONDA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "27494.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REESE,LUCILLE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REEVES,LEOLA BONNER",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "42281.76",
+      "travel": "281.91"
+    },
+    {
+      "person_name": "RENFROE,SHONTESE L",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "16379.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RESPRESS,PORTIA ANN",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "23828.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RHETT,SHEILA S",
+      "job_title": "CLERK (WL)",
+      "salary": "21627.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RHOADES,ANNA DOMINY",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21128.70",
+      "travel": "93.44"
+    },
+    {
+      "person_name": "RHYMER,PATRICIA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICHIE,TONYA M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "492.99"
+    },
+    {
+      "person_name": "RINER,GRADY C",
+      "job_title": "MECHANIC (AL)",
+      "salary": "52000.08",
+      "travel": "644.52"
+    },
+    {
+      "person_name": "RINGHOFFER,JOHN",
+      "job_title": "INSTRUCTOR",
+      "salary": "4238.75",
+      "travel": "997.18"
+    },
+    {
+      "person_name": "RINTOUL,MATTHEW C",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "39514.32",
+      "travel": "357.00"
+    },
+    {
+      "person_name": "ROBERSON,DEMETRA C",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "16717.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERSON,DOROTHY P",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "24930.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,MISTY D",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "38760.53",
+      "travel": "377.01"
+    },
+    {
+      "person_name": "ROBERTS,SABRINA J",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "34333.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,TAMI L",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "31038.48",
+      "travel": "522.95"
+    },
+    {
+      "person_name": "ROBERTSON,JANICE WILSON",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33356.88",
+      "travel": "307.80"
+    },
+    {
+      "person_name": "ROBERTSON,LYNNETTE WANIECE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "11916.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTSON,RUBY TYREON",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,WINDY ANNETTE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "7538.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBY,PAMELA SHERIE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "34099.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RODDY,CAROLYN TATUM",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "103.02"
+    },
+    {
+      "person_name": "ROGERS,CHERYL ANITA",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "68166.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROGERS,CHRISTINA L",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "25558.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROGERS,MICHELLE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5107.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROGERS,TANESSA MARENE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "13022.91",
+      "travel": "643.99"
+    },
+    {
+      "person_name": "ROLAND,ARLENE Q",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROLAND,MARY E",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24295.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROLL,STEVEN GEORGE",
+      "job_title": "INSTRUCTOR",
+      "salary": "7688.75",
+      "travel": "3277.04"
+    },
+    {
+      "person_name": "ROMERO,TAMA",
+      "job_title": "INSTRUCTOR",
+      "salary": "363.75",
+      "travel": "79.60"
+    },
+    {
+      "person_name": "ROPER,JERRI JAN",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "42676.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROPER,TAMARA LACRESHA",
+      "job_title": "OFFICE ADMIN GENERLIST (AL)",
+      "salary": "18915.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSENFIELD,PHILIP D",
+      "job_title": "INSTRUCTOR",
+      "salary": "788.75",
+      "travel": "645.54"
+    },
+    {
+      "person_name": "RUFF,REGENIA",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "30252.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUMSEY,ALLYSON NOEL",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "27390.72",
+      "travel": "115.90"
+    },
+    {
+      "person_name": "RUSSELL,ALLEN R",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "39513.60",
+      "travel": "244.00"
+    },
+    {
+      "person_name": "RUTHERFORD,THOMAS B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21176.39",
+      "travel": "113.94"
+    },
+    {
+      "person_name": "RYANS,GERALD",
+      "job_title": "INSTRUCTOR",
+      "salary": "63.75",
+      "travel": "109.04"
+    },
+    {
+      "person_name": "SAFAI,MAJID J",
+      "job_title": "PROGRAMMER (AL)",
+      "salary": "76622.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAMPSON,JONATHAN R",
+      "job_title": "INSTRUCTOR",
+      "salary": "3003.75",
+      "travel": "445.36"
+    },
+    {
+      "person_name": "SANDERS,CAROLYN R",
+      "job_title": "DATA PROCESSOR (AL)",
+      "salary": "31728.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDERS,GLENDA M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5958.19",
+      "travel": "231.95"
+    },
+    {
+      "person_name": "SANDERS,JUNE M",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHROEDER,KAREN",
+      "job_title": "COMPUTER SYS ANALYST (SP)",
+      "salary": "2600.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,DAWN E",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,GWENDOLYN D",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27244.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,HENRY J",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33044.16",
+      "travel": "102.00"
+    },
+    {
+      "person_name": "SCREEN,TAMIKA N",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "18689.43",
+      "travel": "70.00"
+    },
+    {
+      "person_name": "SCRIVEN,BURNETTA L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21128.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCRIVEN,VELMA LOUISE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "40261.20",
+      "travel": "450.86"
+    },
+    {
+      "person_name": "SEARCY,MARQUITA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "851.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEATS,SANTRICE L",
+      "job_title": "RECEPTIONIST (WL)",
+      "salary": "20840.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SELLERS,CHARLES E",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24748.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SENTERFITT,CRYSTAL ANN",
+      "job_title": "HUMAN RESOURCES",
+      "salary": "45333.34",
+      "travel": "317.08"
+    },
+    {
+      "person_name": "SERRANO,ESTHER",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "29155.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEVILLE,THERAUNE S",
+      "job_title": "HR TRANSACTIONS TECH (AL)",
+      "salary": "26844.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHANDE,GIDEON G",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHARP,CONNIE J",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "25315.75",
+      "travel": "368.80"
+    },
+    {
+      "person_name": "SHEFFIELD,GENE A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27463.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHERWOOD,ROBERT PROUD",
+      "job_title": "INSTRUCTOR",
+      "salary": "3963.75",
+      "travel": "2090.17"
+    },
+    {
+      "person_name": "SHIVELHOOD,PAUL E",
+      "job_title": "HUM RES SPECIALIST (AL)",
+      "salary": "42499.92",
+      "travel": "120.00"
+    },
+    {
+      "person_name": "SHIVER,NANCY EVELYN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "30692.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIGERFOOS,EDWARD THOMAS",
+      "job_title": "INSTRUCTOR",
+      "salary": "4163.75",
+      "travel": "3949.11"
+    },
+    {
+      "person_name": "SIMS,WILLIAM M",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINGLETARY,RICKY A",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "11874.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINGLEY,JUDY C",
+      "job_title": "BUSINESS ANALYST (AL)",
+      "salary": "53934.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIRJU,SUSAN D",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27241.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SISK,SUSAN KEARNEY",
+      "job_title": "BUDGET SPEC (WL)",
+      "salary": "64504.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SKELTON,LYNNE B",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "7885.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ALLEGRA CHINNAY",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,BERNICE B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "18094.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,DANNY B",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "40698.96",
+      "travel": "1144.35"
+    },
+    {
+      "person_name": "SMITH,DARLENE GAINES",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "32581.07",
+      "travel": "171.89"
+    },
+    {
+      "person_name": "SMITH,GRETCHEL B",
+      "job_title": "DATABASE ADMINISTRATOR(WL)",
+      "salary": "86478.96",
+      "travel": "20.91"
+    },
+    {
+      "person_name": "SMITH,HOPE RENEE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "28786.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,JAMEKA EANETTE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "12767.55",
+      "travel": "59.00"
+    },
+    {
+      "person_name": "SMITH,JAMES R",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,LATIKA S",
+      "job_title": "PAYROLL TECHNICIAN  (AL)",
+      "salary": "32943.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,LINDA W",
+      "job_title": "BUSINESS OP GENERALIST (SP)",
+      "salary": "43496.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,MELANIE D",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,PEGGYE S",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "17117.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,THEANATASHA MARIE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,VINCENT C",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33140.06",
+      "travel": "289.75"
+    },
+    {
+      "person_name": "SMITH,WILLIAM CHARLES",
+      "job_title": "INSTRUCTOR",
+      "salary": "6663.75",
+      "travel": "4813.56"
+    },
+    {
+      "person_name": "SMITH-MCKEITHEN,SHAUNDRA D",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "222.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITHERMAN,JOE A",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMOKES,DEBORAH",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "41826.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SNOW,CHERYL L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOWELL,GERALDINE R",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "32393.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOWELL,TERESA ANNE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "34422.72",
+      "travel": "970.68"
+    },
+    {
+      "person_name": "SPALLER,DON H",
+      "job_title": "SYSTEMS DEVELPMENT & SUPT",
+      "salary": "97945.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPENCER,LURLEEN L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIRES,SHARON C",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "50361.02",
+      "travel": "1676.83"
+    },
+    {
+      "person_name": "SPORTS,SUSAN W",
+      "job_title": "PUBLIC AFFAIRS DIRECTOR",
+      "salary": "56136.72",
+      "travel": "359.85"
+    },
+    {
+      "person_name": "STANCIL,AMY JO",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "87420.72",
+      "travel": "37.00"
+    },
+    {
+      "person_name": "STANLEY,PEARLIE M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "24076.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEPHENS,DANIEL E",
+      "job_title": "INSTRUCTOR",
+      "salary": "8993.75",
+      "travel": "1051.13"
+    },
+    {
+      "person_name": "STEPHENS,ELLIOTT D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "23798.64",
+      "travel": "57.95"
+    },
+    {
+      "person_name": "STEPHENS,GEORGE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23994.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STERLING,DARLENE",
+      "job_title": "PURCH & PROC SPEC (AL)",
+      "salary": "48832.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEVENS,CHRISTOPHER SCOTT",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27241.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,EDWARD J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,KIM-NEE J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "21992.72",
+      "travel": "98.99"
+    },
+    {
+      "person_name": "STEWART,ZELIAN R",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "37737.42",
+      "travel": "841.00"
+    },
+    {
+      "person_name": "STONE,DODIE ANN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27666.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,GEORGIA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22766.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STOWE,DEBRA DELAINE",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "43084.80",
+      "travel": "14043.02"
+    },
+    {
+      "person_name": "STRANGE,MELISSA CHRISTENE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "25450.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRANGE,PHYLISS M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "10214.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STROUD,DONALD R",
+      "job_title": "INSTRUCTOR",
+      "salary": "1830.00",
+      "travel": "941.96"
+    },
+    {
+      "person_name": "SUAREZ,CHRISTINA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUCCESS,ETHYL H",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUMMERS,LYNN D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "8511.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUTTON,ANGELA LOUISE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20003.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWAIN,LINDA MYRA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "24401.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWANEY,LYNNE S",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "35569.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWANN,SANDRA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "25695.46",
+      "travel": "11.00"
+    },
+    {
+      "person_name": "SYLVESTER,ALISON A",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "41740.08",
+      "travel": "416.90"
+    },
+    {
+      "person_name": "TABRON,CHARMIN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "16869.24",
+      "travel": "217.98"
+    },
+    {
+      "person_name": "TANKERSLEY,BEVERLY",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "40434.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TANKERSLEY,DEIDRA ANN",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "32310.24",
+      "travel": "87.99"
+    },
+    {
+      "person_name": "TARRER,DOROTHY ANN",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "68145.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TATE,BEVERLY LOUISE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "34497.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,LANCE",
+      "job_title": "INVESTIGATIONS",
+      "salary": "55347.84",
+      "travel": "629.00"
+    },
+    {
+      "person_name": "TAYLOR,MARY S",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "22077.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRELL,BETH MARIE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "17714.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRELL,CAMISHA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "8239.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THACKSTON,VICKIE D",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "31034.64",
+      "travel": "289.75"
+    },
+    {
+      "person_name": "THEOBALD,GEORGE FRANCES",
+      "job_title": "INFORMATION TECHNOLOGY",
+      "salary": "98911.94",
+      "travel": "2352.67"
+    },
+    {
+      "person_name": "THOMAS,CAROLYN R",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "28978.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,DIAN P",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "5857.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,LAROUNDA G",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPKINS,MARGARET W",
+      "job_title": "PURCH & PROC SPEC (AL)",
+      "salary": "42122.24",
+      "travel": "387.00"
+    },
+    {
+      "person_name": "THOMPSON,BRADLEY",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "6809.36",
+      "travel": "207.46"
+    },
+    {
+      "person_name": "THOMPSON,DEBORAH KAY",
+      "job_title": "BUSINESS OP GENERALIST (WL)",
+      "salary": "39972.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THORNE,LUCY A",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "45249.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THORNTON,QUEECHA B",
+      "job_title": "TRNG & DEVLPMNT SPEC (AL)",
+      "salary": "9670.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THORNTON,VALERIE",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "36140.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THRASHER,DIANE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23949.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TILLER,JANICE E",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TILLER,SHERRILL B",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27428.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TIMMS,ANNA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "31907.32",
+      "travel": "130.00"
+    },
+    {
+      "person_name": "TODMAN,ROSETTA SUZZANNE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "12767.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TORBETT,SHIRLEY D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "22116.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWNS,ARETHA MARIA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "25416.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRAMMELL,APRIL",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "29922.24",
+      "travel": "268.80"
+    },
+    {
+      "person_name": "TRAMMELL,BRUCE A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "22966.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRASK,BENITA CABEZA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "8306.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRIMBLE,KATHLEEN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "93.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRUITT,KATHY MARIE",
+      "job_title": "DATA PROCESSOR (WL)",
+      "salary": "23411.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TSAMOLIAS,JANET M",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "39549.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,BELVIA P",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER-MULLINAX,AMY L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20683.44",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "TURPIN,RICHARD A",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "28189.63",
+      "travel": "237.85"
+    },
+    {
+      "person_name": "UNDERWOOD,ANGELA N",
+      "job_title": "INSTRUCTOR",
+      "salary": "63.75",
+      "travel": "21.15"
+    },
+    {
+      "person_name": "UNDERWOOD,DANA LANE",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "1295.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "UPCHURCH,JACKIE T",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "36777.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "USHER,SHENANDRA",
+      "job_title": "ACCOUNTANT (AL)",
+      "salary": "50589.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VILLAFANE,EDWIN",
+      "job_title": "INSTRUCTOR",
+      "salary": "3988.75",
+      "travel": "520.98"
+    },
+    {
+      "person_name": "VINES,STEPHANIE T",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "51125.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADDY,ADRIANE G",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,CALANDRA M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20342.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,DALE PEARCE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "46817.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,HENRY J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "23995.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,JO ANN",
+      "job_title": "CLERK (WL)",
+      "salary": "35595.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,KEYSLER LYNETTE",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "45062.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,LUVERNA T",
+      "job_title": "PLANNG & POLCY DEV SPEC(AL)",
+      "salary": "42134.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,MEGHAN L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,SHERRYE L",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "12191.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALLACE,RAQUEL R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALLS,CONNIE A",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24445.44",
+      "travel": "111.98"
+    },
+    {
+      "person_name": "WALLS,HARRIETTE J",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "26055.60",
+      "travel": "240.50"
+    },
+    {
+      "person_name": "WARNECKE,SARAH H",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "29792.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARREN,ROSA B",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "44926.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,TYREESSE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "3623.25",
+      "travel": "24.89"
+    },
+    {
+      "person_name": "WATSON,ALAN W",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "103000.08",
+      "travel": "2368.75"
+    },
+    {
+      "person_name": "WAY,CLARENCE H",
+      "job_title": "INSTRUCTOR",
+      "salary": "1213.75",
+      "travel": "389.60"
+    },
+    {
+      "person_name": "WEATHERFORD,ROBERT MATTHEWS",
+      "job_title": "INSTRUCTOR",
+      "salary": "7858.75",
+      "travel": "549.87"
+    },
+    {
+      "person_name": "WEBB,BARBARA W",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20456.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEBB,ROSE M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEBSTER,ERICA L",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "16151.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEEMS,MELBA A",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "30810.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WESTFALL,TERESA BRAMLETT",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "4840.01",
+      "travel": "119.98"
+    },
+    {
+      "person_name": "WESTON,TUNNIZIA MICHELE",
+      "job_title": "SAFETY & COMP SPEC(AL)",
+      "salary": "39898.62",
+      "travel": "1149.92"
+    },
+    {
+      "person_name": "WHEELER,SHERONDA B",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "26672.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITAKER,DAVID JOSEPH",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "33511.44",
+      "travel": "5.00"
+    },
+    {
+      "person_name": "WHITAKER,STEVEN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "55.00"
+    },
+    {
+      "person_name": "WHITE,COLLIS",
+      "job_title": "INSTRUCTOR",
+      "salary": "1338.76",
+      "travel": "204.55"
+    },
+    {
+      "person_name": "WHITE,EVELYN M",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "46568.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,JUDY C",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21813.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,KENNETH T",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "28703.28",
+      "travel": "905.83"
+    },
+    {
+      "person_name": "WHITE,REBECCA P",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,RICHELL R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20578.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITEHEAD,MITCHELL B",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "2991.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITEHOUSE,CRAIG B",
+      "job_title": "MECHANIC (WL)",
+      "salary": "24960.00",
+      "travel": "617.68"
+    },
+    {
+      "person_name": "WHITFIELD,LESHANNON",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27147.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITNEY,DAVID N",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WIGGINS,SHEA",
+      "job_title": "CUSTOMER SERVICE SPEC (WL)",
+      "salary": "43394.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,LEE ROY",
+      "job_title": "OPERATIONS ANALYST (WL)",
+      "salary": "29355.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,TAMMY M",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "27390.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILDER,LINDA D",
+      "job_title": "ACCOUNTANT/FINANCIAL",
+      "salary": "71037.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILES,ROGER WILLIAM",
+      "job_title": "INSTRUCTOR",
+      "salary": "2711.25",
+      "travel": "2330.78"
+    },
+    {
+      "person_name": "WILEY,CURTIS M",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "6985.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,BART D",
+      "job_title": "INSTRUCTOR",
+      "salary": "3875.00",
+      "travel": "1415.18"
+    },
+    {
+      "person_name": "WILLIAMS,DEBORAH JEAN",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,GLADYS ANTHONY",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "32476.56",
+      "travel": "483.78"
+    },
+    {
+      "person_name": "WILLIAMS,HATCHIE A",
+      "job_title": "CLERK (WL)",
+      "salary": "10487.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JASMINE S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JERRI F",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20513.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,KATHRYN A",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "66949.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,PAMELA D",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,RUDENE",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "37218.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,SANDRA FAVORS",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "39025.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,SANDRA FELICIA",
+      "job_title": "CRIMINAL INVESTIGATOR (EL)",
+      "salary": "19445.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,STACEY S",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,THEONITA L",
+      "job_title": "CLERK (WL)",
+      "salary": "22980.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,STANLEY L",
+      "job_title": "INSTRUCTOR",
+      "salary": "4913.75",
+      "travel": "1078.08"
+    },
+    {
+      "person_name": "WILMOTH,ANTHONY S",
+      "job_title": "CRIMINAL INVESTIGATOR (WL)",
+      "salary": "43962.81",
+      "travel": "533.00"
+    },
+    {
+      "person_name": "WILSON,LARRY JACK",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "32311.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,MELINDA C",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "26889.84",
+      "travel": "289.75"
+    },
+    {
+      "person_name": "WILSON,PILAR ANDREA",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "40610.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,SYLVIA AILEENE",
+      "job_title": "DRIVER EXAMINER (SP)",
+      "salary": "39356.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,SYLVIA B",
+      "job_title": "REGULATORY COMPLIANCE",
+      "salary": "49737.12",
+      "travel": "428.95"
+    },
+    {
+      "person_name": "WOMACK,REBECCA E",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "24900.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOD,JULIE P",
+      "job_title": "FINANCIAL OPS GEN (AL)",
+      "salary": "34859.28",
+      "travel": "31.50"
+    },
+    {
+      "person_name": "WOODS,PAMELA D",
+      "job_title": "BUSINESS OPERATION SPEC(SP)",
+      "salary": "56650.08",
+      "travel": "1045.67"
+    },
+    {
+      "person_name": "WORTHEN,TAMICA SHONTA",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WREN,LUANNE D",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "27220.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,HAYWOOD R",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "36037.20",
+      "travel": "55.99"
+    },
+    {
+      "person_name": "WRIGHT,MYRA B",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "21041.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT-KING,MARGHUERITE VERNICE",
+      "job_title": "BUSINESS OPERATIONS",
+      "salary": "51221.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WYRICK,JEFFREY",
+      "job_title": "INSTRUCTOR",
+      "salary": "2913.75",
+      "travel": "1921.56"
+    },
+    {
+      "person_name": "YILDIRIM,ANDREA D",
+      "job_title": "PAYROLL TECHNICIAN  (AL)",
+      "salary": "31419.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YORK,LORRIE G",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "78.99"
+    },
+    {
+      "person_name": "YOUNG,BRETT A",
+      "job_title": "OPERATIONS ANALYST (AL)",
+      "salary": "63023.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,GLORIA P",
+      "job_title": "CLERK (WL)",
+      "salary": "21614.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,SANDRA JOY",
+      "job_title": "DRIVER EXAMINER (WL)",
+      "salary": "27202.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,TYLISA HOPE",
+      "job_title": "OFFICE ADMIN GENERLIST (WL)",
+      "salary": "1750.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNKINS,ERNIE",
+      "job_title": "INSTRUCTOR",
+      "salary": "5163.75",
+      "travel": "301.56"
+    },
+    {
+      "person_name": "ZIMMERMAN,CYNTHIA S",
+      "job_title": "COMPUTER SYS ANALYST (SP)",
+      "salary": "78234.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZUFELT,LADONNA R",
+      "job_title": "DRIVER EXAMINER (EL)",
+      "salary": "20428.08",
+      "travel": "583.80"
+    }
+  ]
+}

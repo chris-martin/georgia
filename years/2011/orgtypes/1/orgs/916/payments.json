@@ -1,0 +1,6400 @@
+{
+  "payments": [
+    {
+      "person_name": "ABNER,RONNIE",
+      "job_title": "TERMINAL MGR AGRI-BULK FAC",
+      "salary": "109707.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ABRAHAM,RALEIGH",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67015.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ACEL,KOREY",
+      "job_title": "FLEET MECHANIC",
+      "salary": "68581.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADAMS,ALFRED",
+      "job_title": "CRANE OPERATOR",
+      "salary": "110175.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADKINSON,BRAD",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "15240.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADKINSON,VIRGINIA",
+      "job_title": "PURCHASING SUPERVISOR",
+      "salary": "72163.85",
+      "travel": "387.99"
+    },
+    {
+      "person_name": "AIKENS,JEROME",
+      "job_title": "MAINTENANCE AND REPAIR MANAGER - FLEET & LEASE EQUIPMENT",
+      "salary": "96943.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AINSWORTH,DEREK M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56322.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALBRIGHT,VERA CAMPBELL",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "56833.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALKIRE,LAURI HEATHER",
+      "job_title": "ASST HUMAN RESOURCES MANAGER",
+      "salary": "45912.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,ELIZABETH",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "62037.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,ROBERT",
+      "job_title": "ASSISTANT MANAGER - MAINTENANCE AND REPAIR",
+      "salary": "88640.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALTMAN,TOMMY",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "63406.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALUIZO,CHRISTOPHER",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "58149.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMBROSE,DANIEL C",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "79970.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMBROSE,RYAN K",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "34824.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMBROSE,SANDRA",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "52689.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMERSON,ESTERMAE",
+      "job_title": "OPERATIONS ADMINISTRATIVE SUPV",
+      "salary": "59302.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,ANTHONY",
+      "job_title": "EMPLOYEE BENEFITS MANAGER",
+      "salary": "117630.53",
+      "travel": "332.44"
+    },
+    {
+      "person_name": "ANDERSON,JOSEPH K",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "63797.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,KATHY M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "2889.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,CEDRIC",
+      "job_title": "CRANE OPERATOR",
+      "salary": "108030.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,CHASSITY",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "47019.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARMSTRONG,CRAIG",
+      "job_title": "SPREADER BAR TECHNICIAN",
+      "salary": "78898.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASHCRAFT,FREDRICK R",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67234.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ATKINS,CARL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "65328.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ATTAWAY,VALERIE B",
+      "job_title": "HUMAN RESOURCES SPECIALIST",
+      "salary": "6832.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AUGER,PRISCILLA",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "53067.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AUSTIN,WILLIE B",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "70849.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AVERA,JACK W",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "230.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AYALA,DANIEL",
+      "job_title": "MAINTENACNE MECHANIC",
+      "salary": "74434.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BACON,PRATT",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "80709.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BACON,VINCENT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "51492.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,JAMES",
+      "job_title": "CLERK OPERATOR",
+      "salary": "89697.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,LARRY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "80553.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,MICHAEL",
+      "job_title": "CRANE OPERATOR",
+      "salary": "107962.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,RAMONE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "57262.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALDWIN,RODNEY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "79760.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALLOUN,JAMES S",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "4640.73"
+    },
+    {
+      "person_name": "BARELKA,WALTER",
+      "job_title": "GEN MGR STRATEGIC SYS DEV",
+      "salary": "111584.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARKER,JAMES R",
+      "job_title": "CREDIT SPECIALIST",
+      "salary": "63881.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNARD,TUREL H",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "320.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,MONICA R",
+      "job_title": "CLERK OPERATOR",
+      "salary": "73668.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRELL,WESLEY",
+      "job_title": "EMT FOREMAN",
+      "salary": "23320.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRETT,WILSON",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "66073.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRS,WILLIAM",
+      "job_title": "CARGO SALES REPRESENTATIVE",
+      "salary": "79912.37",
+      "travel": "10878.00"
+    },
+    {
+      "person_name": "BARTLEY,GLENN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "82799.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARTLEY,JOHNNIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66063.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BASILA,RICHARD THOMAS",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "2496.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAZEMORE,EARL E",
+      "job_title": "CRANE OPERATOR",
+      "salary": "99117.66",
+      "travel": "2149.29"
+    },
+    {
+      "person_name": "BEASLEY,CATHERINE",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "64297.56",
+      "travel": "245.75"
+    },
+    {
+      "person_name": "BECK,KENNETH W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71145.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BECKMANN,LEO",
+      "job_title": "MANAGER LEGISLATIVE AFFAIRS",
+      "salary": "68537.74",
+      "travel": "2272.57"
+    },
+    {
+      "person_name": "BEEBE,KIMBERLY A",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "51409.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEEBE,TIFFANIE",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "58553.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,CALVIN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67492.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,GLEN M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69148.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,NORRIS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "79004.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELLAMY,ASHANTI R",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "20215.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,JOSEPH",
+      "job_title": "CLERK OPERATOR",
+      "salary": "82002.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,VINCENT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "75440.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENTON,LONNIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "75557.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENTON,RONNIE",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "100777.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BETTERSON,CLARANCE",
+      "job_title": "CARGO HANDLER",
+      "salary": "46536.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIEBERBACH,STEVEN",
+      "job_title": "CRANE FOREMAN",
+      "salary": "105617.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIGHAM,MARK ANTHONY",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "57917.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIGWOOD,CLIFTON",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "61116.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BINGHAM,RANDALL",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "122774.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BISHOP,MATTHEW",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67057.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLAKE,JERALD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "69861.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLANKENSHIP,TERRY D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "83052.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLIGE,HORACE DEVON",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "60143.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOCKER,ARLIE B",
+      "job_title": "CRANE OPERATOR",
+      "salary": "117801.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOCKER,GEORGE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77245.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOESS,JOHN",
+      "job_title": "SAFETY & LOSS CONTROL MGR",
+      "salary": "74647.32",
+      "travel": "266.70"
+    },
+    {
+      "person_name": "BOGALIS,REGENA D",
+      "job_title": "ASST CREDIT UNION MGR",
+      "salary": "51732.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOGGS,BENNY L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "85287.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOLT,REBECCA",
+      "job_title": "CRC TEAM MEMBER",
+      "salary": "43738.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BONAPARTE,THOMAS",
+      "job_title": "MAINTENACNE MECHANIC",
+      "salary": "81135.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOONE,MARVIN A",
+      "job_title": "CRANE OPERATOR",
+      "salary": "92722.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BORCHARDT,CHARLES J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "64406.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOSTICK,TOMMY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71287.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,GERALD",
+      "job_title": "CRANE OPERATOR",
+      "salary": "96778.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,TIMOTHY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "65621.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWENS,TERRY J",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94158.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWER,BRETT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84309.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWERS,MARK",
+      "job_title": "LABOR FOREMAN/DR",
+      "salary": "74544.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRACK,PAUL",
+      "job_title": "SMALL FORKLIFT FLEET MECHANIC",
+      "salary": "96527.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRADSHER,LEE A",
+      "job_title": "CRANE OPERATOR",
+      "salary": "81794.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRADY,VIRGIL",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "71570.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAGG,JAMES",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "93240.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANNEN,ALLEN",
+      "job_title": "CRANE FOREMAN",
+      "salary": "118416.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANNING,JASON D",
+      "job_title": "CRANE OPERATOR",
+      "salary": "71507.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRASH,SHAKIM V",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "74593.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRASWELL,KSENIA",
+      "job_title": "MICRO-DATABASE ANALYST",
+      "salary": "50904.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAY,CHARLES MICHAEL",
+      "job_title": "PURCHASING MANAGER",
+      "salary": "87780.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAY,GLORIA",
+      "job_title": "SYSTEMS ANALYST",
+      "salary": "89978.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BREHLER,ISIAH",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "57489.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BREWSTER,JESSIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71612.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRIGDON,MICHEAL",
+      "job_title": "CRANE OPERATOR",
+      "salary": "112122.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRISCOE,JAMES",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "110430.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,LISA K",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "60677.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ANTHONY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "54191.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ANTHONY C",
+      "job_title": "CRANE OPERATOR",
+      "salary": "101458.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ANTONIO",
+      "job_title": "MAINTENACNE MECHANIC",
+      "salary": "90404.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,CHAD E",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "3994.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,EARNEST",
+      "job_title": "CRANE OPERATOR",
+      "salary": "120910.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,HERMAN",
+      "job_title": "CARRIER SALES REPRESENTATIVE",
+      "salary": "106935.43",
+      "travel": "9958.86"
+    },
+    {
+      "person_name": "BROWN,JAMES K",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "62070.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,PETER",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "75077.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ROBERT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "72430.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,VIRGINIA",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "46086.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,WYMAN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "71229.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYANT,ANTWON R",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "60546.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYANT,EDWIN A",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "15557.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUBB,RICHARD",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "2507.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUCK,GUY",
+      "job_title": "CAPTAIN",
+      "salary": "78207.42",
+      "travel": "2346.84"
+    },
+    {
+      "person_name": "BUIE,LUTHER",
+      "job_title": "CARGO HANDLER",
+      "salary": "12062.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUNCH,DONALD",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "63709.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURCH,NELDA",
+      "job_title": "OPS ADMIN COORDINATOR-BAINBRDG",
+      "salary": "42817.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURGESS,JACK",
+      "job_title": "CLERK OPERATOR",
+      "salary": "83542.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURGEST,SOLOMON",
+      "job_title": "CLERK OPERATOR",
+      "salary": "73894.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURKHALTER,RICHARD D",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "14560.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNS,RALPH PHILLIP",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "54543.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNSED,ASHLEY L",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1536.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURR,JENNIFER",
+      "job_title": "SALES SPECIALIST",
+      "salary": "43279.75",
+      "travel": "517.37"
+    },
+    {
+      "person_name": "BURTON,MAXINE",
+      "job_title": "BOARD MEMBER",
+      "salary": "320.00",
+      "travel": "4475.06"
+    },
+    {
+      "person_name": "BUSH,ANTHONY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "80783.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUSSERT,PAMELA",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "60418.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,DAVID L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "2930.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,GREGORY W",
+      "job_title": "CLERK OPERATOR",
+      "salary": "93114.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,MICHAEL",
+      "job_title": "CRANE MECHANIC",
+      "salary": "87341.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTT,CRAIG",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "66437.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYERLY,JAMES",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "21807.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYNES,MARIA",
+      "job_title": "CREDIT SPECIALIST",
+      "salary": "50262.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CADDELL,DAVID",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "64194.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CADRIN,ROBERT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "64156.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAIL-JACOBS,CINDY",
+      "job_title": "CRC TEAM MEMBER",
+      "salary": "45207.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALLAWAY,WILLIAM",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "118681.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAMPBELL,CRAIG J",
+      "job_title": "CLERK OPERATOR",
+      "salary": "70824.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANADY,WILLIAM",
+      "job_title": "PRINTING/COURIER ASST",
+      "salary": "48351.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARLTON,DAZIEL L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "58659.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARMICHAEL,THERESA",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "63337.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARRUTH,KEVIN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "78926.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,CHRISTOPHER L",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "86348.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,TOMMIE",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "49727.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASH,MICHAEL A",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "49544.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASON,RONALD",
+      "job_title": "CORPORAL",
+      "salary": "68326.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASTELLANOS,ERIC",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "51440.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAWLEY,WARREN",
+      "job_title": "FLEET MECHANIC",
+      "salary": "73984.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CEASER,JAMES",
+      "job_title": "CLERK OPERATOR",
+      "salary": "88359.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHACE,DESIREE L",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1536.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAMBERLAIN,WARREN",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "80072.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHARLES,ANTRON",
+      "job_title": "CLERK OPERATOR",
+      "salary": "88480.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHEEKS,DONALD",
+      "job_title": "BOARD MEMBER",
+      "salary": "120.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHESTER,CHARLES",
+      "job_title": "CLERK OPERATOR",
+      "salary": "87231.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHILDRESS,OLIN",
+      "job_title": "BOARD MEMBER",
+      "salary": "80.00",
+      "travel": "4175.00"
+    },
+    {
+      "person_name": "CHILDS,JAMES",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "82018.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHILEN,RICHARD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "70385.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHISHOLM,BENJAMIN F",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "83493.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHIVER,ANDREW",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "64310.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CIGGELAKIS,GREG",
+      "job_title": "REGIONAL MGR TRADE DEV",
+      "salary": "124372.83",
+      "travel": "8654.28"
+    },
+    {
+      "person_name": "CITTADINO,NICHOLAS P",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1524.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,ALBERT",
+      "job_title": "CRANE OPERATOR",
+      "salary": "98716.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,GEORGE",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "61514.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,HAYWOOD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "91642.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,KYLE J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "10869.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,MICHAEL",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "46626.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,WALTER",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "13772.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLAXTON,DANA C",
+      "job_title": "CRANE OPERATOR",
+      "salary": "92305.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLIETT,JOSEPH M",
+      "job_title": "CLERK OPERATOR",
+      "salary": "87872.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLINARD,PAMELA",
+      "job_title": "ASST MGR OF FINANCING REPORTING",
+      "salary": "86031.31",
+      "travel": "5.50"
+    },
+    {
+      "person_name": "COBB,CARLTON R",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "79040.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COBB,LEE E",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "4694.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COBB,MICHAEL",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "109290.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COBB,VINCENT O",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "10775.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COFFEY,JOHN",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "55005.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COHEN,HINESTA",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "53986.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLE,ROBERT J",
+      "job_title": "CREDIT UNION MANAGER",
+      "salary": "12432.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLE,RUFUS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "59914.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLEMAN,CHRISTOPHER",
+      "job_title": "CLERK OPERATOR",
+      "salary": "90416.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLEMAN,JOSEPH L",
+      "job_title": "CARGO HANDLER",
+      "salary": "6136.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLEY,BENJAMIN",
+      "job_title": "CARGO HANDLER",
+      "salary": "46207.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,MICHAEL",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "121123.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLUM,DONALD",
+      "job_title": "SERGEANT",
+      "salary": "60097.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLUM,STEPHEN",
+      "job_title": "MANAGER CRANE OPERATIONS",
+      "salary": "105305.43",
+      "travel": "2829.92"
+    },
+    {
+      "person_name": "COLSON,CHERI",
+      "job_title": "ASSISTANT BILLING MANAGER",
+      "salary": "62776.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONAWAY,ALAN W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "4621.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONAWAY,BARRY",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "80575.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONLEY,ASHLEY",
+      "job_title": "CRANE OPERATOR",
+      "salary": "99784.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONNELL,CALVIN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84426.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONNER,DANIEL J",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "44329.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,ALLEN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84501.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,FELECIA",
+      "job_title": "MANAGER PROCESS IMPROVEMENT",
+      "salary": "72524.33",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "COOK,LAWANNA",
+      "job_title": "STOREKEEPER",
+      "salary": "59086.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,MARVIN",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "67886.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,TRAVIS A",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "966.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOPER,ANTHONY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "50152.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COWART,APRIL",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "45750.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COWART,JAMES",
+      "job_title": "CRANE MECHANIC",
+      "salary": "73668.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,RICHARD",
+      "job_title": "GENERAL MGR OF EQUIP & FAC ENG",
+      "salary": "142684.60",
+      "travel": "9166.77"
+    },
+    {
+      "person_name": "CRAIG,DOUGLAS",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "120551.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWFORD,M ANN",
+      "job_title": "BILLING COORDINATOR LEAD",
+      "salary": "50892.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWFORD,STEPHEN",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "67896.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWFORD,TONY",
+      "job_title": "LIEUTENANT",
+      "salary": "64395.82",
+      "travel": "299.25"
+    },
+    {
+      "person_name": "CRAWFORD,TYRONE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "77272.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREWS,ROBERT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "72031.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRIBBS,PHILLIP",
+      "job_title": "CRANE MECHANIC",
+      "salary": "100008.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRIBBS,RANDY",
+      "job_title": "STOREKEEPER",
+      "salary": "64911.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRIPPS,ROBERT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "72825.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROCKER,CORY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77760.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROFT,JOSHUA STEPHEN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "1174.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROSBY,WILLIAM",
+      "job_title": "BUSINESS DEVELOPMENT REPRESENTATIVE",
+      "salary": "48189.82",
+      "travel": "173.94"
+    },
+    {
+      "person_name": "CROSS,DAVID",
+      "job_title": "FOREMAN - AUTO & SMALL FL",
+      "salary": "102478.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROWDER,KEARY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "89922.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CROY,STEPHEN B",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1524.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRUMBLEY,SHAWN BERNARD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "92149.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRUZ,LUIS",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "60379.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,JEFFERY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "72281.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUNIGAN,JEREMIAH",
+      "job_title": "FLEET MECHANIC",
+      "salary": "60448.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUNNINGHAM,MARGARET",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "48831.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CURRY,SHAWD T",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "60766.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAILY,RANSEN",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "58387.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIEL,RALPH",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "46133.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIEL,RAYMOND",
+      "job_title": "CRANE MAINTENANCE FOREMAN",
+      "salary": "102205.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,FELICIA",
+      "job_title": "CORPORAL",
+      "salary": "62292.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,MARION",
+      "job_title": "MAINTENACNE MECHANIC",
+      "salary": "74086.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANTZLER,MARY NASH",
+      "job_title": "TRADE DEVELOPMENT ADMIN SPEC",
+      "salary": "40355.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAUGHTRY,RONALD L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "93614.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVID,SALIHAH",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71873.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,EFREM",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "88768.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,ELI S",
+      "job_title": "CRANE OPERATOR",
+      "salary": "2401.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,JOSEPH E",
+      "job_title": "CRANE OPERATOR",
+      "salary": "81249.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,LONNIE",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "51995.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,RUSSELL",
+      "job_title": "CORPORAL",
+      "salary": "67023.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,SEAN",
+      "job_title": "CARGO HANDLER",
+      "salary": "44337.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,STEPHEN",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "74862.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVISON,JERRY",
+      "job_title": "LEADPERSON/FLEET MECHANIC/DR",
+      "salary": "81204.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAWSON,WILLIAM",
+      "job_title": "GENERAL MANAGER",
+      "salary": "130979.86",
+      "travel": "18.34"
+    },
+    {
+      "person_name": "DEAL,KEITH",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94453.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEBERRY,DARRYL T",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "84575.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEBERRY,RONALD LEWIS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "78685.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELAPENIA,LES",
+      "job_title": "CLERK OPERATOR",
+      "salary": "105665.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELEANIDES,ADAM",
+      "job_title": "MAINTENANCE & REPAIR MANAGER - SHIP TO SHORE CRANES",
+      "salary": "125555.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELGADO,MARCO A",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "71411.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELKS,CHARLES",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "78409.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELOACH,DANIEL",
+      "job_title": "AUTOMOTIVE FLEET MECHANIC",
+      "salary": "69753.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELOACH,JAMES H",
+      "job_title": "CRANE OPERATOR",
+      "salary": "88799.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELOACH,RUSSELL D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "71620.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELOACH-GOLDWIRE,LOVIA",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "82310.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEMILIO,STEPHANIE",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "56497.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNEY,JENNY",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "54167.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DERA,OUMAROU",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1468.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DESTER,DANNY S",
+      "job_title": "CRANE OPERATOR",
+      "salary": "97972.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEVOE,JOSEPH",
+      "job_title": "CLERK OPERATOR",
+      "salary": "92953.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEWHART,DOCK",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "84325.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEZERNE,TOMMIE",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "50832.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DICKERSON,KIM",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "51432.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DINGLE,LEON",
+      "job_title": "CLERK OPERATOR",
+      "salary": "69775.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DINGUS,CHAD WILLIE",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "59684.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,JAMES",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "62975.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,LEO",
+      "job_title": "CLERK OPERATOR",
+      "salary": "101004.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,RODNEY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "91351.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOBSON,STANTON",
+      "job_title": "CRANE OPERATOR",
+      "salary": "44488.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORSEY,BARRY",
+      "job_title": "SERGEANT",
+      "salary": "56121.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGLAS,BRIANKEITH",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "62369.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGLAS,GARY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "70188.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGLAS,GARY",
+      "job_title": "MGR CONTRACTS/FAC MAINT",
+      "salary": "91229.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGLAS,MATTHEW",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "61770.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOWLING,CHARLES",
+      "job_title": "ASST TERMINAL MGR AGRI BULK FC",
+      "salary": "84271.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOYLE,JAMES",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "63221.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOYLE,KEVIN ROBERT",
+      "job_title": "DIRECTOR OF PROTECTIVE SERVICES",
+      "salary": "116836.30",
+      "travel": "4163.28"
+    },
+    {
+      "person_name": "DREW,JOSEPH E",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "75402.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DRIGGERS,CHRISTOPHER J",
+      "job_title": "ASSISTANT MANAGER FACILITIES & CONTRACTS",
+      "salary": "75435.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUBBERLY,ANDREW W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "8419.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUKE,ANGEL G",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "10575.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNBAR,JAMES D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "99151.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,DEBORAH",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "72433.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNKINS,COREY L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "50770.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURDEN,WADE C",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "6580.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EASON,DAVID",
+      "job_title": "CLERK OPERATOR",
+      "salary": "82339.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDENFIELD,MICHAEL S",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "9733.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,DERLY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "73219.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,MARK",
+      "job_title": "LUBRICATION MECHANIC",
+      "salary": "63359.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,MICHELLE",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "46424.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,REGINALD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "70836.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,SAMUEL F",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "74071.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELBERT,EDDIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "68217.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLER,DAVID",
+      "job_title": "LIEUTENANT",
+      "salary": "70981.71",
+      "travel": "1404.39"
+    },
+    {
+      "person_name": "ELMORE,GREGORY",
+      "job_title": "EMT FOREMAN - CIBF",
+      "salary": "85485.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ERWIN,MICHAEL S",
+      "job_title": "CLERK OPERATOR",
+      "salary": "85315.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ESCOBAR-MENESES,MANUEL",
+      "job_title": "EMT FOREMAN",
+      "salary": "106939.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,ANTWON",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77732.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,BRANDON LEE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "11086.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,JAMES R",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "62387.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,TODD L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "74276.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVORS,RAYMOND L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "2937.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EXLEY,DENNIS A",
+      "job_title": "CRANE OPERATOR",
+      "salary": "82517.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARLESS,MIRIAM SUE",
+      "job_title": "PAYROLL ACCOUNTANT",
+      "salary": "54178.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARMER,CHARLES",
+      "job_title": "SERGEANT",
+      "salary": "65789.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARRIS,MICAH D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "81575.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FATE,YLONDA",
+      "job_title": "ADMINISTRATIVE SPECIALIST",
+      "salary": "47849.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FAUST,SUZANNE",
+      "job_title": "PORT POLICE ADMIN SUPER",
+      "salary": "57826.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEE,ISTA B",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "45311.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FENNEL,TERRY",
+      "job_title": "ACCOUNTING SUPERVISOR",
+      "salary": "75902.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERGUSON,CHARLES",
+      "job_title": "FLEET MECHANIC",
+      "salary": "96734.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERRELL,BENJAMIN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "74839.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERRELL,JOHNATHAN",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "77725.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FICKLING,MURLENE SCOTT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "76694.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FICKLING,ROY H",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "2582.05"
+    },
+    {
+      "person_name": "FIELDS,BENJAMIN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "23683.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FIELDS,EZEKIEL",
+      "job_title": "CLERK OPERATOR",
+      "salary": "92366.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FIELDS,TIAIRA",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "30413.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FILLYAW,CHARLES",
+      "job_title": "IT SYSTEMS ANALYST",
+      "salary": "79004.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINCH,ROBBIE",
+      "job_title": "FLEET MECHANIC",
+      "salary": "77252.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINCHER,JOE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "49831.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINE,AMY HARLESTON",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1899.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FINELLA,EDWARD",
+      "job_title": "STOREKEEPER",
+      "salary": "60540.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLORES,MANUEL",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94051.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOGARTY,WILLIAM",
+      "job_title": "DATA BASE ADMINISTRATOR",
+      "salary": "102464.39",
+      "travel": "12.00"
+    },
+    {
+      "person_name": "FOLTZ,CURTIS",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "429919.16",
+      "travel": "131894.15"
+    },
+    {
+      "person_name": "FORD,NATHANIEL",
+      "job_title": "CRANE OPERATOR",
+      "salary": "31058.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORMBY,TIMOTHY",
+      "job_title": "FLEET MAINTENANCE FOREMAN",
+      "salary": "104288.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,ANTHONY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "71574.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,TIMOTHY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "74930.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOWLER,WOODROW W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "4837.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOX,STEPHEN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "62526.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOXWORTH,ARTHUR",
+      "job_title": "CLERK OPERATOR",
+      "salary": "121262.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOY,KEITH L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "36191.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAZIER,CALVIN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "91628.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAZIER,GERALD",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "123001.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAZIER,JULIUS",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "57556.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAZIER,RICHARD",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "82212.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAZIER,STANLEY P",
+      "job_title": "CLERK OPERATOR",
+      "salary": "87312.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEMAN,PATRICIA S",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "48302.26",
+      "travel": "39.90"
+    },
+    {
+      "person_name": "FREY,JOSHUA D",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "49983.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRIEND,KENNETH J",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94185.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRISON,CHARLES E",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69733.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FULCHER,WALTER",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "49508.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FULGHUM,WILLIAM S",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "48251.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FUNK,JEROME",
+      "job_title": "PROGRAMMER ANALYST 3",
+      "salary": "85096.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GADSON,RODERICK",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "50054.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAINES,MELVIN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "74459.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GALEY,ROBERT W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "83669.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARRETT,DENNIS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77218.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARRETT,MONICA",
+      "job_title": "IT SYSTEM GENERALIST",
+      "salary": "50850.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARVIN,JERMAINE L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "65180.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GASKIN,ISAAC",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "78171.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GEORGE,DONNA",
+      "job_title": "CRC TEAM MEMBER",
+      "salary": "48169.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GEORGE,EMILY",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "45503.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GERGACS,BARRETT L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67961.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GERGACS,LAWRENCE",
+      "job_title": "MGR BREAKBULK/WAREHOUSE OPS",
+      "salary": "101849.36",
+      "travel": "1763.25"
+    },
+    {
+      "person_name": "GERMAN,EUGENE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "70097.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBBS,NORWOOD",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "74511.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBSON,DONALD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "101526.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIEBNER,MICHAEL",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "76049.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIGNILLIAT,BROOKS PETERSON",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1706.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILL,PAMELA",
+      "job_title": "OPERATIONS ADMINISTRATIVE SUPV",
+      "salary": "61581.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILLYARD,SHEILA",
+      "job_title": "CLERK OPERATOR",
+      "salary": "117788.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILMAN,RICHARD M",
+      "job_title": "CRANE OPERATOR",
+      "salary": "101831.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILMORE,PATRICK",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "61907.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLOSSON,EVA",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "44278.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLOVER,REGINALD",
+      "job_title": "CRANE OPERATOR",
+      "salary": "96675.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOBEIL,BART",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "1067.24"
+    },
+    {
+      "person_name": "GODWIN,ROBIN",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "45672.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOLDWIRE,KOBIE",
+      "job_title": "CRANE OPERATOR",
+      "salary": "98324.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOLSON,DWIGHT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "86284.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GONZALEZ,ASHLEY G",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "47156.22",
+      "travel": "71.93"
+    },
+    {
+      "person_name": "GONZALEZ,JORGE",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "64610.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODBREAD,ALLAN CLYDE",
+      "job_title": "DUST SYSTEM MECHANIC",
+      "salary": "73345.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODING,SUSAN",
+      "job_title": "PURCHASING COORDINATOR",
+      "salary": "42213.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,JESSE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "121221.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDON,NATHANIEL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "10276.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORKO,RAYMOND",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "38937.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOWENS,BENJAMIN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "85180.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAHAM,JOSHUA",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56890.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAHAM,PAMELA",
+      "job_title": "BILLING COORDINATOR LEAD",
+      "salary": "48148.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,CHARLES",
+      "job_title": "MAINTENANCE MECHANIC/DR",
+      "salary": "76950.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,LARRY D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "115578.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,LOUIS",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "80109.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,RAVON",
+      "job_title": "CLERK OPERATOR",
+      "salary": "76974.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAY,CHRISTOPHER",
+      "job_title": "CLERK OPERATOR",
+      "salary": "80593.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAYSON,JEROME",
+      "job_title": "CLERK OPERATOR",
+      "salary": "103874.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAYSON,LOUIS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66346.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,ALMARIE",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "73546.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,CLINTON",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66835.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,COYE",
+      "job_title": "CRANE OPERATOR",
+      "salary": "101435.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,JOVON",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "60251.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,STEVE",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "41400.35"
+    },
+    {
+      "person_name": "GREGG,CHRISTOPHER ELDON",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "390.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,MARGARET",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "51612.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRINER,MARTIN",
+      "job_title": "CRANE OPERATOR",
+      "salary": "106899.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRONE,DANICA L",
+      "job_title": "MANAGER OF PORT RELATIONS",
+      "salary": "55997.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GUILFO,CHRISTOPHER A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66094.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GUTHRIE,BRITTANY",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "35608.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HADAWAY,MICHAEL L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56238.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAGAN,JEFF",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "90603.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAGAN,PATRICIA",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "69160.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAGAN,TERRY A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "2134.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAGGRAY,ANTHONY B",
+      "job_title": "CLERK OPERATOR",
+      "salary": "75467.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAIG,SARAH",
+      "job_title": "INSURANCE MANAGER",
+      "salary": "18737.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,CLIFTON",
+      "job_title": "CRANE MECHANIC",
+      "salary": "94524.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,DAVID",
+      "job_title": "CLERK OPERATOR",
+      "salary": "76081.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,GEORGE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "72155.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,HORACE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "51775.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,JOHNNY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "101114.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMILTON,BENJAMIN L",
+      "job_title": "CRANE OPERATOR",
+      "salary": "97924.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMILTON,ERIC",
+      "job_title": "CLERK OPERATOR",
+      "salary": "66692.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMILTON,SHELMA",
+      "job_title": "IT ASSET ADMINISTRATOR",
+      "salary": "41732.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMILTON,VINCENT",
+      "job_title": "CONTAINER YARD MANAGER",
+      "salary": "84375.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMMER,GORDON",
+      "job_title": "CLIENT RELATIONS MANAGER",
+      "salary": "120159.07",
+      "travel": "1046.67"
+    },
+    {
+      "person_name": "HAMPTON,ERIC",
+      "job_title": "SERGEANT",
+      "salary": "58878.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANNON,VINCENT O",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "45148.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDEN,JAKE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69514.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDIN,SHIRLEY",
+      "job_title": "EMPLOYEE BENEFITS COORDINATOR",
+      "salary": "69713.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDWICK,TAZZ",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "50640.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARKNESS,PAUL",
+      "job_title": "GENERAL MANAGER - CRANE MAINTENANCE & REPAIR",
+      "salary": "138008.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARPER,JOHN",
+      "job_title": "CRANE OPERATOR",
+      "salary": "110355.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARPER,THOMAS E",
+      "job_title": "CRANE OPERATOR",
+      "salary": "91908.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,ANTHONY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "76162.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,ASHLEY",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "54150.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,ANSLEY",
+      "job_title": "CRANE FOREMAN",
+      "salary": "107565.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,ROBERT",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "83778.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRITY,CLEVELAND C",
+      "job_title": "CLERK OPERATOR",
+      "salary": "78691.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HART,CHRISTOPHER",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "91431.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARTSFIELD,DAVID L",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "74577.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,COLBY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71305.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,KEITH C",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "10787.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,HAROLD",
+      "job_title": "MGR. INSIDE SALES",
+      "salary": "111227.02",
+      "travel": "128.50"
+    },
+    {
+      "person_name": "HAYES,LEROY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "64122.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAYES,TOMMY S",
+      "job_title": "CLERK OPERATOR",
+      "salary": "67793.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAZELWOOD,ROGER",
+      "job_title": "CLERK OPERATOR",
+      "salary": "91789.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HELM,BRETT",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "68787.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDLEY,CRAIG E",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71590.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDLEY,JOHN M",
+      "job_title": "CRANE OPERATOR",
+      "salary": "109989.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRICKS,CHARLES",
+      "job_title": "CRANE MECHANIC",
+      "salary": "69306.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENFIELD,EUGENE T",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "22563.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENRY,ROBERT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66084.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENSLEY,RAYMOND W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69390.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HESTER,CLAY",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "45091.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HESTER,WESLEY E",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "2104.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEYWARD,CLARENCE",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "27805.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HICKS,JOHN",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "93618.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HICKS,JOHN D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "95046.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HICKS,PIERCE N",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1512.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HICKS,WILLIE L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "61361.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGGENBOTTOM,JAVETTI",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "76607.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGHSMITH,JOEL D",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56303.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,BRYAN A",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "55643.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,DAMIEN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69316.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,DERRICK",
+      "job_title": "CLERK OPERATOR",
+      "salary": "76154.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,EBONY L",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1472.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,RODNEY L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "12186.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,SIMON J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "9619.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,SIMON J",
+      "job_title": "CRANE OPERATOR",
+      "salary": "96579.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOBBY,WENSLEY H",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "48827.24",
+      "travel": "114.58"
+    },
+    {
+      "person_name": "HODGES,MATTHEW",
+      "job_title": "CLERK OPERATOR",
+      "salary": "73346.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODGES,MICHAEL",
+      "job_title": "FLEET MECHANIC/DR",
+      "salary": "64264.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HODGES,RONNIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "68975.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLCOMBE,VINCENT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "87723.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLAND,TONY",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "74936.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLOMAN,SYLVESTER",
+      "job_title": "CRANE OPERATOR",
+      "salary": "120977.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLOWAY,MATTHEW E",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1366.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLMES,MONALESA",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "52517.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLMES,WILLIE J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "55096.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOPKINS,ALVA",
+      "job_title": "BOARD MEMBER",
+      "salary": "480.00",
+      "travel": "2519.05"
+    },
+    {
+      "person_name": "HOPKINS,RONNIE",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "73693.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,JOHNNIE L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "86374.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,KATINA",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "50951.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,LINDA",
+      "job_title": "CRC SUPERVISOR TECHNICAL SERVICES",
+      "salary": "53724.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWELL,GRADY O",
+      "job_title": "CRANE OPERATOR",
+      "salary": "78683.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWELL,ROBERT",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "116677.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWELL,ROBERT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "88380.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUCKS,CHRISTOPHER D",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "1420.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,RODEEN",
+      "job_title": "CRANE OPERATOR",
+      "salary": "100365.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUMPHREY,CHRISTOPHER A",
+      "job_title": "CRANE OPERATOR",
+      "salary": "96928.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUNCKE,DEBORAH",
+      "job_title": "PROGRAMER ANA 2",
+      "salary": "71644.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HURST,CLINT H",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "6113.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HURST,MICHAEL",
+      "job_title": "CLERK OPERATOR",
+      "salary": "92517.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HURST,WILBERT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "112997.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUTCHESON,WILLIAM",
+      "job_title": "MGR SYSTEMS ADMINISTRATION",
+      "salary": "86565.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IKE,BECKY",
+      "job_title": "PROJECT CONTROLS SUPERVISOR",
+      "salary": "65540.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IOANE,NORMAN L",
+      "job_title": "CRANE OPERATOR",
+      "salary": "81682.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,BRIAN C",
+      "job_title": "CRANE OPERATOR",
+      "salary": "104579.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,MAURICE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "68971.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,WILLIAM FRANK",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "76519.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,XAVIER",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71637.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACOBS,JOHN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "82759.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACOBS,MARION T",
+      "job_title": "CLERK OPERATOR",
+      "salary": "79973.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACOBS,WILLIAM",
+      "job_title": "PURCHASING SUPERVISOR",
+      "salary": "71675.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAHNKE,ERIC MICHAEL",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "2366.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAKUBSEN,WILLIAM",
+      "job_title": "SALES MANAGER TRADE DEV",
+      "salary": "157711.47",
+      "travel": "8039.17"
+    },
+    {
+      "person_name": "JAMES TYLER,MAMIE C",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "1479.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMES,HENRY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66436.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAMISON,JOHN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94270.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JANDOVITZ,BETTY J",
+      "job_title": "CLAIMS MANAGER",
+      "salary": "66531.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAUDON,ANTHONY L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "49265.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFERS,MAE J",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "55546.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFERS,RUSSELL D",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "82713.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFERS,SONIA",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "56793.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFREY,TERRANCE",
+      "job_title": "FLEET MECHANIC",
+      "salary": "72473.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,DANA",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56334.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,JAMES",
+      "job_title": "COURIER/MAIL CLERK",
+      "salary": "51228.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,LEE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "68581.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,WILLIAM",
+      "job_title": "CLERK OPERATOR",
+      "salary": "77637.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENNY,REBECCA A",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "40734.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEPSON,ROBERT",
+      "job_title": "BOARD MEMBER",
+      "salary": "160.00",
+      "travel": "624.88"
+    },
+    {
+      "person_name": "JERNIGAN,CORNELIUS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "62957.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOBE,BONNIE",
+      "job_title": "CRC PROCESS SUPERVISOR",
+      "salary": "52479.11",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "JOHNSON,CRAIG",
+      "job_title": "CLERK OPERATOR",
+      "salary": "90670.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,DARRYL L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69103.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,DARRYL M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "85793.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,DEVIN JONES",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "52754.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,EDDIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67212.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,HOWARD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "82405.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,MARVIN",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "119162.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,MICHAEL B",
+      "job_title": "CLERK OPERATOR",
+      "salary": "107778.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,NAOMI",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "44562.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,PATRICK",
+      "job_title": "CLERK OPERATOR",
+      "salary": "76941.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,RANDY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "32803.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,RICHARD M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "11885.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,WILLIAM",
+      "job_title": "OPERATIONS MGR GATE & SYSTEMS",
+      "salary": "112383.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSTON,MICHAEL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "65774.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSTON,MITCHELL",
+      "job_title": "SERGEANT",
+      "salary": "62116.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ARTHUR",
+      "job_title": "FIELD CLERK",
+      "salary": "49113.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,CHERRY",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "59403.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ERIC L",
+      "job_title": "CRANE OPERATOR",
+      "salary": "99733.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,GARY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "107090.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,GIOVANNI",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "79200.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,L R",
+      "job_title": "CRANE OPERATOR",
+      "salary": "111327.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ROBERT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "96445.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,RODELL",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "65504.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,RONALD",
+      "job_title": "CRANE OPERATOR",
+      "salary": "102697.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,VINCENT",
+      "job_title": "CRANE OPERATOR",
+      "salary": "100450.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,DAVID",
+      "job_title": "CRANE MECHANIC",
+      "salary": "81012.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOYNER,LARRY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69906.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOYNER,RONALD",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66109.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOYNER,STEPHEN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66060.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KAUFMAN,JULIE",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "41884.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,CHRISTOPHER",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77602.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,EDWARD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "75550.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,REGINALD",
+      "job_title": "CARGO HANDLER",
+      "salary": "27815.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLY,EDWARD",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "39167.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLY,REGINALD L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84352.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KENNEDY,ROOSEVELT",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "71951.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KENT,JOHN",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "75876.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KERSEY,HARRIS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "83698.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KESSLER,CRAIG",
+      "job_title": "DIRECTOR OF BREAKBULK AND BULK OPERATIONS",
+      "salary": "134029.58",
+      "travel": "178.38"
+    },
+    {
+      "person_name": "KESSLER,DONALD",
+      "job_title": "SAFETY & TRAINING MANAGER-OPS",
+      "salary": "103011.06",
+      "travel": "300.18"
+    },
+    {
+      "person_name": "KESSLER,RONALD",
+      "job_title": "MAINTENANCE SUPERVISOR",
+      "salary": "85982.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEULER,JAMES",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "124258.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIMBLE,FRANK",
+      "job_title": "CLERK/CRANE OPER - BAINBRIDGE",
+      "salary": "58074.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,FRANK",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "39455.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIRKLAND,MARJORIE",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "57088.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KLINE,ELOIS LEE",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "62836.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KLINE,RANDY D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "74021.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNIGHT,CLEVELAND",
+      "job_title": "CLERK OPERATOR",
+      "salary": "80389.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNIGHT,HENRY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67670.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNORR,MICHAEL W",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "60241.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KOCHANIK,DAVID W",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1536.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KRESS,PETER M",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "46113.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KUZEFF,KEVIN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84471.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LACIENSKI,NICHOLAS EDWARD",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "2114.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAGAT,ROSE",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "76795.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAIRD,MICHAEL J",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "74033.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAMB,GREGORY",
+      "job_title": "MGR BREAKBULK/WAREHOUSE OPS",
+      "salary": "95777.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAMB,JUSTIN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "58820.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAMB,WILSON",
+      "job_title": "MAINTENACNE MECHANIC",
+      "salary": "73487.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANE,MICHAEL A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56871.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANG,LEROY C",
+      "job_title": "CLERK OPERATOR",
+      "salary": "112302.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANGSTON,CHRISTOPHER",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "61311.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANIER,ARNOLD",
+      "job_title": "OPERATIONS ADMINISTRATIVE SUPV",
+      "salary": "55543.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANIER,BRIAN",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "61008.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANIER,KENNETH",
+      "job_title": "CRANE OPERATOR",
+      "salary": "106171.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANIER,KENNETH",
+      "job_title": "SPREADER BAR TECHNICIAN",
+      "salary": "86868.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANIER,OSMOS",
+      "job_title": "DIRECTOR OF CONTAINER OPERATIONS",
+      "salary": "144792.61",
+      "travel": "16177.35"
+    },
+    {
+      "person_name": "LANIER,WAYMAN",
+      "job_title": "CRANE OPERATOR",
+      "salary": "82987.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANSFORD,LISA",
+      "job_title": "PURCHASING COORDINATOR",
+      "salary": "43161.47",
+      "travel": "384.67"
+    },
+    {
+      "person_name": "LAW,JEFFREY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "62997.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWRENCE,TONY",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "116542.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWSON,MILLARD",
+      "job_title": "PORT SECURITY SYSTEMS ADMIN",
+      "salary": "76770.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,JESSE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "79192.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,THOMAS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "81715.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,WILSON",
+      "job_title": "CLERK OPERATOR",
+      "salary": "101047.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEGER,TRAVIS W",
+      "job_title": "FLEET MECHANIC",
+      "salary": "55548.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEIDY,KENNETH",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "60909.76",
+      "travel": "596.43"
+    },
+    {
+      "person_name": "LEIGHTON,ANDREW",
+      "job_title": "ASSISTANT MANAGER FACILITIES & CONTRACTS",
+      "salary": "83790.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEMON,ALVIN",
+      "job_title": "FLEET MECHANIC",
+      "salary": "90093.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LENTZ,CECIL",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "79169.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEVINE,BRIDGET B",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "68834.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEVOIR,MICHAEL",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "24336.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWTON,CHEVIS R",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "4905.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LIENTZ,JAMES R",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "7359.74"
+    },
+    {
+      "person_name": "LIGHTFOOT,BILLY",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "86954.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LILOIA,IRENE",
+      "job_title": "FIELD CLERK",
+      "salary": "52950.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINGARD,TYRONE",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "75512.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINTON,MICHAEL",
+      "job_title": "CLERK OPERATOR",
+      "salary": "81659.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINVILLE,JAMEY T",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "48970.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LLORENS,BRANDI",
+      "job_title": "BILLING COORDINATOR",
+      "salary": "41097.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LLOYD,MARY",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "55826.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKE,ROBERT",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "25717.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKHART,LAWRENCE",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "64237.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOGAN,MARION CHRISTOPHER",
+      "job_title": "SENIOR DIRECTOR OF TD( BCO SALES)",
+      "salary": "172865.15",
+      "travel": "9569.22"
+    },
+    {
+      "person_name": "LOLLAR,MICHAEL",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "94542.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LONDON,RENALDO",
+      "job_title": "CLERK OPERATOR",
+      "salary": "87326.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LONG,BETTY",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "69712.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LORD,MICHELE",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "55446.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOTT,JARED M",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "40453.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOVEJOY,TAMMY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "81194.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWE,PAMELA",
+      "job_title": "ACCOUNTING CLERK",
+      "salary": "47052.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOYD,HUGH",
+      "job_title": "MGR OF TREASURY & FINANCIAL PR",
+      "salary": "104646.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUCIK,DENNIS",
+      "job_title": "CRANE OPERATOR",
+      "salary": "98910.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUPO,MARTIN",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "67494.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUTZ,ADAM",
+      "job_title": "MGR TERMINAL AUTOMATION",
+      "salary": "92661.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUTZ,CARL E",
+      "job_title": "CRANE OPERATOR",
+      "salary": "96719.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LYLES,FELICIA R",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "2191.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LYNCH,GRIFFITH",
+      "job_title": "CHIEF OPERATING OFFICER",
+      "salary": "96451.29",
+      "travel": "2183.11"
+    },
+    {
+      "person_name": "LYNCH,TODD T",
+      "job_title": "HUMAN RESOURCES SPECIALIST",
+      "salary": "41546.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LYNN,CYNTHIA LOU",
+      "job_title": "CRC MANAGER",
+      "salary": "66633.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MACDONALD,RYAN",
+      "job_title": "ASST OPERATIONAL AUDITOR",
+      "salary": "77327.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MACK,WALTER",
+      "job_title": "CLERK OPERATOR",
+      "salary": "110080.14",
+      "travel": "2302.76"
+    },
+    {
+      "person_name": "MALONE,JOHN",
+      "job_title": "ASSISTANT MANAGER - MAINTENANCE AND REPAIR",
+      "salary": "74814.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANER,EUGENE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "59199.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANNING,JOSEPH",
+      "job_title": "CARGO HANDLER",
+      "salary": "56898.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANROSS,DAVID E",
+      "job_title": "CLERK OPERATOR",
+      "salary": "93528.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANSON,FRANK",
+      "job_title": "CHIEF OF PORT POLICE",
+      "salary": "84156.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARCHAND,DOUGLAS J",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "9833.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARSHALL,LISE",
+      "job_title": "SENIOR DIRECTOR OF HUMAN RESOURCES",
+      "salary": "156623.74",
+      "travel": "2404.30"
+    },
+    {
+      "person_name": "MARTIN,CLARENCE M",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "41579.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,DAVID",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "48372.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,JOHN",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "66767.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,PAUL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69524.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASSEY,ANDRE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "85417.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASSEY,JIMMY B",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "62392.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASTIN,WILLIAM",
+      "job_title": "SMALL FORKLIFT FLEET MECH/DR",
+      "salary": "74380.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATHIS,JAMES",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "94962.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAZZA,SYLVIA",
+      "job_title": "SERGEANT",
+      "salary": "57597.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCATEER,SHANNON",
+      "job_title": "MAINTENANCE & REPAIR MANAGER - RUBBER TIRE GANTRY CRANES",
+      "salary": "95270.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCARR,FREDERICK",
+      "job_title": "CLERK OPERATOR",
+      "salary": "99340.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCARR,ROLAND",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "70231.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCOURT,ANDREW",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "119139.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCOY,TERRY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "13126.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCULLOUGH,MARTHAJO",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "54424.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCURRY,JAMES",
+      "job_title": "DIRECTOR OF ADMINISTRATION",
+      "salary": "140242.24",
+      "travel": "25215.98"
+    },
+    {
+      "person_name": "MCDONALD,LAURA L",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "26056.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCFARLIN,GREGORY",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "56447.14",
+      "travel": "64.12"
+    },
+    {
+      "person_name": "MCGEE,ANTHONY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71262.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCINTYRE,DAVID GREER",
+      "job_title": "CRANE OPERATOR",
+      "salary": "105488.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKUHEN,WILLIE",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "101713.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCNEELY,JAMES",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "61758.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCPHERSON,SHEBA L",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "46544.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCQUAIG,JAMES H",
+      "job_title": "CLERK OPERATOR",
+      "salary": "79509.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MELNYKOWSKI,PAUL M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "45553.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MERRIN,RICHARD W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "60678.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "METTS,ROBERT",
+      "job_title": "SERGEANT",
+      "salary": "58574.08",
+      "travel": "335.76"
+    },
+    {
+      "person_name": "MICHAEL,ROBERT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "89590.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,EDWARD J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "61092.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLS,SHIRLEY A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "53110.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MINCEY,ANNETTE",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "16323.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIRACLE,CHRISTOPHER H",
+      "job_title": "CLERK OPERATOR",
+      "salary": "80497.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,ANDREA",
+      "job_title": "ACCOUNTING ASSISTANT",
+      "salary": "53426.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,ARTEAH",
+      "job_title": "CREDIT UNION ASSISTANT",
+      "salary": "33545.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,FRANK",
+      "job_title": "CLERK OPERATOR",
+      "salary": "90292.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,GARY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "62359.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,TERRELL",
+      "job_title": "CLERK OPERATOR",
+      "salary": "5364.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOBLEY,JOHN C",
+      "job_title": "CLERK OPERATOR",
+      "salary": "77176.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,JAKE",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "75842.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,JOSEPH I",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "58470.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,LARRY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "115134.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,RICHARD",
+      "job_title": "FLEET MECHANIC",
+      "salary": "90331.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORER,NANCY",
+      "job_title": "GEN MGR OF NAVIGATION IMPROVEMENTS & ENVIRONMENTAL MGT PROGR",
+      "salary": "111538.59",
+      "travel": "15773.23"
+    },
+    {
+      "person_name": "MORELL,JAMES R",
+      "job_title": "CLERK OPERATOR",
+      "salary": "70351.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORELL,RAYMOND",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "79634.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRIS,DAVID",
+      "job_title": "CONTAINER YARD MANAGER",
+      "salary": "82678.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRIS,ROBERT",
+      "job_title": "SENIOR DIRECTOR OF EXTERNAL AFFAIRS",
+      "salary": "170584.77",
+      "travel": "24041.02"
+    },
+    {
+      "person_name": "MORRISON,ARTIS",
+      "job_title": "CAPTAIN",
+      "salary": "80615.27",
+      "travel": "711.75"
+    },
+    {
+      "person_name": "MORSE,MICHAEL P",
+      "job_title": "CRANE OPERATOR",
+      "salary": "116119.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSLEY,DONALD K",
+      "job_title": "CRANE OPERATOR",
+      "salary": "114043.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSS,KIMBERLY A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "8855.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOTLEY,MAURICE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "103421.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MULLER,PATRICK",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "102235.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,ERNIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "55940.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURRAY,ERIN K",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1530.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURRAY,JAMES",
+      "job_title": "MGR TECH SUPPORT & COMPLIANCE",
+      "salary": "96325.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MYDELL,PERRY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94086.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MYERS,KELVIN L",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "88406.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MYERS,WILLIAM A",
+      "job_title": "CLERK OPERATOR",
+      "salary": "70154.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEAL,PATRICIA H",
+      "job_title": "CREDIT UNION MANAGER",
+      "salary": "60253.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEAL,STEVEN",
+      "job_title": "CRANE OPERATOR",
+      "salary": "104017.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEASE,MICAH",
+      "job_title": "FLEET MECHANIC",
+      "salary": "60666.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEELY,JOHN",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "461.16"
+    },
+    {
+      "person_name": "NEELY,RONALD",
+      "job_title": "EMT FOREMAN",
+      "salary": "118370.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEIL,JEFFREY",
+      "job_title": "MANAGER OF COMMERCIAL COMMUNICATIONS",
+      "salary": "90927.25",
+      "travel": "1363.66"
+    },
+    {
+      "person_name": "NELSON,LACEY",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "48904.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEULEIB,DENISE",
+      "job_title": "BUYER",
+      "salary": "43055.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEVERSON,GEORGE",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "55948.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWMAN,TIMOTHY",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "46380.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWSOME,RONDALL",
+      "job_title": "CRANE OPERATOR",
+      "salary": "100294.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWTON,DANIEL A",
+      "job_title": "CRANE OPERATOR",
+      "salary": "109564.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NGUYEN,MAI",
+      "job_title": "ACCOUNTING CLERK, SENIOR",
+      "salary": "53154.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOLES,VALERIE TESS",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1994.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORRIS,STEVEN",
+      "job_title": "CRANE OPERATOR",
+      "salary": "87966.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOTTINGHAM,CHARLES H",
+      "job_title": "CLERK OPERATOR",
+      "salary": "83435.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ODUM,GREGORY",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "53410.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OGLESBY,WILLIAM",
+      "job_title": "MAINTENACNE MECHANIC",
+      "salary": "61991.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLIVER,LUETRICA",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "54138.99",
+      "travel": "14.47"
+    },
+    {
+      "person_name": "OLLIFF,STEVE",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "119026.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ONEAL,RICHARD D",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "1152.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OQUINN,JOSEPH",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "87253.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ORAND,BRANDI MICHELLE",
+      "job_title": "INSURANCE MANAGER",
+      "salary": "49342.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ORR,PATRICIA",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "62765.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OSULLIVAN,WILLIAM",
+      "job_title": "CAPTAIN",
+      "salary": "80718.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENS,CYNTHIA N",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "64442.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PACK,KENDRICK",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94626.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PACKER,MICHAEL P",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "26070.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAGE,ALLEN DARRYL",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "65303.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAGE,PATRICK",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "59826.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PALLES,MITCHELL",
+      "job_title": "SENIOR BUSINESS MANAGEMENT",
+      "salary": "61106.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARISH,BRAD",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "104973.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARISH,STEVEN",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "126365.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARK,SUNNY",
+      "job_title": "BOARD MEMBER",
+      "salary": "960.00",
+      "travel": "23744.03"
+    },
+    {
+      "person_name": "PARKER,CALVIN W",
+      "job_title": "CLERK OPERATOR",
+      "salary": "81871.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,REGINALD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "71589.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARMENTER,DIANE",
+      "job_title": "LOGISTICS & ADMIN COORDINATOR",
+      "salary": "45961.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARRISH,JAMES",
+      "job_title": "CLERK OPERATOR",
+      "salary": "95295.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARTAIN,HUGH D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "76251.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PASSANITA,JASON",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "66387.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATE,JANE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67914.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATTERSON,JIMMY",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "73902.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEARSON,DONALD",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "44210.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PECK,JEFFREY B",
+      "job_title": "CRANE OPERATOR",
+      "salary": "74071.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PELKEY,JIMMY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "78694.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERAZA,RHONDA",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "75375.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERDUE,DAVID A",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "596.22"
+    },
+    {
+      "person_name": "PERKINS,JONATHAN",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "62878.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETRINO,JOHN",
+      "job_title": "DIRECTOR OF BUSINESS DEVELOPMENT",
+      "salary": "153377.49",
+      "travel": "6134.70"
+    },
+    {
+      "person_name": "PHILLIPS,ANTHONY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "63256.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHILLIPS,JASON L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "68664.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHOENIX,DERIN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "64440.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIERCE,AMANDA",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66994.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PINKNEY,GENEVA",
+      "job_title": "CRC PROCESS SUPERVISOR",
+      "salary": "56258.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIPER,DONNA",
+      "job_title": "OCCUPATIONAL HEALTH NURSE SR",
+      "salary": "70112.26",
+      "travel": "316.23"
+    },
+    {
+      "person_name": "PLACHY,BEVERLY",
+      "job_title": "INTERNAL AUDITOR",
+      "salary": "82340.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POENICKE,EVELYN",
+      "job_title": "SENIOR ACCOUNTANT",
+      "salary": "62762.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POITEVINT,ALEC",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "13667.65"
+    },
+    {
+      "person_name": "POLSTON,JEREMY",
+      "job_title": "LIEUTENANT",
+      "salary": "62094.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PORTER,GEORGE",
+      "job_title": "CONTAINER YARD MANAGER",
+      "salary": "83387.32",
+      "travel": "92.78"
+    },
+    {
+      "person_name": "PORTER,MICHAEL M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56214.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PORTER,RICHARD",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "57591.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POSTELL,TYRONE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "87676.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POTTER,CHRISTOPHER",
+      "job_title": "FLEET MECHANIC",
+      "salary": "54673.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,CRAIG L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "44797.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRATT,CRAIG T",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "74015.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRESCOTT,ROBERT",
+      "job_title": "MANAGER PRICING & LOGISTICS",
+      "salary": "92836.79",
+      "travel": "106.22"
+    },
+    {
+      "person_name": "PRIDGEN,JOHN T",
+      "job_title": "CLERK OPERATOR",
+      "salary": "72950.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRIGEON,MICHAEL T",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "68481.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PUSHA,RUBIN",
+      "job_title": "SMALL FORKLIFT FLEET MECHANIC",
+      "salary": "73512.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PYRON,CLIFFORD REAGAN",
+      "job_title": "CHIEF COMMERCIAL OFFICER",
+      "salary": "294496.14",
+      "travel": "88031.55"
+    },
+    {
+      "person_name": "QUARTERMAN,ALONZO M",
+      "job_title": "CLERK OPERATOR",
+      "salary": "94911.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "QUARTERMAN,DERIC L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66811.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "QUARTERMAN,EARL",
+      "job_title": "CRANE OPERATOR",
+      "salary": "118514.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "QUARTERMAN,THEODORE",
+      "job_title": "ASST DIR OF ADMIN SVCS/HR DEPT",
+      "salary": "136416.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "QUATTLEBAUM,CATHY G",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "48255.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "QUINNEY,BRIAN",
+      "job_title": "CONTAINER YARD MANAGER",
+      "salary": "89045.75",
+      "travel": "87.78"
+    },
+    {
+      "person_name": "RABON,JAMES MICHAEL",
+      "job_title": "MGR OF NIGHT SHIFT MAINTENANCE",
+      "salary": "84360.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RANEW,PINK",
+      "job_title": "CLERK OPERATOR",
+      "salary": "40557.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RANEW,SIDNEY",
+      "job_title": "CRANE MECHANIC",
+      "salary": "73150.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAPE,JOSEPH",
+      "job_title": "ELECTRONIC MECHANICAL SYSTEMS TECHNICIAN",
+      "salary": "30708.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAPPE,BETTY",
+      "job_title": "ADMIN MANAGER OPERS GCT",
+      "salary": "106472.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RASAMEE,JUSTIN E",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "10527.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RATLIFF,THOMAS F",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "50071.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAWLS,COLUMBUS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "75746.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDMOND,LISA",
+      "job_title": "CRC PROCESS SUPERVISOR",
+      "salary": "56525.44",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "REECE,JOSEPH",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "50077.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REED,ISHMAEL",
+      "job_title": "CLERK OPERATOR",
+      "salary": "89928.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REESE,JANET",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "47093.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REESE,MICHAEL D",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "93301.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REGINI,CHARLES L",
+      "job_title": "SR ACCT EXEC AGRI-BULK COMMODI",
+      "salary": "142570.71",
+      "travel": "2167.25"
+    },
+    {
+      "person_name": "REINAMAN,PAUL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "72692.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REYNOLDS,WILLIE K",
+      "job_title": "CLERK OPERATOR",
+      "salary": "80586.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RHEW,GARY",
+      "job_title": "SERGEANT",
+      "salary": "60664.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RHODES,DEBORAH",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "42050.86",
+      "travel": "78.83"
+    },
+    {
+      "person_name": "RHODES,KWAMIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "75094.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICE,CHRISTOPHER",
+      "job_title": "SHIPS OPERATIONS MANAGER",
+      "salary": "96334.15",
+      "travel": "497.86"
+    },
+    {
+      "person_name": "RICHARDSON,EDWARD",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "76944.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICHARDSON,GLENN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "44663.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICHARDSON,PATRICIA",
+      "job_title": "ASSISTANT MANAGER COMMERCIAL COMMUNICATIONS",
+      "salary": "66593.22",
+      "travel": "1321.19"
+    },
+    {
+      "person_name": "RICKS,JEFFERY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "79255.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIDDLES,ANTHONY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "87043.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIDGWAY,GEORGE D",
+      "job_title": "CRANE OPERATOR",
+      "salary": "94824.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RILEY,TYRONE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "75056.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RINALDI,TONYA",
+      "job_title": "OPERATIONS ADMINISTRATIVE SUPV",
+      "salary": "55008.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIVERS,CARLETHIA",
+      "job_title": "CLERK OPERATOR",
+      "salary": "73905.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERSON,ERIC E",
+      "job_title": "CLERK OPERATOR",
+      "salary": "86050.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERSON,TERRY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "81556.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,ANTHONY R",
+      "job_title": "CLERK OPERATOR",
+      "salary": "78670.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,ELLEN",
+      "job_title": "CHIEF FINANCIAL OFFICER",
+      "salary": "256584.02",
+      "travel": "3065.49"
+    },
+    {
+      "person_name": "ROBERTS,HARRY W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "75271.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,LUCIOUS",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "68016.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,MICHAEL A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "59117.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTSON,JACKSON H",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "37368.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,CALVIN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "72708.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,JULIUS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "99926.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RODRIGUEZ,ROBERTO",
+      "job_title": "GEN MGR MARKETING/BUS DEV",
+      "salary": "117298.73",
+      "travel": "825.38"
+    },
+    {
+      "person_name": "ROGERO,PATRICK",
+      "job_title": "CONTROLLER",
+      "salary": "124959.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROHDE,DANIEL",
+      "job_title": "DIRECTOR OF EQUIPMENT MAINTENANCE, CRANE & SHIP OPERATIONS",
+      "salary": "158914.02",
+      "travel": "16.50"
+    },
+    {
+      "person_name": "RONDAN,ARTHUR",
+      "job_title": "FORMER EMPLOYEE",
+      "salary": "0.00",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "RONK,FRANK",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "44163.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROOKS,GLENN",
+      "job_title": "MAINTENACNE MECHANIC",
+      "salary": "64123.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSENCRANS,ALICE J",
+      "job_title": "CREDIT UNION ACCOUNTANT",
+      "salary": "48347.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROWELL,RONNIE W",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "58487.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUFFNER,FRANK",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "94405.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSHING,CINDY",
+      "job_title": "SYSTEMS ANALYST, SENIOR",
+      "salary": "96845.98",
+      "travel": "87.78"
+    },
+    {
+      "person_name": "RUSHING,JAMES M",
+      "job_title": "BILLING COORDINATOR LEAD",
+      "salary": "60878.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSHING,TROY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "104457.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSSELL,JAMES E",
+      "job_title": "CRANE OPERATOR",
+      "salary": "125602.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSSELL,THOMAS",
+      "job_title": "FLEET MECHANIC",
+      "salary": "98743.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUST,CHRISTOPHER B",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "56047.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RYLES,RICHMOND T",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71909.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAMS,COREY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "72374.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDERS,JOHN D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "69774.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDY,JAMES",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "54867.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAPP,JESSE E",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "76780.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAPP,LORI",
+      "job_title": "OPERATIONS ADMINISTRATIVE SUPV",
+      "salary": "54910.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SATHER,THOMAS",
+      "job_title": "SERGEANT",
+      "salary": "64785.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SATTERFIELD,SOL",
+      "job_title": "SENIOR BUSINESS MANAGEMENT",
+      "salary": "36572.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAUSSY,MICHAEL",
+      "job_title": "CRANE OPERATOR",
+      "salary": "111137.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHANZE,NATALIE M",
+      "job_title": "ENVIRONMENTAL SUSTAINABILITY MANAGER",
+      "salary": "122225.50",
+      "travel": "647.18"
+    },
+    {
+      "person_name": "SCHNURRER,PETER",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "31107.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHOFIELD,DAVID B",
+      "job_title": "SERGEANT",
+      "salary": "55885.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHOLZ,SHAUN G",
+      "job_title": "CRANE OPERATOR",
+      "salary": "93029.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHURMAN,SHANNON",
+      "job_title": "CONTAINER YARD MANAGER",
+      "salary": "93967.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCIRIA,ROBERT F",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "53874.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,ASHLEY O",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "54904.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,DAVID ALTON",
+      "job_title": "HUMAN RESOURCES GENERALIST",
+      "salary": "44063.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,GREGORY",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "54195.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,LEE A",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "74704.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,ROESHONE",
+      "job_title": "RISK MANAGEMENT TECHNICIAN",
+      "salary": "58526.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCRUGGS,STACY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67247.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEABRIAN,JAMES",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "70621.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEEGARS,JAMES E",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "74901.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEGURA,MIGUEL",
+      "job_title": "FLEET MECHANIC",
+      "salary": "103669.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHAFFER,AMY",
+      "job_title": "MANAGER OF COMMUNICATIONS",
+      "salary": "57117.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHANAHAN,JOHN",
+      "job_title": "CREDIT SPECIALIST",
+      "salary": "42805.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHATTEEN,DAVID",
+      "job_title": "CLERK OPERATOR",
+      "salary": "71277.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEAROUSE,JAMES",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "44947.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEFFIELD,DAINA",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "58134.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHELNUTT,PEGGY L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "54249.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHELTON,KELLY MARIE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "80557.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEPHERD,AMANDA L",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "48041.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEPPARD,AMY",
+      "job_title": "CREDIT SPECIALIST",
+      "salary": "57725.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHOULARS,RICHARD",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "117051.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHUBERT,ROBIN",
+      "job_title": "OPERATIONS ADMIN SUPV/PLANNER",
+      "salary": "72005.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIKES,RUSSELL",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "55846.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIKES,TOBY E",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "7162.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMICH,PAUL",
+      "job_title": "CLERK OPERATOR",
+      "salary": "82569.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMMONS,JENNIFER M",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1536.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMMONS,LEROY",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "62566.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMMONS,ROSA",
+      "job_title": "HUMAN RESOURCES MANAGER",
+      "salary": "94991.98",
+      "travel": "1839.40"
+    },
+    {
+      "person_name": "SIMS,CARL L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77882.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMS,DWAYNE A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "43168.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINGLETON,HENRY L",
+      "job_title": "CARGO HANDLER",
+      "salary": "50495.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINGLETON,KARREM J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "88857.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SINGLETON,KEVIN",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "62593.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SITTON,LARRY D",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "69337.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLAGO,THOMAS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "56757.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLATER,KENNETH",
+      "job_title": "TERMINAL MANAGER",
+      "salary": "79867.48",
+      "travel": "58.00"
+    },
+    {
+      "person_name": "SMALL,NATHANIEL",
+      "job_title": "FLEET MECHANIC/DR",
+      "salary": "62120.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMALLS,CAROLYN A",
+      "job_title": "MGR OF LEARNING & DEVELOPMENT",
+      "salary": "110593.42",
+      "travel": "1647.20"
+    },
+    {
+      "person_name": "SMALLS,EDWARD",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "59564.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMELTZER,GERARD G",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "13742.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ANDREA",
+      "job_title": "CLERK OPERATOR",
+      "salary": "112588.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ANITA P",
+      "job_title": "LICENSED PRACTICAL NURSE",
+      "salary": "45907.56",
+      "travel": "388.27"
+    },
+    {
+      "person_name": "SMITH,ANTOINE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "79717.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,CHRIS",
+      "job_title": "FLEET MECHANIC",
+      "salary": "88851.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,EDWARD L",
+      "job_title": "CRANE OPERATOR",
+      "salary": "99760.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ELLIS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84325.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ERIC",
+      "job_title": "FLEET MECHANIC",
+      "salary": "82583.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,GARY",
+      "job_title": "CORPORAL",
+      "salary": "67935.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,GLENDA",
+      "job_title": "BILLING & COLLECTIONS MANAGER",
+      "salary": "101126.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,HENRY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66209.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,LARRY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "75194.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,MARGARET JOAN",
+      "job_title": "ADMIN MGR BRK & WHSE OPS GCT",
+      "salary": "93561.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,OMAR",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "68914.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,ROBERT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77594.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,RONNIE",
+      "job_title": "CRANE OPERATOR",
+      "salary": "72295.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,TIMOTHY W",
+      "job_title": "EXECUTIVE ADMIN ASST",
+      "salary": "47026.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SNYDER,JACK D",
+      "job_title": "CRANE OPERATOR",
+      "salary": "83753.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPANN,MICHAEL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "82174.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPARKS,WALTER",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "57545.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPEIGHT,MILTON L",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "62709.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPENCE,LONNIE K",
+      "job_title": "CLERK OPERATOR",
+      "salary": "65733.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPENCER,CALVIN J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "61843.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIEGEL,MAURO C",
+      "job_title": "CLERK OPERATOR",
+      "salary": "72113.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPRAGUE,RICHARD KEY",
+      "job_title": "CRANE OPERATOR",
+      "salary": "110343.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SQUIRE,TODD P",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "10176.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAFFORD,MICHAEL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66868.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAFFORD,STEPHEN",
+      "job_title": "SERGEANT",
+      "salary": "57659.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAGNITTO,SUSAN",
+      "job_title": "WORKERS COMPENSATION MANAGER",
+      "salary": "74135.27",
+      "travel": "188.05"
+    },
+    {
+      "person_name": "STANLEY,MARK",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "115240.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STARKEY,JEFFERY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "81424.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEENWYK,SCOTT",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "64622.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEFANSKI,MARIO",
+      "job_title": "LIEUTENANT",
+      "salary": "72063.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEMBRIDGE,DANNY J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "46828.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEMBRIDGE,DARRELL E",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "76901.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEPHENS,ERIC D",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "70571.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STERRETT,MATTHEW W",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "93900.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEVENS,WILLIAM",
+      "job_title": "ELECTRONIC MECHANICAL SYSTEMS TECHNICIAN",
+      "salary": "39294.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,DAMIEN A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "8222.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,GEORGE",
+      "job_title": "CLERK OPERATOR",
+      "salary": "97116.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,MICHAEL A",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "68939.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,JAMES",
+      "job_title": "EMT FOREMAN",
+      "salary": "99732.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,JOHNNY",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "79679.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STREET,HAROLD",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66782.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRICKLAND,DAVID",
+      "job_title": "FLEET MECHANIC",
+      "salary": "65797.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRINGER,WILLIAM",
+      "job_title": "CRANE OPERATOR",
+      "salary": "103066.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STUMP,MELISSA",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "47688.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUGGS,PERRY",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "56429.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUTTON,WILLIAM",
+      "job_title": "DIRECTOR OF INFORMATION TECHNOLOGY",
+      "salary": "151596.04",
+      "travel": "21856.37"
+    },
+    {
+      "person_name": "SWAIN,RICKEY",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "52494.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWANN,TIMMIE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "33965.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWINSON,CHRISTOPHER T",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1530.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWINSON,THOMAS",
+      "job_title": "GENERAL MANAGER COMMERCIAL COMMUNICATIONS",
+      "salary": "107364.91",
+      "travel": "4594.27"
+    },
+    {
+      "person_name": "SWINT,SHARON",
+      "job_title": "ASSISTANT MANAGER - MAINTENANCE AND REPAIR",
+      "salary": "64599.71",
+      "travel": "82.00"
+    },
+    {
+      "person_name": "TAMISO,DANIEL",
+      "job_title": "CORPORAL",
+      "salary": "67678.35",
+      "travel": "19.50"
+    },
+    {
+      "person_name": "TANNER,JAMES L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "58415.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TANNER,MICHAEL A",
+      "job_title": "CLERK OPERATOR",
+      "salary": "117502.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAPP,JOHN",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "62732.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TARBUTTON,HUGH",
+      "job_title": "BOARD MEMBER",
+      "salary": "80.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TATOM,JENNIFER",
+      "job_title": "ECONOMIC RESEARCH ANALYST",
+      "salary": "48714.08",
+      "travel": "104.04"
+    },
+    {
+      "person_name": "TAYLOR,CARY L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84579.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,CONSTANTINE",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "77220.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,GUY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "95205.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,INEASE REGINA",
+      "job_title": "CRC TEAM MEMBER",
+      "salary": "16251.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,MICHAEL",
+      "job_title": "ASSISTANT BENEFITS MANAGER",
+      "salary": "75688.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRELL,DUSTIN",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "11398.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRELL,KERRY H",
+      "job_title": "CRANE OPERATOR",
+      "salary": "101818.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRELL,WILLIAM H",
+      "job_title": "CRANE OPERATOR",
+      "salary": "67192.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THANGTAVEEKOOL,SOMPON",
+      "job_title": "SOFTWARE ENGINEER",
+      "salary": "82002.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,DOYLE",
+      "job_title": "MGR BREAKBULK/WAREHOUSE OPS",
+      "salary": "93431.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,JAMES",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "61275.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,JEANNETTE R",
+      "job_title": "SUPPORT SERVICES SUPERVISOR",
+      "salary": "51072.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,JOSEPH",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "76300.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,DANIEL",
+      "job_title": "RISK MANAGER",
+      "salary": "108587.72",
+      "travel": "1690.47"
+    },
+    {
+      "person_name": "THOMPSON,ERIC",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "30043.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,MICHAELA",
+      "job_title": "DIRECTOR OF FINANCE",
+      "salary": "48030.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,MIRIAM",
+      "job_title": "MANAGER PROPERTIES/CONTRACTS",
+      "salary": "90828.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,THOMAS",
+      "job_title": "MAJOR",
+      "salary": "82439.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THORNTON,CARL P",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "66640.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TILLOTSON,HERMAN",
+      "job_title": "SENIOR DIRECTOR OF ENGINEERING & FACILITIES MAINTENANCE",
+      "salary": "185821.85",
+      "travel": "14107.73"
+    },
+    {
+      "person_name": "TINKER,ANSUYA",
+      "job_title": "PORT POLICE ADMIN COORD",
+      "salary": "43576.76",
+      "travel": "12.00"
+    },
+    {
+      "person_name": "TIPTON,ALLEN",
+      "job_title": "CRANE OPERATOR",
+      "salary": "107353.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TIPTON,JOHN",
+      "job_title": "FLEET MECHANIC",
+      "salary": "94019.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TISDALE,DALTON N",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "55074.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOMLINSON,DANNY",
+      "job_title": "MARKET RESEARCH ANALYST",
+      "salary": "52389.50",
+      "travel": "86.70"
+    },
+    {
+      "person_name": "TRAMELL,ALAN C",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "4047.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRAVIS,ANTHONY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "73721.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TREMBLE,JULIUS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "38149.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TREMBLE,VERN",
+      "job_title": "CLERK OPERATOR",
+      "salary": "80446.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRENT,JOHN",
+      "job_title": "SENIOR DIRECTOR OF OPERATIONS & MAINTENANCE",
+      "salary": "195129.85",
+      "travel": "3129.49"
+    },
+    {
+      "person_name": "TRIPP,LISA A",
+      "job_title": "CRANE OPERATOR",
+      "salary": "101783.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TROFICANTO,NANCY",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "45741.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TROUGHTON,MARK",
+      "job_title": "GLOBAL ACCT. EXECUTIVE",
+      "salary": "141714.83",
+      "travel": "11099.25"
+    },
+    {
+      "person_name": "TRUSSELL,GAYLE",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "46179.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUKES,GENICE",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "50271.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,CHRISTOPHER M",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "4066.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,MORRIS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "57753.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,WENDELL B",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "11669.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUTEN,GERALD L",
+      "job_title": "CRANE OPERATOR",
+      "salary": "104601.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUTEN,ROBERT",
+      "job_title": "CRANE OPERATOR",
+      "salary": "10631.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ULMER,MATTHEW J",
+      "job_title": "CRANE OPERATOR",
+      "salary": "8613.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "UNDERWOOD,ANOCIONA",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "53354.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "UNDERWOOD,MATHEW",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "22590.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VANBRUNT,GREGORY",
+      "job_title": "CARGO SALES REPRESENTATIVE",
+      "salary": "99672.30",
+      "travel": "9680.86"
+    },
+    {
+      "person_name": "VANVLECK,CHARLES",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "62728.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VEALS,RON C",
+      "job_title": "CLERK OPERATOR",
+      "salary": "67090.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VINSON,WILLIAM O",
+      "job_title": "MANAGER OF AUDITING",
+      "salary": "189832.73",
+      "travel": "238.08"
+    },
+    {
+      "person_name": "VOELKEL,HOLLY APRIL",
+      "job_title": "ASST SHIP OPERATIONS MANAGER",
+      "salary": "61012.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADLEY,ANTHONY B",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "80504.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAGNER,GERALD",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "53611.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAHID,BANU A",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "73310.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,WILLIAM T",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "87553.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALLACE,CHARLES",
+      "job_title": "DESKTOP SUPPORT ANALYST",
+      "salary": "43944.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTERS,EARL J",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "87849.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTHOUR,ANTONY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "65587.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTON,ALBERT",
+      "job_title": "CLERK OPERATOR",
+      "salary": "105434.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTON,DANIEL L",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "63404.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,JOHNNIE",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "73260.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARLICK,MICHAEL",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "67212.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARREN,ROBERT",
+      "job_title": "FLEET MECHANIC",
+      "salary": "82070.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,JOE L",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "78488.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATERS,CHAD D",
+      "job_title": "CLERK OPERATOR",
+      "salary": "63336.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATERS,WALT",
+      "job_title": "SPREADER BAR LEADPERSON",
+      "salary": "84039.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,HERBERT",
+      "job_title": "FLEET MAINTENANCE FOREMAN",
+      "salary": "113749.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,STACY",
+      "job_title": "GENERAL MANAGER OF ECONOMIC & INDUSTRIAL DEVELOPMENT",
+      "salary": "97707.79",
+      "travel": "6040.01"
+    },
+    {
+      "person_name": "WATTS,THURMAN",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "92503.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAUDDY,WILLIAM",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69878.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEAVER,CHARLES R",
+      "job_title": "CLERK OPERATOR",
+      "salary": "68792.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEAVER,GRADY",
+      "job_title": "CRANE OPERATOR",
+      "salary": "116442.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEBB,MELVIN",
+      "job_title": "DISTRICT MANAGER",
+      "salary": "97027.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEDINCAMP,ADAM",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "60198.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEIMER,STACY R",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "46358.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEISSMAN,RICKY",
+      "job_title": "BILLING COORDINATOR LEAD",
+      "salary": "58400.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEITMAN,RANDAL C",
+      "job_title": "MANAGER, ENGINEERING SERVICES",
+      "salary": "105245.28",
+      "travel": "456.40"
+    },
+    {
+      "person_name": "WELCH,DONALD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "112563.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,HERMAN N",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "87399.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,IVORY",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "78520.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,KEVIN D",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "12931.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,SUZANNAH",
+      "job_title": "BUYER",
+      "salary": "43119.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WESTBROOK,DYLAN BRADFORD",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "2496.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHEELER,JOHN",
+      "job_title": "SENIOR DIRECTOR OF TD(CARRIER & NON-CONTAINER SALES)",
+      "salary": "199006.34",
+      "travel": "63262.14"
+    },
+    {
+      "person_name": "WHIDDON,STACEY",
+      "job_title": "ASST SHIP OPERATIONS MANAGER",
+      "salary": "12791.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,ANTHONY V",
+      "job_title": "CLERK OPERATOR",
+      "salary": "90073.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,DIANNE",
+      "job_title": "ASSISTANT COLLECTIONS MANAGER",
+      "salary": "68695.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,JAMES RICHARD",
+      "job_title": "ELECTRONIC MECHANICAL TECH",
+      "salary": "80789.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,SANDRA",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "47920.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,STANLEY",
+      "job_title": "SPREADER BAR TECHNICIAN",
+      "salary": "77705.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITED,JAMES",
+      "job_title": "CLERK OPERATOR",
+      "salary": "106101.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITFIELD,TIMOTHY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84619.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WIGGINS,RONALD",
+      "job_title": "CLERK OPERATOR",
+      "salary": "84609.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,RODNEY",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "73280.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILDER,KAMI",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "50447.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILDS,BRUCE",
+      "job_title": "STOREKEEPER",
+      "salary": "65515.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILKES,ROBERT A",
+      "job_title": "CRANE OPERATOR",
+      "salary": "61207.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,ALAN",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "63209.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,AMELIA W",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "73214.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,CARNELLIA",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "50089.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,CHARLES",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "61566.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JERRY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "98480.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JIM",
+      "job_title": "MANAGER OF FINANCIAL REPORTING",
+      "salary": "94056.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JIMMY",
+      "job_title": "CLERK OPERATOR",
+      "salary": "60200.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,KIRK",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "79785.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,LENORRIS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "105814.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,RUBIN N",
+      "job_title": "CLERK OPERATOR",
+      "salary": "79301.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,CATHY",
+      "job_title": "GRANTS MANAGER",
+      "salary": "105076.21",
+      "travel": "2107.61"
+    },
+    {
+      "person_name": "WILLIS,JOHN L",
+      "job_title": "CLERK OPERATOR",
+      "salary": "102506.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,KIRSTEN",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "52531.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,PAMELA A",
+      "job_title": "PROTECTIVE SERVICES OFFICER",
+      "salary": "25310.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,BUDDY",
+      "job_title": "EQUIPMENT OPERATOR",
+      "salary": "77590.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,MARCUS D",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "63875.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,MICHAEL T",
+      "job_title": "CRANE OPERATOR",
+      "salary": "101621.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,SELINDA C",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "64739.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINEGLASS,DOUGLAS",
+      "job_title": "CLERK OPERATOR",
+      "salary": "103313.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WISE,DAVID",
+      "job_title": "CLERK OPERATOR",
+      "salary": "86991.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WISHAM,JAMES",
+      "job_title": "RECRUITMENT MANAGER",
+      "salary": "76276.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOD,PAUL",
+      "job_title": "CRANE OPERATOR",
+      "salary": "101670.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODSON,CHERYL",
+      "job_title": "RADIO FREQ & HDWRESUPT TECH 1",
+      "salary": "61379.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODSON,ROBERT",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "74455.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WORSHAM,DAVID",
+      "job_title": "FLEET MECHANIC",
+      "salary": "85813.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,ANTHONY",
+      "job_title": "FORKLIFT OPERATOR",
+      "salary": "72311.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,CEASAR",
+      "job_title": "CLERK OPERATOR",
+      "salary": "75539.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,TAMELA",
+      "job_title": "SECRETARY",
+      "salary": "36068.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,WAYNE T",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "53684.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT-KELLEY,DELISA L",
+      "job_title": "OPERATIONS ADMINISTRATIVE CRD",
+      "salary": "45234.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WYNN,DEBRA",
+      "job_title": "EXEC ADMIN ASSISTANT 2",
+      "salary": "69301.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WYNN,KALEB HARRISON",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "2428.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YARBOROUGH,PAUL",
+      "job_title": "MANAGER OF CONTRACTS & PLANNING",
+      "salary": "94634.47",
+      "travel": "1016.75"
+    },
+    {
+      "person_name": "YEOMANS,LEE G",
+      "job_title": "ASST MANAGER OPERATIONS",
+      "salary": "38215.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,CRAIG",
+      "job_title": "PORT POLICE OFFICER",
+      "salary": "60958.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,DARIUS A",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "71007.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,JOHN",
+      "job_title": "TECHNICAL SUPPORT SPEC",
+      "salary": "45440.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,THEOPOLIS",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "81508.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,WILLIAM",
+      "job_title": "DRIVER OPERATOR",
+      "salary": "69691.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZETTLER,GLENN A",
+      "job_title": "CLERK OPERATOR",
+      "salary": "86613.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZETTLER,JASON M",
+      "job_title": "TEMPORARY INTERN",
+      "salary": "1516.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZITTROUER,GLENN",
+      "job_title": "CHECKER FOREMAN",
+      "salary": "115792.63",
+      "travel": "0.00"
+    }
+  ]
+}

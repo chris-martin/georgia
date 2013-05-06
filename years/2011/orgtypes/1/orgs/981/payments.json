@@ -1,0 +1,40 @@
+{
+  "payments": [
+    {
+      "person_name": "ALLIGOOD,CINDY D",
+      "job_title": "PLANNG & POLCY DEV SPEC(WL)",
+      "salary": "36054.24",
+      "travel": "1649.37"
+    },
+    {
+      "person_name": "ASHCRAFT,LYNN F",
+      "job_title": "BUDGET SPEC (WL)",
+      "salary": "55716.48",
+      "travel": "6022.64"
+    },
+    {
+      "person_name": "BRAGG,NANCY GAIL",
+      "job_title": "CLERK (AL)",
+      "salary": "29664.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COBB,NANCY C",
+      "job_title": "BUSINESS OPERATION",
+      "salary": "90686.88",
+      "travel": "11342.16"
+    },
+    {
+      "person_name": "LENTILE,LESLIE L",
+      "job_title": "COMUNICATN/OUTRCH SPEC(EL)",
+      "salary": "32518.80",
+      "travel": "378.31"
+    },
+    {
+      "person_name": "MOLE,TONYA P",
+      "job_title": "BUSINESS OPERATION SPEC(AL)",
+      "salary": "57568.32",
+      "travel": "6498.28"
+    }
+  ]
+}

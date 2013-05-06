@@ -1,0 +1,70 @@
+{
+  "payments": [
+    {
+      "person_name": "BOSS,PATRICK",
+      "job_title": "TEMPORARY",
+      "salary": "1425.00",
+      "travel": "364.00"
+    },
+    {
+      "person_name": "CAMP,TIM",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "271.80"
+    },
+    {
+      "person_name": "DARDEN,KAYLEY",
+      "job_title": "TEMPORARY",
+      "salary": "175.00",
+      "travel": "56.00"
+    },
+    {
+      "person_name": "DAVIS,HECK",
+      "job_title": "BOARD MEMBER",
+      "salary": "150.00",
+      "travel": "198.71"
+    },
+    {
+      "person_name": "HARGRAVE,MICHAEL",
+      "job_title": "TEMPORARY",
+      "salary": "735.00",
+      "travel": "190.00"
+    },
+    {
+      "person_name": "KARSTEDT,ETHAN",
+      "job_title": "TEMPORARY",
+      "salary": "460.00",
+      "travel": "44.00"
+    },
+    {
+      "person_name": "KARSTEDT,NICOLE",
+      "job_title": "INSTRUCTOR",
+      "salary": "36078.07",
+      "travel": "7505.34"
+    },
+    {
+      "person_name": "NEWBERRY,FARRAH",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "50055.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRUELOVE,JERRY",
+      "job_title": "BOARD MEMBER",
+      "salary": "75.00",
+      "travel": "473.00"
+    },
+    {
+      "person_name": "WHITED,BOBBIE",
+      "job_title": "SECRETARY",
+      "salary": "2748.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YODER,RUFUS",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "320.25"
+    }
+  ]
+}

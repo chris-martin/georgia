@@ -12,7 +12,7 @@ class OrgTest extends org.scalatest.FreeSpec {
 
   "Parse orgs" in {
     expectResult(orgs) {
-      Org.fetchAll("2").take(5)
+      Org.fetchAll("2012", "2").take(5)
     }
   }
 

@@ -1,0 +1,706 @@
+{
+  "payments": [
+    {
+      "person_name": "AHMED,SAMIR",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "71050.08",
+      "travel": "29.70"
+    },
+    {
+      "person_name": "ANDREWS,MONIQUE P",
+      "job_title": "OPERATIONS ANALYST 2",
+      "salary": "37152.08",
+      "travel": "13.58"
+    },
+    {
+      "person_name": "BAGGETT,DONALD J",
+      "job_title": "PIPELINE SAFETY INSPECTOR 2",
+      "salary": "43137.72",
+      "travel": "10678.40"
+    },
+    {
+      "person_name": "BAKER,ROBERT B",
+      "job_title": "COMMISSIONER",
+      "salary": "114756.36",
+      "travel": "2842.38"
+    },
+    {
+      "person_name": "BARBER,JAMIE CHARLENE",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "60155.64",
+      "travel": "2500.57"
+    },
+    {
+      "person_name": "BEDINGFIELD,JOHN PHILIP",
+      "job_title": "PUBLIC UTILITIES ENGINEER 2",
+      "salary": "57580.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKSHEAR,ALONZA K",
+      "job_title": "RECORDS MANAGEMENT ANALYST 1",
+      "salary": "45874.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOND,KATRINA C",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "44791.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOND,THOMAS K",
+      "job_title": "UTILITIES DIRECTOR",
+      "salary": "120270.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWLES,LEON EDWIN",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "87654.84",
+      "travel": "2524.10"
+    },
+    {
+      "person_name": "BOWMAN,NAKEISHA",
+      "job_title": "INFORMATION & REFERRAL SPEC 2",
+      "salary": "7614.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYER,QUAWANDA A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "37911.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BREWER,MERLINE J",
+      "job_title": "TRANSPORTATION SPECIALIST 2",
+      "salary": "47272.92",
+      "travel": "118.43"
+    },
+    {
+      "person_name": "BROCK-SOLDAVINI,JADA",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "75195.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUCKNER,DOROTHY W",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "58573.84",
+      "travel": "439.76"
+    },
+    {
+      "person_name": "BUFFINGTON,TIMOTHY LYNN",
+      "job_title": "PIPELINE SAFETY INSPECTOR 3",
+      "salary": "51175.40",
+      "travel": "5092.99"
+    },
+    {
+      "person_name": "CAMERON,BERNARD",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "54166.20",
+      "travel": "3739.28"
+    },
+    {
+      "person_name": "CEARFOSS,DANIEL R",
+      "job_title": "PUBLIC UTILITIES ENG CHIEF",
+      "salary": "87026.28",
+      "travel": "1063.85"
+    },
+    {
+      "person_name": "CHANEY,JOSEPH KEVIN",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "15354.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAUVET,JANEY",
+      "job_title": "PUBLIC UTILITIES ENGINEER 2",
+      "salary": "56636.52",
+      "travel": "1709.30"
+    },
+    {
+      "person_name": "CLAY,YOLANDA RENEE",
+      "job_title": "INFORMATION & REFERRAL SPEC 1",
+      "salary": "26170.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONLEY,MARGIE A",
+      "job_title": "PERSONNEL OFFICER",
+      "salary": "58272.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOGLER,STANLEY B",
+      "job_title": "PIPELINE SAFETY INSPECTOR 2",
+      "salary": "45739.28",
+      "travel": "930.35"
+    },
+    {
+      "person_name": "CRAIG,HARRIS DONALD",
+      "job_title": "UTILITIES ANALYST 3",
+      "salary": "13915.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUCICH,DONA DRAKE",
+      "job_title": "INFORMATION & REFERRAL SPEC 1",
+      "salary": "28014.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CULBREATH,WILLIE J",
+      "job_title": "OPERATIONS ANALYST 1",
+      "salary": "13333.40",
+      "travel": "538.00"
+    },
+    {
+      "person_name": "DICKENSON,DARREN S",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "14105.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DONALDSON,WILLIAM N",
+      "job_title": "PIPELINE SAFETY INSPECTOR 3",
+      "salary": "57404.52",
+      "travel": "8609.70"
+    },
+    {
+      "person_name": "EATON,CHARLES M",
+      "job_title": "COMMISSIONER",
+      "salary": "114756.36",
+      "travel": "3404.17"
+    },
+    {
+      "person_name": "EDGE,WILLIAM M",
+      "job_title": "PUBLIC RELATIONS & EDUC DIR",
+      "salary": "41706.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EPPS,PANDORA",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "84099.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVERETT,H DOUG",
+      "job_title": "COMMISSIONER",
+      "salary": "114756.36",
+      "travel": "10503.41"
+    },
+    {
+      "person_name": "FLANNAGAN,DEBORAH K",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "107157.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRANKS,BEVERLY W",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "35210.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAINES,WINIFRED",
+      "job_title": "ACCOUNTANT",
+      "salary": "38367.24",
+      "travel": "346.15"
+    },
+    {
+      "person_name": "GIBSON,JAMES D",
+      "job_title": "OPERATIONS ANALYST 2",
+      "salary": "46157.44",
+      "travel": "538.15"
+    },
+    {
+      "person_name": "GIBSON,NANCY G",
+      "job_title": "PSC ADMIN PROCEDURE ATTORNEY",
+      "salary": "26666.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GINN,ROBERT R",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "69305.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,CAROLYN S",
+      "job_title": "TRANSPORT SPEC/COMP TRAIN DMVS",
+      "salary": "38205.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOGANS,BRENDA A",
+      "job_title": "TRANSPORTATION SPECIALIST 1",
+      "salary": "29295.84",
+      "travel": "740.32"
+    },
+    {
+      "person_name": "HOPKINS,TIMOTHY S",
+      "job_title": "UTILITIES FINANCE DIRECTOR",
+      "salary": "77948.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HWANG,ANGELA MANNLING",
+      "job_title": "ACCOUNTANT 3, PROFESSIONAL",
+      "salary": "54233.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,OTANIA L",
+      "job_title": "PUBLIC UTILITIES TECHNICIAN 2",
+      "salary": "42224.54",
+      "travel": "20.00"
+    },
+    {
+      "person_name": "JENSEN,ANNALISA",
+      "job_title": "INFORMATION & REFERRAL SPEC 1",
+      "salary": "28395.18",
+      "travel": "9.06"
+    },
+    {
+      "person_name": "JOHNSON,CYNTHIA C",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "82577.84",
+      "travel": "476.80"
+    },
+    {
+      "person_name": "JOHNSON,JOYCE B",
+      "job_title": "INFORMATION & REFERRAL SPEC 1",
+      "salary": "26897.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,LILLIAN E",
+      "job_title": "UTILITIES FINANCE ASST DIR",
+      "salary": "72369.16",
+      "travel": "1116.92"
+    },
+    {
+      "person_name": "JOHNSON,ONTERIO K",
+      "job_title": "PUBLIC UTILITIES TECHNICIAN 1",
+      "salary": "30256.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,DAPHNE B",
+      "job_title": "PUBLIC UTILITIES ENGINEER 2",
+      "salary": "46658.40",
+      "travel": "854.68"
+    },
+    {
+      "person_name": "KADUK,JOHN L",
+      "job_title": "PUBLIC UTILITIES ENGINEER 2",
+      "salary": "55910.66",
+      "travel": "2073.52"
+    },
+    {
+      "person_name": "KEEVAN,KELLY ELAINE",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "12492.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KERNIZAN,MICHEL E",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "4800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KERNIZAN,SHEREE W",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "87668.88",
+      "travel": "2118.41"
+    },
+    {
+      "person_name": "KILLINGS,BOLIN H",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "55487.76",
+      "travel": "1353.13"
+    },
+    {
+      "person_name": "LAIRSEY,JOSHUA M",
+      "job_title": "PIPELINE SAFETY INSPECTOR 2",
+      "salary": "41366.88",
+      "travel": "5708.50"
+    },
+    {
+      "person_name": "LEAF,KELLI J",
+      "job_title": "PSC ADMIN PROCEDURE ATTORNEY",
+      "salary": "19375.02",
+      "travel": "1214.49"
+    },
+    {
+      "person_name": "LESHER,CANDES E",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "47729.96",
+      "travel": "550.71"
+    },
+    {
+      "person_name": "LEWIS,DAVID M",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "4000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,JOYCE L",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "42087.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUCAS,BETTY F",
+      "job_title": "TRANSPORTATION SPECIALIST 1",
+      "salary": "39843.72",
+      "travel": "466.04"
+    },
+    {
+      "person_name": "MASON,GARY LAMAR",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "59163.22",
+      "travel": "2180.54"
+    },
+    {
+      "person_name": "MCALISTER,WILLIAM REECE",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "69821.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCBRIDE,ALICIA D",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "1875.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCARTER,JOHN PAUL",
+      "job_title": "PIPELINE SAFETY INSPECTOR 3",
+      "salary": "53248.08",
+      "travel": "3925.43"
+    },
+    {
+      "person_name": "MCCULLOUGH,SHIRLEY ANN",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "33502.16",
+      "travel": "267.00"
+    },
+    {
+      "person_name": "MCGHEE,GIGI S",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "32404.20",
+      "travel": "428.11"
+    },
+    {
+      "person_name": "MCGOUGHY,TRACEY M",
+      "job_title": "OPERATIONS ANALYST 2",
+      "salary": "24111.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGRIFF,DANNY LAWRENCE",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "76375.02",
+      "travel": "4726.80"
+    },
+    {
+      "person_name": "MCGUIRE,CLARE A",
+      "job_title": "ATTORNEY",
+      "salary": "68640.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKNIGHT,LISA C",
+      "job_title": "PUBLIC UTILITIES TECHNICIAN 2",
+      "salary": "41724.54",
+      "travel": "1323.20"
+    },
+    {
+      "person_name": "MONTAGNO,SERRANO E",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "2912.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORGAN,ROBERT B",
+      "job_title": "PIPELINE SAFETY SUPERVISOR",
+      "salary": "71408.96",
+      "travel": "11069.43"
+    },
+    {
+      "person_name": "MORGAN,WILLIAM A",
+      "job_title": "TRANSPORTATION SPECIALIST 2",
+      "salary": "51700.92",
+      "travel": "77.60"
+    },
+    {
+      "person_name": "MORRIS,ALLISON STOKES",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "5416.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NANTZ,MICHAEL CHELCY",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "63724.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWSOME,THOMAS J",
+      "job_title": "UTILITIES FINANCE DIRECTOR",
+      "salary": "65888.05",
+      "travel": "1442.76"
+    },
+    {
+      "person_name": "PACE,ROBERT C",
+      "job_title": "PIPELINE SAFETY INSPECTOR 2",
+      "salary": "47209.42",
+      "travel": "8168.95"
+    },
+    {
+      "person_name": "PERRY,RACHEL",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "51463.77",
+      "travel": "679.20"
+    },
+    {
+      "person_name": "PHILLIPS,MARIO ANTONIO",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "6561.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRITCHETT,TERRY G",
+      "job_title": "FISCAL BUDGET ADMINISTRATOR",
+      "salary": "49080.00",
+      "travel": "22.22"
+    },
+    {
+      "person_name": "REINHARDT,PATRICK J",
+      "job_title": "PUBLIC UTILITIES ENGINEER 3",
+      "salary": "64204.18",
+      "travel": "765.00"
+    },
+    {
+      "person_name": "ROSEMOND,MASHAUN G",
+      "job_title": "PUBLIC UTILITIES ENGINEER 2",
+      "salary": "55298.48",
+      "travel": "581.70"
+    },
+    {
+      "person_name": "RUSSELL,MICHAEL A",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "59297.00",
+      "travel": "1110.12"
+    },
+    {
+      "person_name": "SEARS,JANICE DENISE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "27162.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEWELL,DENNIS ROLAND",
+      "job_title": "PUBLIC UTILITIES ENG CHIEF",
+      "salary": "3111.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHADIX,RENEE F",
+      "job_title": "ADMINISTRATIVE ASST, DIVISION",
+      "salary": "48116.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,JASON W",
+      "job_title": "PUBLIC UTILITIES TECHNICIAN 1",
+      "salary": "37139.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,PHILIP J",
+      "job_title": "PSC ADMIN PROCEDURE ATTORNEY",
+      "salary": "86170.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPEIR,ANGELIA ELIZABETH",
+      "job_title": "COMMISSIONER",
+      "salary": "114756.36",
+      "travel": "563.90"
+    },
+    {
+      "person_name": "STAIR,JEFFREY CARLTON",
+      "job_title": "PSC ADMIN PROCEDURE ATTORNEY",
+      "salary": "78125.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAMP,RALPH M",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "36342.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STARKS,TONIKA M",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "49677.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SURRATT,TARA D",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "39015.00",
+      "travel": "1470.17"
+    },
+    {
+      "person_name": "SWANN,CHRISTOPHER B",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "51748.40",
+      "travel": "2259.08"
+    },
+    {
+      "person_name": "TANNER,SALLIE KEMPTON",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "38983.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,LISA DORA",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "37588.32",
+      "travel": "41.71"
+    },
+    {
+      "person_name": "TAYLOR,VICTORIA LEE",
+      "job_title": "UTILITIES ANALYST 1",
+      "salary": "48766.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THEBERT,MICHELLE LYNN",
+      "job_title": "PUBLIC UTILITIES ENGINEER 3",
+      "salary": "66570.74",
+      "travel": "939.83"
+    },
+    {
+      "person_name": "THOMAS,VERONICA",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "71244.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWE,JERRY ALAN",
+      "job_title": "PIPELINE SAFETY INSPECTOR 3",
+      "salary": "58309.08",
+      "travel": "7017.36"
+    },
+    {
+      "person_name": "TROKEY,ROBERT LUTHER",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "54853.46",
+      "travel": "432.04"
+    },
+    {
+      "person_name": "TRUSS,JULIA M",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "62276.84",
+      "travel": "651.94"
+    },
+    {
+      "person_name": "TUCKER,JOHN P",
+      "job_title": "PSC ADMIN PROCEDURE ATTORNEY",
+      "salary": "59190.32",
+      "travel": "1159.67"
+    },
+    {
+      "person_name": "TYER,NANCY JO",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "87916.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "UPSHAW,WILLIAM J",
+      "job_title": "OPERATIONS ANALYST 2",
+      "salary": "46133.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VAUGHAN,ROBERT J",
+      "job_title": "UTILITIES ANALYST 3",
+      "salary": "79611.48",
+      "travel": "4.50"
+    },
+    {
+      "person_name": "VINSON,CHERYL E",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "44171.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WACKERLY,GEORGE A",
+      "job_title": "UTILITIES ANALYST 2",
+      "salary": "63887.28",
+      "travel": "98.47"
+    },
+    {
+      "person_name": "WELCOME,PATRICIA",
+      "job_title": "PROGRAM ASSOCIATE",
+      "salary": "31124.48",
+      "travel": "288.00"
+    },
+    {
+      "person_name": "WEST,ROBERT R",
+      "job_title": "UTILITIES UNIT DIRECTOR",
+      "salary": "68432.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHATLEY,EARNEST",
+      "job_title": "PROPERTY & FACILITIES COORD",
+      "salary": "35903.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLINGHAM,CLAUDETTE",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "40328.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WISE,STANCIL O",
+      "job_title": "COMMISSIONER",
+      "salary": "114756.36",
+      "travel": "4217.97"
+    },
+    {
+      "person_name": "WOLFE,BARBARA F",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "39369.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YARLEY,SAMUEL A",
+      "job_title": "PIPELINE SAFETY INSPECTOR 2",
+      "salary": "43137.72",
+      "travel": "11452.67"
+    },
+    {
+      "person_name": "YOUNGS,JAMES LEE",
+      "job_title": "FISCAL BUDGET ADMINISTRATOR",
+      "salary": "26845.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZIMMERMAN,KYLE JAMES",
+      "job_title": "ENGINEERING SERVICES WORKER",
+      "salary": "12744.00",
+      "travel": "0.00"
+    }
+  ]
+}

@@ -1,0 +1,5602 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAMS,BARBARA G",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "15889.32",
+      "travel": "54.32"
+    },
+    {
+      "person_name": "ADAMS,DAVID H",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "48526.32",
+      "travel": "452.70"
+    },
+    {
+      "person_name": "ADAMS,VICKIE L",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 2",
+      "salary": "51896.52",
+      "travel": "3950.96"
+    },
+    {
+      "person_name": "AKERS,WILLIAM T",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "34313.76",
+      "travel": "58.00"
+    },
+    {
+      "person_name": "ALDRICH,KELLY N",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "36641.34",
+      "travel": "214.33"
+    },
+    {
+      "person_name": "ALFORD,JOSHUA B",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35051.40",
+      "travel": "917.85"
+    },
+    {
+      "person_name": "ALI,SYED ZAKIR",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "63296.08",
+      "travel": "108.00"
+    },
+    {
+      "person_name": "ALI,UNAIZA AKHTAR",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "53258.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,COURTNEY L",
+      "job_title": "CJIS SPECIALIST 1",
+      "salary": "28111.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALLEN,DELTONIA DELAYNE",
+      "job_title": "HUMAN RESOURCES PLANNER",
+      "salary": "52326.22",
+      "travel": "7.98"
+    },
+    {
+      "person_name": "ALLEN,NEDRA F",
+      "job_title": "BUDGET ANALYST 1",
+      "salary": "46242.72",
+      "travel": "13.40"
+    },
+    {
+      "person_name": "ALLEN,WILLIE G",
+      "job_title": "CRIME VICTIM COMP SPEC 2",
+      "salary": "42509.24",
+      "travel": "3390.31"
+    },
+    {
+      "person_name": "ALLISON,YALANDA L",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "40758.24",
+      "travel": "434.29"
+    },
+    {
+      "person_name": "ALLMAN,NELLIE M",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "28367.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALSTON,ROSA A",
+      "job_title": "ACCOUNTANT, PARAPROFESSIONAL",
+      "salary": "28500.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMBROSE,GLORIA W",
+      "job_title": "PERSONNEL SERVICES WORKER",
+      "salary": "11775.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMMONS,NATALIE L",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "44291.21",
+      "travel": "1907.33"
+    },
+    {
+      "person_name": "ANDERSON,BETTY",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "17894.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,RENEA N",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "38732.94",
+      "travel": "1295.60"
+    },
+    {
+      "person_name": "ANDERSON,WESLEY GARTH",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "33302.96",
+      "travel": "676.67"
+    },
+    {
+      "person_name": "ANDREWS,CATHY W",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12614.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,RUSSELL EDGAR",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "99337.88",
+      "travel": "3898.26"
+    },
+    {
+      "person_name": "ANDREWS,SHIRLEY",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "86170.08",
+      "travel": "1747.60"
+    },
+    {
+      "person_name": "ANTHONY,ARTHUR THOMAS",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "82795.68",
+      "travel": "1174.85"
+    },
+    {
+      "person_name": "ARMOUR,APRIL C",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "24359.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASHURST,SHELIA DENISE",
+      "job_title": "FORENSIC PATHOLOGY ASST SUPV",
+      "salary": "40781.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASTOR,NICOLE J",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50284.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ATHERLEY,LAURENTINA N",
+      "job_title": "AUDITOR 1",
+      "salary": "36133.92",
+      "travel": "1255.02"
+    },
+    {
+      "person_name": "AUSTIN,JOSEPH",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "49566.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AUSTIN,KARA NATALIE",
+      "job_title": "ACCOUNTANT 2, PROFESSIONAL",
+      "salary": "8333.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AVIOTTI,PATRICK K",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "44594.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AXTELL,KEITH MORGAN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "51298.41",
+      "travel": "4873.87"
+    },
+    {
+      "person_name": "AYER,JOSHUA R",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "29295.84",
+      "travel": "3240.23"
+    },
+    {
+      "person_name": "AYERS,MICHAEL TIMOTHY",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "61357.37",
+      "travel": "1587.99"
+    },
+    {
+      "person_name": "BAFFIC,JOANNE",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "10128.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,TONYA S",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "51803.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAIN,JEAN M",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "27431.86",
+      "travel": "1364.20"
+    },
+    {
+      "person_name": "BAITY,SAMUEL",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49443.24",
+      "travel": "198.73"
+    },
+    {
+      "person_name": "BAKER,KAREN E",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "29796.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,KIM B",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "59383.62",
+      "travel": "1680.82"
+    },
+    {
+      "person_name": "BAKER,KRISTEN N",
+      "job_title": "FORENSIC PATHOLOGY ASST 1",
+      "salary": "9757.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALLARD,JOSHUA A",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "7093.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALSAM,ROBERT L",
+      "job_title": "FORENSIC AUDITOR 3",
+      "salary": "41520.72",
+      "travel": "461.17"
+    },
+    {
+      "person_name": "BANKHEAD,JOHN G",
+      "job_title": "PUBLIC AFFAIRS DIRECTOR",
+      "salary": "97024.44",
+      "travel": "313.34"
+    },
+    {
+      "person_name": "BANKS,ANTHONY R",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "56628.30",
+      "travel": "618.06"
+    },
+    {
+      "person_name": "BANKS,BOBBY W",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "37836.54",
+      "travel": "64.00"
+    },
+    {
+      "person_name": "BANKS,PEGGY ANN",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "37658.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAQI,RESHAN IMAN",
+      "job_title": "ACCOUNTANT, PARAPROFESSIONAL",
+      "salary": "35947.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRON,JOHN S",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "18671.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARRY,JOHN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50057.52",
+      "travel": "127.00"
+    },
+    {
+      "person_name": "BARTON,PATRICK WAYNE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "48020.55",
+      "travel": "1464.47"
+    },
+    {
+      "person_name": "BASSETT,DAWN L",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "53301.70",
+      "travel": "36.00"
+    },
+    {
+      "person_name": "BATCHELOR,JODI M",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "27082.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BATES,SHARON P",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "41520.72",
+      "travel": "419.59"
+    },
+    {
+      "person_name": "BATTLE,CASSANDRA D",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "37745.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAZAR,EDMUND J",
+      "job_title": "QUALITY CONTROL SPECIALIST",
+      "salary": "47385.46",
+      "travel": "1191.22"
+    },
+    {
+      "person_name": "BEARD,ISAAC E",
+      "job_title": "CJIS NTWK DATA COMM MGR",
+      "salary": "50166.24",
+      "travel": "608.04"
+    },
+    {
+      "person_name": "BEAVERS,CHRISTOPHER B",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "18392.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEGGS,DARYL REBECCA",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "64677.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEGUM,MOSAMMAT K",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "43325.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELANCIK,GRANT M",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "16296.19",
+      "travel": "1963.87"
+    },
+    {
+      "person_name": "BELCHER,ANA REYES",
+      "job_title": "CRIME VICTIMS ADVOCATE",
+      "salary": "44495.40",
+      "travel": "129.23"
+    },
+    {
+      "person_name": "BELEW,BARBARA K",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12887.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,LEE P",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "58548.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,GEORGE ALLEN",
+      "job_title": "BUDGET ANALYST 3",
+      "salary": "52576.92",
+      "travel": "27.65"
+    },
+    {
+      "person_name": "BENNETT,KELLIE ELAINE",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "43596.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENNETT,STEPHANIE M",
+      "job_title": "PERSONNEL ANALYST 3",
+      "salary": "40457.64",
+      "travel": "74.00"
+    },
+    {
+      "person_name": "BENSON,BRANDON X",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "2127.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BETHEA,WILLIAM S",
+      "job_title": "AUDITOR, JUNIOR",
+      "salary": "11158.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIGHAM,ROCKY A",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35649.00",
+      "travel": "2407.47"
+    },
+    {
+      "person_name": "BING,OEVIA",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "45681.84",
+      "travel": "1051.10"
+    },
+    {
+      "person_name": "BISH,CHRISTOPHER ANTHONY",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "65579.76",
+      "travel": "1194.54"
+    },
+    {
+      "person_name": "BISHOP,KATHRYN K",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "30174.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKBURN,RONALD R",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "52270.69",
+      "travel": "81.00"
+    },
+    {
+      "person_name": "BLACKWELL,STEVE DAVIS",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "54414.12",
+      "travel": "2355.84"
+    },
+    {
+      "person_name": "BLANCHARD,LINDA SHAW",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "31266.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOUNT,DAWN T",
+      "job_title": "DATA ENTRY OPERATOR",
+      "salary": "17625.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BODREY,WILLIAM BISHOP",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46893.36",
+      "travel": "1339.51"
+    },
+    {
+      "person_name": "BOHANNON,CYNTHIA M",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "30693.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOLDEN,YVONNE V",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 1",
+      "salary": "28375.57",
+      "travel": "1465.14"
+    },
+    {
+      "person_name": "BOOKER,SHEILA MARSH",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "41126.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOUDY,ALBERT L",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "38992.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWLES,KELLI ELAINE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "18249.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWMAN,EMILY CAROLYN",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12555.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYD,WILLIAM A",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "41483.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYD,WOODROW WILSON",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "59755.56",
+      "travel": "1190.92"
+    },
+    {
+      "person_name": "BOYD,ZWELLA H",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "41520.72",
+      "travel": "547.83"
+    },
+    {
+      "person_name": "BRANCH,IEASHA D",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "23967.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANK,HUGH CARTER",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "68560.32",
+      "travel": "408.33"
+    },
+    {
+      "person_name": "BRANYON,JEFFERSON DAVIS",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50079.57",
+      "travel": "980.66"
+    },
+    {
+      "person_name": "BRASHER,MARY J",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "51743.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRASWELL,AMY E",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46791.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAXLEY,RONALD F",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "54468.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRENT,CORTNE",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "37828.92",
+      "travel": "4795.80"
+    },
+    {
+      "person_name": "BREWER,MARGIE J",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "28367.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRIDGES,CLAYTON T",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49412.62",
+      "travel": "511.34"
+    },
+    {
+      "person_name": "BRIGHT,EMILY N",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "41878.80",
+      "travel": "419.84"
+    },
+    {
+      "person_name": "BROGDON,DAGNY W",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "45393.53",
+      "travel": "398.87"
+    },
+    {
+      "person_name": "BROOKS,ERMA PRUE",
+      "job_title": "CJIS NTWK DATA COMM ANST 1",
+      "salary": "40853.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOKS,JOHNNY R",
+      "job_title": "FINANCIAL INVESTIGATOR-SPEC 1",
+      "salary": "5250.00",
+      "travel": "766.50"
+    },
+    {
+      "person_name": "BROOKS,LEIGH P",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46257.96",
+      "travel": "409.91"
+    },
+    {
+      "person_name": "BROOKS,MICHEAL L",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35307.90",
+      "travel": "641.80"
+    },
+    {
+      "person_name": "BROWER,JAMES H",
+      "job_title": "PROPERTY & SUPPLY SUPERVISOR 1",
+      "salary": "21585.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ANGELIA M",
+      "job_title": "PERSONNEL TRANSACTIONS MGR",
+      "salary": "54393.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,BARRENDA L",
+      "job_title": "FORENSIC AUDITOR 3",
+      "salary": "40758.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,DANIEL K",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "138970.44",
+      "travel": "2406.99"
+    },
+    {
+      "person_name": "BROWN,DEBRA BOYKIN",
+      "job_title": "PROJECT LEADER",
+      "salary": "59937.24",
+      "travel": "1518.98"
+    },
+    {
+      "person_name": "BROWN,ERIN A",
+      "job_title": "FORENSIC PHOTOGRAPHER 2",
+      "salary": "26283.72",
+      "travel": "70.00"
+    },
+    {
+      "person_name": "BROWN,JAMES N",
+      "job_title": "FORENSIC PHOTOGRAPHER 2",
+      "salary": "33559.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,JEFFREY M",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "1103.02"
+    },
+    {
+      "person_name": "BROWN,JESSE D",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "47669.68",
+      "travel": "1117.71"
+    },
+    {
+      "person_name": "BROWN,JOSEPH R",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "664.68"
+    },
+    {
+      "person_name": "BROWN,JUDY H",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "38624.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,KENNETH J",
+      "job_title": "PROPERTY & SUPPLY SUPERVISOR 2",
+      "salary": "29766.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,MORGAN A",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "10130.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SHANNON M",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12412.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,SHIRLEY S",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "42099.48",
+      "travel": "2341.44"
+    },
+    {
+      "person_name": "BRYAN,RODNEY D",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "43596.72",
+      "travel": "1445.40"
+    },
+    {
+      "person_name": "BRYANT,DEBORAH W",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "48467.55",
+      "travel": "97.00"
+    },
+    {
+      "person_name": "BUCARI,MARY ANN",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "21315.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BULL,TERESA G",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50358.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUMGARNER,MONICA LESLIE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "52890.52",
+      "travel": "380.50"
+    },
+    {
+      "person_name": "BURKE,PAUL M",
+      "job_title": "CJIS SPECIALIST 1",
+      "salary": "39445.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNEY,TIFFANY L",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "9350.02",
+      "travel": "24.00"
+    },
+    {
+      "person_name": "BURNS,MARK D",
+      "job_title": "CRIME LAB DIRECTOR, ASST",
+      "salary": "96572.04",
+      "travel": "1048.03"
+    },
+    {
+      "person_name": "BURRELL,KEITH N",
+      "job_title": "LAN ENGINEER",
+      "salary": "64412.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUSBY,MARY J",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "11356.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUSH,BOBBI R",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "629.35"
+    },
+    {
+      "person_name": "BUTLER,EMILY NICOLE",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 2",
+      "salary": "35051.40",
+      "travel": "295.00"
+    },
+    {
+      "person_name": "BUTLER,GEORGIA PETTIS",
+      "job_title": "FORENSIC PHOTOGRAPHER SUPV",
+      "salary": "44907.48",
+      "travel": "110.97"
+    },
+    {
+      "person_name": "BUTLER,ROSS W",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "56110.38",
+      "travel": "735.86"
+    },
+    {
+      "person_name": "BUTTRILL,EMILY C",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "3866.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTTS,JANICE D",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "10839.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAGLE,JOHN A",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "81126.85",
+      "travel": "912.03"
+    },
+    {
+      "person_name": "CALES,TANYA A",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "57117.24",
+      "travel": "1052.78"
+    },
+    {
+      "person_name": "CALHOUN,ISAAC A",
+      "job_title": "MIS FIELD SUPPORT DESK SUPV",
+      "salary": "48459.84",
+      "travel": "624.40"
+    },
+    {
+      "person_name": "CALLAHAN,LISA S",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "73534.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALLAHAN,MICHAEL EDWARD",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "47077.37",
+      "travel": "55.31"
+    },
+    {
+      "person_name": "CALLOWAY,JAMIRIUM D",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "785.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAMERON,AMANDA L",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40750.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAMPBELL,JAMES W",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "69360.48",
+      "travel": "1502.72"
+    },
+    {
+      "person_name": "CAMPBELL,TIMOTHY K",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "42842.88",
+      "travel": "464.10"
+    },
+    {
+      "person_name": "CANNON,DOROTHY D",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "6867.12",
+      "travel": "12.63"
+    },
+    {
+      "person_name": "CANNON,JOHN CLAXTON",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "64734.20",
+      "travel": "741.42"
+    },
+    {
+      "person_name": "CANTY,KIRK BRADFORD",
+      "job_title": "LABORATORY INFO MGT SYS MGR",
+      "salary": "65036.16",
+      "travel": "39.89"
+    },
+    {
+      "person_name": "CAPPETTO,MICHELE L",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40096.44",
+      "travel": "858.26"
+    },
+    {
+      "person_name": "CARDWELL,DONITA J",
+      "job_title": "CLERK, PROCUREMENT",
+      "salary": "32217.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARMICHAEL,ANGELA R",
+      "job_title": "PERSONNEL TECHNICIAN 2",
+      "salary": "31089.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARMICHAEL,RYAN M",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46718.07",
+      "travel": "103.24"
+    },
+    {
+      "person_name": "CARR,BELINDA A",
+      "job_title": "FIREARMS PROGRAM ANALYST 2",
+      "salary": "35016.24",
+      "travel": "73.72"
+    },
+    {
+      "person_name": "CARSON,STACY B",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "54253.80",
+      "travel": "2811.16"
+    },
+    {
+      "person_name": "CARTER,DOUGLAS L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "52012.39",
+      "travel": "427.00"
+    },
+    {
+      "person_name": "CARTER,MARILYN FAVORS",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "95.58"
+    },
+    {
+      "person_name": "CARTER,MARY V",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "28367.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,MICHAEL L",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "50550.50",
+      "travel": "10683.86"
+    },
+    {
+      "person_name": "CARTER,SHONTRICE M",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "22366.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTIER,DENISE E",
+      "job_title": "ACCOUNTANT 1, PROFESSIONAL",
+      "salary": "28719.57",
+      "travel": "134.85"
+    },
+    {
+      "person_name": "CHAMBLESS,BENJAMIN",
+      "job_title": "MICRO SYS SUPPORT SPEC 2",
+      "salary": "41496.72",
+      "travel": "667.71"
+    },
+    {
+      "person_name": "CHAMBLESS,NATASHA A",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "37391.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAMPION,LEIGH A",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "48739.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAPMAN,BRADFORD CLYDE",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "30088.60",
+      "travel": "716.68"
+    },
+    {
+      "person_name": "CHATMAN,ANTHONY T",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "407.20"
+    },
+    {
+      "person_name": "CHESNUT,WILLIAM J",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "55813.47",
+      "travel": "5308.31"
+    },
+    {
+      "person_name": "CHILDERS,DENISE N",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "48455.40",
+      "travel": "216.25"
+    },
+    {
+      "person_name": "CLAASSENS,JOHANNES",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "87833.16",
+      "travel": "211.45"
+    },
+    {
+      "person_name": "CLAIBORNE,CONNIE LEE",
+      "job_title": "PROGRAM SUPPORT ANALYST 3-GBI",
+      "salary": "47179.20",
+      "travel": "100.00"
+    },
+    {
+      "person_name": "CLARK,ANTHONY J",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "33869.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,ENNIS T",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "29295.84",
+      "travel": "1160.73"
+    },
+    {
+      "person_name": "CLARK,JACQUELINE ALBRITTON",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "38449.32",
+      "travel": "2260.50"
+    },
+    {
+      "person_name": "CLARK,PATRICIA BENSON",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "38032.68",
+      "travel": "373.71"
+    },
+    {
+      "person_name": "CLAYTON,K MICHAEL",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "58807.14",
+      "travel": "4681.48"
+    },
+    {
+      "person_name": "CLELAND,JOHN T",
+      "job_title": "COMMUNICATIONS EQUIP OFFICER 1",
+      "salary": "9145.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLELAND,MATTHEW C",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "35051.40",
+      "travel": "851.90"
+    },
+    {
+      "person_name": "COBB,DOUGLAS H",
+      "job_title": "FORENSIC AUDITOR 3",
+      "salary": "41520.72",
+      "travel": "107.78"
+    },
+    {
+      "person_name": "COBB,JOHN M",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "47021.28",
+      "travel": "360.20"
+    },
+    {
+      "person_name": "COFFEY,DEREK L",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29603.64",
+      "travel": "1001.13"
+    },
+    {
+      "person_name": "COFFEY-ORCINOLO,KRISTIN M",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 2",
+      "salary": "35893.98",
+      "travel": "2885.40"
+    },
+    {
+      "person_name": "COGGINS,KATHY D",
+      "job_title": "CASE MANAGEMENT SYS MGR",
+      "salary": "49134.36",
+      "travel": "1129.54"
+    },
+    {
+      "person_name": "COKER,DEENIE WALLACE",
+      "job_title": "INVESTIGATIVE SUPPORT ANALYST",
+      "salary": "41539.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLE,LARRY WENDELL",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "54868.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLIER,BELINDA L",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "27335.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLIER,CHRISTOPHER",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "28260.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,BENJAMIN A",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "4120.20"
+    },
+    {
+      "person_name": "COLLINS,DUSTIN AUTRY",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "9606.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLSON,DENISE GALLO",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1021.32"
+    },
+    {
+      "person_name": "CONGROVE,CYNTHIA H",
+      "job_title": "NETWORK SVS ADMIN 2",
+      "salary": "51440.50",
+      "travel": "520.62"
+    },
+    {
+      "person_name": "CONNELL,THOMAS DAVID",
+      "job_title": "OPERATIONS SUPPORT MGR",
+      "salary": "40139.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONWAY,LAURA E",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 1",
+      "salary": "29962.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COODY,JERRI L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46257.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,WANDA C",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "39847.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOKE,AMANDA H",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50284.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOPER,CRISTINA D",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "24279.09",
+      "travel": "641.40"
+    },
+    {
+      "person_name": "COOPER,JUDY G",
+      "job_title": "AFIS SPECIALIST 3",
+      "salary": "40935.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOPER,MERIAN L",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "25866.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COPELAND,GWENA S",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "22570.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CORDERO,JOHN M",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "8079.25"
+    },
+    {
+      "person_name": "COUCH,IMOGENE P",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "28833.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,BEATRICE W",
+      "job_title": "MICRO SYS SUPPORT SPEC 2",
+      "salary": "43622.04",
+      "travel": "192.95"
+    },
+    {
+      "person_name": "COX,LANNY DALE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "52946.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWFORD,THOMAS J",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "18810.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAWLEY,JANICE MARIE",
+      "job_title": "CJIS NTWK DATA COMM ANST 2",
+      "salary": "34477.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREED,JO ANNE",
+      "job_title": "SYSTEMS ANALYST",
+      "salary": "55284.12",
+      "travel": "298.22"
+    },
+    {
+      "person_name": "CREWS,CRYSTAL N",
+      "job_title": "PLANNER 1",
+      "salary": "37768.44",
+      "travel": "2776.17"
+    },
+    {
+      "person_name": "CROMARTIE-MCNAIR,NICOLE R",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 2",
+      "salary": "37828.92",
+      "travel": "2907.63"
+    },
+    {
+      "person_name": "CROSBY,ASHLEY T",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "47178.18",
+      "travel": "1330.40"
+    },
+    {
+      "person_name": "CROWE,KAREN F",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49659.12",
+      "travel": "1419.00"
+    },
+    {
+      "person_name": "CUDLIPP,SANDRA M",
+      "job_title": "PERSONNEL TECHNICIAN 2",
+      "salary": "31430.88",
+      "travel": "406.89"
+    },
+    {
+      "person_name": "CUENDET,LOUIS A",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "42763.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,TIFFANY",
+      "job_title": "COMMUNICATIONS EQUIP OFFICER 1",
+      "salary": "23574.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CURTIS,AMY DENISE",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "33291.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUTHBERT,YVONNE P",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "38506.72",
+      "travel": "100.00"
+    },
+    {
+      "person_name": "DANIEL,KEVIN J",
+      "job_title": "COMMUNICATIONS EQUIP OFFR CHF",
+      "salary": "36270.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIEL,MARSHA M",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "37828.92",
+      "travel": "3820.59"
+    },
+    {
+      "person_name": "DANIELS,KENNETH LAMAR",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "71182.32",
+      "travel": "1515.33"
+    },
+    {
+      "person_name": "DARRISAW,LORA A",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "153351.52",
+      "travel": "3982.49"
+    },
+    {
+      "person_name": "DAVIS,CHARITY N",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "45633.80",
+      "travel": "1241.04"
+    },
+    {
+      "person_name": "DAVIS,LINDA R",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "32563.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,PRANATI S",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "2029.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,SHAWN H",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "73161.84",
+      "travel": "856.00"
+    },
+    {
+      "person_name": "DAVIS,SHELLEY A",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40008.60",
+      "travel": "263.04"
+    },
+    {
+      "person_name": "DAVIS,TAMALA V",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "18350.55",
+      "travel": "1161.10"
+    },
+    {
+      "person_name": "DAVIS,THOMAS H",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "70643.52",
+      "travel": "747.53"
+    },
+    {
+      "person_name": "DAVY,BERNADETTE MICHELE",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "53168.92",
+      "travel": "153.00"
+    },
+    {
+      "person_name": "DEDRICK,KRISTIN C",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 1",
+      "salary": "31946.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEMARCO,CHRISTOPHER M",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "54409.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEMONS,SARAH D",
+      "job_title": "RECORDS MANAGEMENT TECHNICIAN",
+      "salary": "26192.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNIS,SHARHONDA L",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "17892.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENSON,FREDERICK",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "53379.77",
+      "travel": "658.96"
+    },
+    {
+      "person_name": "DETTMERING,TROY B",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50284.44",
+      "travel": "146.00"
+    },
+    {
+      "person_name": "DEVEAUX,DENO A",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40262.36",
+      "travel": "322.00"
+    },
+    {
+      "person_name": "DEVEAUX,MELBA",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "37181.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIAL,RICHARD L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46321.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DICKINSON,IRENE M",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "39764.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DICKS,DONALD EDWARD",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "67988.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIEDRICH,DAWN",
+      "job_title": "LEGAL SERVICES OFFICER",
+      "salary": "92506.08",
+      "travel": "3473.70"
+    },
+    {
+      "person_name": "DIETZEL,KATHERINE D",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "42072.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DINAPOLI,BRIAN ANDREW",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "737.23"
+    },
+    {
+      "person_name": "DINKINS,PERRY CHRISTY",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "36201.36",
+      "travel": "62.51"
+    },
+    {
+      "person_name": "DIXON,ALAN B",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "30489.21",
+      "travel": "126.10"
+    },
+    {
+      "person_name": "DIXON,BEVERLY E",
+      "job_title": "LAN ADMINISTRATOR",
+      "salary": "56465.04",
+      "travel": "1099.95"
+    },
+    {
+      "person_name": "DIXON,JOHN L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45729.21",
+      "travel": "1415.32"
+    },
+    {
+      "person_name": "DOCKINS,JEREMY L",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "1058.89"
+    },
+    {
+      "person_name": "DONNELLY,BENJAMIN A",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "44009.52",
+      "travel": "6556.94"
+    },
+    {
+      "person_name": "DONOGHUE,EDMUND R",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "157624.00",
+      "travel": "2048.36"
+    },
+    {
+      "person_name": "DORSEY,BYRON CHRIS",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "75254.88",
+      "travel": "12408.07"
+    },
+    {
+      "person_name": "DOWLING,SUE Y",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 2",
+      "salary": "44708.70",
+      "travel": "2863.83"
+    },
+    {
+      "person_name": "DOWNS,JAMES C",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "162202.56",
+      "travel": "2404.17"
+    },
+    {
+      "person_name": "DRIVER,KAREN D",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "28367.64",
+      "travel": "35.89"
+    },
+    {
+      "person_name": "DUKE,MATTHEW W",
+      "job_title": "FORENSIC AUDITOR 2",
+      "salary": "31170.60",
+      "travel": "1607.05"
+    },
+    {
+      "person_name": "DUKE,RACHEL B",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "32670.96",
+      "travel": "94.50"
+    },
+    {
+      "person_name": "DULL,MICHAEL A",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "75609.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNCAN,LUANNE C",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "28832.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURDEN,JOHN E",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "426.00"
+    },
+    {
+      "person_name": "DUREN,LARRY VAN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49443.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURHAM,CHARLES NORMAN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "53678.28",
+      "travel": "414.90"
+    },
+    {
+      "person_name": "DUTTON,CARLA R",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "53750.21",
+      "travel": "165.18"
+    },
+    {
+      "person_name": "DUTTON,DURWOOD SCOTT",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "59091.36",
+      "travel": "6338.70"
+    },
+    {
+      "person_name": "EASON,ERIC A",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "146134.44",
+      "travel": "1967.67"
+    },
+    {
+      "person_name": "ECTOR,MERLIN RANCE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49443.24",
+      "travel": "1287.10"
+    },
+    {
+      "person_name": "EDGAR,SEAN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "5259.53"
+    },
+    {
+      "person_name": "EDWARDS,JOHN B",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "77317.44",
+      "travel": "2075.56"
+    },
+    {
+      "person_name": "EDWARDS,MICHAEL G",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "28260.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EISENSTAT,JONATHAN",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "149704.44",
+      "travel": "3556.38"
+    },
+    {
+      "person_name": "ELLIOTT,ANN MARIE",
+      "job_title": "CCH/IDENT SPECIALIST 1",
+      "salary": "20058.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLIS,JOSHUA S",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "3265.00"
+    },
+    {
+      "person_name": "ENELS,NIKITA K",
+      "job_title": "FORENSIC AUDITOR 1",
+      "salary": "20220.84",
+      "travel": "371.91"
+    },
+    {
+      "person_name": "ERVIN,PAMELA MARIA",
+      "job_title": "PROCUREMENT OFFICER 2",
+      "salary": "45487.68",
+      "travel": "32.01"
+    },
+    {
+      "person_name": "ESTES,VAUGHN D",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46257.96",
+      "travel": "1662.40"
+    },
+    {
+      "person_name": "EUBANKS,CORDETTA N",
+      "job_title": "OPERATIONS ANALYST 1",
+      "salary": "19754.56",
+      "travel": "824.23"
+    },
+    {
+      "person_name": "EVANS,JUDY B",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "31847.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,MICHAEL PAUL",
+      "job_title": "BUDGET ANALYST 3",
+      "salary": "52711.80",
+      "travel": "6.84"
+    },
+    {
+      "person_name": "EWING,LORI D",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12145.28",
+      "travel": "25.74"
+    },
+    {
+      "person_name": "FALLER,SUSAN L",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "40307.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARMER,FELICIA K",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "9120.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARMER,JOHN B",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "63027.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FELIX,KYLE A",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "27856.95",
+      "travel": "2455.25"
+    },
+    {
+      "person_name": "FENNELL,JOHN B",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29834.49",
+      "travel": "707.67"
+    },
+    {
+      "person_name": "FINCH,VERDELL",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "41266.88",
+      "travel": "371.69"
+    },
+    {
+      "person_name": "FISCHER,MARY J",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "12480.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FISHER,TERRI",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "86170.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FITCHETT,AMY D",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "33552.35",
+      "travel": "60.14"
+    },
+    {
+      "person_name": "FLOWERS,GERMINA ROSE",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "1598.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOYD,MARIE E",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "36401.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORD,ANGELA VANESSA",
+      "job_title": "CJIS NTWK DATA COMM ANST 2",
+      "salary": "35522.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORD,ROBERT JUNIOR",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "60034.84",
+      "travel": "2382.18"
+    },
+    {
+      "person_name": "FORDHAM,MICHAEL B",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "63012.67",
+      "travel": "159.26"
+    },
+    {
+      "person_name": "FORSYTH,JEANETTE H",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12879.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,JAMES WILLIAM",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "93518.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,SHERRY C",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "28367.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,STEVEN WADE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49975.76",
+      "travel": "99.00"
+    },
+    {
+      "person_name": "FOUNTAIN,BARBARA H",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "40124.04",
+      "travel": "36.86"
+    },
+    {
+      "person_name": "FOWLER,MICHAEL LYNN",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "36794.88",
+      "travel": "1135.00"
+    },
+    {
+      "person_name": "FOX,MARINA CYNTHIA",
+      "job_title": "CCH/IDENT SPECIALIST 1",
+      "salary": "5067.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRIPP,KRISTEN O",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "55156.20",
+      "travel": "4017.17"
+    },
+    {
+      "person_name": "FRITSCH,LAUREN A",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "31411.79",
+      "travel": "722.67"
+    },
+    {
+      "person_name": "FULLINGTON,JAMES BENJAMIN",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "66686.16",
+      "travel": "1130.97"
+    },
+    {
+      "person_name": "GADSON,JENNIFER BEALL",
+      "job_title": "PERSONNEL ANALYST 3",
+      "salary": "49327.92",
+      "travel": "147.00"
+    },
+    {
+      "person_name": "GAFFORD,LEIGH R",
+      "job_title": "CCH PROGRAM SUPERVISOR",
+      "salary": "47849.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GALLASPY,ELAINA C",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "27679.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARDINER,JULIE P",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "81995.76",
+      "travel": "965.40"
+    },
+    {
+      "person_name": "GARNER,DEBORAH COX",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "58070.52",
+      "travel": "1597.72"
+    },
+    {
+      "person_name": "GARRETT,KEVIN D",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 2",
+      "salary": "36453.48",
+      "travel": "701.22"
+    },
+    {
+      "person_name": "GASS,JERRIE L",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "43596.72",
+      "travel": "206.39"
+    },
+    {
+      "person_name": "GAYLOR,ELIZABETH M",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 2",
+      "salary": "10808.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GEARING,MARGARET JEAN",
+      "job_title": "PROGRAM DIRECTOR 1",
+      "salary": "68119.32",
+      "travel": "2792.29"
+    },
+    {
+      "person_name": "GEHRING,MICHAEL E",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "43732.83",
+      "travel": "965.20"
+    },
+    {
+      "person_name": "GEORGE,AGIE A",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "15170.62"
+    },
+    {
+      "person_name": "GEORGE,TERRI T",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "41104.03",
+      "travel": "4362.52"
+    },
+    {
+      "person_name": "GERSTENBERGER,NEIL ANDREW",
+      "job_title": "CHIEF OF STAFF",
+      "salary": "64129.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIBBONS,TERRY DAVIS",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "94406.88",
+      "travel": "1375.65"
+    },
+    {
+      "person_name": "GIBBS,JEANNE A",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "45633.80",
+      "travel": "955.06"
+    },
+    {
+      "person_name": "GIBSON,JOHN E",
+      "job_title": "CCH/IDENT SERVICES SUPERVISOR",
+      "salary": "43242.76",
+      "travel": "1011.58"
+    },
+    {
+      "person_name": "GIDDENS,LINDSEY B",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "40485.08",
+      "travel": "766.52"
+    },
+    {
+      "person_name": "GILKEY,DACIA K",
+      "job_title": "CJIS NTWK DATA COMM ANST 2",
+      "salary": "32228.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIPSON,VICKIE L",
+      "job_title": "NETWORK SVS ADMIN 2",
+      "salary": "57069.84",
+      "travel": "271.99"
+    },
+    {
+      "person_name": "GLASS,AMANDA L",
+      "job_title": "SECRETARY 3",
+      "salary": "12161.34",
+      "travel": "95.50"
+    },
+    {
+      "person_name": "GLOVER,EARL A",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "42411.23",
+      "travel": "7904.74"
+    },
+    {
+      "person_name": "GODWIN,MARY ALICE",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "35696.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOELZ,MICHAEL D",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "54129.03",
+      "travel": "292.50"
+    },
+    {
+      "person_name": "GOINES,EVA W",
+      "job_title": "DATA SYSTEMS SUPV GBI",
+      "salary": "46347.84",
+      "travel": "511.17"
+    },
+    {
+      "person_name": "GOLZ,DAVID E",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "45766.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODMAN,WENDELL L",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "36641.34",
+      "travel": "4623.93"
+    },
+    {
+      "person_name": "GORDON,JAMES F",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "44196.98",
+      "travel": "56.00"
+    },
+    {
+      "person_name": "GRANT,JAMES RUSSELL",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "72070.08",
+      "travel": "3329.62"
+    },
+    {
+      "person_name": "GRAVITT,ERIK S",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "19041.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAY,SHENNILL LARENZO",
+      "job_title": "CRIME VICTIM COMP SPEC 2",
+      "salary": "45212.16",
+      "travel": "20.00"
+    },
+    {
+      "person_name": "GREENE-KLECKLEY,PRISCILLA",
+      "job_title": "FIREARMS PROGRAM SUPERVISOR",
+      "salary": "57514.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRESHAM,RESHUNDA S",
+      "job_title": "DATA ENTRY OPERATOR",
+      "salary": "16640.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIBBLE,VALERIE A",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "41520.72",
+      "travel": "1600.74"
+    },
+    {
+      "person_name": "GRIFFIN,DEBORAH C",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "32149.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GROGAN,TOMMY LEE",
+      "job_title": "OPERATIONS SUPPORT MGR",
+      "salary": "41790.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GULLATT,MAURICE",
+      "job_title": "DATA SYSTEMS ANALYST 1 GBI",
+      "salary": "19277.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GUNTER,ALICIA R",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "25615.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GUNTER,JOANN",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "30579.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAGAN,ALFONZA",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "35911.04",
+      "travel": "565.30"
+    },
+    {
+      "person_name": "HALE,MARSHALL R",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "2961.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,JANE L",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "15112.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMBY,DUSTIN T",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46292.43",
+      "travel": "256.10"
+    },
+    {
+      "person_name": "HANCOCK,CHARLES ALEXANDER",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1827.84"
+    },
+    {
+      "person_name": "HANCOCK,JAMES ALEXANDER",
+      "job_title": "PROGRAMMER ANALYST 3",
+      "salary": "66297.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HANSON,BENJAMIN T",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46257.96",
+      "travel": "156.50"
+    },
+    {
+      "person_name": "HARBIN,SARAH J",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "6506.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDEN,JACQUELYN TERESA",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "39921.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDIN,CRYSTAL LORITA",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "1691.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDY,JACKIE LYNN",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "12645.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARGETT,BRIAN M",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "58812.35",
+      "travel": "1459.00"
+    },
+    {
+      "person_name": "HARGROVE,BRIAN C",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "30321.84",
+      "travel": "698.67"
+    },
+    {
+      "person_name": "HARLOW,DEBORAH E",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "27034.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARPER,RALPH DANIEL",
+      "job_title": "FINANCIAL INVESTIGATOR-SPEC 1",
+      "salary": "5562.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRELL,JOHN F",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46455.15",
+      "travel": "624.35"
+    },
+    {
+      "person_name": "HARRIS,JAMES L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50302.95",
+      "travel": "409.90"
+    },
+    {
+      "person_name": "HARRIS,JAMES L",
+      "job_title": "DATA SYSTEMS ANALYST 1 GBI",
+      "salary": "41669.61",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "HARRIS,KAREN DENISE",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "35051.40",
+      "travel": "5129.22"
+    },
+    {
+      "person_name": "HARRIS,LISA BERNICE",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "68552.28",
+      "travel": "195.00"
+    },
+    {
+      "person_name": "HARRIS,MARTRINA M",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "2998.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,SHIRLEY",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "30014.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,DONNA LORRAINE",
+      "job_title": "SYSTEMS ANALYST",
+      "salary": "51281.88",
+      "travel": "157.46"
+    },
+    {
+      "person_name": "HARTLEY,KAREN SUSAN",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "4758.40"
+    },
+    {
+      "person_name": "HARVEY,ALFRED G",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "64448.52",
+      "travel": "680.72"
+    },
+    {
+      "person_name": "HARVEY,RICKY",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "59994.36",
+      "travel": "254.40"
+    },
+    {
+      "person_name": "HASSELL,MARIANNE",
+      "job_title": "CRIME VICTIM COMP SPEC 1",
+      "salary": "19200.00",
+      "travel": "961.28"
+    },
+    {
+      "person_name": "HASTINGS,SCOTTIE C",
+      "job_title": "CCH/IDENT SERVICES SUPERVISOR",
+      "salary": "54514.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HATCHETT,DAVITA H",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "26283.72",
+      "travel": "80.51"
+    },
+    {
+      "person_name": "HAYNES,BENJAMIN J",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46257.96",
+      "travel": "532.09"
+    },
+    {
+      "person_name": "HEAD,LAUREN N",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 2",
+      "salary": "36945.68",
+      "travel": "11860.84"
+    },
+    {
+      "person_name": "HEATH,JOYCE D",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "33022.08",
+      "travel": "116.34"
+    },
+    {
+      "person_name": "HEATLEY,RITA F",
+      "job_title": "SECRETARY 3",
+      "salary": "23967.84",
+      "travel": "151.39"
+    },
+    {
+      "person_name": "HEHIR,MELISSA F",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "49362.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEINEN,JOHN JOSEPH",
+      "job_title": "INSPECTOR",
+      "salary": "68826.57",
+      "travel": "5960.25"
+    },
+    {
+      "person_name": "HEMBREE,MARY ANN",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "35374.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,VINCYNTHIA S",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "37808.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENRY,PHYLLIS N",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "25371.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEPPNER,PAUL C",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "118828.08",
+      "travel": "746.80"
+    },
+    {
+      "person_name": "HERNDON,DARLENE E",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1280.40"
+    },
+    {
+      "person_name": "HERRIN,GEORGE L",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "115484.64",
+      "travel": "970.03"
+    },
+    {
+      "person_name": "HESS,SUZANNE R",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "1664.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEUETT,GIBSON N",
+      "job_title": "ASSISTANT DEPUTY",
+      "salary": "94406.88",
+      "travel": "1087.07"
+    },
+    {
+      "person_name": "HICKMAN,APRIL M",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "33845.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGHT,AMANDA L",
+      "job_title": "COMMUNICATIONS EQUIP OFFICER 2",
+      "salary": "33647.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGHT,DIANNE J",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "63037.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGHTOWER,BRENDA D",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "35867.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,APRIL J",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "44675.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,BRENDA",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "25462.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,CHARRI S",
+      "job_title": "FORENSIC PATHOLOGY ASST 1",
+      "salary": "9799.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,COLLETT E",
+      "job_title": "PROPERTY & SUPPLY SUPERVISOR 1",
+      "salary": "24360.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HILL,GERALD DOUGLAS",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "56169.72",
+      "travel": "331.13"
+    },
+    {
+      "person_name": "HILL,KATHY J",
+      "job_title": "DATA SYSTEMS ANALYST MGR GBI",
+      "salary": "59853.00",
+      "travel": "1933.37"
+    },
+    {
+      "person_name": "HILLSMAN,TRENT M",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "48262.73",
+      "travel": "1262.40"
+    },
+    {
+      "person_name": "HINKLE,ASHLEY",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "46605.86",
+      "travel": "1027.18"
+    },
+    {
+      "person_name": "HOBBS,JUDITH A",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "27298.80",
+      "travel": "1150.99"
+    },
+    {
+      "person_name": "HOLDER,MARY A",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "1016.50"
+    },
+    {
+      "person_name": "HOLT,BETTY HALL",
+      "job_title": "AFIS SPECIALIST 3",
+      "salary": "51266.48",
+      "travel": "65.00"
+    },
+    {
+      "person_name": "HOLT,LISA A",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "56616.96",
+      "travel": "1159.00"
+    },
+    {
+      "person_name": "HOOKS,SANDRA L",
+      "job_title": "INVESTIGATIVE SUPPORT ANALYST",
+      "salary": "37828.92",
+      "travel": "402.00"
+    },
+    {
+      "person_name": "HOOPER,LINDSAY A",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "968.63"
+    },
+    {
+      "person_name": "HORNE,CARL W",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45406.56",
+      "travel": "539.31"
+    },
+    {
+      "person_name": "HORNE,WESLEY S",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "48384.23",
+      "travel": "1588.79"
+    },
+    {
+      "person_name": "HORTON,BETH",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "52611.93",
+      "travel": "130.00"
+    },
+    {
+      "person_name": "HORTON,TAMARA C",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "24976.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOSEY,CHRISTOPHER E",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "59982.60",
+      "travel": "617.76"
+    },
+    {
+      "person_name": "HOUSE,JOHN D",
+      "job_title": "CUSTOMER SUPPORT MANAGER",
+      "salary": "65537.16",
+      "travel": "588.54"
+    },
+    {
+      "person_name": "HOWARD,EUGENE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45124.05",
+      "travel": "773.45"
+    },
+    {
+      "person_name": "HOWARD,KENNETH E",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46897.25",
+      "travel": "571.35"
+    },
+    {
+      "person_name": "HOWARD,MATTHEW L",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "37456.50",
+      "travel": "1122.89"
+    },
+    {
+      "person_name": "HOWARD,TERRY V",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "51530.97",
+      "travel": "70.00"
+    },
+    {
+      "person_name": "HOWELL,AMMERALLUS",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "27561.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUDSON,JUDY E",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "28260.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGER,KATHRYN A",
+      "job_title": "ACCOUNTING DIRECTOR 1",
+      "salary": "73332.36",
+      "travel": "635.94"
+    },
+    {
+      "person_name": "HUGGINS,BETH K",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "27009.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,GARY WAYNE",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "59812.68",
+      "travel": "825.76"
+    },
+    {
+      "person_name": "HUNT,TERRY W",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50123.28",
+      "travel": "754.90"
+    },
+    {
+      "person_name": "HUNTING,SUZANNE N",
+      "job_title": "FINANCIAL INVESTIGATOR-SPEC 1",
+      "salary": "42225.54",
+      "travel": "712.95"
+    },
+    {
+      "person_name": "HUTCHINS,CECIL M",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "52653.89",
+      "travel": "1756.07"
+    },
+    {
+      "person_name": "INGALLS,CAYCE E",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "44495.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IVY,ANITA F",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "44594.37",
+      "travel": "1027.48"
+    },
+    {
+      "person_name": "JACKSON,CHARLES DANIEL",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "64199.28",
+      "travel": "1046.62"
+    },
+    {
+      "person_name": "JACKSON,HARRY L",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "46672.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,MARIANO D",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "32969.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,MARK B",
+      "job_title": "LEGAL SERVICES DIRECTOR",
+      "salary": "101890.32",
+      "travel": "851.58"
+    },
+    {
+      "person_name": "JACKSON,MITCHELL P",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "48019.84",
+      "travel": "188.50"
+    },
+    {
+      "person_name": "JACKSON,SHALONDA T",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "26276.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,THEODORE CHRISTOPHER",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "56644.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACOBY,ASHLEY E",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "38469.84",
+      "travel": "972.20"
+    },
+    {
+      "person_name": "JAMES,JACQUELINE D",
+      "job_title": "AFIS TECHNICAL SUPERVISOR",
+      "salary": "38449.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARRARD,HALI B",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "8799.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARVIS,FRANCIS T",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "80138.28",
+      "travel": "715.90"
+    },
+    {
+      "person_name": "JENKINS,JEFFREY A",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "1317.95"
+    },
+    {
+      "person_name": "JENKINS,JOURLINE LOUISE",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "40128.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,NICOLE",
+      "job_title": "PROGRAM DIRECTOR 1",
+      "salary": "63408.60",
+      "travel": "509.08"
+    },
+    {
+      "person_name": "JENKINS,TONYA M",
+      "job_title": "AUDITOR 1",
+      "salary": "17624.53",
+      "travel": "888.20"
+    },
+    {
+      "person_name": "JENNINGS,DESMOND L",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "27856.95",
+      "travel": "4560.16"
+    },
+    {
+      "person_name": "JENNINGS,WILLIAM C",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50347.74",
+      "travel": "365.80"
+    },
+    {
+      "person_name": "JERGOVICH,TAMMY ARDELL",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "75406.77",
+      "travel": "1591.39"
+    },
+    {
+      "person_name": "JETER,PATRICK B",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "29295.84",
+      "travel": "1093.43"
+    },
+    {
+      "person_name": "JOHNSON,ABBY G",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "9438.48",
+      "travel": "79.52"
+    },
+    {
+      "person_name": "JOHNSON,CAROL ANN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "52208.88",
+      "travel": "2019.69"
+    },
+    {
+      "person_name": "JOHNSON,DIANNE MICHELLE",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 1",
+      "salary": "44909.48",
+      "travel": "2182.37"
+    },
+    {
+      "person_name": "JOHNSON,JENNIFER L",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50982.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,LORRAINE S",
+      "job_title": "CRIME VICTIM COMP SPEC 1",
+      "salary": "29811.48",
+      "travel": "1031.28"
+    },
+    {
+      "person_name": "JOHNSON,ROCHELLE R",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "42295.44",
+      "travel": "1211.00"
+    },
+    {
+      "person_name": "JOHNSTON,BRIAN E",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "63019.07",
+      "travel": "1440.02"
+    },
+    {
+      "person_name": "JONES,ALLEN JERRY",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "1075.20"
+    },
+    {
+      "person_name": "JONES,BETTY E",
+      "job_title": "PROGRAM DIRECTOR 2",
+      "salary": "62451.96",
+      "travel": "1343.16"
+    },
+    {
+      "person_name": "JONES,JAMES CAMERON",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "56208.60",
+      "travel": "992.50"
+    },
+    {
+      "person_name": "JONES,JENNIFER R",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "18029.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,MACHELLE MARIE",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "48640.19",
+      "travel": "130.95"
+    },
+    {
+      "person_name": "JONES,MARKO A",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39716.06",
+      "travel": "14341.83"
+    },
+    {
+      "person_name": "JONES,MARY F",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "44919.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,MELVIN L",
+      "job_title": "CCH/IDENT SERVICES SUPERVISOR",
+      "salary": "53732.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,SABRINA WRIGHT",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "36965.04",
+      "travel": "551.53"
+    },
+    {
+      "person_name": "JONES,SHANTERRI M",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "36083.64",
+      "travel": "204.25"
+    },
+    {
+      "person_name": "JORDAN,CARLETHA C",
+      "job_title": "SYSTEMS ANALYST",
+      "salary": "51109.44",
+      "travel": "999.46"
+    },
+    {
+      "person_name": "JORDAN,CATHERINE A",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "38992.08",
+      "travel": "189.06"
+    },
+    {
+      "person_name": "JORDAN-DAVIS,LINDA D",
+      "job_title": "ACCOUNTANT, PARAPROFESSIONAL",
+      "salary": "28990.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JURY,DEANNA KATHRYN",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35051.40",
+      "travel": "710.90"
+    },
+    {
+      "person_name": "KAISER,KIRK A",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "60889.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KARNES,JAMES J",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45406.56",
+      "travel": "343.53"
+    },
+    {
+      "person_name": "KARPF,JOHN J",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "22677.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEATLEY,MARCIA K",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "15494.02",
+      "travel": "64.02"
+    },
+    {
+      "person_name": "KEENAN,VERNON M",
+      "job_title": "DIRECTOR",
+      "salary": "145571.64",
+      "travel": "8536.20"
+    },
+    {
+      "person_name": "KEITH,ANITA M",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "14936.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,BAYNARD K",
+      "job_title": "CJIS DATA CTR MANAGER",
+      "salary": "64176.96",
+      "travel": "691.49"
+    },
+    {
+      "person_name": "KELLY,LAWRENCE F",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "38377.11",
+      "travel": "2690.63"
+    },
+    {
+      "person_name": "KENDRICK,AMY M",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "40758.24",
+      "travel": "808.91"
+    },
+    {
+      "person_name": "KICKLIGHTER,CHARLES ANTHONY",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "48020.55",
+      "travel": "1929.69"
+    },
+    {
+      "person_name": "KILCREASE,DENEEN E",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "55324.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KILCREASE,MATTHEW K",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "44820.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIMBERLY,JAMES R",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "58520.64",
+      "travel": "411.00"
+    },
+    {
+      "person_name": "KING,MARY A",
+      "job_title": "CJIS SPECIALIST 2",
+      "salary": "34566.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIRK,JOHN DANIEL",
+      "job_title": "ASSISTANT DIRECTOR",
+      "salary": "124845.00",
+      "travel": "4597.02"
+    },
+    {
+      "person_name": "KISLER,ANNE E",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40908.03",
+      "travel": "524.24"
+    },
+    {
+      "person_name": "KITTLE,HOLLY N",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "34477.44",
+      "travel": "959.66"
+    },
+    {
+      "person_name": "KNIESLY,MITCHELL D",
+      "job_title": "COMMUNICATIONS EQUIP OFFICER 1",
+      "salary": "24168.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNIGHT,GWENDOLYN RENE",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "46364.04",
+      "travel": "261.00"
+    },
+    {
+      "person_name": "KOLESNIK,KIM MARIE",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "946.20"
+    },
+    {
+      "person_name": "KOPONEN,MARK A",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "170650.56",
+      "travel": "1036.41"
+    },
+    {
+      "person_name": "KOPP,TANJA BRIGITTE",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50456.15",
+      "travel": "575.12"
+    },
+    {
+      "person_name": "KRAUTH,ERICHA N",
+      "job_title": "FORENSIC PATHOLOGY ASST 1",
+      "salary": "4445.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KRIEL,THEODORUS LOUIS",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "79471.80",
+      "travel": "2948.58"
+    },
+    {
+      "person_name": "KUDELA,RHONDA H",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "31266.84",
+      "travel": "85.47"
+    },
+    {
+      "person_name": "KURLOWICH,DANIEL W",
+      "job_title": "SYSTEMS ANALYST 2",
+      "salary": "44000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANDERS,LARRY SCOTT",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50113.92",
+      "travel": "3462.09"
+    },
+    {
+      "person_name": "LANG,GAIL R",
+      "job_title": "LABORATORY SUPPORT SECT ASST",
+      "salary": "46590.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANGFORD,LYNN",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "65694.12",
+      "travel": "388.93"
+    },
+    {
+      "person_name": "LANGSHAW,DEBORAH E",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "38469.84",
+      "travel": "186.00"
+    },
+    {
+      "person_name": "LARISCY,JILL WILLIAMS",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50284.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAVENDER,MARK W",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46596.52",
+      "travel": "1042.71"
+    },
+    {
+      "person_name": "LAW,THOMAS A",
+      "job_title": "NETWORK ADMINISTRATOR",
+      "salary": "19216.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAWSON,MARLA I",
+      "job_title": "FORENSIC ARTIST",
+      "salary": "47906.66",
+      "travel": "54.00"
+    },
+    {
+      "person_name": "LEACH,DIANNE N",
+      "job_title": "LABORATORY SUPPORT SECT ASST",
+      "salary": "44910.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LECROY,JESSICA E",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50230.56",
+      "travel": "1502.80"
+    },
+    {
+      "person_name": "LEDFORD,ANDREW CAREY",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEDFORD,CYNTHIA H",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "53469.24",
+      "travel": "4958.72"
+    },
+    {
+      "person_name": "LEE,DWAYNE W",
+      "job_title": "PROGRAMMER ANALYST 3",
+      "salary": "66297.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,JOSEPH",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "69.00"
+    },
+    {
+      "person_name": "LEE,KATHRYN P",
+      "job_title": "CRIME LAB DIRECTOR, ASST",
+      "salary": "81199.92",
+      "travel": "769.56"
+    },
+    {
+      "person_name": "LEE,ROBERT E",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "14834.62"
+    },
+    {
+      "person_name": "LEHMAN,KEITH L",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "160512.96",
+      "travel": "1402.45"
+    },
+    {
+      "person_name": "LEONARD,DAVID M",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "71101.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEPPARD,BRIAN C",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "39353.46",
+      "travel": "1943.88"
+    },
+    {
+      "person_name": "LEWALLEN,CYNTHIA M",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "45726.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWALLEN,FRANK W",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50284.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWELLEN,LARRY J",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "70343.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,BRENDA GEAN",
+      "job_title": "PROGRAM SUPPORT ANALYST 2-GBI",
+      "salary": "41520.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,EVERLENE",
+      "job_title": "TELEPHONE OPERATOR",
+      "salary": "25579.56",
+      "travel": "241.47"
+    },
+    {
+      "person_name": "LEWIS,MICHAEL O",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "76435.08",
+      "travel": "688.12"
+    },
+    {
+      "person_name": "LIGHTNER,ASHLEY LEAH",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "364.38"
+    },
+    {
+      "person_name": "LINDSAY,ASHLEY C",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35051.40",
+      "travel": "831.20"
+    },
+    {
+      "person_name": "LINEN,SHENIKA C",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50627.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LING,MONICA SHIPP",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "38377.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINTON,GREGORY B",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49607.18",
+      "travel": "291.23"
+    },
+    {
+      "person_name": "LOCHMANDY,GAIL M",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "27847.20",
+      "travel": "143.53"
+    },
+    {
+      "person_name": "LOCKRIDGE,STEPHANIE L",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "41520.72",
+      "travel": "29.10"
+    },
+    {
+      "person_name": "LODEN,GEORGIANNA M",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "44243.61",
+      "travel": "437.69"
+    },
+    {
+      "person_name": "LOKAR,AMANDA L",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "41749.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LONG,PATRICK L",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "69438.10",
+      "travel": "76.50"
+    },
+    {
+      "person_name": "LOTT,CHAD A",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "38081.31",
+      "travel": "483.40"
+    },
+    {
+      "person_name": "LOVELACE,TANGILA EVETTE",
+      "job_title": "AUDITOR 2",
+      "salary": "40113.76",
+      "travel": "682.01"
+    },
+    {
+      "person_name": "LOVELESS,BEONCIA M",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "51416.40",
+      "travel": "1738.19"
+    },
+    {
+      "person_name": "LOVETT,DAVELA C",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "21410.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWERY,LARRY TODD",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "59755.56",
+      "travel": "714.73"
+    },
+    {
+      "person_name": "LUCAS,BRIDGETT D",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "40869.12",
+      "travel": "8375.88"
+    },
+    {
+      "person_name": "LUKE,JAMES R",
+      "job_title": "PROGRAMMER ANALYST 3",
+      "salary": "56941.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUKE,MELISSA M",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "36641.34",
+      "travel": "42.00"
+    },
+    {
+      "person_name": "LUKE,ROY S",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "37257.30",
+      "travel": "841.15"
+    },
+    {
+      "person_name": "LYNN,KENDRA R",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "47802.62",
+      "travel": "522.30"
+    },
+    {
+      "person_name": "LYONS,AUGREY DWAINE",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "30837.60",
+      "travel": "254.47"
+    },
+    {
+      "person_name": "MACENCZAK,JOSHUA A",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "41122.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MADDOX,JESSE C",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "52044.99",
+      "travel": "1129.21"
+    },
+    {
+      "person_name": "MAGLIO,WILLIAM R",
+      "job_title": "INVESTIGATIONS COORD,TECHNICAL",
+      "salary": "48027.84",
+      "travel": "545.00"
+    },
+    {
+      "person_name": "MAHONE,MONICA",
+      "job_title": "BUDGET ADMINISTRATOR",
+      "salary": "75398.88",
+      "travel": "30.50"
+    },
+    {
+      "person_name": "MAKAREVICH,JOSHUA THAD",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "8797.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALUEG,WILLIAM J",
+      "job_title": "DEPUTY DIRECTOR",
+      "salary": "114692.78",
+      "travel": "6735.90"
+    },
+    {
+      "person_name": "MANSFIELD,MARCHANT OTTO",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "58538.19",
+      "travel": "634.00"
+    },
+    {
+      "person_name": "MANSFIELD,RUSSELL WILLIAM",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "67680.42",
+      "travel": "2833.89"
+    },
+    {
+      "person_name": "MANSUR,ANGELA L",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "28446.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARCHANT,ROBERT M",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "623.68"
+    },
+    {
+      "person_name": "MARLAR,JAMES MICHAEL",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45497.90",
+      "travel": "645.02"
+    },
+    {
+      "person_name": "MARTIN,BRADLEY",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "35051.40",
+      "travel": "1620.90"
+    },
+    {
+      "person_name": "MARTIN,DENISE M",
+      "job_title": "COMMUNICATIONS EQUIP OFFICER 1",
+      "salary": "25340.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,JACQUELINE M",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "170650.56",
+      "travel": "2568.46"
+    },
+    {
+      "person_name": "MASTERS,JEAN B",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "36935.04",
+      "travel": "18.94"
+    },
+    {
+      "person_name": "MATCHETT,CHRISTIAN C",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "55487.76",
+      "travel": "737.24"
+    },
+    {
+      "person_name": "MATHIS,MATTHEW C",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "52009.52",
+      "travel": "943.01"
+    },
+    {
+      "person_name": "MATHIS,SHIRLEY M",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "37899.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATTISON,THERESA A",
+      "job_title": "AUDITOR 2",
+      "salary": "47200.92",
+      "travel": "920.99"
+    },
+    {
+      "person_name": "MAUPIN,OLIVIA FRANKLIN",
+      "job_title": "PERSONNEL DIRECTOR, DEPUTY",
+      "salary": "89375.84",
+      "travel": "818.52"
+    },
+    {
+      "person_name": "MAYCOCK,MARK R",
+      "job_title": "CRIME LAB DIRECTOR, ASST",
+      "salary": "91350.00",
+      "travel": "301.71"
+    },
+    {
+      "person_name": "MAYS,FRED",
+      "job_title": "ADMINISTRATOR",
+      "salary": "84030.32",
+      "travel": "1114.64"
+    },
+    {
+      "person_name": "MCCARRIAGHER,MICHAEL P",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "35738.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCRAY,BRENDA L",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "22056.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCUTCHEN,JOSEPH A",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46277.72",
+      "travel": "370.85"
+    },
+    {
+      "person_name": "MCDANIEL,MICHAEL BENARR",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "67628.28",
+      "travel": "678.79"
+    },
+    {
+      "person_name": "MCELWEE,BOBBY D",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "64876.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCILWRAITH,JOHN DAVID",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "56686.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCINTYRE,DONNA B",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "45665.64",
+      "travel": "6831.36"
+    },
+    {
+      "person_name": "MCKENZIE,BRIAN M",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "27856.95",
+      "travel": "1863.68"
+    },
+    {
+      "person_name": "MCKEOWN,CHRISTOPHER P",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "37526.03",
+      "travel": "1619.01"
+    },
+    {
+      "person_name": "MCKOWN,MIRIAM M",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "26290.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCLAMB,JENNIFER M",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "51109.44",
+      "travel": "95.00"
+    },
+    {
+      "person_name": "MCLEAN,JUNIOUS",
+      "job_title": "PROPERTY & SUPPLY SUPERVISOR 2",
+      "salary": "32793.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMAHAN,RANDALL K",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "32.00"
+    },
+    {
+      "person_name": "MCMANUS,DEAN G",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "59812.68",
+      "travel": "2089.52"
+    },
+    {
+      "person_name": "MCNEAL,RYAN K",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "36641.34",
+      "travel": "12230.32"
+    },
+    {
+      "person_name": "MCPETERS,DONNA D",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "44843.64",
+      "travel": "3761.04"
+    },
+    {
+      "person_name": "MCPHERSON,EMILY J",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 1",
+      "salary": "31344.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCQUEEN,DORTHENIA",
+      "job_title": "AFIS TECHNICAL SUPERVISOR",
+      "salary": "41434.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCVICKER,BRIAN C",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "54469.92",
+      "travel": "737.46"
+    },
+    {
+      "person_name": "MEEK,CAROL J",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "24594.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEFFERD,THOMAS H",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "68464.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEHAN,JESSICA M",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "45085.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MERCER,STEPHANIE D",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "1908.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEREDITH,TERRI A",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "30274.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MERRITT,WILLIAM R",
+      "job_title": "LAN ENGINEER",
+      "salary": "63786.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MESSICK,ELIZABETH W",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 2",
+      "salary": "45093.48",
+      "travel": "2127.81"
+    },
+    {
+      "person_name": "MESTRE,MELINDA C",
+      "job_title": "FINANCIAL INVESTIGATOR-SPEC 1",
+      "salary": "6187.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "METCALF,MATTIE M",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 4",
+      "salary": "53504.16",
+      "travel": "545.85"
+    },
+    {
+      "person_name": "MILES,CLEVELAND L",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "56268.01",
+      "travel": "1128.75"
+    },
+    {
+      "person_name": "MILES,NELLY O",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "62006.88",
+      "travel": "23.84"
+    },
+    {
+      "person_name": "MILKA,KIMBERLY C",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "33010.68",
+      "travel": "2086.47"
+    },
+    {
+      "person_name": "MILLER,JOY M",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "55324.44",
+      "travel": "177.00"
+    },
+    {
+      "person_name": "MILLER,KATHLEEN",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "21331.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,MARY THOMAS",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "38027.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILLER,MEGAN A",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "13537.68"
+    },
+    {
+      "person_name": "MILLER,RONDA S",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "28644.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,BRANDON",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "48904.05",
+      "travel": "9008.25"
+    },
+    {
+      "person_name": "MOHAMUD,LINDA W",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "37652.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MONTGOMERY,JOSEPH D",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "57117.74",
+      "travel": "1093.85"
+    },
+    {
+      "person_name": "MONTGOMERY,MARVIN REID",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "63000.67",
+      "travel": "88.00"
+    },
+    {
+      "person_name": "MOODY,ANNE",
+      "job_title": "MANAGEMENT SPECIALIST",
+      "salary": "52754.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,GARRY L",
+      "job_title": "INSPECTOR",
+      "salary": "81199.92",
+      "travel": "1034.52"
+    },
+    {
+      "person_name": "MOORE,JOY R",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "27846.96",
+      "travel": "83.00"
+    },
+    {
+      "person_name": "MOORE,MARLA S",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "102481.32",
+      "travel": "1796.42"
+    },
+    {
+      "person_name": "MOORE,PATTI W",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "35005.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORALES,GERARDO",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "33905.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORAN,DENISE A",
+      "job_title": "AUDITOR 1",
+      "salary": "33833.04",
+      "travel": "1021.35"
+    },
+    {
+      "person_name": "MORGAN,KENNETH BERNARD",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "55590.01",
+      "travel": "330.00"
+    },
+    {
+      "person_name": "MORGAN,PATRICK E",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "52822.47",
+      "travel": "2578.90"
+    },
+    {
+      "person_name": "MORGAN,RHIANNON C",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "33166.62",
+      "travel": "4148.11"
+    },
+    {
+      "person_name": "MORRISON,ALBERT M",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "57892.46",
+      "travel": "900.58"
+    },
+    {
+      "person_name": "MORRISON,SHANNON H",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "7734.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORTON,ANNIE M",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "41133.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSSMAN,ANDREW W",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "38377.11",
+      "travel": "1210.14"
+    },
+    {
+      "person_name": "MOTTE,BARBARA S",
+      "job_title": "DATA SYSTEMS SUPV GBI",
+      "salary": "47006.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MUNDO,JOSE A",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "27856.95",
+      "travel": "2558.80"
+    },
+    {
+      "person_name": "MURPHY,AUDEY WAYNE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "48020.55",
+      "travel": "149.80"
+    },
+    {
+      "person_name": "MURPHY,JENNIFER L",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "33467.60",
+      "travel": "3438.08"
+    },
+    {
+      "person_name": "MURPHY,PHILIP MICHAEL",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "55904.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,VANDA A",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "41814.72",
+      "travel": "2181.79"
+    },
+    {
+      "person_name": "MURRAY,CARLOS D",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45406.56",
+      "travel": "550.60"
+    },
+    {
+      "person_name": "MURRAY,TISH A",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "36538.74",
+      "travel": "1758.84"
+    },
+    {
+      "person_name": "MURTHA,AMANDA L",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "37908.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MUTUKU,ASSUMPTA M",
+      "job_title": "CLERK, PROPERTY & SUPPLY",
+      "salary": "18690.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NAJARIAN,ANAHIT ASHIKYAN",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "45600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEAL,RHONDA DENEEN",
+      "job_title": "SYSTEMS ANALYST",
+      "salary": "51109.44",
+      "travel": "2124.07"
+    },
+    {
+      "person_name": "NEWMAN,MICHAEL CHARLES",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1040.22"
+    },
+    {
+      "person_name": "NICHOLSON,GARY L",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "80795.76",
+      "travel": "424.35"
+    },
+    {
+      "person_name": "NIEDERKORN,WANDA G",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "15074.55",
+      "travel": "49.47"
+    },
+    {
+      "person_name": "NIX,LORI CAIL",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "56805.71",
+      "travel": "719.18"
+    },
+    {
+      "person_name": "NOBLE,SOLOMON ISREAL",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "64716.34",
+      "travel": "1405.80"
+    },
+    {
+      "person_name": "NOLES,ELIZA R",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "14432.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORMAN,CLARA D",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "63870.36",
+      "travel": "2544.73"
+    },
+    {
+      "person_name": "NORMAN,DAVID F",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "37189.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NORRIS-LANG,SHERRY LEIGH",
+      "job_title": "INSPECTOR",
+      "salary": "69953.96",
+      "travel": "404.51"
+    },
+    {
+      "person_name": "NORWOOD,ELIZABETH A",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "24926.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NULL,BRENDA L",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "27335.04",
+      "travel": "891.88"
+    },
+    {
+      "person_name": "NUNEZ,BARBARA",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "33994.92",
+      "travel": "59.17"
+    },
+    {
+      "person_name": "ODELL,JEANETTE EVANS",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 2",
+      "salary": "51651.48",
+      "travel": "88.99"
+    },
+    {
+      "person_name": "OEHRLEIN,VICTORIA A",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40716.20",
+      "travel": "200.28"
+    },
+    {
+      "person_name": "OLIVA,JANET R",
+      "job_title": "INSPECTOR",
+      "salary": "82118.62",
+      "travel": "980.41"
+    },
+    {
+      "person_name": "OLIVER,MICHAEL ANTHONY",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "50355.59",
+      "travel": "988.91"
+    },
+    {
+      "person_name": "OLIVER,WILLIAM RUSSELL",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "162202.56",
+      "travel": "4175.50"
+    },
+    {
+      "person_name": "OLLIS,ROBERT J",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "34994.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OLOUGHLIN,GLENN P",
+      "job_title": "SECTION MANAGER",
+      "salary": "59241.96",
+      "travel": "1333.25"
+    },
+    {
+      "person_name": "ONEAL,BRYAN K",
+      "job_title": "DATABASE ADMINISTRATOR 1",
+      "salary": "47841.30",
+      "travel": "356.28"
+    },
+    {
+      "person_name": "ONEAL,MARSHA K",
+      "job_title": "CJIS PROGRAM SUPERVISOR",
+      "salary": "53826.12",
+      "travel": "1762.02"
+    },
+    {
+      "person_name": "ORDONEZ,REBA",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "32621.16",
+      "travel": "107.00"
+    },
+    {
+      "person_name": "ORLANDINO,JACQUELYN",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "42108.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OSULLIVAN,JAMES D",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35051.40",
+      "travel": "1848.50"
+    },
+    {
+      "person_name": "OTWELL,RICHARD K",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "53783.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENS,DAVINA M",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "48455.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAGET,JON G",
+      "job_title": "FACILITY AND OPS SUPPORT CHIEF",
+      "salary": "87859.68",
+      "travel": "2615.61"
+    },
+    {
+      "person_name": "PANNELL,ROBERT F",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "12053.98"
+    },
+    {
+      "person_name": "PARK,RACHEL M",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40008.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,BRENDA ELAINE",
+      "job_title": "ACCOUNTANT, PARAPROFESSIONAL",
+      "salary": "7712.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,JAMES DOUGLAS",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "57717.60",
+      "travel": "426.68"
+    },
+    {
+      "person_name": "PARKS,BRADLEY H",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "59755.56",
+      "travel": "1436.35"
+    },
+    {
+      "person_name": "PARRIS,CARA D",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "33617.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATEL,KAAJAL D",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "42377.43",
+      "travel": "764.54"
+    },
+    {
+      "person_name": "PAYTON,CHERYL D",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "37828.92",
+      "travel": "1563.00"
+    },
+    {
+      "person_name": "PAZ,MERLYN E",
+      "job_title": "SECRETARY 1",
+      "salary": "21083.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEACOCK,JONATHAN W",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "29295.84",
+      "travel": "2577.87"
+    },
+    {
+      "person_name": "PEARSON,JASON BRADLEY",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "42640.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEEL,TAMBERLIEE K",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "6934.46",
+      "travel": "45.03"
+    },
+    {
+      "person_name": "PELFREY,TERRY W",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "60545.28",
+      "travel": "769.20"
+    },
+    {
+      "person_name": "PERKINS,CONSUELA L",
+      "job_title": "FIREARMS PROGRAM ANALYST 2",
+      "salary": "34618.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERRY,MOLLY J",
+      "job_title": "DIRECTOR",
+      "salary": "117908.52",
+      "travel": "6687.86"
+    },
+    {
+      "person_name": "PETERS,KATHY D",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "28833.24",
+      "travel": "276.45"
+    },
+    {
+      "person_name": "PETERS,WANDA S",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "40906.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETERSON,LARRY K",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "82442.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETTIS,BRENDA S",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "11641.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETTYJOHN,SANDRA ELAINE",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "30693.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PICKELSIMER,JOHN VIRGIL",
+      "job_title": "AUDIT MANAGER",
+      "salary": "55487.76",
+      "travel": "8424.75"
+    },
+    {
+      "person_name": "PICKENS,CONNIE C",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "76395.87",
+      "travel": "1852.76"
+    },
+    {
+      "person_name": "PITTS,DEBORAH D",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "28832.76",
+      "travel": "848.32"
+    },
+    {
+      "person_name": "POLITE,JEANETTE",
+      "job_title": "FIREARMS PROGRAM SUPERVISOR",
+      "salary": "31352.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POPLIN,KATIE E",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "32575.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POSEY,DOUGLAS H",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "157624.00",
+      "travel": "1278.16"
+    },
+    {
+      "person_name": "POSEY,MITCHELL MONROE",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "55363.54",
+      "travel": "1510.26"
+    },
+    {
+      "person_name": "POTKANOWICZ,ANIE M",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "40049.76",
+      "travel": "4240.17"
+    },
+    {
+      "person_name": "POWELL,AMANDA LEANNE",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "10134.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,PAULETTE RENEE",
+      "job_title": "ACCOUNTANT 3, PROFESSIONAL",
+      "salary": "47895.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRATER,PHILLIP ANTHONY",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "34543.68",
+      "travel": "367.75"
+    },
+    {
+      "person_name": "PRESS,TABITHA L",
+      "job_title": "PROGRAM EVALUATOR",
+      "salary": "3800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRESTON,BONITA R",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "37828.92",
+      "travel": "3783.59"
+    },
+    {
+      "person_name": "PREVATTE,JUDY M",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "5929.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRICE,JESSICA S",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "41520.72",
+      "travel": "94.34"
+    },
+    {
+      "person_name": "PRO,MARK ANTHONY",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "59755.56",
+      "travel": "1119.10"
+    },
+    {
+      "person_name": "PUGLIESE,SANDRA G",
+      "job_title": "INVESTIGATIVE SERVICES OFFICER",
+      "salary": "33550.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PURDIMAN,CYRUS C",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "58684.77",
+      "travel": "735.43"
+    },
+    {
+      "person_name": "PUTNAM,SANDRA JEAN",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "51642.72",
+      "travel": "2210.00"
+    },
+    {
+      "person_name": "PYLE,DONELLE L",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "38992.08",
+      "travel": "1117.44"
+    },
+    {
+      "person_name": "QUEENER,BRIAN H",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "47353.46",
+      "travel": "107.99"
+    },
+    {
+      "person_name": "RABBITT,CAMERON V",
+      "job_title": "FINANCIAL INVESTIGATOR-SPEC 1",
+      "salary": "6187.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RALEY,WENDI WOODALL",
+      "job_title": "FORENSIC AUDITOR 3",
+      "salary": "41520.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAMEY,GREGORY ALLEN",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "61382.28",
+      "travel": "116.00"
+    },
+    {
+      "person_name": "RAMSEY,LAKINIA T",
+      "job_title": "CRIME VICTIM COMP SPEC 2",
+      "salary": "36990.72",
+      "travel": "1222.62"
+    },
+    {
+      "person_name": "RANDLE,TREBOR A",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "54253.80",
+      "travel": "962.78"
+    },
+    {
+      "person_name": "REDDICK,SARA ANITA",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1557.81"
+    },
+    {
+      "person_name": "REED,JEFFERY B",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "15414.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REED,TIFFANY A",
+      "job_title": "FINANCIAL INVESTIGATOR-SPEC 1",
+      "salary": "5250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REESE,JOHN D",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "749.82"
+    },
+    {
+      "person_name": "REESE,JOSEPH",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "2020.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REEVES,LORI H",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40769.88",
+      "travel": "419.55"
+    },
+    {
+      "person_name": "REILLEY,COLLEEN M",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "59562.00",
+      "travel": "113.45"
+    },
+    {
+      "person_name": "RENFROE,MARGARET A",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "58402.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RETZER,BARBARA DOZIER",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "57555.12",
+      "travel": "130.10"
+    },
+    {
+      "person_name": "REYNOLDS,BETTY G",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "52535.04",
+      "travel": "842.84"
+    },
+    {
+      "person_name": "REYNOLDS,LATORIA V",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "33231.44",
+      "travel": "682.47"
+    },
+    {
+      "person_name": "REYNOLDS,RANDOLPH CARNELL",
+      "job_title": "AFIS SPECIALIST 3",
+      "salary": "48242.88",
+      "travel": "9.70"
+    },
+    {
+      "person_name": "REYNOLDS-COBB,SHAWANDA",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "78738.36",
+      "travel": "1216.56"
+    },
+    {
+      "person_name": "REYNOLDS-FOREHAND,STACY M",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "50523.61",
+      "travel": "323.00"
+    },
+    {
+      "person_name": "RHODES,JANET N",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "54315.36",
+      "travel": "1236.90"
+    },
+    {
+      "person_name": "RICE,NIKKO N",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "38310.60",
+      "travel": "2055.87"
+    },
+    {
+      "person_name": "RICH,JOHN BAHAN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "55083.20",
+      "travel": "545.00"
+    },
+    {
+      "person_name": "RICHARDSON,EVELYN E",
+      "job_title": "PROJECT LEADER",
+      "salary": "56456.40",
+      "travel": "458.17"
+    },
+    {
+      "person_name": "RICHARDSON,MARIO",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "38469.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICKETSON,JOSEPH TYLER",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "71829.88",
+      "travel": "752.77"
+    },
+    {
+      "person_name": "RISTAU,DAPHNE L",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "51093.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIVERS,ZUBEDAH F",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "33541.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTROY,ELIZABETH M",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "29295.84",
+      "travel": "6484.47"
+    },
+    {
+      "person_name": "ROBERTSON,DENISE B",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "34232.64",
+      "travel": "46.56"
+    },
+    {
+      "person_name": "ROBERTSON,KERRY L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "16470.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,CHRISTOPHER N",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "46592.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RODGERS,LISA R",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "36401.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROESLER,JEFFREY",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49661.07",
+      "travel": "1387.28"
+    },
+    {
+      "person_name": "ROESLER,MARGARET A",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "13614.72",
+      "travel": "97.97"
+    },
+    {
+      "person_name": "ROGERS,VICKIE L",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "37176.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROLLINS,DEBORAH E",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39946.58",
+      "travel": "262.60"
+    },
+    {
+      "person_name": "ROMATZ,KELLEY R",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "27308.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RONE,JAMES DAVID",
+      "job_title": "DEPUTY CHIEF OF FAC & OPS SUPP",
+      "salary": "54960.00",
+      "travel": "757.13"
+    },
+    {
+      "person_name": "ROPER,SARA HODGSON",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "50817.08",
+      "travel": "94.00"
+    },
+    {
+      "person_name": "ROSS,ANTONIA J",
+      "job_title": "DATA TRANSCRIBER 2",
+      "salary": "22056.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSSER,LESLIE T",
+      "job_title": "ACCOUNTANT, PARAPROFESSIONAL",
+      "salary": "17723.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROTHWELL,GARY R",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "67829.52",
+      "travel": "151.00"
+    },
+    {
+      "person_name": "ROTTER,CRAIG MICHAEL",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "59665.14",
+      "travel": "1045.54"
+    },
+    {
+      "person_name": "ROULAIN,JAN",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "819.77"
+    },
+    {
+      "person_name": "ROWE,JERRY ALLEN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "18314.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROWELL,EDWARD DREMOT",
+      "job_title": "CRIME VICTIM COMP SPEC 2",
+      "salary": "37724.40",
+      "travel": "492.30"
+    },
+    {
+      "person_name": "ROWLAND,ALBERT W",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "38104.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROWLEN,AMANDA L",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "39226.20",
+      "travel": "16173.91"
+    },
+    {
+      "person_name": "RUDOLPH,ADAM G",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "43386.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUNNELS,CHANTEL G",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "19045.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSHTON,PAMELA CANTRELL",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49321.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSK,GRAHAM E",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "36026.10",
+      "travel": "1320.03"
+    },
+    {
+      "person_name": "RYMER,HOLLY MARIE",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 3",
+      "salary": "38617.20",
+      "travel": "618.89"
+    },
+    {
+      "person_name": "SABO,BARI L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "57979.56",
+      "travel": "2587.66"
+    },
+    {
+      "person_name": "SAILERS,MICHELE K",
+      "job_title": "MICRO SYSTEM MANAGER",
+      "salary": "77374.68",
+      "travel": "474.30"
+    },
+    {
+      "person_name": "SALE,CHRISTINE ANN",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "30041.64",
+      "travel": "1170.78"
+    },
+    {
+      "person_name": "SALES,PAMELA YVETTE",
+      "job_title": "DATA SYSTEMS ANALYST 2 GBI",
+      "salary": "37409.14",
+      "travel": "384.69"
+    },
+    {
+      "person_name": "SAMMONS,MELISSA K",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "37828.92",
+      "travel": "1485.80"
+    },
+    {
+      "person_name": "SANDERS,NINA C",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "9444.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDS,TRACY D",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "47178.18",
+      "travel": "1398.82"
+    },
+    {
+      "person_name": "SANTAMARIA,RAYMOND",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "70279.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANTAMARIA,TERRI RILEY",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "64998.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAPP,CATHERINE JEAN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "52308.66",
+      "travel": "3872.81"
+    },
+    {
+      "person_name": "SASNETT,RICHARD B",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35051.40",
+      "travel": "1032.89"
+    },
+    {
+      "person_name": "SCHMAHL,TIMOTHY J",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "48241.26",
+      "travel": "230.03"
+    },
+    {
+      "person_name": "SCHULTE,BETTY P",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "29053.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHWALLS,JASON E",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45791.97",
+      "travel": "148.66"
+    },
+    {
+      "person_name": "SCOTT,ALEXANDER W",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "55837.95",
+      "travel": "205.00"
+    },
+    {
+      "person_name": "SCOTT,DEANNA C",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "21315.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,JERRY LEE",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "63465.07",
+      "travel": "116.00"
+    },
+    {
+      "person_name": "SCOTT,LORI M",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "27856.95",
+      "travel": "2331.73"
+    },
+    {
+      "person_name": "SEGREST,ANGEL M",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "19048.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEGUIN,CYNTHIA L",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40892.38",
+      "travel": "1465.41"
+    },
+    {
+      "person_name": "SELLERS,REBECCA S",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "38377.11",
+      "travel": "455.00"
+    },
+    {
+      "person_name": "SELLS,ALYN R",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46279.78",
+      "travel": "2763.68"
+    },
+    {
+      "person_name": "SERIGNEY,SHANON J",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45731.13",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "SEVIGNY,DANA B",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "10499.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEVIGNY,MELISSA L",
+      "job_title": "EVIDENCE RECEIVING TECH",
+      "salary": "24018.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHACKELFORD,MICHAEL G",
+      "job_title": "AUDITOR 2",
+      "salary": "49178.76",
+      "travel": "1218.79"
+    },
+    {
+      "person_name": "SHAW,DEBORAH FAYE",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50802.36",
+      "travel": "2126.69"
+    },
+    {
+      "person_name": "SHAW,GEORGE H",
+      "job_title": "ADMINISTRATIVE SPECIALIST 1",
+      "salary": "47704.92",
+      "travel": "93.85"
+    },
+    {
+      "person_name": "SHAW,REBECCA",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45072.50",
+      "travel": "262.60"
+    },
+    {
+      "person_name": "SHELTON,LEONARD A",
+      "job_title": "PROJECT LEADER",
+      "salary": "70340.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHIDER,KEANA L",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "12242.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHOUDEL,JASON W",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "992.28"
+    },
+    {
+      "person_name": "SIKES,DAWN T",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "13412.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMOES,CYNTHIA B",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "12912.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMON,MATHEW J",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "39674.13",
+      "travel": "165.74"
+    },
+    {
+      "person_name": "SIMS,DANIEL D",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "37562.64",
+      "travel": "39.50"
+    },
+    {
+      "person_name": "SIMS,JONATHAN P",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 1",
+      "salary": "40431.50",
+      "travel": "2115.38"
+    },
+    {
+      "person_name": "SIMS,MELISSA A",
+      "job_title": "MEDICAL EXAMINER",
+      "salary": "160512.96",
+      "travel": "977.82"
+    },
+    {
+      "person_name": "SIMS,MICHELLE V",
+      "job_title": "COMMUNICATIONS EQUIP OFFICER 1",
+      "salary": "25665.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SITTON,KEITH BRIAN",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "65605.32",
+      "travel": "187.00"
+    },
+    {
+      "person_name": "SKELTON,JAMIE D",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "8020.51"
+    },
+    {
+      "person_name": "SKINNER,PATRICK STEVEN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "72919.35",
+      "travel": "431.50"
+    },
+    {
+      "person_name": "SLACK,SARAH J",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "10134.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLANEY,BONNIE L",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "32715.48",
+      "travel": "759.87"
+    },
+    {
+      "person_name": "SLATON,HEATHER M",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "26283.72",
+      "travel": "49.47"
+    },
+    {
+      "person_name": "SLOAN,AMBER MARIE",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "24751.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMALLEY,KRISTINA M",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "892.28"
+    },
+    {
+      "person_name": "SMITH,ADRIANNE ELIZABETH",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "37828.92",
+      "travel": "3373.08"
+    },
+    {
+      "person_name": "SMITH,CAREY REYNOLDS",
+      "job_title": "PLANNER 2",
+      "salary": "6301.80",
+      "travel": "72.05"
+    },
+    {
+      "person_name": "SMITH,CASEY K",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "44243.61",
+      "travel": "135.00"
+    },
+    {
+      "person_name": "SMITH,CYNTHIA L",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "9355.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,DAVID B",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46105.90",
+      "travel": "498.75"
+    },
+    {
+      "person_name": "SMITH,DEBRA C",
+      "job_title": "SECRETARY, MEDICAL EXAMINERS",
+      "salary": "26290.32",
+      "travel": "117.00"
+    },
+    {
+      "person_name": "SMITH,DONNA LYNN",
+      "job_title": "BUDGET ANALYST 2",
+      "salary": "57518.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,GAIL Y",
+      "job_title": "CJIS NTWK DATA COMM ANST 3",
+      "salary": "48090.36",
+      "travel": "553.05"
+    },
+    {
+      "person_name": "SMITH,JAMES KIRK",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "47191.89",
+      "travel": "2571.46"
+    },
+    {
+      "person_name": "SMITH,JILL S",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45488.37",
+      "travel": "710.85"
+    },
+    {
+      "person_name": "SMITH,KENNETH R",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "51159.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,KENYETTA",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1857.78"
+    },
+    {
+      "person_name": "SMITH,LINDSAY POOLE",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "40082.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,PAUL F",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46004.49",
+      "travel": "556.90"
+    },
+    {
+      "person_name": "SMITH,ROSEMARY J",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "31008.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,STEWART W",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "68138.28",
+      "travel": "2476.30"
+    },
+    {
+      "person_name": "SMITH,WILLENE W",
+      "job_title": "UCR PROGRAM SUPV",
+      "salary": "50081.28",
+      "travel": "496.30"
+    },
+    {
+      "person_name": "SNOW,FREDERICK J",
+      "job_title": "RESEARCH CONSULTANT",
+      "salary": "75398.88",
+      "travel": "2282.70"
+    },
+    {
+      "person_name": "SOSEBEE,ASHLEIGH S",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "10541.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOSEBEE,TERRY A",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "64309.44",
+      "travel": "4479.97"
+    },
+    {
+      "person_name": "SPERRY,KRIS L",
+      "job_title": "MEDICAL EXAMINER, CHIEF STATE",
+      "salary": "181210.68",
+      "travel": "3086.22"
+    },
+    {
+      "person_name": "SPURLOCK,JONATHAN L",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "35820.90",
+      "travel": "643.32"
+    },
+    {
+      "person_name": "STAFFORD,NORMAN EARL",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1719.84"
+    },
+    {
+      "person_name": "STALEY,CARMEN B",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 4",
+      "salary": "48455.40",
+      "travel": "1473.90"
+    },
+    {
+      "person_name": "STANLEY,BOBBY THOMAS",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49667.64",
+      "travel": "1993.17"
+    },
+    {
+      "person_name": "STANLEY,GEORGE W",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "95399.64",
+      "travel": "1326.00"
+    },
+    {
+      "person_name": "STAPLES,TED ROBERT",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "71538.48",
+      "travel": "884.40"
+    },
+    {
+      "person_name": "STARCKEY,TAMMY T",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 2",
+      "salary": "35313.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEINBERG,JAMES M",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "54011.65",
+      "travel": "2627.25"
+    },
+    {
+      "person_name": "STEPHENS,DOLINDA M",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "28367.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEPHENS,FRED E",
+      "job_title": "INSPECTOR",
+      "salary": "99012.00",
+      "travel": "7431.95"
+    },
+    {
+      "person_name": "STEPHENSON,JON B",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "45710.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,MARY ANN",
+      "job_title": "PROGRAMMER ANALYST 3",
+      "salary": "68394.60",
+      "travel": "436.85"
+    },
+    {
+      "person_name": "STILGER,BRADLEY B",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 1",
+      "salary": "35114.10",
+      "travel": "4773.94"
+    },
+    {
+      "person_name": "STINCHCOMB,RICKEY BARNARD",
+      "job_title": "PAYROLL SUPERVISOR 1",
+      "salary": "44031.12",
+      "travel": "11.06"
+    },
+    {
+      "person_name": "STOVER,CHRISTIE L",
+      "job_title": "APPLICATIONS DEVELOP SEC MGR",
+      "salary": "72926.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRICKLAND,HEATHER ANN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "45404.90",
+      "travel": "1371.57"
+    },
+    {
+      "person_name": "STRICKLAND,LIZZETTE C",
+      "job_title": "MEDICAL EXAMNR INVESTIGATR SPV",
+      "salary": "49234.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRICKLAND,SUSAN AILEEN",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "72054.36",
+      "travel": "1462.55"
+    },
+    {
+      "person_name": "STROHMEYER,DAWN M",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 1",
+      "salary": "9455.32",
+      "travel": "561.00"
+    },
+    {
+      "person_name": "STROMAIN,THERESA A",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "40587.12",
+      "travel": "646.00"
+    },
+    {
+      "person_name": "STUART,MARCUS A",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "66127.64",
+      "travel": "412.92"
+    },
+    {
+      "person_name": "SULLENGER,CHARLES H",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "54938.80",
+      "travel": "1060.40"
+    },
+    {
+      "person_name": "SULLIVAN,LAWRENCE ROBERT",
+      "job_title": "CRIME LAB ASSOCIATE ASST",
+      "salary": "59562.00",
+      "travel": "261.78"
+    },
+    {
+      "person_name": "SUTTON,ANGELA",
+      "job_title": "CRIME VICTIM COMP SPEC 2",
+      "salary": "50312.52",
+      "travel": "2126.26"
+    },
+    {
+      "person_name": "SUTTON,KIMBERLY W",
+      "job_title": "CRIME VICTIM COMP SPEC 2",
+      "salary": "41452.68",
+      "travel": "288.90"
+    },
+    {
+      "person_name": "SWANSON,AARON L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49401.35",
+      "travel": "560.00"
+    },
+    {
+      "person_name": "SWEATT,STEVEN HAROLD",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "45228.24",
+      "travel": "450.46"
+    },
+    {
+      "person_name": "SWOFFORD,HENRY J",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "19482.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAAFFE,LINDA C",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "31410.96",
+      "travel": "85.64"
+    },
+    {
+      "person_name": "TALKINGTON,JAMES E",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "63138.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TARVER,KIMBERLY S",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "37828.92",
+      "travel": "797.50"
+    },
+    {
+      "person_name": "TARVIN,JAMES GORDON",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "61767.72",
+      "travel": "58.00"
+    },
+    {
+      "person_name": "TATE,LAURA ELETA",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "50387.28",
+      "travel": "1501.25"
+    },
+    {
+      "person_name": "TATUM,WILLIAM LEE",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "50044.92",
+      "travel": "2778.46"
+    },
+    {
+      "person_name": "TAYLOR,EMILY A",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "37647.96",
+      "travel": "73.72"
+    },
+    {
+      "person_name": "TEAGUE,BETH ANN",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "305.47"
+    },
+    {
+      "person_name": "THOMAS,CLINTON I",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 4",
+      "salary": "49362.12",
+      "travel": "2565.26"
+    },
+    {
+      "person_name": "THOMAS,SARA R",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29295.84",
+      "travel": "840.67"
+    },
+    {
+      "person_name": "THOMASSON,HARMON D",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "63624.91",
+      "travel": "423.96"
+    },
+    {
+      "person_name": "THOMPSON,BARRY F",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46257.96",
+      "travel": "1006.59"
+    },
+    {
+      "person_name": "THOMPSON,HENRY R",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "66599.04",
+      "travel": "41.00"
+    },
+    {
+      "person_name": "THOMPSON,LAURA B",
+      "job_title": "PLANNER 2",
+      "salary": "55573.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,SHANI K",
+      "job_title": "RESEARCH ASSOCIATE 2",
+      "salary": "32010.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THORNTON,JOHN ROBERT",
+      "job_title": "PROGRAM DIRECTOR 1",
+      "salary": "55155.96",
+      "travel": "724.30"
+    },
+    {
+      "person_name": "THORNTON,RACHEL P",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "21073.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TILSON,CHRISTOPHER SCOTT",
+      "job_title": "CRIME LAB ASSOCIATE",
+      "salary": "66921.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TIMMER,JUDITH F",
+      "job_title": "SECRETARY 3",
+      "salary": "26364.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TISDALE,DELORIS",
+      "job_title": "NETWORK SVS ADMIN 2",
+      "salary": "48782.08",
+      "travel": "192.65"
+    },
+    {
+      "person_name": "TOLBERT,CHRISTOPHER H",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "71124.87",
+      "travel": "639.65"
+    },
+    {
+      "person_name": "TOMPKINS,CARYN D",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "17784.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOULOMELIS,WENDY W",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "27575.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRAWICK,CHARLOTTE JENKINS",
+      "job_title": "APPLICATIONS DEVELOP SEC MGR",
+      "salary": "78801.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUCKER,PHYLIS GWYTHA",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "37205.52",
+      "travel": "252.87"
+    },
+    {
+      "person_name": "TURNER,CARLA ELIZABETH",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "11856.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,DOMINIC M",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "21429.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,ELIZABETH A",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "38597.87",
+      "travel": "1446.47"
+    },
+    {
+      "person_name": "TURNER,STEVEN BRUCE",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "58070.52",
+      "travel": "3596.18"
+    },
+    {
+      "person_name": "TURNER,TAMMY L",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "7779.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "UFRET,MICHAEL ALFONSO",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1559.98"
+    },
+    {
+      "person_name": "URICH,LISA H",
+      "job_title": "FISCAL OFFICER & TREASURER",
+      "salary": "106167.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "USHER,MICHELLE SELINA",
+      "job_title": "CRIME VICTIMS COMP INTAKE CORD",
+      "salary": "38632.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VANETTEN,ROBERT P",
+      "job_title": "NARCOTICS AGENT",
+      "salary": "29295.84",
+      "travel": "800.24"
+    },
+    {
+      "person_name": "VASSELL,CYNTHIA D",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "653.48"
+    },
+    {
+      "person_name": "VESSELS,BRIAN S",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "36807.15",
+      "travel": "713.20"
+    },
+    {
+      "person_name": "VORRASI,LISA M",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "40225.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VOSS,DAVID J",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "36480.15",
+      "travel": "1547.34"
+    },
+    {
+      "person_name": "WADE,CURTIS HENRY",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "59755.56",
+      "travel": "175.00"
+    },
+    {
+      "person_name": "WADE,LATONYA D",
+      "job_title": "POLICY COORDINATOR",
+      "salary": "7235.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WADSWORTH,JAMES L",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "39238.74",
+      "travel": "207.70"
+    },
+    {
+      "person_name": "WAHL,CYNTHIA G",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46257.96",
+      "travel": "567.55"
+    },
+    {
+      "person_name": "WALDEN,SHANNON L",
+      "job_title": "FORENSIC PATHOLOGY ASST 3",
+      "salary": "34477.44",
+      "travel": "1120.69"
+    },
+    {
+      "person_name": "WALKER,CANDACE N",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "24751.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,JESSICA D",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "41483.89",
+      "travel": "1029.22"
+    },
+    {
+      "person_name": "WALKER,KEESHA K",
+      "job_title": "INVESTIGATIVE ASSISTANT",
+      "salary": "24653.28",
+      "travel": "930.17"
+    },
+    {
+      "person_name": "WALKER,WENDI R",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 2",
+      "salary": "36453.48",
+      "travel": "528.17"
+    },
+    {
+      "person_name": "WALL,RODNEY JOHN",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "63877.56",
+      "travel": "277.68"
+    },
+    {
+      "person_name": "WALSINGHAM,MICHAEL EDWARD",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "51087.26",
+      "travel": "639.90"
+    },
+    {
+      "person_name": "WALTERS,ANDREA O",
+      "job_title": "DATA SYSTEMS ANALYST 1 GBI",
+      "salary": "7717.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,MICAH R",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "65797.56",
+      "travel": "1535.70"
+    },
+    {
+      "person_name": "WARGO,JESSE M",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "23540.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASHINGTON,MECHEL JUAN",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "55178.27",
+      "travel": "112.35"
+    },
+    {
+      "person_name": "WATERS,MICHAEL K",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "51022.04",
+      "travel": "1531.35"
+    },
+    {
+      "person_name": "WATFORD-NEWLIN,SALLY L",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "67383.99",
+      "travel": "323.00"
+    },
+    {
+      "person_name": "WATSON,R  ALAN",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "59755.56",
+      "travel": "1284.90"
+    },
+    {
+      "person_name": "WATTS,CHRISTINA P",
+      "job_title": "GCIC CUSTOMER SUPPORT SPEC 2",
+      "salary": "37828.92",
+      "travel": "4347.03"
+    },
+    {
+      "person_name": "WATTS,SHARON V",
+      "job_title": "GRANTS MANAGEMENT SPECIALIST",
+      "salary": "42663.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEATHERSBY,FRANKLIN L",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46389.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEAVER,DEREK B",
+      "job_title": "FORENSIC COMPUTER SPECIALIST 1",
+      "salary": "17892.60",
+      "travel": "1987.01"
+    },
+    {
+      "person_name": "WEAVER-JOHNSON,LISA",
+      "job_title": "CJIS SPECIALIST 2",
+      "salary": "43348.98",
+      "travel": "331.50"
+    },
+    {
+      "person_name": "WEIS,BEVERLY O",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "41126.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,JAMES R",
+      "job_title": "SPECIAL AGENT 2",
+      "salary": "40969.23",
+      "travel": "214.35"
+    },
+    {
+      "person_name": "WEST,MARY BONNIE",
+      "job_title": "MEDICAL EXAMNR INVESTIGATOR 1",
+      "salary": "6753.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHEELUS,WANDA H",
+      "job_title": "APPLICATIONS DEVELOP MGR",
+      "salary": "92540.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHIDBY,BRIAN O",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "46389.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHIPPLE,DOUGLAS CLAIR",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "59172.66",
+      "travel": "1218.49"
+    },
+    {
+      "person_name": "WHITAKER,JOHN LAWSON",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "66046.92",
+      "travel": "2213.04"
+    },
+    {
+      "person_name": "WHITE,ELIZABETH CROSBY",
+      "job_title": "LABORATORY TECHNICIAN 3",
+      "salary": "41326.32",
+      "travel": "660.43"
+    },
+    {
+      "person_name": "WHITLEY,CHARLES SCOTT",
+      "job_title": "SPECIAL AGENT IN CHARGE, ASST",
+      "salary": "58070.52",
+      "travel": "1577.00"
+    },
+    {
+      "person_name": "WHITLEY,PATRICIA B",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "42260.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITTINGTON,BARBARA A",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "31343.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILEY,DALE R",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "29945.64",
+      "travel": "868.58"
+    },
+    {
+      "person_name": "WILLIAMS,AMABEL E",
+      "job_title": "ACCOUNTANT 3, PROFESSIONAL",
+      "salary": "52802.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,BENNY W",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "55761.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JAMEL R",
+      "job_title": "ACCOUNTANT, PARAPROFESSIONAL",
+      "salary": "28939.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,KIMBERLY ANNE",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "54546.48",
+      "travel": "2570.60"
+    },
+    {
+      "person_name": "WILLIAMS,TRACY S",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "6348.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMSON,JAMES ANTHONY",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "49443.24",
+      "travel": "50.00"
+    },
+    {
+      "person_name": "WILSON,BEVERLY A",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "29425.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,CYNTHIA D",
+      "job_title": "LABORATORY TECHNICIAN 1",
+      "salary": "1013.42",
+      "travel": "12.63"
+    },
+    {
+      "person_name": "WILSON,JULIE SAMPLE",
+      "job_title": "FORENSIC PATHOLOGY ASST 1",
+      "salary": "5556.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,KASEY L",
+      "job_title": "CRIME LAB SCIENTIST 3",
+      "salary": "48455.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,MARGARET E",
+      "job_title": "SECRETARY 2",
+      "salary": "24946.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WIMBERLY,FREDRICK J",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "47310.65",
+      "travel": "697.96"
+    },
+    {
+      "person_name": "WINDHAM,CAROLINE A",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "29778.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINDOM,NANCY L",
+      "job_title": "FORENSIC INVESTGATION UNIT MGR",
+      "salary": "62172.12",
+      "travel": "1012.34"
+    },
+    {
+      "person_name": "WOFFORD,WARREN FREDERICK",
+      "job_title": "CJIS NTWK DATA COMM ANST 2",
+      "salary": "26913.65",
+      "travel": "877.62"
+    },
+    {
+      "person_name": "WONGUS,ROLANDA H",
+      "job_title": "PROCUREMENT OFFICER 1",
+      "salary": "13537.47",
+      "travel": "192.50"
+    },
+    {
+      "person_name": "WOOD,CYNTHIA L",
+      "job_title": "CRIME LAB SCIENTIST 2",
+      "salary": "40359.71",
+      "travel": "1014.88"
+    },
+    {
+      "person_name": "WOOD,RACHEL E",
+      "job_title": "CRIME LAB SCIENTIST 1",
+      "salary": "38469.84",
+      "travel": "4571.25"
+    },
+    {
+      "person_name": "WOODRUFF,CHERYL L",
+      "job_title": "CCH/IDENT SPECIALIST 2",
+      "salary": "27430.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODRUFF,GRADY ARTHEZ",
+      "job_title": "SPECIAL AGENT 3",
+      "salary": "50123.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODS,ANITA D",
+      "job_title": "COMMUNICATIONS EQUIP OFFICER 1",
+      "salary": "1985.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOTEN,JOSEPH E",
+      "job_title": "ASAC/MULTI-JURISDIC TASK FORCE",
+      "salary": "60314.64",
+      "travel": "1552.05"
+    },
+    {
+      "person_name": "WORLEY,LUANNE G",
+      "job_title": "PERSONNEL DIRECTOR",
+      "salary": "95579.16",
+      "travel": "751.75"
+    },
+    {
+      "person_name": "WRENN,APRIL M",
+      "job_title": "SPECIAL AGENT 1",
+      "salary": "36516.12",
+      "travel": "1569.06"
+    },
+    {
+      "person_name": "WRIGHT,CHARLOTTE ANN",
+      "job_title": "LABORATORY TECHNICIAN 2",
+      "salary": "34543.68",
+      "travel": "859.96"
+    },
+    {
+      "person_name": "WRIGHT,JULIE B",
+      "job_title": "AUDITOR 2, COMPLIANCE",
+      "salary": "47400.24",
+      "travel": "2572.25"
+    },
+    {
+      "person_name": "YOUNG,KIRSTE A",
+      "job_title": "CRIMINL INTELLIGENCE ANALYST 3",
+      "salary": "39042.39",
+      "travel": "2075.01"
+    },
+    {
+      "person_name": "ZON,MARTIN PETER",
+      "job_title": "SPECIAL AGENT IN CHARGE",
+      "salary": "79119.84",
+      "travel": "1577.47"
+    }
+  ]
+}

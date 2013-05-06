@@ -1,0 +1,532 @@
+{
+  "payments": [
+    {
+      "person_name": "AKINS,JOSEPH O",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "21630.87",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,DONELAN A",
+      "job_title": "YOUTH APPRENTICESHIP DIRECTOR",
+      "salary": "41233.26",
+      "travel": "2960.68"
+    },
+    {
+      "person_name": "ARMOUR,CHARLES P",
+      "job_title": "CROSSROADS",
+      "salary": "7195.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BATTLE,ERNEST",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEAVEN,MARC",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "520.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEESON,TERRY D",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "51611.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLALOCK,JOSEPH",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "162.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURGDORF,RENEE B",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "74171.40",
+      "travel": "1556.33"
+    },
+    {
+      "person_name": "BURGREEN,LAUREN W",
+      "job_title": "AUDIOLOGIST",
+      "salary": "63832.62",
+      "travel": "2301.18"
+    },
+    {
+      "person_name": "BYRON,GAEL",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "455.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALL,WARREN F",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "48441.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALLIGAN,LUCILLE",
+      "job_title": "SCHOOL IMPROVEMENT SPECIALIST",
+      "salary": "8186.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARAWAY,BRENDA G",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "39649.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARLISLE,LAJUANA N",
+      "job_title": "CROSSROADS",
+      "salary": "59529.44",
+      "travel": "30.82"
+    },
+    {
+      "person_name": "CARROLL,RUSH",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAMPION,GWEN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "7675.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAPMAN,JAMES D",
+      "job_title": "CROSSROADS",
+      "salary": "64704.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,SUSAN",
+      "job_title": "TEACHER OF VISUALLY IMPAIRED",
+      "salary": "64816.02",
+      "travel": "3934.74"
+    },
+    {
+      "person_name": "COWAN,BARTKAWSKI R",
+      "job_title": "CROSSROADS",
+      "salary": "23773.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRUSE,CHARLES R",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "26708.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DYE,PATRICIA G",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "41241.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DYKES,ROBBIN M",
+      "job_title": "SCHOOL IMPROVEMENT SPECIALIST",
+      "salary": "80804.00",
+      "travel": "1710.92"
+    },
+    {
+      "person_name": "FAGIN,LESLIE R",
+      "job_title": "CROSSROADS",
+      "salary": "7304.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FULTON,CYNTHIA D",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "26476.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARNER,KENNETH J",
+      "job_title": "FINANCE/BUSINESS SERVICE MGR",
+      "salary": "5642.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILOW,JENNIFER B",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "18329.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDY,STEPHANIE L",
+      "job_title": "RESA DIRECTOR",
+      "salary": "119499.96",
+      "travel": "5141.09"
+    },
+    {
+      "person_name": "GRAVES,ARTHUR B",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "1829.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREAVES,LYNDA G",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "2029.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,JAMES W",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "57700.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEWITT,WILLIAM",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "65.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HIGHTOWER,HORACE",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOGAN,DENISE P",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "32657.52",
+      "travel": "18.18"
+    },
+    {
+      "person_name": "HOMAN,JEFFREY P",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "82150.44",
+      "travel": "1622.55"
+    },
+    {
+      "person_name": "JACKSON,GARY P",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "47431.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACOBS,SEMAJ",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "50.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,M J",
+      "job_title": "CROSSROADS",
+      "salary": "68435.40",
+      "travel": "19.20"
+    },
+    {
+      "person_name": "KENDALL,BRENDA J",
+      "job_title": "SECRETARY",
+      "salary": "28833.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KENDRICK,HELEN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "450.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LAM,OSCAR C",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "45367.08",
+      "travel": "964.34"
+    },
+    {
+      "person_name": "LANDERS,GENEVA K",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "28325.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,NANETTE",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "50.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LINE,LAURA S",
+      "job_title": "DIRECTOR OF CHILD SERVE",
+      "salary": "80945.26",
+      "travel": "4078.93"
+    },
+    {
+      "person_name": "LUNSFORD,RICHARD",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "50.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LYNCH,JAMES D",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "9750.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAGNER,STEVEN C",
+      "job_title": "CROSSROADS",
+      "salary": "7929.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MANOLIS,TED L",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "11304.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDOWELL,ANDREEA",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "11967.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MENDENHALL,MARY E",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "61045.90",
+      "travel": "1755.06"
+    },
+    {
+      "person_name": "METTS,JOHN S",
+      "job_title": "FINANCE/BUSINESS SERVICE MGR",
+      "salary": "42052.80",
+      "travel": "75.75"
+    },
+    {
+      "person_name": "MIDDLETON,JOHN A",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "14712.38",
+      "travel": "206.67"
+    },
+    {
+      "person_name": "MILES,REGINA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "50.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MILNER,HENRY R",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "7339.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,CHERYL S",
+      "job_title": "DIRECTOR OF GLRS",
+      "salary": "75944.46",
+      "travel": "3198.63"
+    },
+    {
+      "person_name": "MOORE,ALTON A",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "38815.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSES,VALINDA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "150.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MYERSCOUGH,SUSAN C",
+      "job_title": "TEACHER OF VISUALLY IMPAIRED",
+      "salary": "56030.10",
+      "travel": "4273.89"
+    },
+    {
+      "person_name": "PACE,BOWMAN S",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "47183.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PACE,JEREMY R",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "3024.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKS,DENNIS M",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "44320.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PENNINGTON,JAYNESSA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RADCLIFF,MICHAEL J",
+      "job_title": "CROSSROADS",
+      "salary": "81858.60",
+      "travel": "862.69"
+    },
+    {
+      "person_name": "RAY,RAYMOND",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RILEY,DANA C",
+      "job_title": "SCHOOL IMPROVEMENT SPECIALIST",
+      "salary": "43438.44",
+      "travel": "706.33"
+    },
+    {
+      "person_name": "RIVERS,SUSAN S",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "34733.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,CAROLYN",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "300.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,CATHY G",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "20600.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,LATARSHA J",
+      "job_title": "CROSSROADS",
+      "salary": "30131.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,FELICIA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROWLAND,GRIMIKA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "50.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUSSELL,JANET H",
+      "job_title": "CROSSROADS",
+      "salary": "27910.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAUER,GAIL M",
+      "job_title": "CROSSROADS",
+      "salary": "54332.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHLEY,CONNIE",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHAFFER,BENNY R",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "30900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEARER,WILLIAM H",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "50156.84",
+      "travel": "1464.83"
+    },
+    {
+      "person_name": "SHULER,SAM D",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "12578.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHULTZ,SABRINA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "50.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,BOBBY J",
+      "job_title": "CROSSROADS",
+      "salary": "36632.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SZYMANSKI,EVAN J",
+      "job_title": "CROSSROADS",
+      "salary": "31810.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUGGLE,CELESTINE",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,WILLIAM R",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "77339.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TYLER,MILTON",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "6293.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VICKERY,DEWEY T",
+      "job_title": "WAREHOUSEMAN",
+      "salary": "19344.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTER,MICHAEL E",
+      "job_title": "CROSSROADS",
+      "salary": "7489.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE-FREDETTE,KIMBERLY",
+      "job_title": "TEACHER SUPPORT SPECIALIST",
+      "salary": "78130.56",
+      "travel": "2440.32"
+    },
+    {
+      "person_name": "WHITFIELD,MARY A",
+      "job_title": "CUSTODIAL PERSONNEL",
+      "salary": "3788.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITFIELD,RICHARD B",
+      "job_title": "CUSTODIAL PERSONNEL",
+      "salary": "12971.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOMACK,JENNIE H",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "3671.76",
+      "travel": "0.00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "payments": [
+    {
+      "person_name": "COLBERT,DONALD A",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "96256.27",
+      "travel": "3300.42"
+    },
+    {
+      "person_name": "MCCULLOUGH,JUDITH S",
+      "job_title": "OFFICE MANAGER",
+      "salary": "32604.48",
+      "travel": "299.79"
+    },
+    {
+      "person_name": "ORUC,ALI C",
+      "job_title": "MAINTENANCE ASSISTANT DIRECTOR",
+      "salary": "65970.78",
+      "travel": "1590.09"
+    },
+    {
+      "person_name": "ROOS-GABRIDGE,LENIE A",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "15954.69",
+      "travel": "291.01"
+    }
+  ]
+}

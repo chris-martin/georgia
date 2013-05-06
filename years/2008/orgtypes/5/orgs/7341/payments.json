@@ -1,0 +1,2320 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAMS,CRYSTAL L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "5086.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ADAMS,WANDA",
+      "job_title": "PARAPRO PERSONNEL - PRE-K",
+      "salary": "13794.63",
+      "travel": "171.14"
+    },
+    {
+      "person_name": "ALTMAN,DAVID A",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "1800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALTMAN,YVONNE R",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "12154.84",
+      "travel": "28.00"
+    },
+    {
+      "person_name": "ANDREWS,ERNEST J",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "2413.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,VERA",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "29593.45",
+      "travel": "103.49"
+    },
+    {
+      "person_name": "ARNOLD,PHILIP L",
+      "job_title": "VOCATIONAL",
+      "salary": "47947.10",
+      "travel": "777.30"
+    },
+    {
+      "person_name": "ASHLEY,HILAIRE M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ASHLEY,STACEY R",
+      "job_title": "PARAPRO PERSONNEL - PRE-K",
+      "salary": "7960.50",
+      "travel": "167.87"
+    },
+    {
+      "person_name": "ATTAWAY,MAGGIE R",
+      "job_title": "GRADE 1 TEACHER",
+      "salary": "34964.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ATTAWAY,TERESA H",
+      "job_title": "EIP 4TH AND 5TH GRADE TEACHER",
+      "salary": "44076.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARDEN,JOYCE",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "4179.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARLOW,IRIS L",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "42735.61",
+      "travel": "210.91"
+    },
+    {
+      "person_name": "BARNETT,NELLIE S",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "16216.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BASS,JULIA E",
+      "job_title": "VOCATIONAL",
+      "salary": "72768.34",
+      "travel": "627.95"
+    },
+    {
+      "person_name": "BATCHELOR,MELINDA",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "62699.80",
+      "travel": "160.99"
+    },
+    {
+      "person_name": "BATTLE,ANGELA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "228.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEACHAM,DONNA F",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "9345.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEACHAM,THOMAS W",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "10548.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEASLEY,ASHLEY M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "799.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEASLEY,SHERRY H",
+      "job_title": "VOCATIONAL",
+      "salary": "60697.36",
+      "travel": "477.35"
+    },
+    {
+      "person_name": "BENITEZ,KEILA L",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "9584.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENTLEY,LYNDA M",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "12316.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENTSON,STEPHANI D",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "376.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLAND,BETH R",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "19645.74",
+      "travel": "7.00"
+    },
+    {
+      "person_name": "BLAND,LYNETTE J",
+      "job_title": "GRADE 4 TEACHER",
+      "salary": "60697.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BONEY,LAJOY R",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "1800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOONE,CHRISTIE",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "9741.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOONE,KAMALA H",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "47106.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,JEFFREY G",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "61771.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,LEIGH M",
+      "job_title": "GRADE 5 TEACHER",
+      "salary": "43087.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,MILDRED C",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "13513.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,PATRICIA S",
+      "job_title": "BUS DRIVER",
+      "salary": "16422.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,SARAH J",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1080.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOYD,MICHAEL D",
+      "job_title": "GRADES K-5 TEACHER",
+      "salary": "47874.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRACK,APRIL G",
+      "job_title": "PARAPRO PERSONNEL - PRE-K",
+      "salary": "11324.01",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "BRADSHAW,CONSTANCE",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "56941.04",
+      "travel": "164.66"
+    },
+    {
+      "person_name": "BROCK,SUSAN A",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "8678.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,JANICE",
+      "job_title": "SCHOOL FOOD SERVICE MANAGER",
+      "salary": "14679.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,MARY E",
+      "job_title": "SPECIAL EDUCATION BUS DRIVER",
+      "salary": "18901.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,MONICA",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "15803.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,NANCY E",
+      "job_title": "VOCATIONAL",
+      "salary": "64339.54",
+      "travel": "733.24"
+    },
+    {
+      "person_name": "BROWN,ROBERTA",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "25694.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNETTE,JODI D",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "31896.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNSED,PATRICIA D",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "16671.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BYRON,VICKIE M",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "8683.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARLSON,ELIZABETH W",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARLSON,ERIC M",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "33921.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARROLL,MARY J",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "7656.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASON,LENORA E",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "859.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAPMAN,PAMELA D",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "11117.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,CARY A",
+      "job_title": "SUPERINTENDENT",
+      "salary": "107356.20",
+      "travel": "1382.57"
+    },
+    {
+      "person_name": "CLARK,ELAINE",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "22130.74",
+      "travel": "19.40"
+    },
+    {
+      "person_name": "CLARK,JEAN S",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "606.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,MARION W",
+      "job_title": "HIGH SCHOOL COUNSELOR",
+      "salary": "73952.32",
+      "travel": "193.03"
+    },
+    {
+      "person_name": "CLARK,TOMMY L",
+      "job_title": "CUSTODIAL PERSONNEL",
+      "salary": "2135.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLEMENTS,KENYA N",
+      "job_title": "PARAPRO PERSONNEL - PRE-K",
+      "salary": "11769.43",
+      "travel": "192.48"
+    },
+    {
+      "person_name": "COATES,BETTY J",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "9254.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,BRENDA S",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "12129.44",
+      "travel": "41.71"
+    },
+    {
+      "person_name": "CONAWAY,EVA S",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4840.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CONNELL,ALENA H",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "18586.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,EMMITT L",
+      "job_title": "GRADUATION SPECIALIST",
+      "salary": "69408.47",
+      "travel": "320.70"
+    },
+    {
+      "person_name": "COOK,HELEN M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "5220.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOPER,OTIS",
+      "job_title": "BUS DRIVER",
+      "salary": "9231.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAVEY,MARCIA H",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "14877.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAVEY,SHARON",
+      "job_title": "EARLY INTERVENTION PRIMARY TEACHER",
+      "salary": "38504.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAVEY,TRACY L",
+      "job_title": "LOTTERY PRE-SCHOOL TEACHER",
+      "salary": "37347.50",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "CREANGE,MANDI L",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "1321.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,JONATHAN C",
+      "job_title": "BUS DRIVER",
+      "salary": "6132.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,JONATHAN E",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "2364.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,LINDA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "491.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,PHYLLIS L",
+      "job_title": "GRADE 5 TEACHER",
+      "salary": "55306.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEEN,CAMELA J",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "2053.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEEN,JAMES D",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "1800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEEN,JONI S",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3021.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEEP,PATRICIA Y",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "45878.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEEP,TIMOTHY B",
+      "job_title": "PRINCIPAL",
+      "salary": "91306.76",
+      "travel": "155.20"
+    },
+    {
+      "person_name": "DENNIS,JACKLYN",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "8714.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DICKS,ANITA D",
+      "job_title": "BUS DRIVER",
+      "salary": "19319.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,ETHEL E",
+      "job_title": "INSTRUCTIONAL SUPERVISOR",
+      "salary": "63495.78",
+      "travel": "1093.57"
+    },
+    {
+      "person_name": "DIXON,JOHNNY L",
+      "job_title": "BUS DRIVER",
+      "salary": "7327.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOPSON,AMANDA T",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "64339.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGLAS,EMILY I",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "9461.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DRYSDALE,PAMELA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4018.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLIS,CHRISTOPHER D",
+      "job_title": "ASSISTANT PRINCIPAL",
+      "salary": "72169.44",
+      "travel": "468.93"
+    },
+    {
+      "person_name": "ELLZEY,KIM E",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1368.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,LEILA H",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "7680.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FAISON,C W",
+      "job_title": "CUSTODIAL PERSONNEL",
+      "salary": "2241.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEDRICK,JERLEAN",
+      "job_title": "TEACHER OF MILD INTELLECTUAL",
+      "salary": "49520.80",
+      "travel": "182.69"
+    },
+    {
+      "person_name": "FIELDS,ALICE A",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "42564.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FIELDS,BRENDA E",
+      "job_title": "SUPERINTENDENT SECRETARY",
+      "salary": "32467.92",
+      "travel": "82.03"
+    },
+    {
+      "person_name": "FIELDS,CHAD E",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "10049.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FIELDS,KAREN B",
+      "job_title": "FAMILY SERVICES COORDINATOR",
+      "salary": "24872.98",
+      "travel": "271.38"
+    },
+    {
+      "person_name": "FLEMING,SHELLIE M",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "50680.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLETCHER,CLARICE J",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "5851.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOYD,SUZY M",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "10494.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOUNTAIN,SELENA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "987.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOWLER,FRANK M",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "51087.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOWLER,KIM E",
+      "job_title": "KINDERGARTEN TEACHER",
+      "salary": "56941.04",
+      "travel": "72.65"
+    },
+    {
+      "person_name": "FRAZIER,JANET L",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "14508.20",
+      "travel": "28.14"
+    },
+    {
+      "person_name": "FUSSELL,KERRY S",
+      "job_title": "BUS DRIVER",
+      "salary": "9424.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARRISON,PRISCILLA K",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "64339.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIFFIN,JOSHUA A",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "8812.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILLIS,DELISA",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "8433.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILLYARD,MARY L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "5301.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GILVEAR,HELEN K",
+      "job_title": "BUS DRIVER",
+      "salary": "9119.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GODSEY,HEATHER N",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3149.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOOCH,JACQUELYN H",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "680.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOODWIN,KIMBERLY V",
+      "job_title": "EARLY INTERVENTION PRIMARY TEACHER",
+      "salary": "43772.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORDAY,SAMANTHA N",
+      "job_title": "LOTTERY PRE-SCHOOL TEACHER",
+      "salary": "37642.66",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "GORE,JANET L",
+      "job_title": "EARLY INTERVENTION PRIMARY TEACHER",
+      "salary": "44076.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAHAM,BRENDA L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "171.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAHAM,JENNIFER H",
+      "job_title": "SPECIAL EDUCATION DIRECTOR",
+      "salary": "66997.10",
+      "travel": "3644.76"
+    },
+    {
+      "person_name": "GRAVES,CONNIE",
+      "job_title": "LIBRARIAN/MEDIA SPECIALIST",
+      "salary": "43870.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREENE,BECKY K",
+      "job_title": "SCHOOL NURSE",
+      "salary": "33848.70",
+      "travel": "741.31"
+    },
+    {
+      "person_name": "GREGORY,JENNIFER J",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1710.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIMES,AMY M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2721.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIMES,STACY L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1629.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,GLADYS M",
+      "job_title": "MIDDLE SCHOOL COUNSELOR",
+      "salary": "63060.90",
+      "travel": "1990.30"
+    },
+    {
+      "person_name": "HAMILTON,REBECCA H",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2160.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMMOCK,JAMES A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "20443.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDIN,CHRISTY M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "399.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARPER,MARY A",
+      "job_title": "EARLY INTERVENTION TEACHER",
+      "salary": "40585.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRELL,KIMBERLY V",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "28184.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRELL,SELENA",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "10982.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRELSON,JULIE H",
+      "job_title": "SPECIAL EDUCATION DIRECTOR",
+      "salary": "27032.72",
+      "travel": "1619.76"
+    },
+    {
+      "person_name": "HARRELSON,MICHELLE J",
+      "job_title": "SPEECH-LANGUAGE PATHOLOGIST",
+      "salary": "48628.58",
+      "travel": "1792.32"
+    },
+    {
+      "person_name": "HARRIS,ANNIE C",
+      "job_title": "BUS DRIVER",
+      "salary": "8650.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,JUDY A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "80.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HART,NICOLE",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "28.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,TERESA L",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "45935.88",
+      "travel": "292.74"
+    },
+    {
+      "person_name": "HAYMONS,FRED R",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "50548.08",
+      "travel": "84.60"
+    },
+    {
+      "person_name": "HAYMONS,STACEY L",
+      "job_title": "GRADES 6-8 TEACHER",
+      "salary": "48463.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEARN,MARIAN",
+      "job_title": "GRADES K-5 TEACHER",
+      "salary": "9345.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,CHARLES R",
+      "job_title": "TRANSPORTATION MECHANIC",
+      "salary": "34277.00",
+      "travel": "702.71"
+    },
+    {
+      "person_name": "HENDERSON,RACHEL D",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "19214.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRICKS,MARY K",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "58734.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDRICKS,ROBERT B",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "33522.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERNDON,CUE T",
+      "job_title": "DIRECTOR OF CURRICULUM/INSTR",
+      "salary": "29429.76",
+      "travel": "762.10"
+    },
+    {
+      "person_name": "HIGINGBOTHAM,JOHNNY R",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "1800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLAND,MERLE B",
+      "job_title": "GRADE 4 TEACHER",
+      "salary": "55047.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOOKS,AMANDA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOOKS,JUDY P",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "62999.90",
+      "travel": "236.43"
+    },
+    {
+      "person_name": "HORNE,CHARLOTTE B",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "10354.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HORNE,KRISTY L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2467.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HORTON,MARY J",
+      "job_title": "LIBRARY/MEDIA SUPPORT PARAPRO",
+      "salary": "12194.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HORTON,VIRGINIA",
+      "job_title": "BUS DRIVER",
+      "salary": "9184.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWELL,CHRISTI L",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "56383.34",
+      "travel": "702.50"
+    },
+    {
+      "person_name": "HOWELL,JULIE",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "10516.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HULETT,DOROTHY C",
+      "job_title": "EARLY INTERVENTION TEACHER",
+      "salary": "45378.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUNT,MARIE H",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "26323.68",
+      "travel": "169.83"
+    },
+    {
+      "person_name": "HUSSEY,VICKI H",
+      "job_title": "PRESCHOOL SPECIAL ED TEACHER",
+      "salary": "49227.78",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "IKEDIONWU,SHIRLEY R",
+      "job_title": "GRADE 4 TEACHER",
+      "salary": "58547.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JARRARD,LISA M",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "50488.96",
+      "travel": "180.66"
+    },
+    {
+      "person_name": "JOHNSON,DELEANE B",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "66081.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,JAMES R",
+      "job_title": "BUS DRIVER",
+      "salary": "20461.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,KENNETH R",
+      "job_title": "TRANSPORTATION DIRECTOR/MGR",
+      "salary": "33559.76",
+      "travel": "1505.26"
+    },
+    {
+      "person_name": "JOHNSON,SHERYL D",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "52348.36",
+      "travel": "145.16"
+    },
+    {
+      "person_name": "JOINER,JULIE W",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "41585.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOINER,LAURA E",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "1571.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOINES,JENNIFER S",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "44012.46",
+      "travel": "91.18"
+    },
+    {
+      "person_name": "JOINES,SANDRA K",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "11637.67",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ASHLEY L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2793.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,CYNTHIA B",
+      "job_title": "GRADUATION SPECIALIST",
+      "salary": "46950.45",
+      "travel": "393.03"
+    },
+    {
+      "person_name": "JONES,EDWARD V",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "24120.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ELIZABETH H",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "893.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,GINGER M",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "46493.84",
+      "travel": "243.84"
+    },
+    {
+      "person_name": "JONES,JAMES C",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "40.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,JEAN B",
+      "job_title": "FINANCE/BUSINESS PERSONNEL",
+      "salary": "30102.84",
+      "travel": "81.00"
+    },
+    {
+      "person_name": "JONES,JONI M",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "6764.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,LESLIE C",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "80.00",
+      "travel": "29.00"
+    },
+    {
+      "person_name": "JONES,LINDA S",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "14460.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,MALINDA",
+      "job_title": "SPECIAL EDUCATION PARAPROFESSIONAL - AGES 3 TO 5",
+      "salary": "13296.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,MURRAY W",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "1800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,NITA W",
+      "job_title": "EARLY INTERVENTION PRIMARY TEACHER",
+      "salary": "56941.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ROXANNA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2065.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,STEFANI P",
+      "job_title": "SCHOOL NURSE",
+      "salary": "13651.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,SYMERIA G",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "60747.70",
+      "travel": "218.75"
+    },
+    {
+      "person_name": "JONES,WANDA M",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "10943.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,SUSIE L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4948.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KAHRMANN,RANDY E",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6880.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KAISER,AMY M",
+      "job_title": "LOTTERY PRE-SCHOOL TEACHER",
+      "salary": "33550.80",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "KATES,SHEILA E",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLAM,FREDERICKA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6139.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLAM,RONNIE",
+      "job_title": "SCHOOL FOOD SERVICE MANAGER",
+      "salary": "15312.60",
+      "travel": "68.38"
+    },
+    {
+      "person_name": "KERSEY,SHIRLEY",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "2432.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIGHT,APRIL A",
+      "job_title": "EARLY INTERVENTION PRIMARY TEACHER",
+      "salary": "49500.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KILPATRICK,JAMES W",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6640.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,SHUNDA L",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "13832.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KINNETT,DIANE G",
+      "job_title": "LOTTERY PRE-SCHOOL TEACHER",
+      "salary": "40402.16",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "KINNETT,ROSA",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "1625.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNIGHT,LAURA W",
+      "job_title": "KINDERGARTEN TEACHER",
+      "salary": "56835.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNOWLES,BETTY C",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "13513.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNOWLES,PATSY I",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "11339.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANCASTER,PEGGY A",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "1860.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LASHLEY,ROSEMARY E",
+      "job_title": "CUSTODIAL PERSONNEL",
+      "salary": "18620.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,GLENN E",
+      "job_title": "VOCATIONAL",
+      "salary": "49520.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,WENDY Y",
+      "job_title": "GIFTED",
+      "salary": "59561.94",
+      "travel": "323.80"
+    },
+    {
+      "person_name": "LENDERMAN,JULIE A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6309.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LESTER,EVELYN T",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "13513.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,BRENT B",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "33550.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,HARRY D",
+      "job_title": "BUS DRIVER",
+      "salary": "8764.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LODEN,ROBIN D",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "51933.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LONG,BRANDY N",
+      "job_title": "GRADE 1 TEACHER",
+      "salary": "40203.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOVERING,LORI B",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "35467.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOVVORN,MALLORY L",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "30282.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARCHANT,JANICE M",
+      "job_title": "GRADES K-5 TEACHER",
+      "salary": "48307.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARCHANT,SANDRA W",
+      "job_title": "KINDERGARTEN TEACHER",
+      "salary": "67736.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARSHALL,CYNTHIA P",
+      "job_title": "GRADES K-5 TEACHER",
+      "salary": "46188.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARSHALL,HOWARD L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "60.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,PRISCILLA A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,SHIRLEY G",
+      "job_title": "FOOD SERVICE ADMINISTRATOR",
+      "salary": "86707.96",
+      "travel": "1126.47"
+    },
+    {
+      "person_name": "MASON,JUDY M",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "19244.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATHEW,JAMES E",
+      "job_title": "ELEMENTARY COUNSELOR",
+      "salary": "60786.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATHEW,JOSEPHINE S",
+      "job_title": "GRADES K-5 TEACHER",
+      "salary": "54607.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAULDIN,ELEANOR B",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "720.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCARTHUR,VANESSA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6498.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCORMICK,TABITHA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "6069.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCRIMMON,BONNIE F",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4171.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCRIMMON,JAMES",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "17278.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCULLOCH,MARGARET T",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "9261.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCUTCHEN,MARIE M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "798.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGHEE,ALENA A",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "38581.29",
+      "travel": "280.29"
+    },
+    {
+      "person_name": "MCGHEE,JENNIFER R",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCIVER,ANTHONY",
+      "job_title": "PRINCIPAL",
+      "salary": "92407.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCIVER,COLEEN W",
+      "job_title": "PRINCIPAL",
+      "salary": "73245.76",
+      "travel": "212.13"
+    },
+    {
+      "person_name": "MCKINLEY,MICHAEL D",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "45246.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKINNON,VICKI C",
+      "job_title": "SUPPORT SERV SECRETARY/CLERK",
+      "salary": "15101.86",
+      "travel": "101.30"
+    },
+    {
+      "person_name": "MCLEAN,WANDA L",
+      "job_title": "SCHOOL FOOD SERVICE MANAGER",
+      "salary": "15186.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCLEAN,WILLIAM E",
+      "job_title": "BUS DRIVER",
+      "salary": "9337.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMILLIAN,MICHAEL",
+      "job_title": "BUS DRIVER",
+      "salary": "4676.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCMILLIAN,SHIRLEY",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "1934.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCRAE,MARIA M",
+      "job_title": "GRADE 1 TEACHER",
+      "salary": "46500.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCRAE,MURPHY L",
+      "job_title": "BUS DRIVER",
+      "salary": "9097.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEEKS,SHELBY E",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "49498.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MERRITT,ARLENE H",
+      "job_title": "FINANCE/BUSINESS SERVICE MGR",
+      "salary": "49636.76",
+      "travel": "1450.14"
+    },
+    {
+      "person_name": "MERRITT,NOEL N",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "30666.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MINCEY,DAFFIE",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "315.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MINNICK,ANTHONY L",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "28184.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MONROE,GAIL T",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "329.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MONROE,RONALD J",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "436.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,FAYE L",
+      "job_title": "EARLY INTERVENTION TEACHER",
+      "salary": "67736.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,KRISTIE A",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "11253.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,VIRGINIA M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2864.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRISON,SARA P",
+      "job_title": "GRADE 5 TEACHER",
+      "salary": "64339.54",
+      "travel": "246.75"
+    },
+    {
+      "person_name": "MOUNTJOY,DORIS",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3160.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,PATRICA A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "560.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MYLES,IRIS G",
+      "job_title": "GENERAL ADMIN SECRETARY/CLERK",
+      "salary": "28284.24",
+      "travel": "337.44"
+    },
+    {
+      "person_name": "NEAL,CYNTHIA P",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "12531.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEAL,ELAINE A",
+      "job_title": "EARLY INTERVENTION TEACHER",
+      "salary": "50020.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELMS,ELAINE E",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "11466.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,ARLENE C",
+      "job_title": "INSTRUCTIONAL SPECIALIST P-8",
+      "salary": "49937.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOBLES,VICTORIA D",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "8142.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOLEN,TRAVIS W",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "188.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OQUINN,ABBY",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "741.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OTT,ROBIN C",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "44492.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OTT,THOR D",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "53287.60",
+      "travel": "1679.55"
+    },
+    {
+      "person_name": "OWNBEY,PAMELA T",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "62455.89",
+      "travel": "439.07"
+    },
+    {
+      "person_name": "OWNBEY,WALTER M",
+      "job_title": "ASSISTANT PRINCIPAL",
+      "salary": "71076.60",
+      "travel": "425.09"
+    },
+    {
+      "person_name": "PAGE,MARY E",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "56143.95",
+      "travel": "32.25"
+    },
+    {
+      "person_name": "PARKER,KATHY T",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "5156.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEARCE,BENJAMIN P",
+      "job_title": "MAINTENANCE PERSONNEL",
+      "salary": "27767.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEARCE,LAURIE S",
+      "job_title": "GRADE 4 TEACHER",
+      "salary": "59682.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETTIGREW,CARMINATA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETTIGREW,CHANTINA",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "6938.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIERCE,LARRY",
+      "job_title": "TRANSPORTATION MECHANIC",
+      "salary": "34157.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PILKINTON,CINDY M",
+      "job_title": "GRADE 8 TEACHER",
+      "salary": "43335.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITT,LISA M",
+      "job_title": "GRADES 6-8 TEACHER",
+      "salary": "49824.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITT,WILLIAM C",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "61455.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PLANCHARD,ROBYN S",
+      "job_title": "DIRECTOR OF CURRICULUM/INSTR",
+      "salary": "83866.92",
+      "travel": "3084.26"
+    },
+    {
+      "person_name": "POLLARD,MICHAEL D",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "36403.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POPE,BARBARA D",
+      "job_title": "GRADE 5 TEACHER",
+      "salary": "10548.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POPE,CATHERINE M",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "8611.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POPE,ERNIE",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "1800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POPE,ROSEMARY",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,BRENDA L",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "67736.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POWELL,CINDY S",
+      "job_title": "LOTTERY PRE-SCHOOL TEACHER",
+      "salary": "44076.26",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "POWELL,SHIRLEY A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3420.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRATER,SANDY",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "30743.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PUCKETT,JAMES B",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "49718.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PUCKETT,MICHELLE W",
+      "job_title": "TEACHER OF SEVERE INTELLECTUAL",
+      "salary": "40116.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAWLINS,ANGELA Y",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "7783.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERSON,TAMARS G",
+      "job_title": "BUS DRIVER",
+      "salary": "20355.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,DAVID W",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "6623.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROGERS,JOEL A",
+      "job_title": "FAMILY SERVICES COORDINATOR",
+      "salary": "32499.96",
+      "travel": "1464.93"
+    },
+    {
+      "person_name": "ROSE,APRIL D",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "4099.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROYAL,AMY M",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "188.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUTHERFORD,DARRELL S",
+      "job_title": "HIGH SCHOOL COUNSELOR",
+      "salary": "11751.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUTHERFORD,PATTY B",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "56941.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAGE,JEANETTE",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "12488.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHLENZ,CARLA H",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "50680.54",
+      "travel": "67.97"
+    },
+    {
+      "person_name": "SCHLENZ,LINDA F",
+      "job_title": "LIBRARY/MEDIA SUPPORT PARAPRO",
+      "salary": "13454.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHLENZ,MICHAEL L",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "41822.96",
+      "travel": "222.21"
+    },
+    {
+      "person_name": "SEABOLT,BRANDI H",
+      "job_title": "FAMILY SERVICES COORDINATOR",
+      "salary": "23813.40",
+      "travel": "205.91"
+    },
+    {
+      "person_name": "SEABOLT,KRISTEN L",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "8465.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEAY,JONATHAN A",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "329.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEAY,KIMBERLY B",
+      "job_title": "MIDDLE SCHOOL EXPLOR TEACHER",
+      "salary": "61614.20",
+      "travel": "740.00"
+    },
+    {
+      "person_name": "SELPH,CONNIE E",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "12154.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SELPH,CRYSTAL D",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "12745.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SELPH,PAMELA C",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "63914.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SELPH,SCARLETT S",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "43089.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEPPARD,ASHLEY P",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "4978.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMPSON,JENNIFER M",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "15523.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SIMPSON,WILLIAM J",
+      "job_title": "GRADES 9-12 TEACHER",
+      "salary": "64339.54",
+      "travel": "114.17"
+    },
+    {
+      "person_name": "SIRMANS,CARLA R",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "15101.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,MARY E",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4880.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,WILLIAM H",
+      "job_title": "BUS DRIVER",
+      "salary": "9151.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,WILLIAM J",
+      "job_title": "BUS DRIVER",
+      "salary": "11446.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOLOMON,JEAN L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "283.73",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOLOMON,JENNIFER K",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "65614.94",
+      "travel": "235.46"
+    },
+    {
+      "person_name": "SPAULDING,RUTH W",
+      "job_title": "MEMBER, BOARD OF EDUCATION",
+      "salary": "1800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIRES,ANGELA G",
+      "job_title": "GRADE 1 TEACHER",
+      "salary": "35168.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIRES,JACKIE L",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "13548.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIRES,MARY M",
+      "job_title": "BUS DRIVER",
+      "salary": "9636.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIRES,SHERRI M",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "1610.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPOON,CASSANDRA E",
+      "job_title": "SPECIAL EDUCATION PARAPROFESSIONAL - AGES 3 TO 5",
+      "salary": "12973.20",
+      "travel": "88.38"
+    },
+    {
+      "person_name": "SPURLIN,SHERRY C",
+      "job_title": "CROSSROADS",
+      "salary": "12192.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAPLETON,CYNTHIA W",
+      "job_title": "GRADE 1 TEACHER",
+      "salary": "58794.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAPLETON,ROBERT J",
+      "job_title": "ATHLETICS PERSONNEL",
+      "salary": "10000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,DEIDRA D",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "11702.48",
+      "travel": "12.26"
+    },
+    {
+      "person_name": "STEWART,GWENDOLYN D",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "2311.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEWART,THELMA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "3656.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,LINDA G",
+      "job_title": "KINDERGARTEN TEACHER",
+      "salary": "50680.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWANSON,HELEN W",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "14206.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SWARTZ,STEVEN L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "1299.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOKAR,ALLISON G",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "30666.34",
+      "travel": "167.05"
+    },
+    {
+      "person_name": "TOMBLIN,JOYCE",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "13454.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWNS,AMY M",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "11142.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRIBBLE,SANDRA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "23.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRIPP,TINA K",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "31949.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TROUPE,SHALONDA A",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "38892.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,PAULA M",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "4389.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "USSERY,DORIS",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "8487.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VARNADOE,DAWN",
+      "job_title": "GRADE 5 TEACHER",
+      "salary": "57135.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VARNADOE,JERRY S",
+      "job_title": "EARLY INTERVENTION PRIMARY TEACHER",
+      "salary": "48998.22",
+      "travel": "675.91"
+    },
+    {
+      "person_name": "VARNADOE,NORMA",
+      "job_title": "GRADE 7 TEACHER",
+      "salary": "57241.04",
+      "travel": "399.63"
+    },
+    {
+      "person_name": "VAUGHN,JOANNE",
+      "job_title": "LIBRARY/MEDIA SUPPORT PARAPRO",
+      "salary": "13513.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALDREP,SUE E",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "56941.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,DOROTHY P",
+      "job_title": "LIBRARIAN/MEDIA SPECIALIST",
+      "salary": "56941.04",
+      "travel": "91.00"
+    },
+    {
+      "person_name": "WALKER,GARY L",
+      "job_title": "PLANT OPERATIONS DIRECTOR/MGR",
+      "salary": "41240.16",
+      "travel": "131.30"
+    },
+    {
+      "person_name": "WALKER,JOHN D",
+      "job_title": "TECHNOLOGY SPECIALIST",
+      "salary": "32306.28",
+      "travel": "2002.37"
+    },
+    {
+      "person_name": "WALKER,JUDY L",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "19628.28",
+      "travel": "7.00"
+    },
+    {
+      "person_name": "WALKER,KELLY",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "42885.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,PATSY W",
+      "job_title": "SCHOOL NURSE",
+      "salary": "9393.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTON,JEANETTA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "5115.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,TERESA L",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "11268.59",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARREN,RANDALL E",
+      "job_title": "GRADE 5 TEACHER",
+      "salary": "28184.53",
+      "travel": "285.99"
+    },
+    {
+      "person_name": "WATSON,BARBARA A",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "9163.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,ERICA S",
+      "job_title": "KINDERGARTEN TEACHER",
+      "salary": "35992.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEEKS,KRISTI M",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "46027.53",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELLS,LARRY",
+      "job_title": "SCHOOL SOCIAL WORKER",
+      "salary": "69334.90",
+      "travel": "1204.11"
+    },
+    {
+      "person_name": "WELLS,MARTHA",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "13513.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELLS,MELISSA",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "1714.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,DAFANEY L",
+      "job_title": "SPECIAL EDUCATION INTERRELATED",
+      "salary": "25793.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,GINGER E",
+      "job_title": "GRADE 1 TEACHER",
+      "salary": "33849.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,LAURIE A",
+      "job_title": "ESOL TEACHER",
+      "salary": "45377.92",
+      "travel": "410.13"
+    },
+    {
+      "person_name": "WHITE,SHERRY L",
+      "job_title": "SPECIAL ED PARAPRO/AIDE",
+      "salary": "12398.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,WALTER R",
+      "job_title": "BUS DRIVER",
+      "salary": "11207.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,ALBERTA",
+      "job_title": "GRADE 5 TEACHER",
+      "salary": "9261.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,CHANDREA S",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "163.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,CHOKA",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "342.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,JANICE H",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "9542.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,AMY W",
+      "job_title": "SPEECH-LANGUAGE PATHOLOGIST",
+      "salary": "45307.42",
+      "travel": "817.68"
+    },
+    {
+      "person_name": "WILLIAMS,DOUGLAS J",
+      "job_title": "YOUNG FARMER TEACHER",
+      "salary": "71819.28",
+      "travel": "4149.80"
+    },
+    {
+      "person_name": "WILLIAMS,JOY S",
+      "job_title": "SCHOOL SECRETARY/CLERK",
+      "salary": "15986.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,MARTHA B",
+      "job_title": "GRADE 2 TEACHER",
+      "salary": "64339.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,PAMELA C",
+      "job_title": "PARAPRO PERSONNEL - PRE-K",
+      "salary": "12458.70",
+      "travel": "160.47"
+    },
+    {
+      "person_name": "WILLIAMS,SAMUEL L",
+      "job_title": "CROSSROADS",
+      "salary": "70654.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,TAMMY H",
+      "job_title": "GRADE 6 TEACHER",
+      "salary": "45166.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,WILLIE C",
+      "job_title": "BUS DRIVER",
+      "salary": "9254.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOD,JUDY P",
+      "job_title": "ASSISTANT PRINCIPAL",
+      "salary": "83750.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOD,WILLIAM E",
+      "job_title": "TEACHER OF MILD INTELLECTUAL",
+      "salary": "46085.32",
+      "travel": "566.17"
+    },
+    {
+      "person_name": "WOOTEN,ADA L",
+      "job_title": "SCHOOL FOOD SERVICE WORKER",
+      "salary": "5340.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOTEN,ANNIE N",
+      "job_title": "TEACHER OF EMOTIONAL/BEHAVIORAL",
+      "salary": "55527.42",
+      "travel": "176.44"
+    },
+    {
+      "person_name": "WOOTEN,FREDDIE L",
+      "job_title": "BUS DRIVER",
+      "salary": "9748.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,LONNA C",
+      "job_title": "KINDERGARTEN TEACHER",
+      "salary": "45216.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,MICHELLE",
+      "job_title": "TEACHER OF MILD INTELLECTUAL",
+      "salary": "49520.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YAWN,FRANCES F",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2593.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YAWN,WENDY H",
+      "job_title": "GRADE 3 TEACHER",
+      "salary": "59455.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YAWN,WESLEY L",
+      "job_title": "BUS DRIVER",
+      "salary": "8370.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YEOMANS,AMY E",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "2789.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YEOMANS,TERESA B",
+      "job_title": "GRADE 1 TEACHER",
+      "salary": "46240.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,DELORES M",
+      "job_title": "PARAPROFESSIONAL/TEACHER AIDE",
+      "salary": "14210.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,LOUISE",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "171.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZANDERS,ALISA L",
+      "job_title": "SUBSTITUTE TEACHER",
+      "salary": "399.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZAVALA,JOSEY L",
+      "job_title": "PARENT COORDINATOR",
+      "salary": "32084.06",
+      "travel": "2002.37"
+    }
+  ]
+}

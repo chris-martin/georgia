@@ -1,0 +1,40 @@
+{
+  "payments": [
+    {
+      "person_name": "BOBBIT,THOMAS",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "107.56"
+    },
+    {
+      "person_name": "BREWER,BRITTON",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "573.28"
+    },
+    {
+      "person_name": "CARTER,ROBERT W",
+      "job_title": "DIRECTOR",
+      "salary": "13200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAVANAUGH,RITA",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "384.26"
+    },
+    {
+      "person_name": "DAVIS,WARREN",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "80.82"
+    },
+    {
+      "person_name": "MOSS,MARY",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "60.00"
+    }
+  ]
+}

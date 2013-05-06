@@ -1,0 +1,2380 @@
+{
+  "payments": [
+    {
+      "person_name": "ABERCROMBIE,VICTORIA A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "14589.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ABRAMS,CHARLES H",
+      "job_title": "CUSTODIAN",
+      "salary": "22706.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ABRAMS,STEVEN R",
+      "job_title": "INSTRUCTIONAL AIDE",
+      "salary": "26880.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AGNEW,EUGENIA B",
+      "job_title": "PROJECT DIRECTOR 1",
+      "salary": "60519.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ALVARADO,FELIX L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3342.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,MARGARET L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7392.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDREWS,DONNA R",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "66041.79",
+      "travel": "636.06"
+    },
+    {
+      "person_name": "AVILA,KELSIE L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "2375.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALDRIDGE,ELICE R",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "57528.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BALL,ETHEL F",
+      "job_title": "ACCOUNTING TECHNICIAN",
+      "salary": "26480.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,KELLY M",
+      "job_title": "VICE PRESIDENT OF ADMIN",
+      "salary": "67794.96",
+      "travel": "2745.61"
+    },
+    {
+      "person_name": "BARNETT,DESIREE N",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "2141.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNOR,NEE Q",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61230.00",
+      "travel": "1630.45"
+    },
+    {
+      "person_name": "BARRETT,PAM V",
+      "job_title": "FOOD SERVICE EMPLOYEE",
+      "salary": "3555.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARTON,LORI W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "20763.25",
+      "travel": "864.34"
+    },
+    {
+      "person_name": "BATCHELOR,ROSALIND N",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1750.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENTLEY,DONNA G",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1045.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENTLEY,WILLIAM A",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "59762.00",
+      "travel": "2428.64"
+    },
+    {
+      "person_name": "BERGERON,KELLY L",
+      "job_title": "ASSESSMENT SPECIALIST 1",
+      "salary": "3255.00",
+      "travel": "148.47"
+    },
+    {
+      "person_name": "BERRY,ROBERT L",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BINKLEY,VICTORIA I",
+      "job_title": "COORDINATOR",
+      "salary": "21948.28",
+      "travel": "327.04"
+    },
+    {
+      "person_name": "BISHOP,LISA K",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "9963.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BISHOP,RITA G",
+      "job_title": "ACCOUNTING TECHNICIAN",
+      "salary": "27804.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKWELDER,CESILEE L",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "3850.00",
+      "travel": "29.29"
+    },
+    {
+      "person_name": "BLAIR,CAROL DIANE",
+      "job_title": "INSTITUTIONAL ADVANCEMENT DIR",
+      "salary": "38278.80",
+      "travel": "4908.62"
+    },
+    {
+      "person_name": "BLALOCK,CHARLES L",
+      "job_title": "INSTRUCTOR, GENERAL CORE",
+      "salary": "63168.00",
+      "travel": "232.80"
+    },
+    {
+      "person_name": "BOJO,THOMAS V",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "65306.40",
+      "travel": "1998.39"
+    },
+    {
+      "person_name": "BONNER,KERRY D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOOZER,CLIFTA PAIGE",
+      "job_title": "BOOKSTORE ASSISTANT",
+      "salary": "442.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOSWELL,SHELOR HALL",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "25080.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,BONNIE R",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "14074.98",
+      "travel": "503.58"
+    },
+    {
+      "person_name": "BOWERS,JAMES D",
+      "job_title": "FINANCIAL AID SPECIALIST DTAE",
+      "salary": "26396.00",
+      "travel": "468.78"
+    },
+    {
+      "person_name": "BRADSHAW,HERMAN L",
+      "job_title": "GED CHIEF EXAMINER",
+      "salary": "12950.00",
+      "travel": "1463.11"
+    },
+    {
+      "person_name": "BRADSHAW,JAMES STEVEN",
+      "job_title": "VICE PRESIDENT OF STUDENT SRVS",
+      "salary": "96954.00",
+      "travel": "491.72"
+    },
+    {
+      "person_name": "BRAFFORD,AMY I",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "2501.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAMBLETT,LILA K",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "603.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAMBLETT,MARY R",
+      "job_title": "FINANCIAL AID SPECIALIST DTAE",
+      "salary": "27129.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAMBLETT,MOLLY L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "1105.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAMBLETT,NEIL R",
+      "job_title": "STUDENT SERVICES ASST",
+      "salary": "387.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANCH,ELIZABETH S",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6597.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAND,HEATHER M",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1387.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRATTON,ZENIA A",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "58284.00",
+      "travel": "809.52"
+    },
+    {
+      "person_name": "BROOKS,JUNE COLEEN",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "50070.00",
+      "travel": "814.75"
+    },
+    {
+      "person_name": "BROOM,DANA MICHELLE",
+      "job_title": "INSTRUCTOR, GENERAL CORE",
+      "salary": "65.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROOME,JANICE E",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3240.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,JODI D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1980.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWNLOW,GORDON BRENT",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3344.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNES,BARBARA W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1881.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNETT,DEBORAH K",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3190.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURRAGE,JOSEPH L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "53556.00",
+      "travel": "2685.21"
+    },
+    {
+      "person_name": "BYARS,WILLIAM R",
+      "job_title": "INSTITUTION SAFETY MGR",
+      "salary": "59526.00",
+      "travel": "1443.47"
+    },
+    {
+      "person_name": "BYRD,JONATHAN LEE",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "56676.00",
+      "travel": "1575.55"
+    },
+    {
+      "person_name": "BYRNE,WILLIAM J",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANTRELL,ANTHONY R",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "69241.00",
+      "travel": "289.00"
+    },
+    {
+      "person_name": "CANTRELL,JACKIE L",
+      "job_title": "ACCOUNTING TECHNICIAN",
+      "salary": "30667.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARNEY,JANICE M",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "75259.00",
+      "travel": "656.43"
+    },
+    {
+      "person_name": "CARR,SHEILA T",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "55720.61",
+      "travel": "2238.72"
+    },
+    {
+      "person_name": "CARTER,JENNIFER J",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61723.00",
+      "travel": "730.91"
+    },
+    {
+      "person_name": "CARTER,PAUL R",
+      "job_title": "INSTRUCTION DIRECTOR",
+      "salary": "76839.96",
+      "travel": "431.00"
+    },
+    {
+      "person_name": "CASSIDY,GARY E",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "12155.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHANDLER,MELISSA KAY",
+      "job_title": "ADMISSIONS ASSISTANT, DTAE",
+      "salary": "26254.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHILDERS,MARK A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "11400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHUBB,FARRIE BELLE",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "12333.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLANCE,HERMAN E",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "25388.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,CASEY E",
+      "job_title": "STUDENT SERVICES ASST",
+      "salary": "28312.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLAY,ANNE K",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "52554.00",
+      "travel": "2112.19"
+    },
+    {
+      "person_name": "COCHRAN,CINDA G",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "42630.00",
+      "travel": "894.14"
+    },
+    {
+      "person_name": "COCHRAN,JACQUELINE S",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3875.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COCHRAN,KATHY J",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "66750.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,JESSICA A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4055.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COWAN,APRIL M",
+      "job_title": "LABORATORY SERVICES WORKER",
+      "salary": "8190.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COWAN-STORY,REBECCA C",
+      "job_title": "INTERPRETER, SIGN LANGUAGE",
+      "salary": "6600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,BARRY E",
+      "job_title": "LABOR TRADES WORKER",
+      "salary": "400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CREEL,WILLIAM L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7700.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,ROBERT J",
+      "job_title": "CUSTODIAL SERVICES WORKER",
+      "salary": "8704.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,TINA M",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "60395.94",
+      "travel": "81.30"
+    },
+    {
+      "person_name": "DAMBROSIO,ARTHUR LEE",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4000.00",
+      "travel": "52.51"
+    },
+    {
+      "person_name": "DAVIDSON,DENISE A",
+      "job_title": "BOOKSTORE ASSISTANT",
+      "salary": "1083.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,ETHEL SHARON",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "4298.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEBERRY,ROGER G",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "950.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEEMS,NATHAN L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEFALCO,VICKI C",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "675.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELANEY,DERRON S",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2304.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DELEVIE,JENNIFER NICOLE",
+      "job_title": "SECRETARY 2",
+      "salary": "22836.00",
+      "travel": "1106.03"
+    },
+    {
+      "person_name": "DEMETER,RUTH C",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "10557.27",
+      "travel": "43.65"
+    },
+    {
+      "person_name": "DENMON,AUBREY",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1463.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIPRIMA,LISA C",
+      "job_title": "CAREER TRANSITIONS FACILITATOR",
+      "salary": "54264.00",
+      "travel": "1135.40"
+    },
+    {
+      "person_name": "DITCH,MICHAEL TERRY",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "55212.00",
+      "travel": "446.37"
+    },
+    {
+      "person_name": "DIXON,RITA JENKINS",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DONAHUE,ARTHUR LEE",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "935.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGHERTY,CHARLOTTE A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1672.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOWNES,GLENN",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1872.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUGGER,CAROL J",
+      "job_title": "TECHNICAL PREP COORD DTAE",
+      "salary": "61056.00",
+      "travel": "4539.89"
+    },
+    {
+      "person_name": "DUNCAN,VICKIE P",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3913.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EARNEST,MICHAEL G",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4180.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,STEPHEN H",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4620.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLIOTT,DOUGLAS E",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1685.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLIOTT,JANE L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1760.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELROD,J  DIANE",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "37224.00",
+      "travel": "352.64"
+    },
+    {
+      "person_name": "ELY,VERONICA S",
+      "job_title": "OFFICE MANAGER",
+      "salary": "31999.45",
+      "travel": "70.37"
+    },
+    {
+      "person_name": "EVANS,CECIL",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "990.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVERETT,ZANDRA E",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1230.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARRIS,DEANNA D",
+      "job_title": "ACCOUNTANT",
+      "salary": "14469.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERGUSON,JAMES PAUL",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERRY,SHANNEN O",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "60450.00",
+      "travel": "715.27"
+    },
+    {
+      "person_name": "FLOYD,LINDA A",
+      "job_title": "LIBRARY SERVICES DIRECTOR",
+      "salary": "70126.75",
+      "travel": "1061.55"
+    },
+    {
+      "person_name": "FLUHARTY,KAREN B",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "55879.10",
+      "travel": "2536.95"
+    },
+    {
+      "person_name": "FORRESTER,ALTUS BEN",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "54510.74",
+      "travel": "75.66"
+    },
+    {
+      "person_name": "FRAZIER,PHILLIP M",
+      "job_title": "MAINTENANCE SUPERVISOR-DTAE",
+      "salary": "37782.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRAZIER,TERESA D",
+      "job_title": "PROGRAM ASSISTANT",
+      "salary": "1554.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEBURN,KELLY A",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "6932.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEMAN,DUDLEY D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4525.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FUQUEA,KELLY O",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2970.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FUTCH,KAREN W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7560.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GEIER,KEVIN J",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2955.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GENTRY,JOHN JOSEPH",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "50532.00",
+      "travel": "1093.09"
+    },
+    {
+      "person_name": "GILMER,JUDITH H",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3135.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GODFREY,DEBRA A",
+      "job_title": "CUSTODIAN",
+      "salary": "24116.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GORE,LYNN T",
+      "job_title": "FINANCIAL AID SPECIALIST DTAE",
+      "salary": "28830.00",
+      "travel": "1329.76"
+    },
+    {
+      "person_name": "GOULD,BARBARA A",
+      "job_title": "INTERPRETER, SIGN LANGUAGE",
+      "salary": "6400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAVITT,CHANDA R",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3960.00",
+      "travel": "420.00"
+    },
+    {
+      "person_name": "GREEN,JERRY O",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7539.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREEN,PEGGY Y",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6450.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GREGG,DOROTHY",
+      "job_title": "INSTRUCTION DIRECTOR",
+      "salary": "58800.00",
+      "travel": "4439.21"
+    },
+    {
+      "person_name": "GRIFFIN,JESSICA D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2090.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HACKNEY,SUSAN",
+      "job_title": "ADULT LITERACY DIRECTOR",
+      "salary": "80244.00",
+      "travel": "3789.18"
+    },
+    {
+      "person_name": "HALE,LUCY",
+      "job_title": "WORKFORCE INVESTMENT ACT COORD",
+      "salary": "60666.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALEY,TONYA J",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "50527.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,ADA D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1947.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,FRANK D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "12540.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALL,JAN B",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "77572.00",
+      "travel": "2350.49"
+    },
+    {
+      "person_name": "HARBIN,BENJAMIN G",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "19013.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDY,JACQUELINE A",
+      "job_title": "SECRETARY 2",
+      "salary": "31401.24",
+      "travel": "525.94"
+    },
+    {
+      "person_name": "HARRELL,ARLETTE M",
+      "job_title": "STUDENT SERVICES ASST",
+      "salary": "26820.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,BRENDA L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "11309.42",
+      "travel": "122.76"
+    },
+    {
+      "person_name": "HART,JAMES TIMOTHY",
+      "job_title": "DIRECTOR",
+      "salary": "57102.00",
+      "travel": "355.66"
+    },
+    {
+      "person_name": "HARVESTON,CINDY H",
+      "job_title": "INTERPRETER, SIGN LANGUAGE",
+      "salary": "1320.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HATCHER,DONALD W",
+      "job_title": "MARKETING SPECIALIST",
+      "salary": "43978.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,DAVID G",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "10480.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAWKINS,EDWARD L",
+      "job_title": "INSTRUCTION DIRECTOR",
+      "salary": "75978.00",
+      "travel": "921.04"
+    },
+    {
+      "person_name": "HAYDEN,JARROD MATT",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAYES,DONALD",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "13211.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAYES,SUE SCOTT",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2948.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAZEN,RALEIGH A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON,LINDA GAIL",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "67062.00",
+      "travel": "784.37"
+    },
+    {
+      "person_name": "HERRING,CARL J",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERRINGTON,ANNETTE H",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "840.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERRINGTON,RUSSELL A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1972.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HICKS,DONNA",
+      "job_title": "ADMINISTRATIVE COORD",
+      "salary": "45678.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HINDMAN,JEREMY L",
+      "job_title": "CUSTODIAN",
+      "salary": "5104.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOGUE,J  HUNTER",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "12000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLBROOKS,LYNN C",
+      "job_title": "SECRETARY 2",
+      "salary": "25361.70",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLDER,DEBORAH L",
+      "job_title": "SECRETARY 2",
+      "salary": "27111.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLLOWAY,DENNIS H",
+      "job_title": "CUSTODIAN",
+      "salary": "24116.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLMES,DONALD R",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "56319.80",
+      "travel": "1729.61"
+    },
+    {
+      "person_name": "HOPKINS,MICHAEL E",
+      "job_title": "MAINTENANCE SUPERVISOR-DTAE",
+      "salary": "43656.00",
+      "travel": "334.78"
+    },
+    {
+      "person_name": "HOPPER,DONNA F",
+      "job_title": "SECRETARY 2",
+      "salary": "25794.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOUSE,JOHN R",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1020.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOWARD,DONNA G",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "58566.99",
+      "travel": "358.56"
+    },
+    {
+      "person_name": "HOWARD,RACHEL ANN",
+      "job_title": "SECRETARY 2",
+      "salary": "20364.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUBLER,SUSAN L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6650.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,JACOB C",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,KIMBELL A",
+      "job_title": "ACCOUNTANT",
+      "salary": "2331.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUGHES,PAULA CELESTE",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "59510.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUMPHRIES,NANCY L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "16606.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUTCHESON,ROBERT C",
+      "job_title": "TECHNOLOGY SUPPORT SPEC",
+      "salary": "37902.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IKWUEZUNMA,MANLY",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "12180.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INGRAM,RUTH E",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "1007.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INTELISANO,ROSA C",
+      "job_title": "HUMAN RESOURCES DIR",
+      "salary": "46842.00",
+      "travel": "947.86"
+    },
+    {
+      "person_name": "IRWIN,DAWN M",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61260.30",
+      "travel": "1295.20"
+    },
+    {
+      "person_name": "JACKSON,MARDENE",
+      "job_title": "CAREER PLACEMENT & DEVEL DIR",
+      "salary": "53566.00",
+      "travel": "1273.33"
+    },
+    {
+      "person_name": "JARVIS,FRANCIS T",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1260.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JENKINS,BARTLEY D",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "47554.00",
+      "travel": "777.31"
+    },
+    {
+      "person_name": "JENKINS,JOHNA G",
+      "job_title": "ADMISSIONS DIRECTOR",
+      "salary": "50700.80",
+      "travel": "148.00"
+    },
+    {
+      "person_name": "JENNINGS,TONJA M",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "49006.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,GAIL M",
+      "job_title": "CONTINUING EDUCATION DIRECTOR",
+      "salary": "55450.56",
+      "travel": "2534.03"
+    },
+    {
+      "person_name": "JOHNSON,MICHAEL E",
+      "job_title": "LABOR TRADES WORKER",
+      "salary": "400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,ROBBIE B",
+      "job_title": "BOOKSTORE ASSISTANT",
+      "salary": "27408.00",
+      "travel": "494.48"
+    },
+    {
+      "person_name": "JOHNSTON,M  ELAINE",
+      "job_title": "SECRETARY 2",
+      "salary": "24150.00",
+      "travel": "420.98"
+    },
+    {
+      "person_name": "JONES,BRADLEY R",
+      "job_title": "DIRECTOR",
+      "salary": "46398.34",
+      "travel": "1702.06"
+    },
+    {
+      "person_name": "JONES,DONNA L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "27420.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,WILLIE",
+      "job_title": "COORDINATOR",
+      "salary": "28300.02",
+      "travel": "1362.11"
+    },
+    {
+      "person_name": "JORDAN,AMBER R",
+      "job_title": "PUBLIC RELATIONS & INFO DIR",
+      "salary": "52619.00",
+      "travel": "1680.52"
+    },
+    {
+      "person_name": "JOUBERT,PIERRE C",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "55212.00",
+      "travel": "655.32"
+    },
+    {
+      "person_name": "KAPA,JUDITH D",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "36138.00",
+      "travel": "109.69"
+    },
+    {
+      "person_name": "KEENER,TRUMAN L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4740.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,CHARLES W",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "58065.00",
+      "travel": "2100.01"
+    },
+    {
+      "person_name": "KIDD,MICHAEL D",
+      "job_title": "CUSTODIAL SERVICES WORKER",
+      "salary": "7840.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KINSEY,KRISTEN HARDEMAN",
+      "job_title": "MARKETING ASSISTANT, DTAE",
+      "salary": "32550.00",
+      "travel": "171.54"
+    },
+    {
+      "person_name": "KITSON,THERESA W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3225.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KIZZIAH,PAM",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "93270.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KNIGHT,KIM M",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3300.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KRUSAC,BELA M",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4180.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANDRUM,TRACY D",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "18852.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANE,KIMBERLY A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1045.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANHAM,SUSAN Y",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "56009.34",
+      "travel": "2110.12"
+    },
+    {
+      "person_name": "LAYNE,MARK H",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61896.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEAKS,LATRENDA R",
+      "job_title": "NEW CONNECTIONS TO WORK COORD",
+      "salary": "39438.00",
+      "travel": "2902.62"
+    },
+    {
+      "person_name": "LEATHERWOOD,KIMBERLEY C",
+      "job_title": "COORDINATOR",
+      "salary": "24966.00",
+      "travel": "1266.99"
+    },
+    {
+      "person_name": "LEE,AHRENS G",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEE,LINDA A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1045.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEGRANDE,JAMES W",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "146.30"
+    },
+    {
+      "person_name": "LEMBCKE,TYLER M",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "10000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,CHARLES R",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "52680.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,DARICE W",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "65506.00",
+      "travel": "1468.45"
+    },
+    {
+      "person_name": "LINDSEY,AGETHA B",
+      "job_title": "GED EXAMINER",
+      "salary": "592.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LITTLE,JOHN DAVID",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3135.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOCKHART,LINDA F",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "13134.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOFTON,SYLVIA J",
+      "job_title": "BOOKSTORE ASSISTANT",
+      "salary": "26436.00",
+      "travel": "100.00"
+    },
+    {
+      "person_name": "LOVEL,NINA B",
+      "job_title": "INSTITUTION SUPPORT COORDINATR",
+      "salary": "69232.64",
+      "travel": "1915.84"
+    },
+    {
+      "person_name": "LOVELL,BRENDA",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "55299.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUCAS,HUGHIE J",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "17600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LUMPKIN,JOY DALE",
+      "job_title": "SECRETARY 2",
+      "salary": "22639.81",
+      "travel": "400.17"
+    },
+    {
+      "person_name": "LUSK,SHERRY F",
+      "job_title": "STUDENT SERVICES ASST",
+      "salary": "29076.00",
+      "travel": "53.76"
+    },
+    {
+      "person_name": "LUSK,TABITHA E",
+      "job_title": "RECEPTIONIST",
+      "salary": "2801.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MACKIMM,BELINDA SMITH",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "21460.00",
+      "travel": "5396.40"
+    },
+    {
+      "person_name": "MADDOX,BRENDA GAIL",
+      "job_title": "CUSTODIAN",
+      "salary": "26058.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALLORY,SHIRLEY",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6688.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARSHALL,COLLIN F",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3588.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,NEA W",
+      "job_title": "TUTOR",
+      "salary": "9240.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,PATCHES D",
+      "job_title": "BOOKSTORE ASSISTANT",
+      "salary": "671.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MATTOS,MICHELE",
+      "job_title": "INTERPRETER, SIGN LANGUAGE",
+      "salary": "11875.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAYNARD,WILMA G",
+      "job_title": "INTERPRETER, SIGN LANGUAGE",
+      "salary": "400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCBURNETT,ROBERT DAVID",
+      "job_title": "CAREER PLACEMENT & DEVEL DIR",
+      "salary": "53433.00",
+      "travel": "522.87"
+    },
+    {
+      "person_name": "MCCARY,ROBIN",
+      "job_title": "REGISTRAR",
+      "salary": "66456.00",
+      "travel": "1568.00"
+    },
+    {
+      "person_name": "MCCORMICK,ANNIE CHRISTINA",
+      "job_title": "INSTRUCTOR, GENERAL CORE",
+      "salary": "35238.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCOY,I  MARION",
+      "job_title": "CUSTODIAN",
+      "salary": "21671.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCOY,MARY E",
+      "job_title": "PROGRAM ASSISTANT",
+      "salary": "22627.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDANIEL,FORREST CRAIG",
+      "job_title": "PRESIDENT",
+      "salary": "146801.96",
+      "travel": "6266.06"
+    },
+    {
+      "person_name": "MCDONALD,CLARENCE PETE",
+      "job_title": "VICE PRESIDENT ECONOMIC DEV",
+      "salary": "97944.00",
+      "travel": "2964.52"
+    },
+    {
+      "person_name": "MCDONALD,LISA D",
+      "job_title": "EXECUTIVE ASST TO PRESIDENT",
+      "salary": "33994.96",
+      "travel": "475.04"
+    },
+    {
+      "person_name": "MCDOUGLE,STEPHEN A",
+      "job_title": "TECHNOLOGY SUPPORT SPEC",
+      "salary": "38442.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCFRY,GERALD L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "57203.00",
+      "travel": "381.63"
+    },
+    {
+      "person_name": "MCINTOSH,CLARENCE W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4260.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKINNEY,LISA V",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "29534.50",
+      "travel": "649.14"
+    },
+    {
+      "person_name": "MCWHORTER,ROBERT H",
+      "job_title": "INSTRUCTOR, GENERAL CORE",
+      "salary": "31208.83",
+      "travel": "451.89"
+    },
+    {
+      "person_name": "MEEKS,STEPHEN C",
+      "job_title": "LIBRARIAN 1",
+      "salary": "41352.00",
+      "travel": "73.72"
+    },
+    {
+      "person_name": "MILLER,MARY FAITH",
+      "job_title": "SECRETARY 2",
+      "salary": "26502.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,ANNETTE H",
+      "job_title": "BOOKSTORE MANAGER",
+      "salary": "20000.00",
+      "travel": "2755.42"
+    },
+    {
+      "person_name": "MITCHELL,CATHERINE H",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "27676.37",
+      "travel": "865.06"
+    },
+    {
+      "person_name": "MITCHELL,LINDA L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "54264.00",
+      "travel": "1602.17"
+    },
+    {
+      "person_name": "MOOREHEAD,MARTY J",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "21091.00",
+      "travel": "680.61"
+    },
+    {
+      "person_name": "MOSS,LORIE A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3750.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURDOCK,CANDACE WILLIAMSON",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6034.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,AUDEY WAYNE",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4180.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NANCE,DIANE M",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "46068.96",
+      "travel": "985.99"
+    },
+    {
+      "person_name": "NASH,ROBERT M",
+      "job_title": "MARKETING SPECIALIST",
+      "salary": "31674.00",
+      "travel": "906.39"
+    },
+    {
+      "person_name": "NEIDRICK,CAROL A",
+      "job_title": "CUSTODIAL SERVICES WORKER",
+      "salary": "7448.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEWBERRY,JESSICA L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NICHOLAS,SARA A",
+      "job_title": "ASSESSMENT SPECIALIST 1",
+      "salary": "2272.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NICHOLS,STEPHANIE T",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "1477.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OGLES,AMY M",
+      "job_title": "CAREER TRANSITIONS FACILITATOR",
+      "salary": "28418.04",
+      "travel": "749.97"
+    },
+    {
+      "person_name": "OLIVER,PATRICIA B",
+      "job_title": "PROGRAM ASSISTANT",
+      "salary": "31332.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OXENREIDER,GEORGE P",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5540.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PADGETT,BEVERLY M",
+      "job_title": "INSTRUCTION DIRECTOR",
+      "salary": "72314.00",
+      "travel": "698.71"
+    },
+    {
+      "person_name": "PALMER,JERRY",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "18231.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PANTOJA-HORNEDO,LUCERO J",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "400.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARISE,JOHN F",
+      "job_title": "INSTRUCTIONAL AIDE",
+      "salary": "7000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,ALAN KEITH",
+      "job_title": "MAINTENANCE SUPERVISOR-DTAE",
+      "salary": "37086.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,LARRY J",
+      "job_title": "CAREER TRANSITIONS FACILITATOR",
+      "salary": "58528.00",
+      "travel": "1069.59"
+    },
+    {
+      "person_name": "PARKER,RONALD W",
+      "job_title": "COORDINATOR",
+      "salary": "55105.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,SHEILA",
+      "job_title": "INTERPRETER, SIGN LANGUAGE",
+      "salary": "45792.00",
+      "travel": "2181.46"
+    },
+    {
+      "person_name": "PARRIS,DAVID RODNEY",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "70020.00",
+      "travel": "1644.29"
+    },
+    {
+      "person_name": "PASS,ESTES",
+      "job_title": "TRANSPORTATION SERVICES WORKER",
+      "salary": "2744.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PASS,JO ANN",
+      "job_title": "TRANSPORTATION SERVICES WORKER",
+      "salary": "895.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAULDO,DARREL A",
+      "job_title": "FATHERHOOD PROGRAM COORD DTAE",
+      "salary": "57784.00",
+      "travel": "3154.64"
+    },
+    {
+      "person_name": "PEACE,SHERRY B",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1344.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PENNEY,CHARLOTTE S",
+      "job_title": "SECRETARY 2",
+      "salary": "27111.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PENROSE,LEIF M",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "68388.00",
+      "travel": "739.94"
+    },
+    {
+      "person_name": "PERRY,ADELINE S",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5280.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETERS,ANGELA W",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "46613.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHARR,BARBARA C",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61328.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHARR,FRANK",
+      "job_title": "INSTRUCTION DIRECTOR",
+      "salary": "81984.00",
+      "travel": "1827.54"
+    },
+    {
+      "person_name": "PHILLIPS,AMY L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIERSON,RANDALL E",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "70268.00",
+      "travel": "1944.74"
+    },
+    {
+      "person_name": "PILCHER,TAMMY J",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "9640.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PILGRIM,JAMES L",
+      "job_title": "CUSTODIAN",
+      "salary": "23126.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITTMAN,BARBARA A",
+      "job_title": "SECRETARY 2",
+      "salary": "27039.04",
+      "travel": "463.44"
+    },
+    {
+      "person_name": "POE,ANNE M",
+      "job_title": "TUTOR",
+      "salary": "2200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POPHAM,HEIDI K",
+      "job_title": "INSTITUTIONAL ADVANCEMENT DIR",
+      "salary": "64238.46",
+      "travel": "3355.91"
+    },
+    {
+      "person_name": "PORTER,EDWARD L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61230.00",
+      "travel": "2051.10"
+    },
+    {
+      "person_name": "PORTER,JOSEPH L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "50244.00",
+      "travel": "671.27"
+    },
+    {
+      "person_name": "POWELL,JAMES D",
+      "job_title": "CONTINUING EDUCATION DIRECTOR",
+      "salary": "63608.00",
+      "travel": "2779.30"
+    },
+    {
+      "person_name": "PROCTOR,WANDA W",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "23.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRUITTE,SUSAN I",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5006.78",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PUCKETT,VIRGINIA JO",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAMSEY,SPENCE W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "19439.67",
+      "travel": "30.30"
+    },
+    {
+      "person_name": "RANDALL,BARRY KEVIN",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "11743.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RANDALL,BARRY WAYNE",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "24724.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAY,DAVID W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5280.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAYBON,BARBARA H",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "14349.20",
+      "travel": "1582.03"
+    },
+    {
+      "person_name": "REINERS,PEGGY A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "18725.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICHARDS,SONYA J",
+      "job_title": "FINANCIAL AID DIRECTOR",
+      "salary": "49787.00",
+      "travel": "468.78"
+    },
+    {
+      "person_name": "RIDGEWAY,ANGELA M",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RIVEST,JOHN G",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "6620.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTS,KEN S",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "28650.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,LAURA L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "15765.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROCHESTER,BETTY J",
+      "job_title": "ASSESSMENT SPECIALIST 1",
+      "salary": "1852.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROEBUCK,DANIEL B",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61458.00",
+      "travel": "388.00"
+    },
+    {
+      "person_name": "ROGERS,D  HALL",
+      "job_title": "OPERATIONS DIRECTOR - EVENING",
+      "salary": "5012.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSEMAN,GARY H",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "12250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAMS,MELINDA O",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "21113.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANDERS,KIMBERLY N",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SANZONE,SUSAN B",
+      "job_title": "CUSTODIAN",
+      "salary": "21890.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAVAGE,DAVID C",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "18040.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHUTZ,JAMES M",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5620.00",
+      "travel": "105.00"
+    },
+    {
+      "person_name": "SCOGGIN,BILL A",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "65550.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,DONNA J",
+      "job_title": "RECEPTIONIST",
+      "salary": "20156.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SECKINGER,SARA N",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1045.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEWELL,JESSIE J",
+      "job_title": "CUSTODIAL SERVICES WORKER",
+      "salary": "8446.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEA,JANICE T",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "30756.00",
+      "travel": "1713.43"
+    },
+    {
+      "person_name": "SHIELDS,ELIZABETH",
+      "job_title": "PAYROLL TECHNICIAN",
+      "salary": "45678.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SILLS,THOMAS W",
+      "job_title": "GRANTS COORDINATOR",
+      "salary": "60168.00",
+      "travel": "1573.02"
+    },
+    {
+      "person_name": "SIMMONS,NANCY",
+      "job_title": "ADULT LITERACY TEACHER",
+      "salary": "63822.80",
+      "travel": "312.64"
+    },
+    {
+      "person_name": "SIMPSON,JAMES MICHAEL",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "25778.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLATON,CECILIA T",
+      "job_title": "JOB COACH",
+      "salary": "22719.52",
+      "travel": "1070.92"
+    },
+    {
+      "person_name": "SMALLWOOD,KATHY L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "8764.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,BILL G",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6501.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,CATHY G",
+      "job_title": "COORDINATOR",
+      "salary": "33594.00",
+      "travel": "658.84"
+    },
+    {
+      "person_name": "SMITH,DAVID A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "12100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,FANDRICK JANE",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4330.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,HUGH A",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "9405.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOSEBEE,RHONDA B",
+      "job_title": "SECRETARY 2",
+      "salary": "25794.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPIVEY,REGINA A",
+      "job_title": "CUSTODIAN",
+      "salary": "24766.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAFFORD,CHARLES E",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3210.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STAMPER,MARCIE D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4290.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEPHENS,LUGINA P",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "56456.00",
+      "travel": "3909.01"
+    },
+    {
+      "person_name": "STEPHENS,SUSAN A",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "48900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEPHENSON,JENNIFER K",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "63516.00",
+      "travel": "575.00"
+    },
+    {
+      "person_name": "STEWART,YASHICA",
+      "job_title": "FOOD SERVICE EMPLOYEE",
+      "salary": "3336.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STITZER,BEATRIZ B",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "61876.00",
+      "travel": "2909.23"
+    },
+    {
+      "person_name": "STITZER,RICHARD B",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4660.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,CLYDE RANDALL",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6118.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STONE,DIXIE K",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "8415.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRAWHORNE,RICHARD P",
+      "job_title": "BOARD MEMBER",
+      "salary": "525.00",
+      "travel": "211.24"
+    },
+    {
+      "person_name": "STREETMAN,BONNIE M",
+      "job_title": "LIBRARY ASSISTANT",
+      "salary": "23752.58",
+      "travel": "487.89"
+    },
+    {
+      "person_name": "SUTTON,DONNA S",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "62946.00",
+      "travel": "485.94"
+    },
+    {
+      "person_name": "SWAFFORD,GLENDA G",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "53838.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TANNER,OTIS L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "51534.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TATE,LORRIE S",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "58942.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TATE,PAUL RICHARD",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,DONALD L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "1430.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,RHONDA L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "6043.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TEEMS,KAREN S",
+      "job_title": "ASSESSMENT SPECIALIST 1",
+      "salary": "70452.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMASON,KENNETH CHARLES",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "26218.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,CURTISHA M",
+      "job_title": "CLERICAL SERVICES WORKER",
+      "salary": "944.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOLBERT,SONYA NICOLE",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "24960.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOLER,MORRIS F",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "3255.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOMLINSON,DEBORAH K",
+      "job_title": "SECRETARY 2",
+      "salary": "27444.00",
+      "travel": "71.32"
+    },
+    {
+      "person_name": "TRAPP,TONYA T",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "57050.00",
+      "travel": "96.40"
+    },
+    {
+      "person_name": "TROTTER,JOHNNY",
+      "job_title": "FACILITIES DIRECTOR",
+      "salary": "75090.00",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "TUCKER,GORDON R",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "40024.87",
+      "travel": "924.31"
+    },
+    {
+      "person_name": "TUCKER,PHILLIP G",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "13650.00",
+      "travel": "105.00"
+    },
+    {
+      "person_name": "TURNER,BECKY B",
+      "job_title": "FINANCIAL AID SPECIALIST DTAE",
+      "salary": "25859.68",
+      "travel": "468.78"
+    },
+    {
+      "person_name": "TURNER,EDGAR F",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7199.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,RONALD H",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "57308.00",
+      "travel": "301.23"
+    },
+    {
+      "person_name": "TYLER,RODNEY H",
+      "job_title": "DIRECTOR",
+      "salary": "62766.00",
+      "travel": "751.74"
+    },
+    {
+      "person_name": "UPTON,MARK K",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "60536.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VANN,CATHY P",
+      "job_title": "VICE PRESIDENT OF INSTRUCTION",
+      "salary": "87047.17",
+      "travel": "3185.13"
+    },
+    {
+      "person_name": "VANNEST,JUSTIN P",
+      "job_title": "TECHNOLOGY SUPPORT SPEC",
+      "salary": "43006.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VAUGHAN,SHARON L",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "53616.00",
+      "travel": "97.19"
+    },
+    {
+      "person_name": "VEDRODY,STEPHEN",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "150.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VICK,RONALD D",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "59118.00",
+      "travel": "1037.82"
+    },
+    {
+      "person_name": "WADDELL,CAROL L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6562.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,DANA H",
+      "job_title": "CAREER TRANSITIONS FACILITATOR",
+      "salary": "52566.00",
+      "travel": "268.75"
+    },
+    {
+      "person_name": "WALKER,GAIL B",
+      "job_title": "PROGRAM ASSISTANT",
+      "salary": "19286.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,KENNETH STANLEY",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "55519.00",
+      "travel": "829.45"
+    },
+    {
+      "person_name": "WALPERT,JAMES C",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "5596.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALTERS,KEITH J",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARE,JOHN R",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "117.92"
+    },
+    {
+      "person_name": "WARRINER,MICHAEL D",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "22807.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATSON,MEGAN N",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "331.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEATHERBY,JENNIFER S",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "2270.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEBB,WALTER BARRY",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "58485.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELCH,APRIL W",
+      "job_title": "CAREER TRANSITIONS FACILITATOR",
+      "salary": "9050.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,SUSAN R",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "51132.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WESTMORELAND,MARY ANN",
+      "job_title": "SECRETARY 2",
+      "salary": "30720.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHATLEY,JAN L",
+      "job_title": "COORDINATOR",
+      "salary": "51666.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHEAT,JERRY CHADWICK",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "47870.00",
+      "travel": "1975.81"
+    },
+    {
+      "person_name": "WHEELER,KIMBERLY W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "13567.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,HOLLY G",
+      "job_title": "PROFESSIONAL EDUCATION WORKER",
+      "salary": "20700.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITEHEAD,LORI N",
+      "job_title": "CHILD ENRICHMENT CTR WORKER",
+      "salary": "36126.00",
+      "travel": "54.32"
+    },
+    {
+      "person_name": "WILLIAMS,BARRY",
+      "job_title": "INSTRUCTION DIRECTOR",
+      "salary": "76794.00",
+      "travel": "288.71"
+    },
+    {
+      "person_name": "WILLIAMS,BILLY DEAN",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7480.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,JAMES G",
+      "job_title": "STUDENT SERVICES ASST",
+      "salary": "7200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,MARK A",
+      "job_title": "CUSTODIAN",
+      "salary": "22706.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMSON,TERRY W",
+      "job_title": "VICE PRESIDENT OF ADMIN",
+      "salary": "107178.00",
+      "travel": "4707.47"
+    },
+    {
+      "person_name": "WILLIS,O  CRAIG",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "24753.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,PAUL WESLEY",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "20242.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,BARBARA",
+      "job_title": "INSTRUCTOR, TECHNICAL",
+      "salary": "67062.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,JAMES H",
+      "job_title": "MAINTENANCE TECHNICIAN",
+      "salary": "4407.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINGATE,DAN E",
+      "job_title": "CUSTODIAL SERVICES WORKER",
+      "salary": "7155.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOOD,BOBBY L",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "4200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODARD,SHARON PAULETTE",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "6040.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,BARRY W",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "9405.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,EDNA M",
+      "job_title": "ADJUNCT FACULTY",
+      "salary": "7920.00",
+      "travel": "0.00"
+    }
+  ]
+}

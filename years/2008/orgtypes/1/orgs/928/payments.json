@@ -1,0 +1,346 @@
+{
+  "payments": [
+    {
+      "person_name": "ALI,SHELINA",
+      "job_title": "ACCOUNTANT 2",
+      "salary": "47426.58",
+      "travel": "616.65"
+    },
+    {
+      "person_name": "ANDREWS,JAMES W",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "591.67"
+    },
+    {
+      "person_name": "ATTAWAY,DAVID A",
+      "job_title": "RESOURCE CENTER ASST",
+      "salary": "33055.26",
+      "travel": "2294.58"
+    },
+    {
+      "person_name": "BEASLEY,MADISON M",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "379.96"
+    },
+    {
+      "person_name": "BELL,KISCHA R",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "34180.22",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEMBRY,JOHN W",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "2458.60"
+    },
+    {
+      "person_name": "BERRY,MATTHEW",
+      "job_title": "STUDENT PERSONNEL SPECIALIST",
+      "salary": "1538.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BHEDWAR,CYRUS",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "55969.13",
+      "travel": "6164.91"
+    },
+    {
+      "person_name": "BODWELL,JASON",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "76901.54",
+      "travel": "6491.91"
+    },
+    {
+      "person_name": "BYRON,JENERRAH L",
+      "job_title": "VOLUNTEER SERVICES COORD",
+      "salary": "36105.97",
+      "travel": "751.60"
+    },
+    {
+      "person_name": "CAPRON,CARMEN",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "29236.08",
+      "travel": "766.46"
+    },
+    {
+      "person_name": "CARLISLIE,HAROLD",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "598.95"
+    },
+    {
+      "person_name": "CLARK,JAMES C",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "129875.50",
+      "travel": "10187.65"
+    },
+    {
+      "person_name": "CLARKE,DANIEL",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "82216.08",
+      "travel": "5460.54"
+    },
+    {
+      "person_name": "COLEMAN,RENITA",
+      "job_title": "ACCOUNTANT 3",
+      "salary": "59164.35",
+      "travel": "2751.05"
+    },
+    {
+      "person_name": "DUNAGAN,DAVID D",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "14891.72",
+      "travel": "1083.68"
+    },
+    {
+      "person_name": "DURRAH,ARLENE",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "68897.54",
+      "travel": "3349.96"
+    },
+    {
+      "person_name": "DYAL,TOMMY E",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "1050.89"
+    },
+    {
+      "person_name": "GIPSON,DAVID M",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "30539.48",
+      "travel": "2078.22"
+    },
+    {
+      "person_name": "GODFREY,DAVID",
+      "job_title": "PROJECT MANAGER 2",
+      "salary": "69383.41",
+      "travel": "3547.74"
+    },
+    {
+      "person_name": "HARDEN,JAMMIE Z",
+      "job_title": "BUDGET DIRECTOR",
+      "salary": "76926.05",
+      "travel": "1594.07"
+    },
+    {
+      "person_name": "HARRISON,JULIA",
+      "job_title": "MANAGED CARE DIR, REL & MKT",
+      "salary": "50108.26",
+      "travel": "191.41"
+    },
+    {
+      "person_name": "HIX,SHANE S",
+      "job_title": "PUBLIC RELATIONS EDUC PRGM MGR",
+      "salary": "58984.60",
+      "travel": "2880.00"
+    },
+    {
+      "person_name": "HUNTER,RAY",
+      "job_title": "SYSTEMS ADMINISTRATOR",
+      "salary": "60963.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "IVEY,CHERRY",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "67752.70",
+      "travel": "8220.44"
+    },
+    {
+      "person_name": "JONES,GLENDALE",
+      "job_title": "DIVISION DIRECTOR, ASST",
+      "salary": "74443.40",
+      "travel": "1409.17"
+    },
+    {
+      "person_name": "JONES,REGINA",
+      "job_title": "ACCOUNTANT 3",
+      "salary": "65841.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLY,KEVIN",
+      "job_title": "DIVISION DIRECTOR, ASSISTANT",
+      "salary": "71443.21",
+      "travel": "1248.87"
+    },
+    {
+      "person_name": "KING,MARK",
+      "job_title": "DATABASE ADMINISTRATOR",
+      "salary": "74236.88",
+      "travel": "1875.40"
+    },
+    {
+      "person_name": "LARRABEE,TED",
+      "job_title": "CONTRACTS & COMPLIANCE MGR",
+      "salary": "84083.85",
+      "travel": "11003.42"
+    },
+    {
+      "person_name": "MACK,ZOVADA",
+      "job_title": "ACCOUNTANT 3",
+      "salary": "42434.61",
+      "travel": "1149.16"
+    },
+    {
+      "person_name": "MARTIN,JOHN",
+      "job_title": "INFORMATION TECH MGR 1",
+      "salary": "16818.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASON,GREG",
+      "job_title": "ASSISTANT EXECUTIVE DIRECTOR",
+      "salary": "117218.90",
+      "travel": "6145.54"
+    },
+    {
+      "person_name": "MCELROY,BEVERLY",
+      "job_title": "DIRECTOR 2",
+      "salary": "85678.23",
+      "travel": "1194.17"
+    },
+    {
+      "person_name": "MITCHELL,DOUGLAS B",
+      "job_title": "BOARD MEMBER",
+      "salary": "630.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSES,KATHERINE",
+      "job_title": "RESOURCE CENTER ASST",
+      "salary": "34594.88",
+      "travel": "4921.02"
+    },
+    {
+      "person_name": "NATH,POONAM",
+      "job_title": "CAPITAL MARKETS SPEC",
+      "salary": "66619.52",
+      "travel": "3376.20"
+    },
+    {
+      "person_name": "NORTH,KEVIN K",
+      "job_title": "SYSTEMS PROGRAMMER 2",
+      "salary": "71353.75",
+      "travel": "570.28"
+    },
+    {
+      "person_name": "REYNOLDS,ALFREDA",
+      "job_title": "DATA MANAGEMENT ASSOCIATE",
+      "salary": "3850.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBERTSON,ELIZABETH",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "53642.16",
+      "travel": "127.54"
+    },
+    {
+      "person_name": "ROSS,RICH",
+      "job_title": "LABOR MARKET SPECIALIST 2",
+      "salary": "52946.77",
+      "travel": "1017.83"
+    },
+    {
+      "person_name": "RUSSELL,JAN",
+      "job_title": "VOLUNTEER SERVICES COORD",
+      "salary": "42609.75",
+      "travel": "320.01"
+    },
+    {
+      "person_name": "SANDS,DEREK W",
+      "job_title": "DATABASE ADMINISTRATOR TRAINEE",
+      "salary": "66958.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMILEY,DEBBIE",
+      "job_title": "ENVIRONMENTAL SPECIALIST 4",
+      "salary": "50923.50",
+      "travel": "6686.51"
+    },
+    {
+      "person_name": "SOPER,CURT",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "92759.88",
+      "travel": "1386.44"
+    },
+    {
+      "person_name": "SPIVEY,JENNIFER",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "45636.79",
+      "travel": "2436.50"
+    },
+    {
+      "person_name": "STEINMETZ,THOMAS A",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "101670.99",
+      "travel": "1699.63"
+    },
+    {
+      "person_name": "STUCKEY,JILL",
+      "job_title": "EPD ENVIRONMENTAL PRGRM MGR 2",
+      "salary": "76781.54",
+      "travel": "19330.15"
+    },
+    {
+      "person_name": "SZWAK,ANDREW",
+      "job_title": "PROJECT MGT COORDINATOR 2",
+      "salary": "9947.50",
+      "travel": "419.20"
+    },
+    {
+      "person_name": "THOMPSON,GERALD",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "487.85"
+    },
+    {
+      "person_name": "WARREN,J C",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "824.08"
+    },
+    {
+      "person_name": "WHITE,MARGIE W",
+      "job_title": "VOLUNTEER SERVICES COORD",
+      "salary": "34397.88",
+      "travel": "3225.50"
+    },
+    {
+      "person_name": "WIGGINS,ROBERT R",
+      "job_title": "EPD ENVIRONMENTAL PRGRM MGR 2",
+      "salary": "84790.74",
+      "travel": "10048.08"
+    },
+    {
+      "person_name": "WILLIAMS,TRYCHACIO",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "51118.65",
+      "travel": "5257.72"
+    },
+    {
+      "person_name": "YAWN,KIM",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "61466.28",
+      "travel": "1789.65"
+    },
+    {
+      "person_name": "ZACHERY,CHARLOTTE E",
+      "job_title": "HUMAN RESOURCES ASSISTANT SR",
+      "salary": "30732.21",
+      "travel": "1674.52"
+    },
+    {
+      "person_name": "ZACKERY,VALERIE",
+      "job_title": "ACCOUNTANT 2, PROFESSIONAL",
+      "salary": "41338.44",
+      "travel": "0.00"
+    }
+  ]
+}

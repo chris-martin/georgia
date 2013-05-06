@@ -1,0 +1,34 @@
+{
+  "payments": [
+    {
+      "person_name": "FOLSOM,PAUL W",
+      "job_title": "BOARD MEMBER",
+      "salary": "150.00",
+      "travel": "144.74"
+    },
+    {
+      "person_name": "JACKSON,MONIQUE Y",
+      "job_title": "CLERICAL WORKER",
+      "salary": "12962.50",
+      "travel": "445.26"
+    },
+    {
+      "person_name": "MEDLEY,JAMES L",
+      "job_title": "BOARD MEMBER",
+      "salary": "50.00",
+      "travel": "34.16"
+    },
+    {
+      "person_name": "METTS,DARYL J",
+      "job_title": "BOARD MEMBER",
+      "salary": "100.00",
+      "travel": "101.30"
+    },
+    {
+      "person_name": "WETHERINGTON,FRED M",
+      "job_title": "BOARD MEMBER",
+      "salary": "150.00",
+      "travel": "235.69"
+    }
+  ]
+}

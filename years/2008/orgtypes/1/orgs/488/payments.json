@@ -1,0 +1,928 @@
+{
+  "payments": [
+    {
+      "person_name": "AUKERMAN,MARY KATHERINE",
+      "job_title": "SECRETARY 3",
+      "salary": "35638.71",
+      "travel": "925.58"
+    },
+    {
+      "person_name": "BANNISTER,STANLEY MARK",
+      "job_title": "EDUCATION & TRNG COORD 1",
+      "salary": "25896.48",
+      "travel": "4124.92"
+    },
+    {
+      "person_name": "BARNHART,RITA C",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "37601.16",
+      "travel": "961.34"
+    },
+    {
+      "person_name": "BELL,DALE O",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "33845.52",
+      "travel": "975.11"
+    },
+    {
+      "person_name": "BIRDSONG,KENNETH W",
+      "job_title": "BOARD MEMBER",
+      "salary": "1785.00",
+      "travel": "2164.46"
+    },
+    {
+      "person_name": "BLAYLOCK,JAMES M",
+      "job_title": "BOARD MEMBER",
+      "salary": "1260.00",
+      "travel": "670.35"
+    },
+    {
+      "person_name": "BOLDUC,JAMES JOSEPH",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "27060.00",
+      "travel": "502.22"
+    },
+    {
+      "person_name": "BOXALL,ANITA D",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "38217.12",
+      "travel": "838.97"
+    },
+    {
+      "person_name": "BOYD,JOYCE Y",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "41326.44",
+      "travel": "549.79"
+    },
+    {
+      "person_name": "BRANNAN,DAVID SCOTT",
+      "job_title": "CEMETERY MAINT/HEAVY EQUIP OP",
+      "salary": "1982.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANNEN,WALLACE L",
+      "job_title": "CEMETERY MAINT/HEAVY EQUIP OP",
+      "salary": "2975.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRETT,MYLENE B",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "32370.36",
+      "travel": "380.69"
+    },
+    {
+      "person_name": "BROWN,STEPHANIE RENEE",
+      "job_title": "SECRETARY 2",
+      "salary": "4174.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRYANT,LORAN GLYNN",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "33224.04",
+      "travel": "1254.65"
+    },
+    {
+      "person_name": "CALLAWAY,JANICE N",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "37221.48",
+      "travel": "404.69"
+    },
+    {
+      "person_name": "CAMPBELL,JOSEPH B",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "4668.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CANAVAGGIO,GEORGE GUY",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "40758.24",
+      "travel": "942.44"
+    },
+    {
+      "person_name": "CASEY,RODNEY NEAL",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "1883.37"
+    },
+    {
+      "person_name": "CATHCART-WHITFIELD,SHERRI DELANE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26763.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAUSEY,BARBARA J",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "25889.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHANCEY,EDWARD L",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "32481.39",
+      "travel": "2373.60"
+    },
+    {
+      "person_name": "CLACK,JOHNNY THOMAS",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "37167.00",
+      "travel": "655.00"
+    },
+    {
+      "person_name": "CLAYTON,DEBORAH L",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "21806.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLAYTON,GERALD M",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "39746.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLEMAN,DEBRA L",
+      "job_title": "SECRETARY 3",
+      "salary": "26553.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COOK,THOMAS E",
+      "job_title": "COMMISSIONER, FIELD SVCS ASST",
+      "salary": "84277.80",
+      "travel": "2720.36"
+    },
+    {
+      "person_name": "COUTURIER,CRAIG STEVEN",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "35085.24",
+      "travel": "2506.41"
+    },
+    {
+      "person_name": "COWART,JAMES ERNEST",
+      "job_title": "CEMETERY DIRECTOR, ASSISTANT",
+      "salary": "25325.00",
+      "travel": "192.26"
+    },
+    {
+      "person_name": "CRAVEN,CLEO R",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "2925.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRAVEY,DANIEL W",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "47563.20",
+      "travel": "3867.30"
+    },
+    {
+      "person_name": "CRAWFORD,CAROL DENISE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "12544.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELS,FREDDIE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26565.96",
+      "travel": "717.51"
+    },
+    {
+      "person_name": "DAVIS,BOBBY J",
+      "job_title": "EDUCATION & TRNG COORD 2",
+      "salary": "39917.87",
+      "travel": "1827.47"
+    },
+    {
+      "person_name": "DIXON,JOANN M",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "44254.56",
+      "travel": "1651.98"
+    },
+    {
+      "person_name": "DODGEN,APRIL F",
+      "job_title": "ACCOUNTANT",
+      "salary": "41607.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUNLOP,RICHARD A",
+      "job_title": "CEMETERY DIRECTOR",
+      "salary": "39339.72",
+      "travel": "1887.96"
+    },
+    {
+      "person_name": "EDWARDS,LARRY",
+      "job_title": "EDUCATION & TRNG COORD 2",
+      "salary": "52196.04",
+      "travel": "6293.09"
+    },
+    {
+      "person_name": "ELLER,JANICE A",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "604.11"
+    },
+    {
+      "person_name": "EVANS,HARRY L",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "2850.53"
+    },
+    {
+      "person_name": "EVANS,LENORA C",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "30096.96",
+      "travel": "79.80"
+    },
+    {
+      "person_name": "FAIRCLOTH,HERMAN LAMAR",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "1354.93"
+    },
+    {
+      "person_name": "FEAGIN,RUSSELL K",
+      "job_title": "CEMETERY DIRECTOR, ASSISTANT",
+      "salary": "33121.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERGUSON,MARILYN M",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "39769.68",
+      "travel": "575.30"
+    },
+    {
+      "person_name": "FINCHER,FRED T",
+      "job_title": "BOARD MEMBER",
+      "salary": "1785.00",
+      "travel": "1766.27"
+    },
+    {
+      "person_name": "FLOYD,DAVID ROSS",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "14787.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOREHAND,LANIER W",
+      "job_title": "CEMETERY GROUNDS MAINT. SUPV",
+      "salary": "32250.30",
+      "travel": "1394.22"
+    },
+    {
+      "person_name": "FOX,TONI A",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "5049.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREDERICK,JAMES L",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "15269.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREEMAN,EARNEST R",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "658.11"
+    },
+    {
+      "person_name": "GAY,AVA DENISE",
+      "job_title": "CLAIMS COUNSELOR 1",
+      "salary": "23127.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLASS,LEN ELDON",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "84277.80",
+      "travel": "620.34"
+    },
+    {
+      "person_name": "GORNTO,DAVID ALLEN",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "716.97"
+    },
+    {
+      "person_name": "GRAHAM,RICHARD ALLEN",
+      "job_title": "PERSONNEL DIRECTOR, AGENCY",
+      "salary": "52390.86",
+      "travel": "1581.49"
+    },
+    {
+      "person_name": "GRAW,JAMES FRANKLIN",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "721.56"
+    },
+    {
+      "person_name": "GREENWOOD-SNYDER,LILLIAN RAE",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "17790.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,MARY A",
+      "job_title": "SECRETARY 3",
+      "salary": "34771.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMBRIGHT,CHRISTOPHER LAUGHTON",
+      "job_title": "ACCOUNTANT, EXECUTIVE",
+      "salary": "50545.56",
+      "travel": "527.00"
+    },
+    {
+      "person_name": "HARRELL,BENJAMIN L",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "745.88"
+    },
+    {
+      "person_name": "HARRELL,RAYMOND CLAY",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "31929.84",
+      "travel": "647.10"
+    },
+    {
+      "person_name": "HAYES,CYNTHIA L",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "28657.75",
+      "travel": "382.69"
+    },
+    {
+      "person_name": "HAYES,MILTON",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "659.77"
+    },
+    {
+      "person_name": "HAYNES,LIONEL",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "32585.16",
+      "travel": "899.66"
+    },
+    {
+      "person_name": "HENDRIX,ROBERT R",
+      "job_title": "BOARD MEMBER",
+      "salary": "1470.00",
+      "travel": "2168.18"
+    },
+    {
+      "person_name": "HERMAN,CORINE HOWARD",
+      "job_title": "SECRETARY 2",
+      "salary": "21141.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERRING,CHRISTINE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "34328.52",
+      "travel": "64.56"
+    },
+    {
+      "person_name": "HILL,ALESIA LEONARD",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "7462.79",
+      "travel": "402.69"
+    },
+    {
+      "person_name": "HOLLAND,DONALD RAY",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "29550.84",
+      "travel": "654.71"
+    },
+    {
+      "person_name": "HOLTZ,DANIEL D",
+      "job_title": "CONTRACTS SPECIALIST 2",
+      "salary": "64362.48",
+      "travel": "5611.99"
+    },
+    {
+      "person_name": "HOPKINS,CHARLES H",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "488.88"
+    },
+    {
+      "person_name": "HORTON,STEPHEN MICHAEL",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "380.69"
+    },
+    {
+      "person_name": "HOWARD,JIMMY WALLACE",
+      "job_title": "CEMETERY GROUNDS MAINT. SUPV",
+      "salary": "23796.67",
+      "travel": "201.64"
+    },
+    {
+      "person_name": "HUDSON,ROBERT MICHAEL",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "472.59"
+    },
+    {
+      "person_name": "HUNNICUTT,ELIZABETH J",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "35857.68",
+      "travel": "1021.31"
+    },
+    {
+      "person_name": "HURST,TERESA L",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "28303.56",
+      "travel": "487.00"
+    },
+    {
+      "person_name": "INGLE,MELISSA L",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "29629.08",
+      "travel": "378.69"
+    },
+    {
+      "person_name": "JOHNSON,BARBARA J",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "31266.84",
+      "travel": "632.68"
+    },
+    {
+      "person_name": "JOHNSON,JAY T",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "7288.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,JUDY M",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34137.12",
+      "travel": "1069.56"
+    },
+    {
+      "person_name": "JOHNSON,KELLY S",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "23278.83",
+      "travel": "409.00"
+    },
+    {
+      "person_name": "JONES,CHARLA W",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "41520.72",
+      "travel": "235.80"
+    },
+    {
+      "person_name": "JONES,WONDA FAYE",
+      "job_title": "PERSONNEL ANALYST 2",
+      "salary": "44167.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,KAREN ELIZABETH",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "397.69"
+    },
+    {
+      "person_name": "JUNG,HELDON",
+      "job_title": "EDUCATION & TRAINING DIRECTOR",
+      "salary": "65541.12",
+      "travel": "7315.06"
+    },
+    {
+      "person_name": "KENT,JAMES E",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "33798.84",
+      "travel": "1782.85"
+    },
+    {
+      "person_name": "KING,VICKIE L",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "41320.20",
+      "travel": "588.21"
+    },
+    {
+      "person_name": "LAMB,MELANIE D",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "29387.54",
+      "travel": "619.37"
+    },
+    {
+      "person_name": "LANDIS,COMMELLA C",
+      "job_title": "SECRETARY 2",
+      "salary": "27497.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANGFORD,GEORGE A",
+      "job_title": "DIRECTOR, CLAIMS",
+      "salary": "58530.00",
+      "travel": "1551.55"
+    },
+    {
+      "person_name": "LAVENDER,LINDA MARIE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "382.69"
+    },
+    {
+      "person_name": "LESTER,WILLIAM T",
+      "job_title": "CEMETERY MAINT/HEAVY EQUIP OP",
+      "salary": "24592.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LLOYD,BEVERLY ANN",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "27561.84",
+      "travel": "575.72"
+    },
+    {
+      "person_name": "LOFTUS,ALICE RENE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "51685.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MALPASS,TONYA",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "33224.04",
+      "travel": "2060.94"
+    },
+    {
+      "person_name": "MAULDIN,SANDRA R",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "12489.90",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCORD,HENRY STANCEL",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "813.81"
+    },
+    {
+      "person_name": "MIDDLETON,JEWEL L",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "39736.92",
+      "travel": "382.69"
+    },
+    {
+      "person_name": "MILES,WILLIE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "21341.46",
+      "travel": "554.59"
+    },
+    {
+      "person_name": "MILLS,KENNETH GEORGE",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "711.82"
+    },
+    {
+      "person_name": "MOORE,JENELLE ALANA",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "5796.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORGAN,GEORGE P",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "2411.72"
+    },
+    {
+      "person_name": "NAYLOR,KAROL PAMELA",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "446.71"
+    },
+    {
+      "person_name": "NELSON,ANITA M",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "47198.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NOLES,MICHAEL L",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "41520.72",
+      "travel": "736.74"
+    },
+    {
+      "person_name": "NORRED,JEFFERY D",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "28451.82",
+      "travel": "879.99"
+    },
+    {
+      "person_name": "PARTLOW,MICHAEL",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "28897.64",
+      "travel": "697.07"
+    },
+    {
+      "person_name": "PHAGAN,CAROL B",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "42354.48",
+      "travel": "559.60"
+    },
+    {
+      "person_name": "PHILLIPS,PAT",
+      "job_title": "BOARD MEMBER",
+      "salary": "1785.00",
+      "travel": "1974.97"
+    },
+    {
+      "person_name": "POWELL,MICHAEL RALPH",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "990.74"
+    },
+    {
+      "person_name": "PRICE,JAMES L",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "1401.10"
+    },
+    {
+      "person_name": "PRITCHETT,VINCENT MAURICE",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "32585.16",
+      "travel": "675.20"
+    },
+    {
+      "person_name": "PURVIS,MICHAEL EDWIN",
+      "job_title": "CEMETERY MAINT/HEAVY EQUIP OP",
+      "salary": "19308.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PUSHIC,TAMARA LOUISE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "566.62"
+    },
+    {
+      "person_name": "RAND,JOHNNY MACK",
+      "job_title": "PROCUREMENT & SUPPLY SPEC",
+      "salary": "27954.60",
+      "travel": "262.49"
+    },
+    {
+      "person_name": "RANDLES,JAMES D",
+      "job_title": "OPERATIONS ANALYSIS MGR",
+      "salary": "47173.20",
+      "travel": "585.71"
+    },
+    {
+      "person_name": "REEVES,JAMES ELESTER",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "40008.60",
+      "travel": "669.26"
+    },
+    {
+      "person_name": "RICHMAN,LENORE",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "16796.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBBINS,BILLY GLENN",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "679.25"
+    },
+    {
+      "person_name": "ROBERSON,TERRY LEE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "868.07"
+    },
+    {
+      "person_name": "ROBINSON,ARTIS",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "32660.88",
+      "travel": "615.64"
+    },
+    {
+      "person_name": "ROBINSON,REBECCA",
+      "job_title": "SECRETARY 2",
+      "salary": "12493.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBY,MICHAEL EARL",
+      "job_title": "AREA SUPERVISOR",
+      "salary": "57517.80",
+      "travel": "5188.34"
+    },
+    {
+      "person_name": "ROBY,ROBERT EARL",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "41520.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROLLINS,RAYMOND C",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "34477.44",
+      "travel": "1742.00"
+    },
+    {
+      "person_name": "ROOD,STEPHEN A",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "19624.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROPER,RAMONA",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "23553.56",
+      "travel": "379.87"
+    },
+    {
+      "person_name": "SIMONS,ERNEST R",
+      "job_title": "CEMETERY DIRECTOR",
+      "salary": "42883.32",
+      "travel": "864.65"
+    },
+    {
+      "person_name": "SIMPSON,SHELLY ANN MARIE",
+      "job_title": "PUBLIC RELATIONS & INFO SPEC 1",
+      "salary": "1164.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SLAY,HOWARD NEIL",
+      "job_title": "CLAIMS COUNSELOR 1",
+      "salary": "28592.58",
+      "travel": "670.19"
+    },
+    {
+      "person_name": "SMITH,JOSEPH D",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26763.20",
+      "travel": "594.84"
+    },
+    {
+      "person_name": "SMITH,TERRY RANDALL",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "32733.12",
+      "travel": "866.52"
+    },
+    {
+      "person_name": "SPAULDING,ROBERT G",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "33845.52",
+      "travel": "2369.95"
+    },
+    {
+      "person_name": "STANLEY,CARLEEN",
+      "job_title": "COMPUTER NETWORK ADMIN 2",
+      "salary": "41467.81",
+      "travel": "1851.49"
+    },
+    {
+      "person_name": "STEWART,RODERICA NICHELLE",
+      "job_title": "SECRETARY 2",
+      "salary": "5767.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STUMPF,HARRY D",
+      "job_title": "EDUCATION & TRNG COORD 2",
+      "salary": "52196.04",
+      "travel": "4780.15"
+    },
+    {
+      "person_name": "SUGGS,JON ALLAN",
+      "job_title": "PUBLIC RELATIONS & INFO SPEC 1",
+      "salary": "23291.79",
+      "travel": "165.75"
+    },
+    {
+      "person_name": "TINDALL,ASA W",
+      "job_title": "SUPPORT SERVICES WORKER",
+      "salary": "249.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUCKER,WILLIAM R",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "32585.16",
+      "travel": "1603.77"
+    },
+    {
+      "person_name": "TURNER,ROBERT",
+      "job_title": "AREA SUPERVISOR",
+      "salary": "11897.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,ROBERT M",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "33224.04",
+      "travel": "988.85"
+    },
+    {
+      "person_name": "WADDELL,WAYNE A",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "26566.08",
+      "travel": "625.12"
+    },
+    {
+      "person_name": "WARD,HERBERT LEON",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "41520.84",
+      "travel": "619.60"
+    },
+    {
+      "person_name": "WATERS,TOMMY SCOTT",
+      "job_title": "LANDSCAPE GARDENER",
+      "salary": "15360.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELTER,APRIL DAWN",
+      "job_title": "FIELD OFFICE MANAGER 1",
+      "salary": "29575.92",
+      "travel": "681.36"
+    },
+    {
+      "person_name": "WHEELER,PETER",
+      "job_title": "COMMISSIONER",
+      "salary": "133844.16",
+      "travel": "4245.02"
+    },
+    {
+      "person_name": "WILLIS,JOEL",
+      "job_title": "CLAIMS COUNSELOR 2",
+      "salary": "44559.84",
+      "travel": "2580.63"
+    },
+    {
+      "person_name": "WILSON,CARL",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "33224.04",
+      "travel": "471.93"
+    },
+    {
+      "person_name": "WILSON,RHONDA JEAN",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "681.92"
+    },
+    {
+      "person_name": "WOOD,SANDRA J",
+      "job_title": "FIELD OFFICE MANAGER 2",
+      "salary": "41039.28",
+      "travel": "1214.88"
+    },
+    {
+      "person_name": "WOODIE,ALAN R",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "382.69"
+    },
+    {
+      "person_name": "WOODS,MATTHEW CLINTON",
+      "job_title": "CEMETERY MAINT/HEAVY EQUIP OP",
+      "salary": "12358.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODWARD,BARRIE W",
+      "job_title": "CLERK 2, GENERAL",
+      "salary": "25889.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YARBER,JEFFERY WAYNE",
+      "job_title": "VETERANS BENEFITS COUNSELOR",
+      "salary": "25660.32",
+      "travel": "382.69"
+    },
+    {
+      "person_name": "YOUNGBLOOD,PHILIP GREGORY",
+      "job_title": "AREA SUPERVISOR",
+      "salary": "57517.80",
+      "travel": "6645.77"
+    },
+    {
+      "person_name": "ZERINGUE,BRIAN J",
+      "job_title": "PUBLIC RELATIONS INFO PGM MGR",
+      "salary": "43819.32",
+      "travel": "782.49"
+    }
+  ]
+}

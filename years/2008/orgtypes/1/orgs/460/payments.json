@@ -1,0 +1,898 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAIR,SHARON",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "36731.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,JAMES",
+      "job_title": "CUSTOMER SERVICE CENTER MGR",
+      "salary": "56466.73",
+      "travel": "1576.01"
+    },
+    {
+      "person_name": "ANDERSON,NANYAMKA NAYO",
+      "job_title": "HUMAN RESOURCES PROGRAM ASST 2",
+      "salary": "21943.38",
+      "travel": "583.82"
+    },
+    {
+      "person_name": "APPLEWHITE,PATRICIA DIANE",
+      "job_title": "HUMAN RESOURCES PROGRAM ASST 2",
+      "salary": "29185.92",
+      "travel": "677.20"
+    },
+    {
+      "person_name": "ATKINS,DAMON W",
+      "job_title": "BUSINESS ANALYST SUPV",
+      "salary": "11693.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AZIZ,MUSTAFA A",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "99828.92",
+      "travel": "176.21"
+    },
+    {
+      "person_name": "BALLARD,ANGELA B",
+      "job_title": "PROGRAMMER ANALYST 3",
+      "salary": "72094.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARFIELD,CHRISTOPHER ROBERT",
+      "job_title": "FLEXIBLE BENEFITS SPECIALIST 2",
+      "salary": "42646.56",
+      "travel": "2673.93"
+    },
+    {
+      "person_name": "BENNETT,G NORMAN",
+      "job_title": "BOARD MEMBER",
+      "salary": "735.00",
+      "travel": "2547.51"
+    },
+    {
+      "person_name": "BERGEN,MILLICENT M",
+      "job_title": "SECRETARY, CONFIDENTIAL",
+      "salary": "34534.20",
+      "travel": "834.41"
+    },
+    {
+      "person_name": "BROCKINGTON,FELECIA",
+      "job_title": "OPERATIONS ANALYST 3",
+      "salary": "26655.67",
+      "travel": "13.00"
+    },
+    {
+      "person_name": "BROOKS,CHARLES KENNEDY",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "50615.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,ALFRED H",
+      "job_title": "HUMAN RESOURCES PROJECTS COORD",
+      "salary": "51173.52",
+      "travel": "254.30"
+    },
+    {
+      "person_name": "BROWN,TARA W",
+      "job_title": "HUMAN RESOURCES COORD",
+      "salary": "39097.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRUCE,JAN MARIE",
+      "job_title": "CORRESPONDENCE SPEC",
+      "salary": "36342.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,PATRICIA MULLINS",
+      "job_title": "CLERK 1, GENERAL",
+      "salary": "20250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CALLENDER,LAURA ANNE",
+      "job_title": "CLERK 1, GENERAL",
+      "salary": "1453.13",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAREY,MARY KATHLEEN",
+      "job_title": "PERSONNEL DIRECTOR",
+      "salary": "72225.24",
+      "travel": "631.97"
+    },
+    {
+      "person_name": "CASE,THERESA",
+      "job_title": "FLEXIBLE BENEFITS SPECIALIST 2",
+      "salary": "50001.16",
+      "travel": "24.23"
+    },
+    {
+      "person_name": "CASTEEL,WALTER LEO",
+      "job_title": "PERSONNEL ANALYSIS SECT MGR",
+      "salary": "58003.68",
+      "travel": "434.56"
+    },
+    {
+      "person_name": "CHAMPAGNIE,ANDRANIKI",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "76632.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHONG,HAE JIN",
+      "job_title": "ACCOUNTANT 2, PROFESSIONAL",
+      "salary": "37265.18",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLEMENTS,CLEVELAND",
+      "job_title": "COMMUNICATIONS & MKTNG SPEC",
+      "salary": "47179.00",
+      "travel": "1684.74"
+    },
+    {
+      "person_name": "CLONTS,SAMUEL R",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "73976.88",
+      "travel": "1117.73"
+    },
+    {
+      "person_name": "CUSTIN,ROGER BERNABE",
+      "job_title": "IT SECTION MGR",
+      "salary": "89012.08",
+      "travel": "359.76"
+    },
+    {
+      "person_name": "DABELLA,CHAD JOSEPH",
+      "job_title": "BUDGET OFFICER",
+      "salary": "47170.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS-KEENE,KAREN IRENE",
+      "job_title": "WORKLIFE PROGRAM MGR",
+      "salary": "62821.92",
+      "travel": "3.46"
+    },
+    {
+      "person_name": "DELANEY,ANWAR V",
+      "job_title": "LAN ADMINISTRATOR",
+      "salary": "10000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENMAN,DONNA B",
+      "job_title": "TRAINING COORDINATOR",
+      "salary": "51783.00",
+      "travel": "5149.21"
+    },
+    {
+      "person_name": "DIXON-BINNS,VICKI",
+      "job_title": "PROGRAM ASSISTANT",
+      "salary": "28402.47",
+      "travel": "367.36"
+    },
+    {
+      "person_name": "DOLLARSON,TANZIER M",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "53170.80",
+      "travel": "1087.23"
+    },
+    {
+      "person_name": "DUNHAM,NEANDRA S",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "39500.16",
+      "travel": "591.42"
+    },
+    {
+      "person_name": "EAVES,VIRGINIA ALICE",
+      "job_title": "BENEFIT TRANSACTIONS TECH",
+      "salary": "35433.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,CLAYBON J",
+      "job_title": "BOARD MEMBER",
+      "salary": "945.00",
+      "travel": "1042.77"
+    },
+    {
+      "person_name": "FAMILIA,ELIGIA",
+      "job_title": "ACCOUNTANT 2",
+      "salary": "11883.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEDRICK,MARION LINDA",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "120882.52",
+      "travel": "3062.24"
+    },
+    {
+      "person_name": "FINDLAY,JULIA G",
+      "job_title": "ADMINISTRATIVE SUPPORT COORD",
+      "salary": "49192.92",
+      "travel": "3.00"
+    },
+    {
+      "person_name": "FLACKER,LORIE R",
+      "job_title": "PLANNER 3",
+      "salary": "53578.92",
+      "travel": "671.31"
+    },
+    {
+      "person_name": "FOLSOM,WILLIAM B",
+      "job_title": "MANAGEMENT CONSULTANT",
+      "salary": "76632.48",
+      "travel": "113.07"
+    },
+    {
+      "person_name": "FORDE,RANDOLPH RAULE",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "7992.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOSTER,VENESA L",
+      "job_title": "TRAINING COORDINATOR",
+      "salary": "44406.24",
+      "travel": "5045.16"
+    },
+    {
+      "person_name": "FRANCIS,SHERMA C",
+      "job_title": "DIVISION DIRECTOR, ASST",
+      "salary": "81617.25",
+      "travel": "6.92"
+    },
+    {
+      "person_name": "FRAZIER,DIANE M",
+      "job_title": "PROJECT DIRECTOR 2",
+      "salary": "24221.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREELS,MELINDA",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "12225.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOINES,FATIMA",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "36453.48",
+      "travel": "1011.73"
+    },
+    {
+      "person_name": "GONTER,RICHARD ANTHONY",
+      "job_title": "HUMAN RESOURCES STRATEGIES MGR",
+      "salary": "69251.04",
+      "travel": "15.92"
+    },
+    {
+      "person_name": "GORDON,DOROTHY C",
+      "job_title": "WORKLIFE PROGRAM MGR",
+      "salary": "72067.08",
+      "travel": "754.08"
+    },
+    {
+      "person_name": "GREGORY,RODNEY T",
+      "job_title": "LAN ADMINISTRATOR",
+      "salary": "10000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIER,DAPHANY A",
+      "job_title": "FLEXIBLE BENEFITS SPECIALIST 1",
+      "salary": "33792.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMILTON,RALPH",
+      "job_title": "PROJECT DIRECTOR 2",
+      "salary": "18884.07",
+      "travel": "4.50"
+    },
+    {
+      "person_name": "HARRIS,GEORGE",
+      "job_title": "WEBMASTER, ASSISTANT",
+      "salary": "40518.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,JANICE LEWIS",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "31550.19",
+      "travel": "141.86"
+    },
+    {
+      "person_name": "HAYWOOD,RAYMOND D",
+      "job_title": "BENEFIT MARKETING & EDUC MGR",
+      "salary": "51449.22",
+      "travel": "457.88"
+    },
+    {
+      "person_name": "HAYWOOD-BRYANT,NEKIEA TALESE",
+      "job_title": "ACCOUNTANT 2",
+      "salary": "25060.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HECHT,JANET ELAINE",
+      "job_title": "HUMAN RESOURCES PROJECTS COORD",
+      "salary": "49717.15",
+      "travel": "3001.70"
+    },
+    {
+      "person_name": "HEINY,FRANKLIN JOE",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "120221.92",
+      "travel": "5320.78"
+    },
+    {
+      "person_name": "HENDERSON,LASONJA RENEE",
+      "job_title": "FLEXIBLE BENEFITS SPECIALIST 1",
+      "salary": "33589.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENDERSON-YOUNGS,CARLETTA K",
+      "job_title": "COMM. & MARKETING MGR",
+      "salary": "53107.10",
+      "travel": "1354.36"
+    },
+    {
+      "person_name": "HILL,BARBARA J",
+      "job_title": "ADMINISTRATIVE SPECIALIST 1",
+      "salary": "48636.92",
+      "travel": "112.77"
+    },
+    {
+      "person_name": "HODGES,LAWRENCE",
+      "job_title": "HUMAN RESOURCES PROGRAM ASST 2",
+      "salary": "25883.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOKE,ALTON DAVID",
+      "job_title": "HUMAN RESOURCES DEV PROG MGR 2",
+      "salary": "14989.27",
+      "travel": "232.00"
+    },
+    {
+      "person_name": "HOWARD,RHONDA S",
+      "job_title": "PROJECT MANAGER",
+      "salary": "28333.36",
+      "travel": "65.36"
+    },
+    {
+      "person_name": "HYSMITH,BRENDA KAY",
+      "job_title": "HUMAN RESOURCES PROGRAM ASST 2",
+      "salary": "34584.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JETER,PAIGE SHARMANE",
+      "job_title": "WORKLIFE PROGRAM MGR",
+      "salary": "56972.16",
+      "travel": "188.80"
+    },
+    {
+      "person_name": "JOHNSON,NOREEN NORTON",
+      "job_title": "HUMAN RESOURCES PROGRAM ASSOC",
+      "salary": "2026.84",
+      "travel": "98.57"
+    },
+    {
+      "person_name": "JONES,ELIZABETH ANN",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "108706.56",
+      "travel": "2862.21"
+    },
+    {
+      "person_name": "JONES,MARIA J",
+      "job_title": "BENEFIT TRANSACTIONS TECH",
+      "salary": "27479.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JORDAN,CYNTHIA DENISE",
+      "job_title": "PROGRAMMER ANALYST 2",
+      "salary": "52042.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOSEPH,KENRICK JOHN",
+      "job_title": "HUMAN RESOURCES PROGRAM ASST 2",
+      "salary": "25866.48",
+      "travel": "1427.74"
+    },
+    {
+      "person_name": "JOSEPH,ROBERT R",
+      "job_title": "BOARD MEMBER",
+      "salary": "1050.00",
+      "travel": "332.08"
+    },
+    {
+      "person_name": "KASHIRI,JUANDOLYN CORETTA",
+      "job_title": "ENGINEER, MGR ENTERPRISE NTWRK",
+      "salary": "66787.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEENE,VICTOR L",
+      "job_title": "ACCOUNTING DIRECTOR 2",
+      "salary": "108706.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KINARD-BOUTTE,PATRICIA",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "85932.84",
+      "travel": "796.63"
+    },
+    {
+      "person_name": "KNOOP,GRIFFITH",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "39839.38",
+      "travel": "229.53"
+    },
+    {
+      "person_name": "LEIGH,TIFFANI DAWN",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "39748.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOFTON-BROADWAY,GUSSIE",
+      "job_title": "ADMINISTRATION MANAGER",
+      "salary": "57013.68",
+      "travel": "16.49"
+    },
+    {
+      "person_name": "LOVETT,DARIA",
+      "job_title": "CLERK 1, GENERAL",
+      "salary": "610.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWE,PATRICIA A",
+      "job_title": "PROFESSIONAL STAFF ASSISTANT",
+      "salary": "29232.48",
+      "travel": "387.86"
+    },
+    {
+      "person_name": "MAILE,JEFF",
+      "job_title": "MANAGEMENT SPECIALIST",
+      "salary": "54989.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARKS,ERIC B",
+      "job_title": "MAIL SERVICES SUPV",
+      "salary": "26283.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAYO,RALPH L",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "8750.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAZUKNIENE,RENATA",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "24879.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDANIEL,KENYATTA L",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "35051.40",
+      "travel": "458.80"
+    },
+    {
+      "person_name": "MCDANIEL,LINDSEY HOWARD",
+      "job_title": "HUMAN RESOURCES PROJECTS COORD",
+      "salary": "24954.38",
+      "travel": "371.08"
+    },
+    {
+      "person_name": "MCGEE,ANDREA DIONNE",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "108706.56",
+      "travel": "49.47"
+    },
+    {
+      "person_name": "MILLS,TIMOTHY J",
+      "job_title": "PROCUREMENT & SVCS OFFICER 2",
+      "salary": "58786.36",
+      "travel": "35.00"
+    },
+    {
+      "person_name": "MILNE,CYNDEE M",
+      "job_title": "CLERK 1, GENERAL",
+      "salary": "8864.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MITCHELL,STEVEN D",
+      "job_title": "NETWORK PC SPECIALIST",
+      "salary": "23373.85",
+      "travel": "61.11"
+    },
+    {
+      "person_name": "MONTAQUE,DEKISHA N",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "29443.33",
+      "travel": "33.23"
+    },
+    {
+      "person_name": "MOON,PAULINE",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "47365.65",
+      "travel": "906.73"
+    },
+    {
+      "person_name": "MOORE,DERRICK",
+      "job_title": "LAN ENGINEER",
+      "salary": "58017.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORRIS,MARLA F",
+      "job_title": "ADMINISTRATIVE OPS COORD 1",
+      "salary": "34661.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOSLEY,TAMARA YVONNE",
+      "job_title": "HUMAN RESOURCES CONS",
+      "salary": "41600.08",
+      "travel": "333.99"
+    },
+    {
+      "person_name": "MURDOCK,BARBARA W",
+      "job_title": "WORKLIFE PROGRAM MGR",
+      "salary": "53483.16",
+      "travel": "2414.16"
+    },
+    {
+      "person_name": "MYERS,LEON HARPER",
+      "job_title": "CLERK, MAIL SERVICES",
+      "salary": "24600.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,AMANDA ANN",
+      "job_title": "EMPLOYMENT SERVICES MANAGER",
+      "salary": "43651.68",
+      "travel": "855.46"
+    },
+    {
+      "person_name": "PARKER,BEVERLY S",
+      "job_title": "FLEXIBLE BENEFITS SPECIALIST 2",
+      "salary": "50198.08",
+      "travel": "970.95"
+    },
+    {
+      "person_name": "PERRY,CAROLYN A",
+      "job_title": "HUMAN RESOURCES DEV PROG MGR 2",
+      "salary": "71152.20",
+      "travel": "9570.41"
+    },
+    {
+      "person_name": "PERRY,PHYLLIS A",
+      "job_title": "TRAINING CENTER COORDINATOR",
+      "salary": "13552.20",
+      "travel": "3.46"
+    },
+    {
+      "person_name": "PHILLIPS,TEEIA ANN",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "20431.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PIAZZA,TERESA J",
+      "job_title": "CUSTOMER SERVICE CENTER MGR",
+      "salary": "4839.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PINCKNEY,DEDRENA G",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "15296.78",
+      "travel": "111.00"
+    },
+    {
+      "person_name": "POLK,PATTI SHARAE",
+      "job_title": "BENEFIT UNIT MANAGER",
+      "salary": "53350.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PRICE,PATRICK K",
+      "job_title": "PUBLIC RELATIONS & INFO SPEC 2",
+      "salary": "2916.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAINES,MICHELLE",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "46068.72",
+      "travel": "1429.27"
+    },
+    {
+      "person_name": "RAINWATER,ARNITA THOMPSON",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "41349.96",
+      "travel": "1125.87"
+    },
+    {
+      "person_name": "REID,ROBERT WEATHERLY",
+      "job_title": "HUMAN RESOURCES CONSULTANT 2",
+      "salary": "43740.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RICE,LAVELL T",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "49830.84",
+      "travel": "286.95"
+    },
+    {
+      "person_name": "RICHARDSON,SHELIA J",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "20000.00",
+      "travel": "357.98"
+    },
+    {
+      "person_name": "ROACH,HAL",
+      "job_title": "BOARD MEMBER",
+      "salary": "840.00",
+      "travel": "1666.02"
+    },
+    {
+      "person_name": "ROACH,JOHN O",
+      "job_title": "PERSONNEL ANALYSIS SECT MGR",
+      "salary": "28218.19",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RODGERS,MICHAEL VINCENT",
+      "job_title": "FISCAL DIRECTOR",
+      "salary": "81718.16",
+      "travel": "475.27"
+    },
+    {
+      "person_name": "RUDD,WILLIAM LEE",
+      "job_title": "DEPUTY COMMISSIONER",
+      "salary": "124977.47",
+      "travel": "5865.85"
+    },
+    {
+      "person_name": "SCHWEICKERT,JULI B",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "44166.96",
+      "travel": "138.22"
+    },
+    {
+      "person_name": "SCOTT,DORNA CARRINGTON",
+      "job_title": "DIVISION DIRECTOR, ASST",
+      "salary": "72050.08",
+      "travel": "328.69"
+    },
+    {
+      "person_name": "SCOTT,TRACY L",
+      "job_title": "HUMAN RESOURCES PROGRAM ASST 2",
+      "salary": "2026.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEOL,JAEGYOO",
+      "job_title": "OPERATIONS ANALYST 2",
+      "salary": "23164.55",
+      "travel": "470.30"
+    },
+    {
+      "person_name": "SHULTIS,RONALD LEE",
+      "job_title": "COMMISSIONER, ASSISTANT",
+      "salary": "25875.01",
+      "travel": "275.01"
+    },
+    {
+      "person_name": "SIMMONS,BERNEDA H",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "60766.68",
+      "travel": "32.00"
+    },
+    {
+      "person_name": "SIMON,JAMELL C",
+      "job_title": "WEBMASTER",
+      "salary": "47515.00",
+      "travel": "1840.08"
+    },
+    {
+      "person_name": "SMITH,LEO REGINALD",
+      "job_title": "TRAINING COORDINATOR",
+      "salary": "53803.60",
+      "travel": "8173.35"
+    },
+    {
+      "person_name": "SNOW,ANNETTE V",
+      "job_title": "BENEFIT MARKETING & EDUC MGR",
+      "salary": "85516.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STEVENSON,RAYMOND",
+      "job_title": "COMMISSIONER",
+      "salary": "156125.04",
+      "travel": "14832.29"
+    },
+    {
+      "person_name": "STONE,VENUS HARRINGTON",
+      "job_title": "HUMAN RESOURCES DEV PROG MGR 2",
+      "salary": "62577.36",
+      "travel": "4796.16"
+    },
+    {
+      "person_name": "STOWERS,GAIL",
+      "job_title": "PERSONNEL ANALYST 3",
+      "salary": "52174.68",
+      "travel": "108.00"
+    },
+    {
+      "person_name": "SULLIVAN,LENA",
+      "job_title": "SPECIAL PROJECTS COORD",
+      "salary": "24420.12",
+      "travel": "3.00"
+    },
+    {
+      "person_name": "SUTTON,STEPHEN C",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "43547.16",
+      "travel": "161.26"
+    },
+    {
+      "person_name": "TERRELL,DENA L",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "21681.26",
+      "travel": "1458.32"
+    },
+    {
+      "person_name": "THOMAS,GERALDINE P",
+      "job_title": "BOARD MEMBER",
+      "salary": "840.00",
+      "travel": "46.99"
+    },
+    {
+      "person_name": "TIMMONS,VALENCIA D",
+      "job_title": "BENEFIT UNIT SUPV",
+      "salary": "43812.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,LINDA R",
+      "job_title": "BUDGET OFFICER",
+      "salary": "31489.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,KIMBERLY LATRICE",
+      "job_title": "CLERK 1, GENERAL",
+      "salary": "10728.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARREN,KAREN ELISSA",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "21506.33",
+      "travel": "1157.05"
+    },
+    {
+      "person_name": "WAYE,CHRISTEL CORLETTE",
+      "job_title": "ACCOUNTANT 2, PROFESSIONAL",
+      "salary": "10021.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEGLEWSKI,TED A",
+      "job_title": "INFORMATION TECH MGR 1",
+      "salary": "69771.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,MARCIA LEIGH",
+      "job_title": "MARKETING DIRECTOR",
+      "salary": "66235.32",
+      "travel": "60.04"
+    },
+    {
+      "person_name": "WIGGINS,GWENDOLYN L",
+      "job_title": "DIVISION DIRECTOR, ASST",
+      "salary": "72719.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILKINS,RHONDA L",
+      "job_title": "TRAINING COORDINATOR",
+      "salary": "43736.64",
+      "travel": "7031.93"
+    },
+    {
+      "person_name": "WILLIAMS,DEBORAH L",
+      "job_title": "DIVISION DIRECTOR",
+      "salary": "90932.84",
+      "travel": "3007.71"
+    },
+    {
+      "person_name": "WILLIAMS,KENNETH KEITH",
+      "job_title": "ACCOUNTANT 3, PROFESSIONAL",
+      "salary": "43143.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,LILLIAN H",
+      "job_title": "SECRETARY, EXECUTIVE",
+      "salary": "35781.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,LISA SHARNELLE",
+      "job_title": "PROFESSIONAL STAFF ASSISTANT",
+      "salary": "10480.80",
+      "travel": "10.42"
+    },
+    {
+      "person_name": "WILLIAMS,SENCIRA",
+      "job_title": "HUMAN RESOURCES COORD",
+      "salary": "34164.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,MELINDA WOMACK",
+      "job_title": "HUMAN RESOURCES CONSULTANT 3",
+      "salary": "12499.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILSON,SONYA L",
+      "job_title": "FLEXIBLE BENEFITS SPECIALIST 2",
+      "salary": "33749.28",
+      "travel": "163.91"
+    },
+    {
+      "person_name": "WITCHER,RONNIE D",
+      "job_title": "PROGRAM DIRECTOR 2",
+      "salary": "47716.72",
+      "travel": "212.52"
+    },
+    {
+      "person_name": "WOMACK,MONIRAH T",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "17.76"
+    },
+    {
+      "person_name": "WOOD,JAMES H",
+      "job_title": "HUMAN RESOURCES PROGRAM ASST 2",
+      "salary": "34588.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YI,GINA JEESOOK",
+      "job_title": "PROJECT COORDINATOR 2",
+      "salary": "9686.39",
+      "travel": "0.00"
+    }
+  ]
+}

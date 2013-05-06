@@ -1,0 +1,40 @@
+{
+  "payments": [
+    {
+      "person_name": "BOWERS,ANDREW E",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "343.44"
+    },
+    {
+      "person_name": "HIDELL,HOLLY G",
+      "job_title": "NUTRITIONIST",
+      "salary": "17576.40",
+      "travel": "182.07"
+    },
+    {
+      "person_name": "HOWELL,ROBERT N",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "40243.26",
+      "travel": "1185.96"
+    },
+    {
+      "person_name": "HUTTO,JEWELL A",
+      "job_title": "PROGRAM OPERATIONS SPECIALIST",
+      "salary": "34912.80",
+      "travel": "1291.56"
+    },
+    {
+      "person_name": "STRAUGHAN,JERRY S",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "265.30"
+    },
+    {
+      "person_name": "THOMASON,LARRY",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "260.65"
+    }
+  ]
+}

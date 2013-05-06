@@ -1,0 +1,940 @@
+{
+  "payments": [
+    {
+      "person_name": "AARON,RABUN DACUS",
+      "job_title": "PROJECT MANAGER, SENIOR",
+      "salary": "81920.12",
+      "travel": "3442.31"
+    },
+    {
+      "person_name": "ABNEY,CHARLES",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "40372.93",
+      "travel": "12140.91"
+    },
+    {
+      "person_name": "ABRAHAM,GENA L",
+      "job_title": "DIRECTOR OF CONSTRUCTION DIV",
+      "salary": "46837.84",
+      "travel": "4538.88"
+    },
+    {
+      "person_name": "ALLEN,DANNIE A",
+      "job_title": "CONTACT COMPLIANCE SPEC SR.",
+      "salary": "47791.44",
+      "travel": "17496.87"
+    },
+    {
+      "person_name": "ALVI,MOHAMMED A",
+      "job_title": "DATABASE MANAGER",
+      "salary": "46989.79",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "AMATULLI,MARY E",
+      "job_title": "FINANCIAL ANALYST",
+      "salary": "54912.84",
+      "travel": "321.92"
+    },
+    {
+      "person_name": "ANDERSON-PURCELL,DEBORAH",
+      "job_title": "PROJECT MANAGER",
+      "salary": "42945.00",
+      "travel": "5345.95"
+    },
+    {
+      "person_name": "ANDREWS,RICHARD FRANK",
+      "job_title": "CONTACT COMPLIANCE SPEC SR.",
+      "salary": "49643.00",
+      "travel": "22285.02"
+    },
+    {
+      "person_name": "BARRETT,LAURA LEIGH",
+      "job_title": "PROJECT MANAGER",
+      "salary": "61915.08",
+      "travel": "3612.48"
+    },
+    {
+      "person_name": "BEASINGER,MEGAN KRISTINE",
+      "job_title": "PROJECT MANAGER ASSISTANT",
+      "salary": "20026.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BELL,JAMES CHRISTOPHER",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "43326.18",
+      "travel": "4390.81"
+    },
+    {
+      "person_name": "BERRY,JOHN WESLEY",
+      "job_title": "PROJECT MANAGER",
+      "salary": "63093.09",
+      "travel": "1516.10"
+    },
+    {
+      "person_name": "BLEAM,JEFFREY DAVID",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "40711.70",
+      "travel": "12256.22"
+    },
+    {
+      "person_name": "BLIZZARD,ALBERT DWAYNE",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "26484.23",
+      "travel": "8318.57"
+    },
+    {
+      "person_name": "BROMLEY,TIMOTHY E",
+      "job_title": "ARCHITECT, SENIOR",
+      "salary": "69172.20",
+      "travel": "613.42"
+    },
+    {
+      "person_name": "BROOKS,GARY C",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "39725.77",
+      "travel": "14735.66"
+    },
+    {
+      "person_name": "BURGESS,DAWN FIELDS",
+      "job_title": "RECORDS MANAGER",
+      "salary": "53890.04",
+      "travel": "635.48"
+    },
+    {
+      "person_name": "BURTON,JOVONN A",
+      "job_title": "CLERICAL WORKER",
+      "salary": "8634.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUSCEMI,ROBERT T",
+      "job_title": "REVIEW GROUP MANAGER",
+      "salary": "57600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAIN,LEE C",
+      "job_title": "PROJECT MANAGER",
+      "salary": "64216.96",
+      "travel": "1205.84"
+    },
+    {
+      "person_name": "CARR,GLYNDA W",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "52101.25",
+      "travel": "9573.24"
+    },
+    {
+      "person_name": "CARR,WILLIAM L",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "43780.90",
+      "travel": "15807.75"
+    },
+    {
+      "person_name": "CARTER,PETE",
+      "job_title": "CONTACT COMPLIANCE SPEC SR.",
+      "salary": "48603.36",
+      "travel": "19104.98"
+    },
+    {
+      "person_name": "CENTERS,DONALD L",
+      "job_title": "REG CONTRACT COMPLIANCE SPEC",
+      "salary": "62489.72",
+      "travel": "26670.27"
+    },
+    {
+      "person_name": "CLARK,CHRISTEN CONSTANCE",
+      "job_title": "CLERICAL WORKER",
+      "salary": "12153.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,KEVIN O",
+      "job_title": "DEPUTY DIR OF CONSTRUCTION",
+      "salary": "0.00",
+      "travel": "280.00"
+    },
+    {
+      "person_name": "COWELL,CHRISTOPHER W",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "42562.13",
+      "travel": "29006.70"
+    },
+    {
+      "person_name": "COX,MICHELLE V",
+      "job_title": "PROJECT MANAGER",
+      "salary": "14864.57",
+      "travel": "833.07"
+    },
+    {
+      "person_name": "CREECY,CRYSTAL M",
+      "job_title": "PROJECT MANAGER ASSISTANT",
+      "salary": "48235.46",
+      "travel": "7120.19"
+    },
+    {
+      "person_name": "CROMER,BOBBY E",
+      "job_title": "PROJECT MANAGER",
+      "salary": "69172.20",
+      "travel": "2197.03"
+    },
+    {
+      "person_name": "CROWLEY,DENISE L",
+      "job_title": "PROJECT TECHNICIAN",
+      "salary": "36287.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CURETON,CARMEN D",
+      "job_title": "ASST DIR CONSTRUCTION SERVICES",
+      "salary": "105631.75",
+      "travel": "3041.46"
+    },
+    {
+      "person_name": "DAVIS,ARIEL C",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "32947.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,ERICKA BROWN",
+      "job_title": "PUBLIC RELATIONS COORDINATOR",
+      "salary": "41295.87",
+      "travel": "100.00"
+    },
+    {
+      "person_name": "DAVIS,IRA JOE",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "435.50"
+    },
+    {
+      "person_name": "DAVIS,ROBERT E",
+      "job_title": "PROJECT MANAGER, SENIOR",
+      "salary": "64554.35",
+      "travel": "1831.49"
+    },
+    {
+      "person_name": "DENNEY,LAUREN A",
+      "job_title": "CLERICAL WORKER",
+      "salary": "1732.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNIS,ANNE H",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "33840.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DENNIS,JOHN R",
+      "job_title": "CLERICAL WORKER",
+      "salary": "3120.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOCKREY,RICKEY LYNN",
+      "job_title": "REG CONTRACT COMPLIANCE SPEC",
+      "salary": "61995.76",
+      "travel": "23005.50"
+    },
+    {
+      "person_name": "DURR,AMOS L",
+      "job_title": "PROJECT MANAGER",
+      "salary": "69222.20",
+      "travel": "10955.06"
+    },
+    {
+      "person_name": "EATON,CHRISTOPHER D",
+      "job_title": "CLERICAL WORKER",
+      "salary": "13652.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EIDSON,LINDA F",
+      "job_title": "ADMIN ASST TO COMMISSIONER",
+      "salary": "23249.97",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLIS,NATASHA P",
+      "job_title": "CLERICAL WORKER",
+      "salary": "6309.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,ERIN L",
+      "job_title": "CLERICAL WORKER",
+      "salary": "16552.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FARLEY,STEPHANIE D",
+      "job_title": "PROJECT TECHNICIAN",
+      "salary": "16428.49",
+      "travel": "355.27"
+    },
+    {
+      "person_name": "FELTS,DAVID E",
+      "job_title": "PROJECT MANAGER",
+      "salary": "69172.20",
+      "travel": "10644.67"
+    },
+    {
+      "person_name": "FIELDS,DEMARIO E",
+      "job_title": "CLERICAL WORKER",
+      "salary": "6196.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLORES,MARIELA",
+      "job_title": "ADA INFORMATION & REFERRAL SPE",
+      "salary": "37028.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FORMAN,STEVE L",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "43017.40",
+      "travel": "6702.01"
+    },
+    {
+      "person_name": "FOWLER,FRED DOUGLAS",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "35942.62",
+      "travel": "7633.87"
+    },
+    {
+      "person_name": "GALIFIANAKIS,MANUEL",
+      "job_title": "STATEWIDE ADA COORDINATOR",
+      "salary": "91451.52",
+      "travel": "1798.85"
+    },
+    {
+      "person_name": "GAULDIN,LARRY D",
+      "job_title": "CONTACT COMPLIANCE SPEC SR.",
+      "salary": "49735.07",
+      "travel": "3571.04"
+    },
+    {
+      "person_name": "GIST,KEENAN P",
+      "job_title": "PROJECT MANAGER",
+      "salary": "65974.92",
+      "travel": "5092.95"
+    },
+    {
+      "person_name": "GREEN,HOLLY TRENAM",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "79274.81",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GROVES,PETER C",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "39822.14",
+      "travel": "4792.94"
+    },
+    {
+      "person_name": "GUNTER,ANGELA D",
+      "job_title": "ADMINISTRATIVE COORDINATOR",
+      "salary": "60932.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMBRICK,SHUNDRA J",
+      "job_title": "PAYROLL PARAPROFESSIONAL 2",
+      "salary": "40612.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAN,JING",
+      "job_title": "ACCOUNTANT 2, PROFESSIONAL",
+      "salary": "39508.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,EDDIE",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "23521.62",
+      "travel": "13299.83"
+    },
+    {
+      "person_name": "HAYNES,RENYA ELIZABETH",
+      "job_title": "TRAINING COORDINATOR",
+      "salary": "71278.04",
+      "travel": "921.92"
+    },
+    {
+      "person_name": "HEATON,JOEL",
+      "job_title": "PROJECT MANAGER, SENIOR",
+      "salary": "79499.88",
+      "travel": "1960.22"
+    },
+    {
+      "person_name": "HOENES,KARL E",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "435.50"
+    },
+    {
+      "person_name": "HONEYWILL,SARA H",
+      "job_title": "CONTRACTS SPECIALIST SENIOR",
+      "salary": "21666.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOUSER,LYNDA W",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "34055.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOUZE,AUBREY M",
+      "job_title": "PURCHASING AGENT",
+      "salary": "39711.31",
+      "travel": "1089.87"
+    },
+    {
+      "person_name": "HYDE,JIMMY LEE",
+      "job_title": "BIDDING MANAGER",
+      "salary": "62891.28",
+      "travel": "700.92"
+    },
+    {
+      "person_name": "IMMANUEL,IFIOK I",
+      "job_title": "ARCHITECT",
+      "salary": "56070.00",
+      "travel": "668.15"
+    },
+    {
+      "person_name": "JAMES,JEAN ANN",
+      "job_title": "CLERICAL WORKER",
+      "salary": "3912.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JEFFERSON,JOHN N",
+      "job_title": "ARCHITECT, SENIOR",
+      "salary": "17037.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNS,ROBERT R",
+      "job_title": "PROJECT MANAGER, SENIOR",
+      "salary": "79499.88",
+      "travel": "7670.67"
+    },
+    {
+      "person_name": "JOHNSON,JACQUELINE D",
+      "job_title": "PROJECT TECHNICIAN",
+      "salary": "41393.40",
+      "travel": "367.88"
+    },
+    {
+      "person_name": "JOHNSON,KIMBERLY M",
+      "job_title": "ADMINISTRATIVE COORDINATOR",
+      "salary": "20932.80",
+      "travel": "612.45"
+    },
+    {
+      "person_name": "JOHNSON,PAUL R",
+      "job_title": "INFORMATION TECHNOLOGY  DIR",
+      "salary": "91350.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON-DEVLIN,MELANIE",
+      "job_title": "HR BENEFITS COORDINATOR",
+      "salary": "58161.00",
+      "travel": "1028.42"
+    },
+    {
+      "person_name": "JUE,BRUCE R",
+      "job_title": "ENGINEER",
+      "salary": "53182.50",
+      "travel": "3936.56"
+    },
+    {
+      "person_name": "JURKIEWICZ,JOHN R",
+      "job_title": "DIRECTOR OF HUMAN RESOURCES",
+      "salary": "56199.70",
+      "travel": "1045.28"
+    },
+    {
+      "person_name": "KERN,RONALD ARTHUR",
+      "job_title": "ARCHITECT, SENIOR",
+      "salary": "72068.30",
+      "travel": "228.92"
+    },
+    {
+      "person_name": "KINGSTON,NANCY G",
+      "job_title": "ACCOUNTANT, PARAPROFESSIONAL",
+      "salary": "34587.88",
+      "travel": "376.79"
+    },
+    {
+      "person_name": "KNOWLES,GLENDA M",
+      "job_title": "CHIEF FINANCIAL OFFICER",
+      "salary": "93223.84",
+      "travel": "75.66"
+    },
+    {
+      "person_name": "KNOWLES,RACHEL A",
+      "job_title": "CLERICAL WORKER",
+      "salary": "2226.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LACKS,JEFF ROY",
+      "job_title": "CONTRACTS MANAGER",
+      "salary": "69190.44",
+      "travel": "1171.31"
+    },
+    {
+      "person_name": "LAMBERT,KIMBERLY RENEE",
+      "job_title": "CLERICAL WORKER",
+      "salary": "15813.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANDRY,SHYSHA M",
+      "job_title": "IMAGING TECHNICIAN",
+      "salary": "29815.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LITTLEJOHN,ANN L",
+      "job_title": "QUALITY ASSURANCE GROUP LEADER",
+      "salary": "79499.88",
+      "travel": "3417.22"
+    },
+    {
+      "person_name": "MALONE,DIADRA N",
+      "job_title": "ADMINISTRATIVE COORDINATOR",
+      "salary": "42342.94",
+      "travel": "502.76"
+    },
+    {
+      "person_name": "MANALILI,SONNY G",
+      "job_title": "NETWORK ADMINISTRATOR",
+      "salary": "15849.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASTRELLA,GERARD J",
+      "job_title": "ENGINEER, SENIOR",
+      "salary": "75900.07",
+      "travel": "2783.58"
+    },
+    {
+      "person_name": "MATHEWS,ANJA",
+      "job_title": "PROJECT MANAGER",
+      "salary": "71278.04",
+      "travel": "2728.35"
+    },
+    {
+      "person_name": "MATTHEWS,RAYBURN E",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "42370.10",
+      "travel": "10018.13"
+    },
+    {
+      "person_name": "MAUDLIN,DELMAR C",
+      "job_title": "DEPUTY DIR OF CONSTRUCTION",
+      "salary": "118079.92",
+      "travel": "2842.62"
+    },
+    {
+      "person_name": "MAULL,PETRINA",
+      "job_title": "EXECUTIVE ASSISTANT",
+      "salary": "40600.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAY,WILLIAM DORE",
+      "job_title": "PROJECT MANAGER",
+      "salary": "65974.92",
+      "travel": "1519.11"
+    },
+    {
+      "person_name": "MCDOUGAL,MARIE B",
+      "job_title": "PROJECT TECHNICIAN",
+      "salary": "9720.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDOWELL,FREDERICK G",
+      "job_title": "QUALITY ASSURANCE SYS MGR",
+      "salary": "44037.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCELHANNON,EDWIN L",
+      "job_title": "DIRECTO OF BOND FINANCE",
+      "salary": "97896.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCKIBBEN,MARK D",
+      "job_title": "PROJECT MANAGER",
+      "salary": "36171.74",
+      "travel": "1319.42"
+    },
+    {
+      "person_name": "MCKINNEY,JAMES W",
+      "job_title": "REG CONTRACT COMPLIANCE SPEC",
+      "salary": "19853.32",
+      "travel": "2929.10"
+    },
+    {
+      "person_name": "MCSHANN,CHRISTOPHER A",
+      "job_title": "CLERICAL WORKER",
+      "salary": "4215.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEEKS,MARC C",
+      "job_title": "REG CONTRACT COMPLIANCE SPEC",
+      "salary": "61995.76",
+      "travel": "20237.32"
+    },
+    {
+      "person_name": "MILLER,ERICA L",
+      "job_title": "CLERICAL WORKER",
+      "salary": "2298.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MINTER,BRENDA L",
+      "job_title": "ADMINISTRATIVE COORDINATOR",
+      "salary": "46725.58",
+      "travel": "1560.61"
+    },
+    {
+      "person_name": "MITCHELL,ROBERT B",
+      "job_title": "PROJECT MANAGER",
+      "salary": "9405.14",
+      "travel": "528.06"
+    },
+    {
+      "person_name": "MORTON,ANDREW C",
+      "job_title": "PROJECT MANAGER",
+      "salary": "69172.20",
+      "travel": "15877.80"
+    },
+    {
+      "person_name": "MORTON,JAMIE L",
+      "job_title": "CONTRACTS SPECIALIST",
+      "salary": "9307.30",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORTON,MICHAEL A",
+      "job_title": "PROJECT MANAGER",
+      "salary": "47066.61",
+      "travel": "6251.27"
+    },
+    {
+      "person_name": "NASH,GREGORY A",
+      "job_title": "PROJECT MANAGER",
+      "salary": "38660.99",
+      "travel": "1955.04"
+    },
+    {
+      "person_name": "NAWROCKI,STEVEN M",
+      "job_title": "PROJECT MANAGER ASSISTANT",
+      "salary": "8554.83",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NICHOL,LUCAS L",
+      "job_title": "PROJECT MANAGER",
+      "salary": "69272.20",
+      "travel": "6802.69"
+    },
+    {
+      "person_name": "OGBONNA,CHIMA C",
+      "job_title": "CONSTRUCTION COST ESTIMATOR 2",
+      "salary": "60164.16",
+      "travel": "2650.42"
+    },
+    {
+      "person_name": "PALMA,REYNALDO A",
+      "job_title": "DIRECTOR OF PROCUREMENT SVCS",
+      "salary": "2238.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PANDO,CATHERINE A",
+      "job_title": "PUBLIC RELATIONS COORDINATOR",
+      "salary": "17708.35",
+      "travel": "49.47"
+    },
+    {
+      "person_name": "PASSLEY,GIFTON S",
+      "job_title": "PROJECT MANAGER, SENIOR",
+      "salary": "78405.90",
+      "travel": "2408.87"
+    },
+    {
+      "person_name": "PEACE,STACEY EILEEN",
+      "job_title": "ASST STAEWIDE ADA COORDINATOR",
+      "salary": "86470.83",
+      "travel": "8.00"
+    },
+    {
+      "person_name": "POPE,DIANA H",
+      "job_title": "DIRECTOR OF FINANC & INVEST",
+      "salary": "119926.44",
+      "travel": "219.00"
+    },
+    {
+      "person_name": "PRESTO,CYNTHIA ANN",
+      "job_title": "DIRECTOR OF LEGAL SERVICES",
+      "salary": "80666.73",
+      "travel": "1337.24"
+    },
+    {
+      "person_name": "RAWLINS,LINDA R",
+      "job_title": "PROGRAM OPERATIONS MANAGER",
+      "salary": "61995.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RILEY,JOE A",
+      "job_title": "PROJECT MANAGER",
+      "salary": "38891.62",
+      "travel": "1593.03"
+    },
+    {
+      "person_name": "ROMERO,JORDAN L",
+      "job_title": "CLERICAL WORKER",
+      "salary": "6506.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,CAROLYN A",
+      "job_title": "PURCHASING MANAGER",
+      "salary": "70721.52",
+      "travel": "794.07"
+    },
+    {
+      "person_name": "SAADE,MICHAEL JOSEPH",
+      "job_title": "ENGINEER",
+      "salary": "62109.79",
+      "travel": "392.85"
+    },
+    {
+      "person_name": "SAWYER,RICHARD E",
+      "job_title": "DIRECTOR OF PROCUREMENT SVCS",
+      "salary": "69413.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAYERS,WILLIAM",
+      "job_title": "CLERICAL WORKER",
+      "salary": "2531.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHARPTON,LISA R",
+      "job_title": "DIRECTOR OF HUMAN RESOURCES",
+      "salary": "33375.03",
+      "travel": "65.65"
+    },
+    {
+      "person_name": "SHELTON,PAUL",
+      "job_title": "ENGINEER, SENIOR",
+      "salary": "95589.45",
+      "travel": "3609.68"
+    },
+    {
+      "person_name": "SIMMS,STEVEN CLAYTON",
+      "job_title": "PROJECT MANAGER ASSISTANT",
+      "salary": "11169.48",
+      "travel": "62.66"
+    },
+    {
+      "person_name": "SITE,KIMBERLE M",
+      "job_title": "CHIEF FINANCIAL OFFICER",
+      "salary": "95410.08",
+      "travel": "397.54"
+    },
+    {
+      "person_name": "SLACK,TERESA",
+      "job_title": "DEP DIR OF FINANCING/INVESTMEN",
+      "salary": "25450.00",
+      "travel": "1443.65"
+    },
+    {
+      "person_name": "SMITH,SHIRLEY R",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "34636.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STANCE,DONNIKA D",
+      "job_title": "CLERICAL WORKER",
+      "salary": "757.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STANCIL,STEVEN LYLE",
+      "job_title": "DIRECTOR OF CONSTRUCTION DIV",
+      "salary": "39888.54",
+      "travel": "14.00"
+    },
+    {
+      "person_name": "STORM,DOUGLAS P",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "30104.17",
+      "travel": "10860.56"
+    },
+    {
+      "person_name": "SUTTON,INDIA S",
+      "job_title": "CLERICAL WORKER",
+      "salary": "4736.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,GEORGE V",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "40376.31",
+      "travel": "26119.89"
+    },
+    {
+      "person_name": "THACH,FRANK F",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "55935.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THUMAN,ADAM",
+      "job_title": "PROJECT MANAGER",
+      "salary": "2154.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOMLINSON,CHRISTOPHER S",
+      "job_title": "DEPUTY DIR OF CONSTRUCTION",
+      "salary": "99307.38",
+      "travel": "1415.91"
+    },
+    {
+      "person_name": "TOWLE,NINA M",
+      "job_title": "CLERICAL WORKER",
+      "salary": "9307.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TOWNSEND,DENNIS REEVES",
+      "job_title": "PROJECT MANAGER",
+      "salary": "71328.04",
+      "travel": "4747.26"
+    },
+    {
+      "person_name": "TRIEMER,ANDREW L",
+      "job_title": "DATABASE MANAGER",
+      "salary": "72869.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TZVIATKOVA,DANIELA T",
+      "job_title": "CONTACT COMPLIANCE SPEC SR.",
+      "salary": "34083.28",
+      "travel": "1855.26"
+    },
+    {
+      "person_name": "VERDON,WENDY MILEY",
+      "job_title": "FINANCIAL SERVICES WORKER",
+      "salary": "16157.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VICKERY,EVERETT",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "39928.16",
+      "travel": "10531.23"
+    },
+    {
+      "person_name": "VOLODARSKY,ALEX D",
+      "job_title": "ACCOUNTING MANAGER",
+      "salary": "62139.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,NARDIS R",
+      "job_title": "CLERICAL WORKER",
+      "salary": "8936.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITEHEAD,THERESA J",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "34357.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITNEY,BOBBIE BREEN",
+      "job_title": "MAIL CLERK",
+      "salary": "29734.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITWORTH,DARREL L",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "36603.37",
+      "travel": "11883.03"
+    },
+    {
+      "person_name": "WILLIAMS,DONNIE FRANKLIN",
+      "job_title": "CONTACT COMPLIANCE SPEC SR.",
+      "salary": "45345.12",
+      "travel": "8535.32"
+    },
+    {
+      "person_name": "WILLIAMSON,STEPHEN K",
+      "job_title": "CONTACT COMPLIANCE SPEC SR.",
+      "salary": "49075.96",
+      "travel": "8009.14"
+    },
+    {
+      "person_name": "WILSON,RONALD",
+      "job_title": "CONTRACT COMPLIANCE SPECIALIST",
+      "salary": "39537.83",
+      "travel": "9838.80"
+    },
+    {
+      "person_name": "WRIGHT,ELAINE",
+      "job_title": "ACCOUNTANT 2, PROFESSIONAL",
+      "salary": "47994.26",
+      "travel": "633.69"
+    },
+    {
+      "person_name": "YANCEY,MARTINE G",
+      "job_title": "NETWORK ADMINISTRATOR",
+      "salary": "27833.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YARBOROUGH,KATINA LATRELL",
+      "job_title": "HUMAN RESOURCES RECRUITER",
+      "salary": "46588.56",
+      "travel": "559.94"
+    },
+    {
+      "person_name": "ZUBER,CASSANDRA PATRICE",
+      "job_title": "CONTRACTS SPECIALIST",
+      "salary": "43459.92",
+      "travel": "712.31"
+    },
+    {
+      "person_name": "ZURBRUGG,KELLY",
+      "job_title": "ADMINISTRATIVE COORDINATOR",
+      "salary": "57680.28",
+      "travel": "0.00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "payments": [
+    {
+      "person_name": "BROWN,MARILYN M",
+      "job_title": "SECRETARY, EXECUTIVE",
+      "salary": "4709.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CLARK,KEVIN O",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "45352.80",
+      "travel": "854.68"
+    },
+    {
+      "person_name": "DONOHUE,WILLIAM A",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "69782.40",
+      "travel": "2639.01"
+    },
+    {
+      "person_name": "HORTMAN,JOY S",
+      "job_title": "ACCOUNTANT",
+      "salary": "37584.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,FRANK L",
+      "job_title": "EXECUTIVE DIRECTOR",
+      "salary": "57178.08",
+      "travel": "0.00"
+    }
+  ]
+}

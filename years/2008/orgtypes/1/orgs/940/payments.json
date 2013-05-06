@@ -1,0 +1,538 @@
+{
+  "payments": [
+    {
+      "person_name": "BAKER,EMMA E",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "16010.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARTON,AMANDA",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "238.39",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARTON,MELBA J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "8213.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEARDSLEY,ELIZABETH J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "10292.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLAIR,VIVIAN A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "15829.60",
+      "travel": "82.88"
+    },
+    {
+      "person_name": "BOHANNON,JAMES M",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "8380.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BOWEN,WILLIAM",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRUCE,LYDIA S",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "307.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURGESS,LILLIE M",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "5833.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,BRIAN R",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "12165.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAMPBELL,CAROL",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "61.43",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CASTLEBERRY,JAMES A",
+      "job_title": "GROUNDS SPECIALIST 1",
+      "salary": "23850.43",
+      "travel": "88.76"
+    },
+    {
+      "person_name": "CHAPPELL,FRED S",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "980.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHEEK,HEATHER",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "282.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CODY,BARBARA A",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "11914.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLEY,RON",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COSPER,FEROL S",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "8351.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COX,HOWARD B",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "6840.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CRANFORD,CHARLOTTE D",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "8074.80",
+      "travel": "60.63"
+    },
+    {
+      "person_name": "DEKLE,GAIL R",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "9912.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIXON,CARL M",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "4536.67",
+      "travel": "211.98"
+    },
+    {
+      "person_name": "DOTSON,BETTY J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "8939.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOWDY,WILLIS H",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "7290.05",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EASON,HISAE U",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "6178.31",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLETCHER,CHAD T",
+      "job_title": "GROUNDSKEEPER",
+      "salary": "3258.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FUNDERBURKE,BILLY E",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "14729.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARRICK,VICTORIA J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "12658.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAY,SARA E",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "6401.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIDDENS,JAKE C",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "5056.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GIRARDEAU,THOMAS F",
+      "job_title": "CRAFTSMAN, GNRL TRADES",
+      "salary": "23713.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GLOSSUP,JOE L",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "8685.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GOFF,FOSTER S",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "1046.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAYDON,LENORA B",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "5964.11",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRIFFIN,RODDY H",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "214.58",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HALE,DOYLE N",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "9232.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMPTON,BARBARA J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "10028.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,JAMES",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "6938.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARVEY,JOE",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "3758.65",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HASTY,JOHN A",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "1854.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAYES,ARLIE",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "12334.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HENLEY,WILLIE J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "7959.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HETZEL,DAVID L",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "4736.67",
+      "travel": "103.31"
+    },
+    {
+      "person_name": "HIGGINS,JAMES A",
+      "job_title": "PROGRAM DIRECTOR 1",
+      "salary": "63045.82",
+      "travel": "1441.60"
+    },
+    {
+      "person_name": "HIGGS,PAUL",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "7905.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HINES,MELVIN 0",
+      "job_title": "CRAFTSMAN, GNRL TRADES",
+      "salary": "24836.42",
+      "travel": "1794.16"
+    },
+    {
+      "person_name": "HINES,THOMAS J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "6692.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOULE,KATHY H",
+      "job_title": "CLERK, INVENTORY SUPPLY",
+      "salary": "18593.72",
+      "travel": "29.59"
+    },
+    {
+      "person_name": "HURST,COLVIN T",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "112.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HYDE,MARY R",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "11022.62",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,EDWARD L",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "7193.98",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JACKSON,JOHN H",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "4374.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JERNIGAN,LEYMAN H",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "12558.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,JOHN H",
+      "job_title": "MUSEUM CURATOR OF EXHIBITS",
+      "salary": "40591.24",
+      "travel": "1643.21"
+    },
+    {
+      "person_name": "JOHNSON,RUBY G",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "8276.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,DORIS M",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "3694.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEEN,ANTHONY C",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "6798.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,ARTHUR D",
+      "job_title": "MAINTENANCE SHOP MGR",
+      "salary": "34600.91",
+      "travel": "545.59"
+    },
+    {
+      "person_name": "KING,LYNETTE J",
+      "job_title": "ADMINISTRATIVE OPERATIONSASST",
+      "salary": "18226.10",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LANIER,WILLIAM",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "420.98"
+    },
+    {
+      "person_name": "LEE,GEORGE",
+      "job_title": "BOARD MEMBER",
+      "salary": "420.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEGER,MARJORIE",
+      "job_title": "BOARD MEMBER",
+      "salary": "210.00",
+      "travel": "79.54"
+    },
+    {
+      "person_name": "LOTT,EMILY J",
+      "job_title": "ACCOUNTING CLERK",
+      "salary": "26927.25",
+      "travel": "1001.10"
+    },
+    {
+      "person_name": "MILEY,SHERRY L",
+      "job_title": "MARKETING SPECIALIST",
+      "salary": "34837.27",
+      "travel": "472.59"
+    },
+    {
+      "person_name": "MIMS,SUSAN F",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "16610.42",
+      "travel": "740.10"
+    },
+    {
+      "person_name": "MORGAN,PAUL J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "407.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORTON,CECIL S",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "12212.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORTON,HAYESLIND A",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "6997.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAYNE,JESSICA L",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "236.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POE,WAYNE A",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "4719.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POGUE,MATTIE B",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "13525.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PURVIS,ARLIE E",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "1159.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REDEKER,DALE",
+      "job_title": "BOARD MEMBER",
+      "salary": "315.00",
+      "travel": "17.46"
+    },
+    {
+      "person_name": "SCARBOROUGH,FLOYD J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "46.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,THELMA M",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "12237.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPEARMAN,TYRON",
+      "job_title": "BOARD MEMBER",
+      "salary": "105.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SPINKS,FORD B",
+      "job_title": "GROUNDSKEEPING SUPERVISOR",
+      "salary": "32855.23",
+      "travel": "588.08"
+    },
+    {
+      "person_name": "SPRADLIN,H L",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "9249.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STINSON,HEATHER W",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "444.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STINSON,LARRY J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "9069.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TALLEY,PAULINE F",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "11625.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAWZER,MAE E",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "15494.07",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,ISSACC",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "3878.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRESSLAR,WILLIAM L",
+      "job_title": "CRAFTSMAN, GNRL TRADES",
+      "salary": "12952.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TURNER,JOSHUA A",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "235.47",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEEKS,OPAL C",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "264.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEST,EDWIN J",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "11387.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITLEY,CHRISTINE W",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "7822.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,MICHAEL E",
+      "job_title": "INTERPRETIVE EDUCATION COORD",
+      "salary": "21381.11",
+      "travel": "409.22"
+    },
+    {
+      "person_name": "ZINS,SHIRLEY L",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "2334.01",
+      "travel": "0.00"
+    }
+  ]
+}

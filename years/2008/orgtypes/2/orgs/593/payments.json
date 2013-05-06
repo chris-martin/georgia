@@ -1,0 +1,544 @@
+{
+  "payments": [
+    {
+      "person_name": "ALEXANDER,CLARK R",
+      "job_title": "PROFESSOR",
+      "salary": "103000.01",
+      "travel": "8969.07"
+    },
+    {
+      "person_name": "AMFT,JULIE A",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "58585.78",
+      "travel": "3255.66"
+    },
+    {
+      "person_name": "ANTONELLI,ROBERT J",
+      "job_title": "MANAGER",
+      "salary": "61509.00",
+      "travel": "218.74"
+    },
+    {
+      "person_name": "BAYLOR,VICTORIA D",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "32318.93",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BICHY,JOHN B",
+      "job_title": "MARINE PROFESSIONAL",
+      "salary": "45793.20",
+      "travel": "1687.94"
+    },
+    {
+      "person_name": "BILLER,KARIN",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "3900.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLANTON,JACKSON O",
+      "job_title": "PROFESSOR",
+      "salary": "95757.93",
+      "travel": "3283.22"
+    },
+    {
+      "person_name": "BOYETTE,ANNA H",
+      "job_title": "TECHNICAL DESIGN PARAPROFESSIONAL",
+      "salary": "49734.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANDES,JAY A",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "103000.02",
+      "travel": "8930.02"
+    },
+    {
+      "person_name": "BRAZELL,CASEY C",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "17600.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRINKLEY,KARRIE",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "34025.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUNKLEY,MEGAN N",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1230.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUTLER,KAREN L",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARTER,HARRY M",
+      "job_title": "SERVICE / MAINTENANCE FOREMAN/LEAD",
+      "salary": "47160.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHRISTIANSEN,ELIZABETH T",
+      "job_title": "HR/EEO/OD PROFESSIONAL",
+      "salary": "44098.62",
+      "travel": "734.13"
+    },
+    {
+      "person_name": "COOLING,LEAH D",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "21978.13",
+      "travel": "9.70"
+    },
+    {
+      "person_name": "CRUICKSHANK,JOHN L",
+      "job_title": "LIBRARY PROFESSIONAL AD",
+      "salary": "52250.04",
+      "travel": "2097.45"
+    },
+    {
+      "person_name": "DAVIS,ALETHEA C",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "13819.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DILK,STEPHEN D",
+      "job_title": "GRADUATE ASSISTANT",
+      "salary": "1250.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOSER,LISA S",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "29560.02",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FOX,JENNIFER M",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "36749.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRIPP,ROBERT J",
+      "job_title": "MARINE TECHNICAL/ PARAPROFESSIONAL",
+      "salary": "45247.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FRISCHER,MARC E",
+      "job_title": "PROFESSOR",
+      "salary": "102000.02",
+      "travel": "998.13"
+    },
+    {
+      "person_name": "GILES,MERCREDI",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "21597.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRAHAM,JEFFREY A",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GRANT,MAURENA D",
+      "job_title": "ACCOUNTING PROFESSIONAL",
+      "salary": "47675.34",
+      "travel": "2290.90"
+    },
+    {
+      "person_name": "HARTMAN,CHARLES E",
+      "job_title": "MANAGER",
+      "salary": "76023.54",
+      "travel": "2140.94"
+    },
+    {
+      "person_name": "HATCH,LEILA T",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "59767.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JAHNKE,DEBORAH B",
+      "job_title": "MANAGER",
+      "salary": "57403.52",
+      "travel": "400.00"
+    },
+    {
+      "person_name": "JAHNKE,RICHARD A",
+      "job_title": "PROFESSOR",
+      "salary": "120749.98",
+      "travel": "2756.41"
+    },
+    {
+      "person_name": "JONES,JUREL L",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "19372.27",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KEATING,JULIA D",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KING,VERNA DEE",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "42667.56",
+      "travel": "266.28"
+    },
+    {
+      "person_name": "KINNEY,JENNIFER L",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2384.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KRUEGER,GAIL",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "56657.66",
+      "travel": "579.03"
+    },
+    {
+      "person_name": "LEE,RICHARD F",
+      "job_title": "TEMPORARY FACULTY",
+      "salary": "1200.00",
+      "travel": "4033.06"
+    },
+    {
+      "person_name": "MANN,ELIZABETH",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "69730.51",
+      "travel": "4787.96"
+    },
+    {
+      "person_name": "MARTIN,ISAAC",
+      "job_title": "TEMPORARY SKILLED CRAFTS / TRADES",
+      "salary": "8843.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,VIOLA",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "17223.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MASCOLO,MARC M",
+      "job_title": "ASSOC/ASST DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "100150.00",
+      "travel": "4282.81"
+    },
+    {
+      "person_name": "MCKISSACK,TRAVIS H",
+      "job_title": "MANAGER",
+      "salary": "71250.00",
+      "travel": "4870.93"
+    },
+    {
+      "person_name": "MEEKS,DEBRA M",
+      "job_title": "OFFICE MANAGER / CLERICAL SUPERVISOR",
+      "salary": "43068.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "METCALFE,COREY H",
+      "job_title": "ENGINEER",
+      "salary": "60403.55",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MICHAEL,STEPHEN V",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "40219.37",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIZELL,NEIL T",
+      "job_title": "SKILLED CRAFTSPERSON",
+      "salary": "43606.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOORE,TRENT C",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "47032.17",
+      "travel": "3242.71"
+    },
+    {
+      "person_name": "MORRISON,CHRISTEL",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "38650.02",
+      "travel": "1502.43"
+    },
+    {
+      "person_name": "MOYD,KAREN L",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NELSON,JAMES R",
+      "job_title": "ASSOCIATE PROFESSOR",
+      "salary": "96424.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NICKLES,GRADY M",
+      "job_title": "SERVICE / MAINTENANCE WORKER",
+      "salary": "1561.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NIXON,KATHERINE C",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OELSNER,DAVID",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "4002.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAFFENHOFER,GUSTAV ADOLF",
+      "job_title": "TEMPORARY FACULTY",
+      "salary": "11648.64",
+      "travel": "1908.18"
+    },
+    {
+      "person_name": "PALEFSKY,WHITNEY H",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "9135.88",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARIANI,DAGNY",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PATRICK,VICKI L",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "37600.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PECK,AARON",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "65975.04",
+      "travel": "1942.48"
+    },
+    {
+      "person_name": "PECK,MEGAN E",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "11055.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RECICAR,TODD C",
+      "job_title": "MARINE PROFESSIONAL",
+      "salary": "47395.97",
+      "travel": "6181.06"
+    },
+    {
+      "person_name": "RICHARDS,MARY E",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "36628.24",
+      "travel": "102.00"
+    },
+    {
+      "person_name": "RICHTER,MICHAEL A",
+      "job_title": "MARINE PROFESSIONAL",
+      "salary": "55039.63",
+      "travel": "2468.33"
+    },
+    {
+      "person_name": "ROBERTSON,CHARLES Y",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "50588.58",
+      "travel": "4255.82"
+    },
+    {
+      "person_name": "ROBINSON,MICHAEL",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "35670.26",
+      "travel": "779.79"
+    },
+    {
+      "person_name": "SANDERS,JAMES G",
+      "job_title": "DIRECTOR, COLLEGE/DIVISION/SCHOOL AC",
+      "salary": "165234.96",
+      "travel": "8086.79"
+    },
+    {
+      "person_name": "SAVIDGE,DANA",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "69730.53",
+      "travel": "851.52"
+    },
+    {
+      "person_name": "SAVIDGE,WILLIAM B",
+      "job_title": "ASSISTANT PROFESSOR",
+      "salary": "25885.48",
+      "travel": "1836.10"
+    },
+    {
+      "person_name": "SCARBOROUGH,JOHN CHRISTOPHER",
+      "job_title": "IT",
+      "salary": "3733.33",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOVILLE,NICHOLAS",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "16973.00",
+      "travel": "48.31"
+    },
+    {
+      "person_name": "SHORTLAND,REBECCA",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "58486.96",
+      "travel": "2958.34"
+    },
+    {
+      "person_name": "SMITH,COLTON A",
+      "job_title": "IT",
+      "salary": "20649.99",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,JEREMY S",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "6780.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STERLING,DENNIS M",
+      "job_title": "SERVICE / MAINTENANCE FOREMAN/LEAD",
+      "salary": "32210.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "STRAPOC,DARIUSZ",
+      "job_title": "POST-DOCTORAL ASSOCIATE AC",
+      "salary": "2200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SULLIVAN,PATRICK MICHAEL",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "60900.00",
+      "travel": "6330.16"
+    },
+    {
+      "person_name": "SWEATTE,RAYMOND M",
+      "job_title": "MARINE PROFESSIONAL",
+      "salary": "64636.07",
+      "travel": "1249.20"
+    },
+    {
+      "person_name": "THOMAS,NORMAN",
+      "job_title": "TEMPORARY SKILLED CRAFTS / TRADES",
+      "salary": "18645.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMAS,RAYMOND E",
+      "job_title": "MARINE PROFESSIONAL",
+      "salary": "43519.47",
+      "travel": "1943.92"
+    },
+    {
+      "person_name": "TICCO,PAUL C",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "92778.11",
+      "travel": "8078.62"
+    },
+    {
+      "person_name": "TURICH,COURTNEY",
+      "job_title": "POST-DOCTORAL ASSOCIATE AC",
+      "salary": "36215.01",
+      "travel": "10360.55"
+    },
+    {
+      "person_name": "TZENG,MIMI W",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "31972.51",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VENHERM,CLAUDIA",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "36894.95",
+      "travel": "7021.14"
+    },
+    {
+      "person_name": "VERITY,PETER G",
+      "job_title": "PROFESSOR",
+      "salary": "117424.97",
+      "travel": "4710.69"
+    },
+    {
+      "person_name": "WAKEHAM,COLIN M",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2364.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAKEHAM,STUART G",
+      "job_title": "PROFESSOR",
+      "salary": "120300.00",
+      "travel": "3462.93"
+    },
+    {
+      "person_name": "WALTERS,TINA L",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "36946.01",
+      "travel": "1998.89"
+    },
+    {
+      "person_name": "WELLS,DEBBIE M",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "38492.47",
+      "travel": "79.68"
+    },
+    {
+      "person_name": "WILLIAMS,JAMES E",
+      "job_title": "SKILLED CRAFTSPERSON",
+      "salary": "44683.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WINDOM,HERBERT L",
+      "job_title": "PROFESSOR",
+      "salary": "31200.00",
+      "travel": "7678.85"
+    },
+    {
+      "person_name": "ZELINSKY,THOMAS E",
+      "job_title": "MARINE PROFESSIONAL",
+      "salary": "40139.30",
+      "travel": "2164.75"
+    },
+    {
+      "person_name": "ZIAREK,AI",
+      "job_title": "POST-DOCTORAL ASSOCIATE AC",
+      "salary": "12010.49",
+      "travel": "0.00"
+    }
+  ]
+}

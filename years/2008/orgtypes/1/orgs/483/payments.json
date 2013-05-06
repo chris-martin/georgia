@@ -1,0 +1,28 @@
+{
+  "payments": [
+    {
+      "person_name": "CARTER,JANICE J",
+      "job_title": "TEMPORARY",
+      "salary": "101.76",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GUNN,KIMBERLY",
+      "job_title": "OFFICE DIRECTOR",
+      "salary": "528.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAUN,VANESSA",
+      "job_title": "OFFICE DIRECTOR",
+      "salary": "15011.50",
+      "travel": "176.97"
+    },
+    {
+      "person_name": "WILLIS,LORI",
+      "job_title": "OFFICE DIRECTOR",
+      "salary": "6643.00",
+      "travel": "28.27"
+    }
+  ]
+}

@@ -1,0 +1,2812 @@
+{
+  "payments": [
+    {
+      "person_name": "ACOSTA,LUCY",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "34321.81",
+      "travel": "836.29"
+    },
+    {
+      "person_name": "ADAMS,DJUNA L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "45664.80",
+      "travel": "126.34"
+    },
+    {
+      "person_name": "ADAMS,GREGORY K",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "29000.00",
+      "travel": "1105.30"
+    },
+    {
+      "person_name": "ADAMS,PETER M",
+      "job_title": "MANAGER",
+      "salary": "69456.04",
+      "travel": "1664.93"
+    },
+    {
+      "person_name": "AHERN,DOUGLAS C",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "82336.56",
+      "travel": "1486.42"
+    },
+    {
+      "person_name": "AMEY,RONNIE L",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "8929.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ANDERSON,PETER J",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "65874.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ARNOLD,BEVERLY W",
+      "job_title": "OFFICE MANAGER / CLERICAL SUPERVISOR",
+      "salary": "43900.50",
+      "travel": "1182.70"
+    },
+    {
+      "person_name": "ARNOLD-DIXON,TRACIE S",
+      "job_title": "FINANCE / BUDGET PROFESSIONAL",
+      "salary": "65949.92",
+      "travel": "768.57"
+    },
+    {
+      "person_name": "ARRINGTON,PAMELA D",
+      "job_title": "MANAGER",
+      "salary": "49637.45",
+      "travel": "15.00"
+    },
+    {
+      "person_name": "BAILEY,LAURENCE LEE",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "60000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAKER,DAVID A",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "67298.88",
+      "travel": "2242.22"
+    },
+    {
+      "person_name": "BALLARD-WASHINGTON,KIMBERLY M",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "60000.04",
+      "travel": "5080.88"
+    },
+    {
+      "person_name": "BARNWELL,MICHAEL A",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "56631.56",
+      "travel": "148.75"
+    },
+    {
+      "person_name": "BARRAS,KENNETH P",
+      "job_title": "MANAGER",
+      "salary": "74264.45",
+      "travel": "1542.20"
+    },
+    {
+      "person_name": "BARTON,PATRICIA J",
+      "job_title": "MANAGER",
+      "salary": "31920.01",
+      "travel": "6062.74"
+    },
+    {
+      "person_name": "BEARDEN,ALLISON P",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "2360.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BEITZEL,JASON M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "58000.08",
+      "travel": "353.21"
+    },
+    {
+      "person_name": "BELL,TIFFANY S",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "42342.30",
+      "travel": "278.68"
+    },
+    {
+      "person_name": "BENTON,CAROL A",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "61818.84",
+      "travel": "1651.97"
+    },
+    {
+      "person_name": "BENTON,LISA R",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "40468.03",
+      "travel": "30.07"
+    },
+    {
+      "person_name": "BERNARD,KENNETH RAY",
+      "job_title": "REGENT",
+      "salary": "1650.00",
+      "travel": "1054.69"
+    },
+    {
+      "person_name": "BERSABAL,JANELLA M",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "7267.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIESINGER,KRIS A",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "147943.14",
+      "travel": "13217.03"
+    },
+    {
+      "person_name": "BIGBY,TALITHIA E",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "40859.15",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BIRKES,ANGELA Y",
+      "job_title": "RESEARCH ASSISTANT/TECHNICIAN",
+      "salary": "32872.60",
+      "travel": "26.60"
+    },
+    {
+      "person_name": "BISHOP,JAMES A",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "3777.62"
+    },
+    {
+      "person_name": "BISHOP,JAMES A",
+      "job_title": "REGENT",
+      "salary": "1017.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACK,ELAINE B",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "64187.42",
+      "travel": "2885.38"
+    },
+    {
+      "person_name": "BLACKMON,DAPHENE S",
+      "job_title": "IT",
+      "salary": "48838.69",
+      "travel": "371.64"
+    },
+    {
+      "person_name": "BLANKENSHIP,SELENA S",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "30225.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLENK,CARLA A",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "43055.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLOOMINGDALE,JESS A",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "47715.84",
+      "travel": "899.43"
+    },
+    {
+      "person_name": "BORN,PAIGE S",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "69571.20",
+      "travel": "1575.65"
+    },
+    {
+      "person_name": "BOWES,WILLIAM R",
+      "job_title": "CHIEF BUSINESS/FINANCE/ADMINISTRATIVE",
+      "salary": "107027.70",
+      "travel": "2105.73"
+    },
+    {
+      "person_name": "BRACEWELL,MICHAEL K",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "106181.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRACEWELL,SHARON W",
+      "job_title": "IT DATABASE SUPPORT PROFESSIONAL",
+      "salary": "88504.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRADLEY,ANNETTE",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "8315.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRAY,ALICE P",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "50321.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRENNAN,LINA N",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "101517.00",
+      "travel": "4761.73"
+    },
+    {
+      "person_name": "BREW,JOSEPH L",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "32192.31",
+      "travel": "1915.03"
+    },
+    {
+      "person_name": "BRITT,JOSHUA A",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "990.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRITT,TIFFANY A",
+      "job_title": "AUDIT PROFESSIONAL",
+      "salary": "35393.39",
+      "travel": "3549.07"
+    },
+    {
+      "person_name": "BRITTAIN,SHARON J",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "106482.72",
+      "travel": "1265.51"
+    },
+    {
+      "person_name": "BROCK,RICHARD I",
+      "job_title": "MANAGER",
+      "salary": "36446.52",
+      "travel": "4674.00"
+    },
+    {
+      "person_name": "BROOKS,CYNTHIA H",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "31897.35",
+      "travel": "276.55"
+    },
+    {
+      "person_name": "BROOKS,NIKIESHA B",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "5448.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BROWN,JOANN A",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "103752.00",
+      "travel": "2543.40"
+    },
+    {
+      "person_name": "BROZ,JOHNATHON A",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "43091.91",
+      "travel": "943.16"
+    },
+    {
+      "person_name": "BRYANT,ELIZABETH A",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "37574.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BUFFINGTON,JASON F",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "42630.00",
+      "travel": "706.78"
+    },
+    {
+      "person_name": "BURNETTE,DIANE MONTGOMERY",
+      "job_title": "ASSOC/ASST DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "86119.92",
+      "travel": "286.07"
+    },
+    {
+      "person_name": "BURNETTE,LARRY JAMES",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "53825.75",
+      "travel": "407.08"
+    },
+    {
+      "person_name": "BUTLER,URSULA",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "40068.11",
+      "travel": "512.47"
+    },
+    {
+      "person_name": "CADENA,DAVID",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "60792.24",
+      "travel": "35.89"
+    },
+    {
+      "person_name": "CAIN,LEE CHRISTIAN",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "6500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CAIN,REBA G",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "32909.68",
+      "travel": "635.00"
+    },
+    {
+      "person_name": "CAINES,JADE A",
+      "job_title": "GRADUATE ASSISTANT",
+      "salary": "4201.20",
+      "travel": "75.66"
+    },
+    {
+      "person_name": "CALHOUN,MAURICE",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "49999.92",
+      "travel": "1088.72"
+    },
+    {
+      "person_name": "CAMPBELL,MICHAEL W",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "49149.72",
+      "travel": "700.13"
+    },
+    {
+      "person_name": "CAMPBELL,SUSAN E",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "96424.92",
+      "travel": "1035.46"
+    },
+    {
+      "person_name": "CANNON,CRAIG L",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "61944.37",
+      "travel": "50.50"
+    },
+    {
+      "person_name": "CANNON,JOY W",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "26657.88",
+      "travel": "268.73"
+    },
+    {
+      "person_name": "CARLOCK,GWEN G",
+      "job_title": "AUDIT PROFESSIONAL",
+      "salary": "42645.91",
+      "travel": "5551.39"
+    },
+    {
+      "person_name": "CARROW,ERWIN L",
+      "job_title": "AUDIT PROFESSIONAL",
+      "salary": "72000.00",
+      "travel": "5506.82"
+    },
+    {
+      "person_name": "CARTER,HUGH",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "584.95"
+    },
+    {
+      "person_name": "CARTERETTE,PATRICIA PRELLBERG",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "17250.00",
+      "travel": "2091.69"
+    },
+    {
+      "person_name": "CASTILLO,MINDY S",
+      "job_title": "MANAGER",
+      "salary": "46056.60",
+      "travel": "557.04"
+    },
+    {
+      "person_name": "CASUCCIO,MICHAEL A",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "56993.35",
+      "travel": "877.77"
+    },
+    {
+      "person_name": "CEASER,ETHEL B",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "12357.42",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CEBALLOS,GABRIEL E",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "12214.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHALASANI,KANTI L",
+      "job_title": "IT DATABASE SUPPORT PROFESSIONAL",
+      "salary": "89550.96",
+      "travel": "232.20"
+    },
+    {
+      "person_name": "CHAMBLISS,PEGGY J",
+      "job_title": "LIBRARY PROFESSIONAL AD",
+      "salary": "24648.70",
+      "travel": "6.65"
+    },
+    {
+      "person_name": "CHAMPLIN,KAROLYN M",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "1670.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHAMPLIN,KRISTIE L",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "10049.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHARRON,MARY ANN",
+      "job_title": "ACADEMIC SERVICES PROFESSIONAL",
+      "salary": "85750.00",
+      "travel": "10092.94"
+    },
+    {
+      "person_name": "CHRISTENBERRY,JOHN R",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "103874.95",
+      "travel": "5495.98"
+    },
+    {
+      "person_name": "CLEVELAND,WILLIAM H",
+      "job_title": "REGENT",
+      "salary": "1614.00",
+      "travel": "186.26"
+    },
+    {
+      "person_name": "CLOUD,LINDSAY E",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "29975.73",
+      "travel": "272.32"
+    },
+    {
+      "person_name": "COLEMAN,KEESHA L",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "42491.35",
+      "travel": "384.73"
+    },
+    {
+      "person_name": "COLLINS,KATHRYN V",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "66805.75",
+      "travel": "5249.09"
+    },
+    {
+      "person_name": "COLQUITT,JACQUELINE SUZANNE",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "39902.00",
+      "travel": "1024.42"
+    },
+    {
+      "person_name": "CONE,STELLA B",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "66617.52",
+      "travel": "5384.22"
+    },
+    {
+      "person_name": "COOPAT,STEPHEN E",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "52348.16",
+      "travel": "850.26"
+    },
+    {
+      "person_name": "COOPER,DAWN B",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "86700.00",
+      "travel": "4922.12"
+    },
+    {
+      "person_name": "CRAWFORD,DEIDRE J",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "63522.07",
+      "travel": "1736.05"
+    },
+    {
+      "person_name": "CREWE,SARAHJOY ROWAN",
+      "job_title": "TEMPORARY TECHNICAL / PARAPROFESSIONAL",
+      "salary": "585.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CUMMINGS,CORLIS P",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "112588.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DALE,HAROLD E",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "70651.32",
+      "travel": "253.44"
+    },
+    {
+      "person_name": "DANIEL,THOMAS E",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "178358.52",
+      "travel": "3451.74"
+    },
+    {
+      "person_name": "DANIELS,LINDA M",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "168019.12",
+      "travel": "3367.24"
+    },
+    {
+      "person_name": "DANIELS,TIMOTHY F",
+      "job_title": "MANAGER",
+      "salary": "55125.00",
+      "travel": "4375.12"
+    },
+    {
+      "person_name": "DAVIDSON,JEANNE ANN",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "51609.96",
+      "travel": "1206.09"
+    },
+    {
+      "person_name": "DAVIS,BRIAN K",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "67020.96",
+      "travel": "1844.93"
+    },
+    {
+      "person_name": "DAVIS,COURTNEY N",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "10902.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DAVIS,ERROLL B",
+      "job_title": "CHANCELLOR",
+      "salary": "558378.13",
+      "travel": "15604.31"
+    },
+    {
+      "person_name": "DAVIS,VERNON J",
+      "job_title": "MANAGER",
+      "salary": "61803.52",
+      "travel": "55.37"
+    },
+    {
+      "person_name": "DECATUR-HAMPTON,JOSETTE E",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "35409.38",
+      "travel": "141.65"
+    },
+    {
+      "person_name": "DICKERSON,DAVID A",
+      "job_title": "FINANCE / BUDGET PROFESSIONAL",
+      "salary": "79939.20",
+      "travel": "1288.67"
+    },
+    {
+      "person_name": "DILLARD,MARGARET B",
+      "job_title": "IT",
+      "salary": "68269.08",
+      "travel": "1241.68"
+    },
+    {
+      "person_name": "DILLS,DANNY M",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "84492.12",
+      "travel": "38.80"
+    },
+    {
+      "person_name": "DISNEY,DAVID WALTER",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "89828.61",
+      "travel": "1989.08"
+    },
+    {
+      "person_name": "DORCE,LORRI S",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "8959.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOUGLAS,JEANELL DEE",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "61786.80",
+      "travel": "113.49"
+    },
+    {
+      "person_name": "DUFFY,ANN L",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "94283.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DUHART,SHARON REAVES",
+      "job_title": "MANAGER",
+      "salary": "65074.80",
+      "travel": "2085.90"
+    },
+    {
+      "person_name": "DUNAGAN,HOPE LANE",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "57937.38",
+      "travel": "468.64"
+    },
+    {
+      "person_name": "DUNHAM,MATTIE O",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "20706.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURDEN,TERRY S",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "102488.01",
+      "travel": "1339.30"
+    },
+    {
+      "person_name": "DYKSTRA,KAREN C",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "69104.53",
+      "travel": "1894.39"
+    },
+    {
+      "person_name": "ECKER,KATHLEEN M",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "48246.24",
+      "travel": "1294.52"
+    },
+    {
+      "person_name": "EDGAR,BOBBI M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "54432.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDWARDS,AMY LYN",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "73740.60",
+      "travel": "1656.17"
+    },
+    {
+      "person_name": "EKPO,INIOBONG UDO",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "26519.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ERICKSON,WILLIAM S",
+      "job_title": "IT DATABASE SUPPORT PROFESSIONAL",
+      "salary": "658.86",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ERVIN,JUANITA D",
+      "job_title": "OFFICE MANAGER / CLERICAL SUPERVISOR",
+      "salary": "49227.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ETHERIDGE,JASON A",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "9414.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EVANS,CHRIS ALAN",
+      "job_title": "MANAGER",
+      "salary": "6000.00",
+      "travel": "48.48"
+    },
+    {
+      "person_name": "EVANS,JEFFREY C",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "64901.41",
+      "travel": "2768.64"
+    },
+    {
+      "person_name": "EXUM,CARLA N",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "45159.21",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FAIRCHILD-PIERCE,JENNIFER E",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "46232.04",
+      "travel": "2464.63"
+    },
+    {
+      "person_name": "FALKE,DAVID M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "27386.36",
+      "travel": "1953.25"
+    },
+    {
+      "person_name": "FANCHER,LAUREN H",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76166.88",
+      "travel": "2766.02"
+    },
+    {
+      "person_name": "FARMER,DEBBIE L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "55962.60",
+      "travel": "499.97"
+    },
+    {
+      "person_name": "FERLAND,CHRISTOPHER R",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "13787.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FERNANDEZ,GLENN T",
+      "job_title": "IT",
+      "salary": "73718.64",
+      "travel": "75.04"
+    },
+    {
+      "person_name": "FERNANDEZ,LORI F",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76763.56",
+      "travel": "1743.26"
+    },
+    {
+      "person_name": "FIELDS,JANIE E",
+      "job_title": "ACADEMIC SERVICES PROFESSIONAL",
+      "salary": "74625.00",
+      "travel": "5456.05"
+    },
+    {
+      "person_name": "FINNEGAN,BRIAN K",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "90951.22",
+      "travel": "4597.41"
+    },
+    {
+      "person_name": "FINNEGAN,CATHERINE L",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76627.56",
+      "travel": "9621.76"
+    },
+    {
+      "person_name": "FISCHER,GREGORY KARL",
+      "job_title": "MANAGER",
+      "salary": "15000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOWERS,JIM D",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "33645.00",
+      "travel": "1063.82"
+    },
+    {
+      "person_name": "FORBES,DAPHNE R",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "32489.03",
+      "travel": "611.23"
+    },
+    {
+      "person_name": "FORBES,JOHN G",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "54336.74",
+      "travel": "271.27"
+    },
+    {
+      "person_name": "FOWLER,ROSALIND BARNES",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "87946.32",
+      "travel": "1514.24"
+    },
+    {
+      "person_name": "FOXMAN,MICHAEL JAY",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "87099.60",
+      "travel": "3598.78"
+    },
+    {
+      "person_name": "FRANCIS,MARGARET M",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "13642.89",
+      "travel": "309.60"
+    },
+    {
+      "person_name": "FRAZER,SHEREA T",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "95652.24",
+      "travel": "3916.62"
+    },
+    {
+      "person_name": "FRAZIER,JACQUELINE J",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "33473.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FREELOVE,EZRA S",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "65370.60",
+      "travel": "1759.79"
+    },
+    {
+      "person_name": "FUCHKO,JOHN M",
+      "job_title": "ASSOC/ASST DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "70503.20",
+      "travel": "7880.22"
+    },
+    {
+      "person_name": "FUCILE,JOSEPH J",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "79166.73",
+      "travel": "3042.49"
+    },
+    {
+      "person_name": "FULTON,DENISE D",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "71085.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GASTFRIEND,H HILLIARD",
+      "job_title": "IT",
+      "salary": "51746.88",
+      "travel": "5604.24"
+    },
+    {
+      "person_name": "GILLARD,LESLIE A",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "44306.21",
+      "travel": "282.31"
+    },
+    {
+      "person_name": "GIVENS,DARIN VANCE",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "47669.76",
+      "travel": "475.00"
+    },
+    {
+      "person_name": "GOHN,KATIE E",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "44898.06",
+      "travel": "1416.41"
+    },
+    {
+      "person_name": "GOOCH,KATHRYN B",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "38153.10",
+      "travel": "131.92"
+    },
+    {
+      "person_name": "GRAHAM,JOHN",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "133.43"
+    },
+    {
+      "person_name": "GREGORY,KATHERINE H",
+      "job_title": "LIBRARY PROFESSIONAL AD",
+      "salary": "66555.84",
+      "travel": "3678.19"
+    },
+    {
+      "person_name": "GRISWOLD,DARYL R",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "104689.75",
+      "travel": "292.51"
+    },
+    {
+      "person_name": "GROVENSTEIN,JOHN N",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "62499.96",
+      "travel": "1383.77"
+    },
+    {
+      "person_name": "GRUBBS,JULIA M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "45724.80",
+      "travel": "1903.68"
+    },
+    {
+      "person_name": "GUNNELLS,EMILY GAIL",
+      "job_title": "LIMITED TERM PROFESSIONAL",
+      "salary": "11566.65",
+      "travel": "102.07"
+    },
+    {
+      "person_name": "GUTHRIE,WAYNE",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "39393.96",
+      "travel": "3821.19"
+    },
+    {
+      "person_name": "HAMMOCK,LAYNE S",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76827.49",
+      "travel": "3104.16"
+    },
+    {
+      "person_name": "HANDSFORD,LATOYA D",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "41472.03",
+      "travel": "1147.06"
+    },
+    {
+      "person_name": "HANSEN,CHRISTINE C",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "9166.68",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDER,APRIL L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "49066.46",
+      "travel": "1384.02"
+    },
+    {
+      "person_name": "HARDY,JILL ELAINE",
+      "job_title": "MANAGER",
+      "salary": "52051.97",
+      "travel": "1026.41"
+    },
+    {
+      "person_name": "HARDY,RITA D",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "58291.59",
+      "travel": "1171.37"
+    },
+    {
+      "person_name": "HARKNESS,ALYSA JASMIN",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "603.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARLESTON,ELEANOR C",
+      "job_title": "OFFICE MANAGER / CLERICAL SUPERVISOR",
+      "salary": "50679.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,BERTHA L",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "55564.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,PRESTINA C",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "34887.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HATCHER,ROBERT F",
+      "job_title": "REGENT",
+      "salary": "1437.00",
+      "travel": "4103.06"
+    },
+    {
+      "person_name": "HENDERSON,PAMELA L",
+      "job_title": "MANAGER",
+      "salary": "64673.40",
+      "travel": "92.40"
+    },
+    {
+      "person_name": "HENDERSON,SATORI A",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "504.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HERBST,SUSAN",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "321766.72",
+      "travel": "6956.07"
+    },
+    {
+      "person_name": "HERNANDEZ,GEORGE E",
+      "job_title": "IT DATABASE SUPPORT PROFESSIONAL",
+      "salary": "109625.04",
+      "travel": "2795.76"
+    },
+    {
+      "person_name": "HICKEY,DIANE D",
+      "job_title": "ASSOC/ASST DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "84660.00",
+      "travel": "682.98"
+    },
+    {
+      "person_name": "HICKEY,PETER J",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "139337.69",
+      "travel": "6972.33"
+    },
+    {
+      "person_name": "HILKER,DAVID J",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "79575.00",
+      "travel": "3200.67"
+    },
+    {
+      "person_name": "HILLEGONDS,DEBORAH A",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "64772.03",
+      "travel": "545.82"
+    },
+    {
+      "person_name": "HOBBS,CHRISTINA D",
+      "job_title": "BUSINESS OPERATIONS PROFESSIONAL",
+      "salary": "57830.40",
+      "travel": "4916.98"
+    },
+    {
+      "person_name": "HOLLAND,KELLIE H",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "1860.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HOLMES,GEORGE BRUCE",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "58000.00",
+      "travel": "3926.99"
+    },
+    {
+      "person_name": "HOPPER,LYN W",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "88457.28",
+      "travel": "4919.02"
+    },
+    {
+      "person_name": "HOWELL,FRANK",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "39509.65",
+      "travel": "2497.06"
+    },
+    {
+      "person_name": "HOWINGTON,YVONNE K",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "57753.48",
+      "travel": "542.30"
+    },
+    {
+      "person_name": "HUDSON,CATHIE MAYES",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "143126.99",
+      "travel": "5270.96"
+    },
+    {
+      "person_name": "HUGHES,MICHAEL A",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "85587.84",
+      "travel": "2532.61"
+    },
+    {
+      "person_name": "HULME,GALE D",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "131950.08",
+      "travel": "1453.35"
+    },
+    {
+      "person_name": "HYCHE,JILL C",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "68121.76",
+      "travel": "5213.92"
+    },
+    {
+      "person_name": "HYCHE,WILLIAM DOUGLAS",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "68857.80",
+      "travel": "2910.69"
+    },
+    {
+      "person_name": "HYMEL,JOY O",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "38924.78",
+      "travel": "550.31"
+    },
+    {
+      "person_name": "IDDINS,KIMBERLY DENISE",
+      "job_title": "AUDIOVISUAL TECHNICAL/PARAPROFESSIONAL",
+      "salary": "50934.96",
+      "travel": "4117.32"
+    },
+    {
+      "person_name": "JACKSON,ANEKA L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "40240.58",
+      "travel": "400.74"
+    },
+    {
+      "person_name": "JEAN-BAPTISTE,REBECCA",
+      "job_title": "MANAGER",
+      "salary": "48165.40",
+      "travel": "582.26"
+    },
+    {
+      "person_name": "JENKINS,FELTON",
+      "job_title": "REGENT",
+      "salary": "2490.00",
+      "travel": "3691.99"
+    },
+    {
+      "person_name": "JENNINGS,MANSFIELD",
+      "job_title": "REGENT",
+      "salary": "1053.00",
+      "travel": "925.71"
+    },
+    {
+      "person_name": "JOHNSON,ARNOLD BRUCE",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "63336.00",
+      "travel": "283.97"
+    },
+    {
+      "person_name": "JOHNSON,EDWARD A",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "59525.30",
+      "travel": "1522.56"
+    },
+    {
+      "person_name": "JOHNSON,JOY F",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "65857.92",
+      "travel": "382.50"
+    },
+    {
+      "person_name": "JOHNSON,LIZ M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "63546.49",
+      "travel": "1592.88"
+    },
+    {
+      "person_name": "JOHNSON,MARK E",
+      "job_title": "IT",
+      "salary": "55143.59",
+      "travel": "2040.67"
+    },
+    {
+      "person_name": "JOLLY,JAMES",
+      "job_title": "REGENT",
+      "salary": "1509.00",
+      "travel": "1675.61"
+    },
+    {
+      "person_name": "JONES,ADOLPH Q",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "56666.61",
+      "travel": "215.54"
+    },
+    {
+      "person_name": "JONES,JOHN M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "3783.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JONES,ROBERT W",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "70262.41",
+      "travel": "1368.94"
+    },
+    {
+      "person_name": "JONES,SHEILA ANN",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "99683.40",
+      "travel": "2044.32"
+    },
+    {
+      "person_name": "JURICAK,NICOLA",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "54129.12",
+      "travel": "81.07"
+    },
+    {
+      "person_name": "KAHRS,JAMES R",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "90000.00",
+      "travel": "877.17"
+    },
+    {
+      "person_name": "KANTAMNENI,ANITHA",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "55210.56",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLY,TYRONE D",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "90013.20",
+      "travel": "408.72"
+    },
+    {
+      "person_name": "KETTLEWELL-HENRY,JANET",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "183891.73",
+      "travel": "5221.04"
+    },
+    {
+      "person_name": "KEY,JOB SOLOMON",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "50674.80",
+      "travel": "2640.84"
+    },
+    {
+      "person_name": "KHUWATSAMRIT,BENJAWAN",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "64679.47",
+      "travel": "2642.12"
+    },
+    {
+      "person_name": "KILLE,MERRI SUZANNE",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "39456.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KILPATRICK,TONYA C",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "91952.04",
+      "travel": "1468.51"
+    },
+    {
+      "person_name": "KLING,PATRICK KEN",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "74470.90",
+      "travel": "803.02"
+    },
+    {
+      "person_name": "KUCHINSKI,MATTHEW",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "85391.37",
+      "travel": "1522.91"
+    },
+    {
+      "person_name": "LAJEUNESSE,WILLIAM B",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "11499.48",
+      "travel": "276.80"
+    },
+    {
+      "person_name": "LAM,TONYA R",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "125428.61",
+      "travel": "10810.30"
+    },
+    {
+      "person_name": "LASHER,DEBRA JEAN",
+      "job_title": "BUSINESS OPERATIONS PROFESSIONAL",
+      "salary": "68111.08",
+      "travel": "6300.88"
+    },
+    {
+      "person_name": "LASSETER,MARIE R",
+      "job_title": "IT",
+      "salary": "60200.76",
+      "travel": "599.48"
+    },
+    {
+      "person_name": "LASTER,ELOISE",
+      "job_title": "MANAGER",
+      "salary": "92505.32",
+      "travel": "5950.93"
+    },
+    {
+      "person_name": "LATIMER,RODNEY B",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "49349.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEAVELL,GLENN F",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "97713.36",
+      "travel": "1378.94"
+    },
+    {
+      "person_name": "LEE,JAMES RAY",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "79941.38",
+      "travel": "7544.80"
+    },
+    {
+      "person_name": "LEEBERN,DONALD M",
+      "job_title": "REGENT",
+      "salary": "561.00",
+      "travel": "79.00"
+    },
+    {
+      "person_name": "LEHOCKY,ALEX H",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "27000.00",
+      "travel": "2529.30"
+    },
+    {
+      "person_name": "LEWIS,JEVITA M",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2357.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEWIS,NICOL C",
+      "job_title": "MANAGER",
+      "salary": "56733.80",
+      "travel": "2393.81"
+    },
+    {
+      "person_name": "LI,BIN",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "60711.52",
+      "travel": "349.33"
+    },
+    {
+      "person_name": "LIN,BIN",
+      "job_title": "LIBRARY PROFESSIONAL AD",
+      "salary": "63797.28",
+      "travel": "3183.25"
+    },
+    {
+      "person_name": "LLOYD,MARVINA S",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "40468.03",
+      "travel": "877.51"
+    },
+    {
+      "person_name": "LOFTIS,CORI L",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "45900.00",
+      "travel": "1128.70"
+    },
+    {
+      "person_name": "LOGAN,SHARON N",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "75859.08",
+      "travel": "2339.35"
+    },
+    {
+      "person_name": "LUSK,KEVIN P",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "42532.09",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MAIER,THOMAS LEE",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "190000.08",
+      "travel": "17130.57"
+    },
+    {
+      "person_name": "MAIORIELLO,EDWARD A",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "93717.60",
+      "travel": "2745.67"
+    },
+    {
+      "person_name": "MARSHALL,AMANDA KING",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "65594.07",
+      "travel": "2752.12"
+    },
+    {
+      "person_name": "MARSHALL-IVORY,MAGGIE D",
+      "job_title": "OFFICE MANAGER / CLERICAL SUPERVISOR",
+      "salary": "50424.31",
+      "travel": "1296.73"
+    },
+    {
+      "person_name": "MAST,AMY S",
+      "job_title": "ASSOC/ASST DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "91610.64",
+      "travel": "892.12"
+    },
+    {
+      "person_name": "MCCLAIN,JENNIFER R",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "34887.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCCLEARN,THOMAS M",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "101653.08",
+      "travel": "1532.37"
+    },
+    {
+      "person_name": "MCCRARY,ANGELA D",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "41446.48",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCDONALD,KIMON",
+      "job_title": "OFFICE MANAGER / CLERICAL SUPERVISOR",
+      "salary": "47238.91",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGINNIS,GRAY E",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "2150.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGOUGH,COURTNEY E",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "37252.16",
+      "travel": "970.25"
+    },
+    {
+      "person_name": "MCKEITHEN,SHERRAL",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "30000.00",
+      "travel": "48.00"
+    },
+    {
+      "person_name": "MCKINNEY-DEGARCIA,ELIZABETH L",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76406.28",
+      "travel": "3752.08"
+    },
+    {
+      "person_name": "MCMILLAN,ELRIDGE W",
+      "job_title": "REGENT",
+      "salary": "2175.00",
+      "travel": "2262.65"
+    },
+    {
+      "person_name": "MEADOWS,BELVA VANESSA",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "29298.28",
+      "travel": "199.76"
+    },
+    {
+      "person_name": "MEADOWS,RODRIGUEZ O",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "25813.82",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MEEK,BARRY J",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "22496.69",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MENDOZA-BROOKS,ALINA ISABEL",
+      "job_title": "OFFICE MANAGER / CLERICAL SUPERVISOR",
+      "salary": "3625.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MERCHANT,ANGELA D",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "12083.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "METCALF,LISA E",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "64948.44",
+      "travel": "2197.47"
+    },
+    {
+      "person_name": "MIDCAP,LINDA L",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "38080.09",
+      "travel": "263.84"
+    },
+    {
+      "person_name": "MIDDLETON,MARCI M",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "65239.20",
+      "travel": "2901.26"
+    },
+    {
+      "person_name": "MILLER,MICHAEL W",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "87453.12",
+      "travel": "4735.27"
+    },
+    {
+      "person_name": "MILLS,KELLY R",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "73658.86",
+      "travel": "1747.97"
+    },
+    {
+      "person_name": "MILLSAPS,JOHN H",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "127871.64",
+      "travel": "2403.31"
+    },
+    {
+      "person_name": "MINOR,JOLYN",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "39744.63",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MINTON,KAREN LYNN",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "51026.86",
+      "travel": "5971.00"
+    },
+    {
+      "person_name": "MOBLEY,HEATHER MARIE",
+      "job_title": "TEMPORARY TECHNICAL / PARAPROFESSIONAL",
+      "salary": "4951.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOODY,KENNETH MICHAEL",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "58245.00",
+      "travel": "2661.82"
+    },
+    {
+      "person_name": "MOORE,MICHAEL DAVID",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "60990.00",
+      "travel": "152.56"
+    },
+    {
+      "person_name": "MOORE,VERNETIA L",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "4093.36",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORALES,LUIS M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "49628.52",
+      "travel": "2593.85"
+    },
+    {
+      "person_name": "MORGAN,DEMETRA W",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "83509.68",
+      "travel": "1201.51"
+    },
+    {
+      "person_name": "MUDGE,MARY LOU",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "51353.76",
+      "travel": "119.15"
+    },
+    {
+      "person_name": "MULLEN,JEFFERY EARL",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "1632.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MURPHY,JULIA M",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "85260.00",
+      "travel": "2492.64"
+    },
+    {
+      "person_name": "MURPHY,SALLY K",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "44775.00",
+      "travel": "3401.89"
+    },
+    {
+      "person_name": "NANCE,MARTY",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "108325.98",
+      "travel": "15429.06"
+    },
+    {
+      "person_name": "NEAL,WANDA J",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "36149.26",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEELY,ELIZABETH E",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "38616.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "NEUSE,SANDRA L",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "113419.32",
+      "travel": "3465.39"
+    },
+    {
+      "person_name": "NEWSOME,JAMES BURNS",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "138619.48",
+      "travel": "598.71"
+    },
+    {
+      "person_name": "NICKEL,SHELLEY C",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "129062.43",
+      "travel": "1972.94"
+    },
+    {
+      "person_name": "NIX,DAVID A",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "91332.72",
+      "travel": "890.38"
+    },
+    {
+      "person_name": "NOBLE,LINDA",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "31.72"
+    },
+    {
+      "person_name": "NORWOOD,BEVERLY C",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "125643.60",
+      "travel": "1490.46"
+    },
+    {
+      "person_name": "NUNN,KAREN S",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76599.39",
+      "travel": "7272.93"
+    },
+    {
+      "person_name": "OBRIEN,AMY A",
+      "job_title": "GRADUATE ASSISTANT",
+      "salary": "8389.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OHNSTAD,LEONARD M",
+      "job_title": "AUDIT PROFESSIONAL",
+      "salary": "37500.00",
+      "travel": "6885.24"
+    },
+    {
+      "person_name": "OKOYE,AGNES C",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "51645.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ONEIL,DARA VERONICA",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "41044.84",
+      "travel": "1127.62"
+    },
+    {
+      "person_name": "OVERCASH,PENELOPE L",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "47756.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENSBY,KIMBERLY D",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "38683.40",
+      "travel": "258.27"
+    },
+    {
+      "person_name": "OYEGUNLE,OLUSEGUN A",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "83187.00",
+      "travel": "5060.97"
+    },
+    {
+      "person_name": "PAGE,DEBBIE L",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "160358.28",
+      "travel": "1436.81"
+    },
+    {
+      "person_name": "PAGE,TERESA M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "44916.74",
+      "travel": "403.56"
+    },
+    {
+      "person_name": "PAPA,GINA M",
+      "job_title": "IT",
+      "salary": "52709.60",
+      "travel": "3796.05"
+    },
+    {
+      "person_name": "PARRISH,DAVID L",
+      "job_title": "IT",
+      "salary": "54735.72",
+      "travel": "1924.78"
+    },
+    {
+      "person_name": "PATERSON,PATRICIA O",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "101251.20",
+      "travel": "4818.21"
+    },
+    {
+      "person_name": "PAYNE,DIANE S",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "60919.32",
+      "travel": "1628.96"
+    },
+    {
+      "person_name": "PAYNE,KENNETH L",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "74184.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEACHEY,STANTON JAMES",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "63336.00",
+      "travel": "354.03"
+    },
+    {
+      "person_name": "PEARSON,JOSEPHINE",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "3262.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PERKINS,AMINAH FARITA",
+      "job_title": "TEMPORARY TECHNICAL / PARAPROFESSIONAL",
+      "salary": "1159.50",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PETREE,NANCY J",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "4795.38",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PEVEY,MARK E",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "101113.56",
+      "travel": "8115.70"
+    },
+    {
+      "person_name": "PIAZZA,TERESA J",
+      "job_title": "IT",
+      "salary": "55583.41",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PINDER,ROBBY G",
+      "job_title": "FACILITIES MANAGEMENT PROFESSIONAL",
+      "salary": "54201.12",
+      "travel": "2886.29"
+    },
+    {
+      "person_name": "PISANI,ANOUSH M",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "83466.84",
+      "travel": "526.30"
+    },
+    {
+      "person_name": "PITTARD,AMBER N",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "42030.06",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITTARD,PATRICK S",
+      "job_title": "REGENT",
+      "salary": "561.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PITTMAN,TANIA N",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "50154.66",
+      "travel": "709.77"
+    },
+    {
+      "person_name": "PLAKSIN,MARK A",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "82186.80",
+      "travel": "1368.94"
+    },
+    {
+      "person_name": "POITEVINT,DOREEN STILES",
+      "job_title": "REGENT",
+      "salary": "1086.00",
+      "travel": "2889.42"
+    },
+    {
+      "person_name": "PORTCH,STEPHEN R",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "46800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PORTER,JANICE L",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "10048.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "POSTELL,JENIFFER G",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "62365.42",
+      "travel": "2273.29"
+    },
+    {
+      "person_name": "POTTS,WILLIS J",
+      "job_title": "REGENT",
+      "salary": "1437.00",
+      "travel": "1495.01"
+    },
+    {
+      "person_name": "POWERS,KERVIN M",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "76044.36",
+      "travel": "2349.04"
+    },
+    {
+      "person_name": "PRICE,SAMANTHEA L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "55000.08",
+      "travel": "2530.59"
+    },
+    {
+      "person_name": "PURCELL,CHAD R",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "53366.28",
+      "travel": "2443.70"
+    },
+    {
+      "person_name": "RALL,NATHAN C",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76256.28",
+      "travel": "3712.89"
+    },
+    {
+      "person_name": "RAMACHANDRAN,USHA",
+      "job_title": "CHIEF BUSINESS/FINANCE/ADMINISTRATIVE",
+      "salary": "167946.14",
+      "travel": "3073.85"
+    },
+    {
+      "person_name": "RAMSEY,TRACI LYN",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "54150.00",
+      "travel": "369.04"
+    },
+    {
+      "person_name": "RASHEED,MINA R",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "7297.45",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RAYMONDO,PHILIP J",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "70975.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REAVES,JOHNATHON EMANUEL",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "872.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "REED,RONALD K",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "95907.96",
+      "travel": "4457.90"
+    },
+    {
+      "person_name": "REEVES,NANCY D",
+      "job_title": "MARKETING / PUBLIC RELATIONS PROFESSIONAL",
+      "salary": "66810.00",
+      "travel": "622.13"
+    },
+    {
+      "person_name": "REYNOLDS,RODRIQUEZ E",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "49389.37",
+      "travel": "533.53"
+    },
+    {
+      "person_name": "RICE,WESLEY R",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "49500.00",
+      "travel": "2373.23"
+    },
+    {
+      "person_name": "RICHIE,VANESSA S",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "22985.29",
+      "travel": "295.81"
+    },
+    {
+      "person_name": "ROBERTS,DOROTHY W",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "109404.00",
+      "travel": "17.70"
+    },
+    {
+      "person_name": "ROBERTS,SONJA A",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "17740.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,BARRY K",
+      "job_title": "IT",
+      "salary": "14142.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,BENJAMIN REUBEN",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "19166.68",
+      "travel": "67.82"
+    },
+    {
+      "person_name": "ROBINSON,LAKWANA T",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "34892.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,LYNDELL O",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "40700.04",
+      "travel": "627.00"
+    },
+    {
+      "person_name": "RODWELL,WANDA YANCEY",
+      "job_title": "REGENT",
+      "salary": "1368.00",
+      "travel": "299.60"
+    },
+    {
+      "person_name": "ROESSLER,PATRICK D",
+      "job_title": "FINANCE / BUDGET PROFESSIONAL",
+      "salary": "46199.95",
+      "travel": "150.00"
+    },
+    {
+      "person_name": "ROGERS,MICHAEL S",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "78477.54",
+      "travel": "7602.54"
+    },
+    {
+      "person_name": "ROOKER,MARK LYNN",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "68709.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROSS,KENNETH R",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "43059.66",
+      "travel": "437.60"
+    },
+    {
+      "person_name": "ROWE,NATHAN A",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "66092.57",
+      "travel": "1473.81"
+    },
+    {
+      "person_name": "RUDISILL,DWIGHT R",
+      "job_title": "MANAGER",
+      "salary": "62593.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SAMPLES,DENISE",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "90544.08",
+      "travel": "4351.86"
+    },
+    {
+      "person_name": "SCHACKE,JOHN H",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "59424.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHMID,VIRGINIA LEE",
+      "job_title": "ACADEMIC SERVICES PROFESSIONAL",
+      "salary": "70738.52",
+      "travel": "229.23"
+    },
+    {
+      "person_name": "SCHWEIGER,JOY P",
+      "job_title": "MANAGER",
+      "salary": "55548.60",
+      "travel": "3185.55"
+    },
+    {
+      "person_name": "SCHWIND,JAMES A",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "53249.24",
+      "travel": "1303.35"
+    },
+    {
+      "person_name": "SCOTT,DEBORAH R",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "78190.08",
+      "travel": "721.11"
+    },
+    {
+      "person_name": "SCOVILLE,JOHN T",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "124647.00",
+      "travel": "4211.55"
+    },
+    {
+      "person_name": "SCOVILLE,KAREN A",
+      "job_title": "MANAGER",
+      "salary": "44461.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEALS,AMANDA D",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "49833.29",
+      "travel": "260.56"
+    },
+    {
+      "person_name": "SHACKELFORD,DEBORAH E",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "36261.83",
+      "travel": "1864.06"
+    },
+    {
+      "person_name": "SHAMBRAY,BEVERLY A",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "29895.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHARP,CHRISTOPHER JOSEPH",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "2500.00",
+      "travel": "163.45"
+    },
+    {
+      "person_name": "SHAVER,REBECCA COCOS",
+      "job_title": "RESEARCH PROFESSIONAL AD",
+      "salary": "50791.59",
+      "travel": "679.75"
+    },
+    {
+      "person_name": "SHAW,JENNIFER Y",
+      "job_title": "ASSOC/ASST DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "40500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEA,WILLIAM L",
+      "job_title": "BUSINESS OPERATIONS PROFESSIONAL",
+      "salary": "9842.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SHEPPARD,KELLY ORTH",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "57753.48",
+      "travel": "67.90"
+    },
+    {
+      "person_name": "SHI,WEIJIA",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "58653.84",
+      "travel": "1629.20"
+    },
+    {
+      "person_name": "SHIELDS,MARIE SHARPE",
+      "job_title": "ACADEMIC SERVICES PROFESSIONAL",
+      "salary": "9696.96",
+      "travel": "453.92"
+    },
+    {
+      "person_name": "SILVA,JOSEPH A",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "49767.29",
+      "travel": "3481.15"
+    },
+    {
+      "person_name": "SIMMS,DIANE C",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "27439.44",
+      "travel": "371.71"
+    },
+    {
+      "person_name": "SIMPSON,SERENA",
+      "job_title": "ACCOUNTING PROFESSIONAL",
+      "salary": "18749.97",
+      "travel": "2729.49"
+    },
+    {
+      "person_name": "SINGLETON,DAVID WAYNE",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "93257.79",
+      "travel": "4356.97"
+    },
+    {
+      "person_name": "SLOAN,SHELIA L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "48801.84",
+      "travel": "414.83"
+    },
+    {
+      "person_name": "SMALL,ANTOINE L",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "52148.36",
+      "travel": "962.93"
+    },
+    {
+      "person_name": "SMITH,PENELOPE E",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "26475.00",
+      "travel": "2091.58"
+    },
+    {
+      "person_name": "SMITH,REBECCA L",
+      "job_title": "AUDIT PROFESSIONAL",
+      "salary": "41532.00",
+      "travel": "4925.10"
+    },
+    {
+      "person_name": "SMITH,SYLVIA A",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "26785.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,TERRY W",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "65145.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SOMERS,JESSICA A",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "113679.00",
+      "travel": "1927.97"
+    },
+    {
+      "person_name": "SOMMER,CANDACE C",
+      "job_title": "MARKETING / PUBLIC RELATIONS PROFESSIONAL",
+      "salary": "73680.36",
+      "travel": "50.93"
+    },
+    {
+      "person_name": "SOUTH,SHANNON L",
+      "job_title": "ASSOC/ASST DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "95987.44",
+      "travel": "501.14"
+    },
+    {
+      "person_name": "SPENCER,MELINDA G",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "97802.08",
+      "travel": "1735.15"
+    },
+    {
+      "person_name": "SPENCER,STEPHEN L",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "70935.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SRADER,SHEREE MICHELE",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "70442.28",
+      "travel": "2823.43"
+    },
+    {
+      "person_name": "STARK,RONALD B",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "142100.16",
+      "travel": "5226.56"
+    },
+    {
+      "person_name": "STEED,ROSE MARIE",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "110752.44",
+      "travel": "862.37"
+    },
+    {
+      "person_name": "STEELE,JASON T",
+      "job_title": "IT CLIENT SUPPORT PROFESSIONAL",
+      "salary": "45536.46",
+      "travel": "154.90"
+    },
+    {
+      "person_name": "STELLING,KESSEL D",
+      "job_title": "BOARD MEMBER",
+      "salary": "0.00",
+      "travel": "25.55"
+    },
+    {
+      "person_name": "STEPHENS,MARLENE E",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "35665.72",
+      "travel": "648.41"
+    },
+    {
+      "person_name": "STEWART,JANET M",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "47060.88",
+      "travel": "1725.80"
+    },
+    {
+      "person_name": "STONE,SANDRA S",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "162400.08",
+      "travel": "13610.91"
+    },
+    {
+      "person_name": "STRIPLIN,LISA C",
+      "job_title": "IT",
+      "salary": "75433.20",
+      "travel": "3821.02"
+    },
+    {
+      "person_name": "SULLIVAN,DEBORAH B",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "53833.75",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUMMERS,PAMELA",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "102159.00",
+      "travel": "632.82"
+    },
+    {
+      "person_name": "SYKES,REGINALD A",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "60375.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SYKES,TIMOTHY L",
+      "job_title": "MANAGER",
+      "salary": "88891.02",
+      "travel": "397.83"
+    },
+    {
+      "person_name": "SZABO-DURHAM,VIRGINIA",
+      "job_title": "IT",
+      "salary": "50174.69",
+      "travel": "3441.12"
+    },
+    {
+      "person_name": "TANG,YING",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "49073.24",
+      "travel": "1650.92"
+    },
+    {
+      "person_name": "TARBUTTON,BENJAMIN J",
+      "job_title": "REGENT",
+      "salary": "1683.00",
+      "travel": "2227.23"
+    },
+    {
+      "person_name": "TAYLOR,CINDY L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "61050.00",
+      "travel": "3375.89"
+    },
+    {
+      "person_name": "TAYLOR,GWENDOLYN",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "61110.24",
+      "travel": "4510.66"
+    },
+    {
+      "person_name": "TAYLOR,RODRIQUE D",
+      "job_title": "ACCOUNTING PROFESSIONAL",
+      "salary": "12099.34",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TAYLOR,TENEKA D",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "22241.01",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TEAGUE,BARBARA JEAN",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "11084.96",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TERRY,JOCELYN R",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1187.20",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TESFAI,DESTA M",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "23075.03",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TETA,PELAGIE",
+      "job_title": "AUDIT PROFESSIONAL",
+      "salary": "24601.88",
+      "travel": "4025.37"
+    },
+    {
+      "person_name": "THOMAS,ANGELIA D",
+      "job_title": "FINANCE / BUDGET PROFESSIONAL",
+      "salary": "52466.16",
+      "travel": "291.64"
+    },
+    {
+      "person_name": "THOMAS,CHERYL L",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "32317.05",
+      "travel": "443.95"
+    },
+    {
+      "person_name": "THOMAS,JORDAN L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "58427.33",
+      "travel": "1235.67"
+    },
+    {
+      "person_name": "THOMAS,NICOLE A",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "5507.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "THOMPSON,BARBARA A",
+      "job_title": "IT",
+      "salary": "46332.00",
+      "travel": "3707.77"
+    },
+    {
+      "person_name": "TINSLEY,JANICE E",
+      "job_title": "ACCOUNTING PROFESSIONAL",
+      "salary": "6381.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TODD,CHRISTY M",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "58618.64",
+      "travel": "1205.02"
+    },
+    {
+      "person_name": "TRAVIS,ALAN S",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "103610.16",
+      "travel": "6396.88"
+    },
+    {
+      "person_name": "TRAVIS,REGINA STEELE",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "72106.49",
+      "travel": "4223.24"
+    },
+    {
+      "person_name": "TREZVANT,BRENDA M",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "37717.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRIPLETT,BRIANA D",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "11072.92",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TRIPLETT,ERIKA",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "39767.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TUCKER,RICHARD LEE",
+      "job_title": "REGENT",
+      "salary": "1929.00",
+      "travel": "1164.43"
+    },
+    {
+      "person_name": "TUCKER,WILLIAM T",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "60900.00",
+      "travel": "2074.30"
+    },
+    {
+      "person_name": "TUPPER,NANCY E",
+      "job_title": "ACCOUNTING PROFESSIONAL",
+      "salary": "44126.82",
+      "travel": "738.88"
+    },
+    {
+      "person_name": "USHER,YVETTE H",
+      "job_title": "ACCOUNTING PROFESSIONAL",
+      "salary": "55000.08",
+      "travel": "1536.53"
+    },
+    {
+      "person_name": "VANCHELLA,JOHN",
+      "job_title": "DEPUTY/ASSOCIATE ADMINISTRATOR",
+      "salary": "54666.72",
+      "travel": "41.87"
+    },
+    {
+      "person_name": "VANSICKLE,LINDA J",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "76986.82",
+      "travel": "1499.45"
+    },
+    {
+      "person_name": "VANWIE,WILLIAM R",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "69300.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VEATCH,JULIAN LAMAR",
+      "job_title": "ASSOC/ASST VICE CHANCELLOR",
+      "salary": "130080.48",
+      "travel": "6191.32"
+    },
+    {
+      "person_name": "VERY,DIANA J",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "59583.26",
+      "travel": "2895.18"
+    },
+    {
+      "person_name": "VIGIL,ALLAN",
+      "job_title": "REGENT",
+      "salary": "2244.00",
+      "travel": "1586.27"
+    },
+    {
+      "person_name": "WADE,ROBIN N",
+      "job_title": "FINANCE / BUDGET PROFESSIONAL",
+      "salary": "45000.00",
+      "travel": "133.93"
+    },
+    {
+      "person_name": "WALKER,DONALD ANDREW",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "72340.25",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,JULIE W",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "96889.39",
+      "travel": "6029.22"
+    },
+    {
+      "person_name": "WALLACE,ERICA T",
+      "job_title": "HR/EEO/OD PROFESSIONAL",
+      "salary": "25288.20",
+      "travel": "812.41"
+    },
+    {
+      "person_name": "WARREN,JOYCE G",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "60570.64",
+      "travel": "699.98"
+    },
+    {
+      "person_name": "WASHINGTON,SHONTELL L",
+      "job_title": "ACCOUNTING PROFESSIONAL",
+      "salary": "40400.04",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WASKIEWICZ,ANDREW M",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "86358.60",
+      "travel": "646.23"
+    },
+    {
+      "person_name": "WATERS,LASHAYLA S",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "45833.26",
+      "travel": "2059.28"
+    },
+    {
+      "person_name": "WATSON,WILLIAM TODD",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "71320.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WATTS,ROBERT E",
+      "job_title": "VICE CHANCELLOR",
+      "salary": "219300.00",
+      "travel": "4249.80"
+    },
+    {
+      "person_name": "WEAVER-DOUGLAS,JANINE M",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1986.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEBB,CHARLOTTE E",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "60150.00",
+      "travel": "887.21"
+    },
+    {
+      "person_name": "WEBB,WILLIAM MURRAY",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "63930.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WECHSLER,DALE S",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "39033.29",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEEKS,CHARLES E",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "63754.58",
+      "travel": "1422.73"
+    },
+    {
+      "person_name": "WENHAM,SARAH",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "51708.39",
+      "travel": "3915.78"
+    },
+    {
+      "person_name": "WEST,WANDA S",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "58325.00",
+      "travel": "2166.77"
+    },
+    {
+      "person_name": "WHEELER,BRENTON D",
+      "job_title": "IT NETWORK SUPPORT PROFESSIONAL",
+      "salary": "70197.48",
+      "travel": "1167.77"
+    },
+    {
+      "person_name": "WHISENHUNT,DOROTHY J",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "54891.12",
+      "travel": "1675.21"
+    },
+    {
+      "person_name": "WHITE,ANDREA",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "58870.08",
+      "travel": "338.94"
+    },
+    {
+      "person_name": "WHITE,DVAWN LETRICE",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "408.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,JEAN L",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "43484.56",
+      "travel": "868.78"
+    },
+    {
+      "person_name": "WHITE,MICHAEL R",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "35398.80",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITE,TRUMAN B",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "64751.63",
+      "travel": "2023.55"
+    },
+    {
+      "person_name": "WHITFIELD,KATHY M",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "34566.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITLEY,KYLE M",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "50643.88",
+      "travel": "423.75"
+    },
+    {
+      "person_name": "WHITMAN,SUSAN T",
+      "job_title": "IT",
+      "salary": "58789.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHITTEN,THOMAS M",
+      "job_title": "TEMPORARY PROFESSIONAL",
+      "salary": "23990.00",
+      "travel": "3162.91"
+    },
+    {
+      "person_name": "WILCOX,ADAM N",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "7496.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILCOX,ANNETTE M",
+      "job_title": "MATERIALS MANAGEMENT PROFESSIONAL",
+      "salary": "44377.72",
+      "travel": "992.04"
+    },
+    {
+      "person_name": "WILKERSON,KENDRA DANIELLE",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "2432.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLETT,SHERRYE S",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "27344.05",
+      "travel": "1126.23"
+    },
+    {
+      "person_name": "WILLIAMS,ANDREA Y",
+      "job_title": "IT",
+      "salary": "38832.40",
+      "travel": "584.56"
+    },
+    {
+      "person_name": "WILLIAMS,BEVERLY A",
+      "job_title": "MANAGER",
+      "salary": "47221.34",
+      "travel": "3586.16"
+    },
+    {
+      "person_name": "WILLIAMS,HENRY P",
+      "job_title": "IT SYSTEMS SUPPORT PROFESSIONAL",
+      "salary": "42729.11",
+      "travel": "1062.84"
+    },
+    {
+      "person_name": "WILLIAMS,JENNIFER R",
+      "job_title": "COMMUNICATIONS PROFESSIONAL",
+      "salary": "61984.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIAMS,SAMUEL C",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "102054.60",
+      "travel": "107.67"
+    },
+    {
+      "person_name": "WILLIAMSON,VIKKI L",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "120295.05",
+      "travel": "4201.06"
+    },
+    {
+      "person_name": "WILSON,ANDREA I",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "67907.58",
+      "travel": "556.63"
+    },
+    {
+      "person_name": "WILSON,IVA LIPPMAN",
+      "job_title": "OFFICE / CLERICAL ASSISTANT",
+      "salary": "35410.63",
+      "travel": "13.73"
+    },
+    {
+      "person_name": "WISBEY,MARTHA ELLEN",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "19999.98",
+      "travel": "346.22"
+    },
+    {
+      "person_name": "WOLFE-WARD,TINA M",
+      "job_title": "ADMINISTRATIVE SPECIALIST / COORDINATOR",
+      "salary": "52167.14",
+      "travel": "961.38"
+    },
+    {
+      "person_name": "WOOD,ANNA M",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "26133.95",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WOODDELL,DONNA J",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "59250.24",
+      "travel": "283.76"
+    },
+    {
+      "person_name": "WOODISON,SCOTT C",
+      "job_title": "DIRECTOR, DIVISION/DEPARTMENT AD",
+      "salary": "104607.72",
+      "travel": "2968.85"
+    },
+    {
+      "person_name": "WOODS,NICOLE YVETTE",
+      "job_title": "TEMPORARY OFFICE / CLERICAL",
+      "salary": "5056.35",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,KINDA A",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "1621.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,PATRICIA K",
+      "job_title": "OFFICE / CLERICAL LEAD",
+      "salary": "44992.07",
+      "travel": "596.68"
+    },
+    {
+      "person_name": "YOUNG,ASHLEY L",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "34516.76",
+      "travel": "528.49"
+    },
+    {
+      "person_name": "YOUNG,JOHN T",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "40600.85",
+      "travel": "2547.44"
+    },
+    {
+      "person_name": "YOUNGBLOOD,NICOLE R",
+      "job_title": "IT TECHNICAL/PARAPROFESSIONAL",
+      "salary": "42773.21",
+      "travel": "1742.79"
+    },
+    {
+      "person_name": "ZENG,CHENXIN C",
+      "job_title": "IT APPLICATION SUPPORT PROFESSIONAL",
+      "salary": "49999.92",
+      "travel": "2011.46"
+    },
+    {
+      "person_name": "ZIMMERMAN,TONI L",
+      "job_title": "DIRECTOR, SUBDIVISION/UNIT AD",
+      "salary": "64297.80",
+      "travel": "378.68"
+    },
+    {
+      "person_name": "ZUYEVA,LYUBOV I",
+      "job_title": "STUDENT ASSISTANT",
+      "salary": "540.00",
+      "travel": "0.00"
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "payments": [
+    {
+      "person_name": "ADAMS,A  HARRIS",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "3165.69"
+    },
+    {
+      "person_name": "ANDREWS,GARY B",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "8977.59"
+    },
+    {
+      "person_name": "AVERA,KERI ALLISON",
+      "job_title": "APPLICATIONS CLERK",
+      "salary": "31876.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BAILEY,MARGO",
+      "job_title": "DOCUMENTS CLERK",
+      "salary": "34914.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BARNES,ANNE ELIZABETH",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "3120.67"
+    },
+    {
+      "person_name": "BARRETT,STEPHEN SEAN",
+      "job_title": "SYSTEMS ENGINEER 1",
+      "salary": "24791.76",
+      "travel": "1683.86"
+    },
+    {
+      "person_name": "BELL,VICKI LYNN",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BENDER,PATTY M",
+      "job_title": "DOCUMENTS CLERK",
+      "salary": "38330.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BERNES,DEBRA H",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "889.21"
+    },
+    {
+      "person_name": "BISHOP,SABRINA E",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BLACKBURN,G  ALAN",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BONNER,CHARLES DORRIER",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "103548.89",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BRANT,LASEAN Z",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "BURNAUGH,REBECCA",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CARDER,JEROME",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "1550.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHANDLER,H  JOSEPH",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "CHRISTENSEN,DIRK G",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "1073.43"
+    },
+    {
+      "person_name": "CLOUD,MARK V",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "COLLINS,SHEILA H",
+      "job_title": "DEPUTY CLERK",
+      "salary": "71063.04",
+      "travel": "5.00"
+    },
+    {
+      "person_name": "DANIEL,JOHN R",
+      "job_title": "MAIL CLERK",
+      "salary": "40578.24",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DANIELL,ALICE J",
+      "job_title": "INTAKE CLERK",
+      "salary": "35170.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEJONG,TODD M",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "3000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DEMETZ,ROBERT A",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DERRICO,RACHEL A",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DIAMOND,LOLA M",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DORVEE,IDA P",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DOYLE,AMY KATHLEEN",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "49674.46",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "DURANT,MARY KATHERINE",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EARLES,JOHN ALLEN",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "104405.40",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "EDMOND,DONALD",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "1500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ELLINGTON,JOHN J",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "10400.19"
+    },
+    {
+      "person_name": "ELZEY,PHILIP ROBERT",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FEIL,CLYDE H",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "53401.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FELTON,JULE W",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "FLOYD,LINDA T",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GALLOWAY,SARA ELLEN",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARDNER,JERILYN E",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GARNETT,CHANITRIA",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "2112.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "GAUDIOSI,LORRE J",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HAMRICK,GORDON L",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "100231.49",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARDEN,CINDY A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "14019.72",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRIS,TYANGYE M",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "51167.64",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HARRISON,SUSAN A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEAD,JAMES CLIFFORD",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HEAD,MARTI A",
+      "job_title": "REMITITUR CLERK",
+      "salary": "49468.32",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HINES,MARY H",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "HUTCHINSON,ROBIN M",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "INDERMARK,KRISTEN J",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "51338.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,C  LYNN",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "104348.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOHNSON,EDWARD H",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "590.39"
+    },
+    {
+      "person_name": "JOHNSON,LAVERNE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "30929.71",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "JOY,DIANNE M",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "58870.54",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,ANN HARRIETT",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "KELLEY,JAN R",
+      "job_title": "FINANCIAL SERVICES DIR",
+      "salary": "106802.28",
+      "travel": "896.09"
+    },
+    {
+      "person_name": "KILPATRICK,PAMELA ANN",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LACIS,NICHOLAS",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LEVITAS,DANIEL",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "3100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "LOWNDES,JENNIFER",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "1500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MARTIN,WILLIAM L",
+      "job_title": "CLERK OF THE COURT",
+      "salary": "131013.00",
+      "travel": "2878.85"
+    },
+    {
+      "person_name": "MATTUCH,KATHRYN OFFER",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCATEER,ROBERT F",
+      "job_title": "SYSTEMS ANALYST",
+      "salary": "13559.85",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCBRIDE,VALERI J",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106013.23",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MCGHEE-GLISSON,MARTHA L",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MIKELL,CHARLES B",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "7578.53"
+    },
+    {
+      "person_name": "MILLER,M  YVETTE",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "3882.59"
+    },
+    {
+      "person_name": "MILLER,TERRY J",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MOODY,TIFFANI ZIMMERMAN",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "97558.14",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MORROW,ELIZABETH",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "2100.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "MULLER,BRETT M",
+      "job_title": "SYSTEMS ANALYST",
+      "salary": "60589.56",
+      "travel": "270.71"
+    },
+    {
+      "person_name": "NESBITT,CATHY W",
+      "job_title": "PROCUREMENT/FACILITIES COORD",
+      "salary": "33603.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OAKLEY,BRANDY F",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "3800.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OBRIEN,BRENDA C",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "15633.66",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ODEA,SARA B",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OHRING,JONATHAN",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "3200.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OSBORNE,MARY LYNN",
+      "job_title": "ORDERS CLERK",
+      "salary": "33439.94",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "OWENS,MONICA R",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "105840.77",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PARKER,TRACEY L",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PAYNE,DAVID C",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "PHIPPS,HERBERT E",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "11950.00"
+    },
+    {
+      "person_name": "ROBBLEE,PAUL A",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBINSON,BENITA M",
+      "job_title": "PERSONNEL REPRESENTATIVE",
+      "salary": "38749.44",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROBISON,LAURA H",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ROOKS,LYDIA COOK",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "RUFFIN,JOHN H",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "3579.19"
+    },
+    {
+      "person_name": "RUGGERI,JOHN J",
+      "job_title": "CHIEF INFORMATION OFFICER",
+      "salary": "106802.28",
+      "travel": "2047.64"
+    },
+    {
+      "person_name": "RUSKELL,JEAN M",
+      "job_title": "EMPLOYED BY OTHER STATE ORG",
+      "salary": "0.00",
+      "travel": "1326.54"
+    },
+    {
+      "person_name": "SCHAIKEWITZ,PEARL S",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCHUSTER,LARA G",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "1500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SCOTT,JESSICA RACHEL",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "500.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SEGAN,SARAH MELISSA",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "1000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SMITH,CHRISTINA K",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "1047.61"
+    },
+    {
+      "person_name": "SMITH,J D",
+      "job_title": "JUDGE",
+      "salary": "163766.16",
+      "travel": "3321.44"
+    },
+    {
+      "person_name": "SPARROW,HOLLY K",
+      "job_title": "CLERK, SPECIAL DEPUTY JUD",
+      "salary": "106802.28",
+      "travel": "1079.14"
+    },
+    {
+      "person_name": "STEELE,CARRIE ANNE",
+      "job_title": "ACCOUNTANT",
+      "salary": "50930.16",
+      "travel": "505.24"
+    },
+    {
+      "person_name": "STONE,GLENNA L",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "SUBER,DIANA D",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "60682.17",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TALLENT,JANEY H",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "73000.57",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TIREY,EULA H",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TODD,ANNETTE A",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "59706.84",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "TORCH,JESSICA",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "2000.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "VERRIEST,KAREL",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "1344.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WAKEFIELD,MICHAEL S",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,JOANNE STONE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "15570.61",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,TAYLOR",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "152.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WALKER,THOMAS",
+      "job_title": "LEGAL SERVICES WORKER",
+      "salary": "1096.00",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WARD,JANICE DIANE",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEINSTEIN,SIMON JACK",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WEISBECKER,AMY LLOYD",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "53401.08",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WELLBORN,DEBORAH D",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WHISNANT,JULIANNE SWILLEY",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,CRYSTAL YVETTE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WILLIS,DIANA H",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "106802.28",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT,JESSICA M",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "51719.74",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "WRIGHT-RHEAVES,ANGELIA G",
+      "job_title": "LEGAL ASSISTANT",
+      "salary": "104348.52",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "YOUNG,EDWIN J",
+      "job_title": "CLERK, FILE ROOM",
+      "salary": "24312.12",
+      "travel": "0.00"
+    },
+    {
+      "person_name": "ZIMMERMAN,DEBORAH SUE",
+      "job_title": "ADMINISTRATIVE ASSISTANT",
+      "salary": "62094.60",
+      "travel": "0.00"
+    }
+  ]
+}

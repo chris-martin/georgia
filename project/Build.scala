@@ -18,6 +18,10 @@ object Build extends sbt.Build {
       )
     ) : _*)
 
+  lazy val database = Project("database", file("database"))
+    .settings ( globalSettings ++ moduleSettings ++ Seq(
+    ) : _*)
+
   type Settings = Seq[Setting[_]]
 
   lazy val globalSettings: Settings = Seq(

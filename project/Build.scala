@@ -5,7 +5,7 @@ object Build extends sbt.Build {
 
   lazy val root = Project("root", file("."))
     .settings ( globalSettings: _* )
-    .dependsOn ( scrape )
+    .aggregate ( scrape, database )
 
   lazy val scrape = Project("scrape", file("scrape"))
     .configs ( IntegrationTest )
@@ -18,9 +18,67 @@ object Build extends sbt.Build {
       )
     ) : _*)
 
+  lazy val jooqCodegenTask = TaskKey[Unit]("jooq-codegen")
+  lazy val jooqCodegenConfig = SettingKey[File => xml.Node]("jooq-codegen-config")
+
   lazy val database = Project("database", file("database"))
-    .settings ( globalSettings ++ moduleSettings ++ Seq(
-    ) : _*)
+    .settings ( globalSettings ++ moduleSettings : _* )
+    .settings (
+      javaSource in Compile <<= (sourceDirectory in Compile)(_/"jooq"),
+      libraryDependencies ++= Seq(
+        "postgresql" % "postgresql" % "9.1-901-1.jdbc4",
+        "org.jooq" % "jooq" % "3.0.0"
+      ),
+      jooqCodegenTask <<= (streams, baseDirectory, jooqCodegenConfig) map {
+        (s, bd, jc) => {
+          import org.jooq.util.{GenerationTool=>G}
+          val xml = jc(bd).buildString(stripComments = false)
+          s.log.info(xml)
+          IO.delete(bd/"src"/"main"/"jooq")
+          G.main(G.load(new java.io.ByteArrayInputStream(xml.getBytes("utf-8"))))
+        }
+      },
+      jooqCodegenConfig := { bd: File =>
+        val database = "georgia"
+        val user = "georgia"
+        <configuration>
+          <jdbc>
+            <driver>org.postgresql.Driver</driver>
+            <url>jdbc:postgresql:{ database }</url>
+            <user>{ user }</user>
+            <password>{
+              val pattern = new scala.util.matching.Regex(
+                """([^:]+):(\d+)+:([^:]+):([^:]+):(.*)""",
+                "host", "port", "database", "user", "pass"
+              )
+              val file = new java.io.File(scala.sys.env("HOME"), ".pgpass")
+              scala.io.Source.fromFile(file).getLines.map({ line =>
+                pattern.findFirstMatchIn(line) match {
+                  case Some(m) 
+                    if m.group("host") == "localhost" 
+                    && m.group("port") == "5432"
+                    && m.group("database") == database 
+                    && m.group("user") == user
+                    => Some(m.group("pass"))
+                  case _ => None
+                }
+              }).filter(_.isDefined).next.get
+            }</password>
+          </jdbc>
+          <generator>
+            <database>
+              <name>org.jooq.util.postgres.PostgresDatabase</name>
+              <includes>georgia\.(.*)</includes>
+              <excludes></excludes>
+            </database>
+            <target>
+              <packageName>org.chris_martin.georgia.jooq</packageName>
+              <directory>{(bd/"src"/"main"/"jooq").toString}</directory>
+            </target>
+          </generator>
+        </configuration>
+      }
+    )
 
   type Settings = Seq[Setting[_]]
 

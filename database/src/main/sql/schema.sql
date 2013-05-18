@@ -2,7 +2,7 @@ drop schema if exists georgia cascade;
 create schema georgia;
 set search_path to georgia, public;
 
-create table people(
+create table payments(
   person_name text,
   job_title text,
   salary numeric(11, 2),

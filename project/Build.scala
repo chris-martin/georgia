@@ -9,12 +9,13 @@ object Build extends sbt.Build {
 
   lazy val scrape = Project("scrape", file("scrape"))
     .configs ( IntegrationTest )
-    .settings ( globalSettings ++ moduleSettings ++ Seq(
+    .settings ( globalSettings ++ Defaults.itSettings ++ Seq(
       libraryDependencies ++= Seq(
         "org.scalaj" % "scalaj-http_2.10" % "0.3.7",
         "org.ccil.cowan.tagsoup" % "tagsoup" % "1.2.1",
         "org.mozilla" % "rhino" % "1.7R4",
-        "net.sf.opencsv" % "opencsv" % "2.3"
+        "net.sf.opencsv" % "opencsv" % "2.3",
+        scalatest % "it,test"
       )
     ) : _*)
 
@@ -22,11 +23,11 @@ object Build extends sbt.Build {
   lazy val jooqCodegenConfig = SettingKey[File => xml.Node]("jooq-codegen-config")
 
   lazy val jsonToSql = Project("json-to-sql", file("json-to-sql"))
-    .settings ( globalSettings ++ moduleSettings : _* )
+    .settings ( globalSettings : _* )
     .dependsOn ( database )
 
   lazy val database = Project("database", file("database"))
-    .settings ( globalSettings ++ moduleSettings : _* )
+    .settings ( globalSettings : _* )
     .settings (
       javaSource in Compile <<= (sourceDirectory in Compile)(_/"jooq"),
       libraryDependencies ++= Seq(
@@ -90,10 +91,6 @@ object Build extends sbt.Build {
     scalaVersion := "2.10.0"
   )
 
-  lazy val moduleSettings: Settings = Defaults.itSettings ++ Seq(
-    libraryDependencies ++= Seq(
-      "org.scalatest" %% "scalatest" % "1.9.1" % "it,test"
-    )
-  )
+  lazy val scalatest = "org.scalatest" %% "scalatest" % "1.9.1"
 
 }

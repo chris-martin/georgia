@@ -86,10 +86,15 @@ object Build extends sbt.Build {
     )
 
   lazy val web = {
-    play.Project("web", "1.0-SNAPSHOT", {
-      import play.Project._
-      Seq(jdbc, anorm)
-    })
+    play.Project(
+      "web",
+      "1.0-SNAPSHOT", 
+      {
+        import play.Project._
+        Seq(jdbc, anorm)
+      },
+      path=file("web")
+    )
       .settings( globalSettings : _* )
   }
 

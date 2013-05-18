@@ -4,7 +4,15 @@ import xml.{XML, Elem, Text}
 import java.net.URL
 import util.parsing.json._
 
-case class OrgType(id: String, title: String)
+case class OrgType(id: String, title: String) {
+
+  def json: JSONObject =
+    JSONObject(Map(
+      "id" -> id,
+      "title" -> title
+    ))
+
+}
 
 object OrgType {
 
@@ -43,11 +51,19 @@ object OrgType {
 
   def json(orgTypes: Seq[OrgType]): JSONObject = JSONObject(Map(
     "orgtypes" -> JSONArray(
-      orgTypes.sortBy(_.id).map(x => JSONObject(Map(
-        "id" -> x.id,
-        "title" -> x.title
-      ))).toList
+      orgTypes.sortBy(_.id).map(_.json).toList
     )
   ))
+
+  def parse(json: JSONObject): OrgType =
+    OrgType(
+      id = json.obj("id").asInstanceOf[String],
+      title = json.obj("title").asInstanceOf[String]
+    )
+
+  def parseMany(json: JSONObject): Seq[OrgType] =
+    json.obj("orgtypes").asInstanceOf[JSONArray].list.map({ x =>
+      parse(x.asInstanceOf[JSONObject])
+    })
 
 }

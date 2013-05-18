@@ -1,0 +1,1 @@
+insert into "georgia"."org_types" ("id", "title") values ('1', 'State Agencies, Boards, Authorities and Commissions'), ('2', 'Units of the University System and Georgia Military College'), ('3', 'Regional Educational Service Agencies'), ('4', 'Technical Colleges'), ('5', 'Local Boards of Education');

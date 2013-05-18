@@ -11,7 +11,7 @@ package org.chris_martin.georgia.jooq.georgia;
 @java.lang.SuppressWarnings({ "all", "unchecked" })
 public class Georgia extends org.jooq.impl.SchemaImpl {
 
-	private static final long serialVersionUID = 2145658555;
+	private static final long serialVersionUID = 1231347643;
 
 	/**
 	 * The singleton instance of <code>georgia</code>
@@ -36,6 +36,6 @@ public class Georgia extends org.jooq.impl.SchemaImpl {
 		return java.util.Arrays.<org.jooq.Table<?>>asList(
 			org.chris_martin.georgia.jooq.georgia.tables.Orgs.ORGS,
 			org.chris_martin.georgia.jooq.georgia.tables.OrgTypes.ORG_TYPES,
-			org.chris_martin.georgia.jooq.georgia.tables.People.PEOPLE);
+			org.chris_martin.georgia.jooq.georgia.tables.Payments.PAYMENTS);
 	}
 }

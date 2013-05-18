@@ -24,7 +24,7 @@ public class Tables {
 	public static final org.chris_martin.georgia.jooq.georgia.tables.OrgTypes ORG_TYPES = org.chris_martin.georgia.jooq.georgia.tables.OrgTypes.ORG_TYPES;
 
 	/**
-	 * The table georgia.people
+	 * The table georgia.payments
 	 */
-	public static final org.chris_martin.georgia.jooq.georgia.tables.People PEOPLE = org.chris_martin.georgia.jooq.georgia.tables.People.PEOPLE;
+	public static final org.chris_martin.georgia.jooq.georgia.tables.Payments PAYMENTS = org.chris_martin.georgia.jooq.georgia.tables.Payments.PAYMENTS;
 }

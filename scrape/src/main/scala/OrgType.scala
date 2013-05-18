@@ -49,11 +49,12 @@ object OrgType {
     }
   )
 
-  def json(orgTypes: Seq[OrgType]): JSONObject = JSONObject(Map(
-    "orgtypes" -> JSONArray(
-      orgTypes.sortBy(_.id).map(_.json).toList
-    )
-  ))
+  def json(orgTypes: Seq[OrgType]): JSONObject =
+    JSONObject(Map(
+      "orgtypes" -> JSONArray(
+        orgTypes.sortBy(_.id).map(_.json).toList
+      )
+    ))
 
   def parse(json: JSONObject): OrgType =
     OrgType(

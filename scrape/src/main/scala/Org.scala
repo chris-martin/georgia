@@ -5,11 +5,20 @@ import java.io.Reader
 import collection.JavaConversions._
 import util.parsing.json.{JSONArray, JSONObject}
 
-case class Org(id: String, title: String)
+case class Org(id: String, title: String) {
+
+  def json: JSONObject =
+    JSONObject(Map(
+      "id" -> id,
+      "title" -> title
+    ))
+
+}
 
 object Org {
 
-  def fetchAll(year: String, orgTypeId: String): Seq[Org] = parseJs(fetchJs(year, orgTypeId))
+  def fetchAll(year: String, orgTypeId: String): Seq[Org] =
+    parseJs(fetchJs(year, orgTypeId))
 
   def fetchJs(year: String, orgTypeId: String): String =
     http.post(
@@ -63,13 +72,22 @@ object Org {
     }
   }
 
-  def json(orgs: Seq[Org]): JSONObject = JSONObject(Map(
-    "orgs" -> JSONArray(
-      orgs.sortBy(_.id).map(x => JSONObject(Map(
-        "id" -> x.id,
-        "title" -> x.title
-      ))).toList
+  def json(orgs: Seq[Org]): JSONObject =
+    JSONObject(Map(
+      "orgs" -> JSONArray(
+        orgs.sortBy(_.id).map(_.json).toList
+      )
+    ))
+
+  def parse(json: JSONObject): Org =
+    Org(
+      id = json.obj("id").asInstanceOf[String],
+      title = json.obj("title").asInstanceOf[String]
     )
-  ))
+
+  def parseMany(json: JSONObject): Seq[Org] =
+    json.obj("orgs").asInstanceOf[JSONArray].list.map({ x =>
+      parse(x.asInstanceOf[JSONObject])
+    })
 
 }

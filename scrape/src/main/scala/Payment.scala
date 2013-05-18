@@ -5,7 +5,17 @@ import java.net.URL
 import http.Implicits._
 import util.parsing.json.{JSONArray, JSONObject}
 
-case class Payment(personName: String, jobTitle: String, salary: BigDecimal, travel: BigDecimal)
+case class Payment(personName: String, jobTitle: String, salary: BigDecimal, travel: BigDecimal) {
+
+  def json: JSONObject =
+    JSONObject(Map(
+      "person_name" -> personName,
+      "job_title" -> jobTitle,
+      "salary" -> salary.toString,
+      "travel" -> travel.toString
+    ))
+
+}
 
 object Payment {
 
@@ -50,15 +60,24 @@ object Payment {
   def parseMoney(s: String): BigDecimal =
     BigDecimal(s.replaceAll("""[\s\$\,]""", ""))
 
-  def json(orgTypes: Seq[Payment]): JSONObject = JSONObject(Map(
-    "payments" -> JSONArray(
-      orgTypes.sortBy(_.personName).map(x => JSONObject(Map(
-        "person_name" -> x.personName,
-        "job_title" -> x.jobTitle,
-        "salary" -> x.salary.toString,
-        "travel" -> x.travel.toString
-      ))).toList
+  def json(orgTypes: Seq[Payment]): JSONObject =
+    JSONObject(Map(
+      "payments" -> JSONArray(
+        orgTypes.sortBy(_.personName).map(_.json).toList
+      )
+    ))
+
+  def parse(json: JSONObject): Payment =
+    Payment(
+      personName = json.obj("person_name").asInstanceOf[String],
+      jobTitle = json.obj("job_title").asInstanceOf[String],
+      salary = BigDecimal(json.obj("salary").asInstanceOf[String]),
+      travel = BigDecimal(json.obj("travel").asInstanceOf[String])
     )
-  ))
+
+  def parseMany(json: JSONObject): Seq[Payment] =
+    json.obj("payments").asInstanceOf[JSONArray].list.map({ x =>
+      parse(x.asInstanceOf[JSONObject])
+    })
 
 }

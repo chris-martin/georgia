@@ -86,7 +86,7 @@ object Build extends sbt.Build {
     )
 
   lazy val web = {
-    play.Project("georgia", "1.0-SNAPSHOT", {
+    play.Project("web", "1.0-SNAPSHOT", {
       import play.Project._
       Seq(jdbc, anorm)
     })

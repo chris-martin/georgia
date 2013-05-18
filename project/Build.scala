@@ -24,7 +24,7 @@ object Build extends sbt.Build {
 
   lazy val jsonToSql = Project("json-to-sql", file("json-to-sql"))
     .settings ( globalSettings : _* )
-    .dependsOn ( database )
+    .dependsOn ( database, scrape )
 
   lazy val database = Project("database", file("database"))
     .settings ( globalSettings : _* )

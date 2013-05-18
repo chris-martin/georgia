@@ -2,7 +2,7 @@ import com.typesafe.config.ConfigFactory
 import play.api._
 import scala.collection.JavaConversions._
 
-class Global extends GlobalSettings {
+object Global extends GlobalSettings {
 
   override def configuration =
     super.configuration ++

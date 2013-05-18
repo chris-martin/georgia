@@ -85,6 +85,14 @@ object Build extends sbt.Build {
       }
     )
 
+  lazy val web = {
+    play.Project("georgia", "1.0-SNAPSHOT", {
+      import play.Project._
+      Seq(jdbc, anorm)
+    })
+      .settings( globalSettings : _* )
+  }
+
   type Settings = Seq[Setting[_]]
 
   lazy val globalSettings: Settings = Seq(

@@ -6,15 +6,18 @@ create table people(
   person_name text,
   job_title text,
   salary numeric(11, 2),
-  travel numeric(11, 2)
+  travel numeric(11, 2),
+  org_id text
 );
 
-create table org(
+create table orgs(
   id text,
-  title text
+  title text,
+  org_type_id text,
+  year text
 );
 
-create table org_type(
+create table org_types(
   id text,
   title text
 );

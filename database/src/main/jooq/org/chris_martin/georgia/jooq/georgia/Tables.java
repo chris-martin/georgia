@@ -14,14 +14,14 @@ package org.chris_martin.georgia.jooq.georgia;
 public class Tables {
 
 	/**
-	 * The table georgia.org
+	 * The table georgia.orgs
 	 */
-	public static final org.chris_martin.georgia.jooq.georgia.tables.Org ORG = org.chris_martin.georgia.jooq.georgia.tables.Org.ORG;
+	public static final org.chris_martin.georgia.jooq.georgia.tables.Orgs ORGS = org.chris_martin.georgia.jooq.georgia.tables.Orgs.ORGS;
 
 	/**
-	 * The table georgia.org_type
+	 * The table georgia.org_types
 	 */
-	public static final org.chris_martin.georgia.jooq.georgia.tables.OrgType ORG_TYPE = org.chris_martin.georgia.jooq.georgia.tables.OrgType.ORG_TYPE;
+	public static final org.chris_martin.georgia.jooq.georgia.tables.OrgTypes ORG_TYPES = org.chris_martin.georgia.jooq.georgia.tables.OrgTypes.ORG_TYPES;
 
 	/**
 	 * The table georgia.people

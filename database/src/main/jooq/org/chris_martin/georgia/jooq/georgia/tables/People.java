@@ -11,7 +11,7 @@ package org.chris_martin.georgia.jooq.georgia.tables;
 @java.lang.SuppressWarnings({ "all", "unchecked" })
 public class People extends org.jooq.impl.TableImpl<org.chris_martin.georgia.jooq.georgia.tables.records.PeopleRecord> {
 
-	private static final long serialVersionUID = -1395485268;
+	private static final long serialVersionUID = 1546327261;
 
 	/**
 	 * The singleton instance of <code>georgia.people</code>
@@ -45,6 +45,11 @@ public class People extends org.jooq.impl.TableImpl<org.chris_martin.georgia.joo
 	 * The column <code>georgia.people.travel</code>. 
 	 */
 	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.PeopleRecord, java.math.BigDecimal> TRAVEL = createField("travel", org.jooq.impl.SQLDataType.NUMERIC.precision(11, 2), this);
+
+	/**
+	 * The column <code>georgia.people.org_id</code>. 
+	 */
+	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.PeopleRecord, java.lang.String> ORG_ID = createField("org_id", org.jooq.impl.SQLDataType.CLOB, this);
 
 	/**
 	 * Create a <code>georgia.people</code> table reference

@@ -57,7 +57,7 @@ object Build extends sbt.Build {
                 "host", "port", "database", "user", "pass"
               )
               val file = new java.io.File(scala.sys.env("HOME"), ".pgpass")
-              scala.io.Source.fromFile(file).getLines.map({ line =>
+              scala.io.Source.fromFile(file).getLines().map({ line =>
                 pattern.findFirstMatchIn(line) match {
                   case Some(m) 
                     if m.group("host") == "localhost" 
@@ -67,7 +67,7 @@ object Build extends sbt.Build {
                     => Some(m.group("pass"))
                   case _ => None
                 }
-              }).filter(_.isDefined).next.get
+              }).filter(_.isDefined).next().get
             }</password>
           </jdbc>
           <generator>

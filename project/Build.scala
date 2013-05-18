@@ -21,6 +21,10 @@ object Build extends sbt.Build {
   lazy val jooqCodegenTask = TaskKey[Unit]("jooq-codegen")
   lazy val jooqCodegenConfig = SettingKey[File => xml.Node]("jooq-codegen-config")
 
+  lazy val jsonToSql = Project("json-to-sql", file("json-to-sql"))
+    .settings ( globalSettings ++ moduleSettings : _* )
+    .dependsOn ( database )
+
   lazy val database = Project("database", file("database"))
     .settings ( globalSettings ++ moduleSettings : _* )
     .settings (

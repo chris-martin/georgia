@@ -96,6 +96,7 @@ object Build extends sbt.Build {
       path=file("web")
     )
       .settings( globalSettings : _* )
+      .dependsOn ( database )
   }
 
   type Settings = Seq[Setting[_]]

@@ -10,8 +10,7 @@ and all of the data from 2008 to 2012 has been obtained.
 I have not yet looked into what else can be scraped, but it looks like
 something similar can be done with _Other Expenditure Information_.
 
-The next step will be to build a web interface.
-I don't have any specific plans yet.
+I'm currently in the process of building a web-based API and human interface.
 
 ## Repository contents
 

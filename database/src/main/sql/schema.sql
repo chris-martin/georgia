@@ -3,22 +3,22 @@ create schema georgia;
 set search_path to georgia, public;
 
 create table payments(
-  person_name text,
-  job_title text,
+  person_name varchar,
+  job_title varchar,
   salary numeric(11, 2),
   travel numeric(11, 2),
-  org_id text
+  org_id varchar,
+  year smallint
 );
 
 create table orgs(
-  id text,
-  title text,
-  org_type_id text,
-  year text
+  id varchar,
+  title varchar,
+  org_type_id varchar,
+  year smallint
 );
 
 create table org_types(
-  id text,
-  title text
+  id varchar,
+  title varchar
 );
-

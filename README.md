@@ -20,7 +20,11 @@ I don't have any specific plans yet.
 `scrape/` -
 A web scraping library which pulls data from open.georgia.gov and stores it in JSON format.
 
-### `data`
+### `json`
 
-The `data` branch contains all of the data that has been retrieved.
+The `json` branch contains the most raw dump of the data from the scraping process.
 
+### `sql`
+
+The `sql` branch contains SQL scripts (in PostgreSQL dialect) suitable for filling a
+database with schema defined by `database/src/main/sql/schema.sql` in the `master` branch.

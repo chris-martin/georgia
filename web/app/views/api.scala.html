@@ -1,6 +1,8 @@
 @main(
   title = "Georgia API",
-  styles = Seq(routes.Assets.at("stylesheets/api.css").url)
+  bundle = views.Bundle.stylesheets(
+    routes.Assets.at("stylesheets/api.css").url
+  )
 ) {
 
   <table>

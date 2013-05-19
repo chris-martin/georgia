@@ -78,6 +78,7 @@ object Api extends Controller {
               )
               from Tables.PAYMENTS
               groupBy Tables.PAYMENTS.YEAR
+              orderBy Tables.PAYMENTS.YEAR
               fetch { record: Record =>
                 obj(
                   "year" -> (record getValue Tables.PAYMENTS.YEAR),

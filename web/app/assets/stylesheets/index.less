@@ -1,0 +1,66 @@
+.chart {
+
+  margin-top: 50px;
+
+  width: 750px;
+  height: 100px;
+  position: relative;
+
+  .body {
+
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    height: 100px;
+
+    .x_tick {
+
+      .title {
+        font-size: 16px;
+        opacity: 0.9;
+      }
+
+    }
+
+
+  }
+
+  .yAxis {
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100px;
+
+    .y_ticks {
+
+      .tick {
+        stroke-width: 0;
+      }
+
+      text {
+        opacity: 0.9;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+      }
+
+    }
+
+  }
+
+  .legend {
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: none;
+    color: black;
+    padding: 0;
+
+    ul {
+      cursor: default;
+    }
+
+  }
+
+}

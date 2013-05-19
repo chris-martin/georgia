@@ -1,5 +1,14 @@
-@main("Georgia") {
+@main(
+  bundle =
+    views.Bundle.jquery + views.Bundle.d3 + views.Bundle.rickshaw +
+    views.Bundle.javascripts(routes.Assets.at("javascripts/index.js").url) +
+    views.Bundle.stylesheets(routes.Assets.at("stylesheets/index.css").url)
+) {
 
-  Hello
+  <div class="chart">
+    <div class="body"></div>
+    <div class="yAxis"></div>
+    <div class="legend"></div>
+  </div>
 
 }

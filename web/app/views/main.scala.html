@@ -1,6 +1,6 @@
 @(
   title: String = "Georgia",
-  styles: Seq[String] = Nil
+  bundle: views.Bundle = views.Bundle()
 )(
   content: Html
 )
@@ -15,8 +15,8 @@
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="@routes.Assets.at("stylesheets/reset.css")"/>
     <link rel="stylesheet" href="@routes.Assets.at("stylesheets/main.css")"/>
-    @styles.map { style => <link rel="stylesheet" href="@style"/> }
-    <script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")" type="text/javascript"></script>
+    @bundle.stylesheets.map { x => <link rel="stylesheet" href="@x"/> }
+    @bundle.javascripts.map { x => <script src="@x" type="text/javascript"></script> }
   </head>
   <body>
     <div class="container">

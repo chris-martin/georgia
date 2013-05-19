@@ -1,7 +1,7 @@
 package controllers
 
 import play.api._, mvc._, db._, Play.current
-import play.cache.Cached
+import cache.Cache.{getOrElse => cache}
 
 import org.jooq._
 import org.jooq.impl.DSL
@@ -25,7 +25,7 @@ object Api extends Controller {
       new Settings()
     )
 
-  implicit class RichResultQuery(q: ResultQuery) {
+  implicit class RichResultQuery[R <: Record](q: ResultQuery[R]) {
 
     def fetch[A](f: Record => A): Seq[A] =
       (q fetch new RecordMapper[Record, A] {
@@ -39,50 +39,52 @@ object Api extends Controller {
 
   def arr(entries: Any*): JSONArray = JSONArray(entries.toList)
 
-  @Cached("api.orgtypes")
   def orgtypes = Action {
-    Ok {
-      obj(
-        "orgtypes" -> arr(
-          (create
-            selectFrom Tables.ORG_TYPES
-            fetch { record: Record =>
-              obj(
-                "id" -> (record getValue Tables.ORG_TYPES.ID),
-                "title" -> (record getValue Tables.ORG_TYPES.TITLE)
-              )
-            }
+    cache("api.orgtypes") {
+      Ok {
+        obj(
+          "orgtypes" -> arr(
+            (create
+              selectFrom Tables.ORG_TYPES
+              fetch { record: Record =>
+                obj(
+                  "id" -> (record getValue Tables.ORG_TYPES.ID),
+                  "title" -> (record getValue Tables.ORG_TYPES.TITLE)
+                )
+              }
+            )
           )
-        )
-      ).toString()
+        ).toString()
+      }
     }
   }
 
-  @Cached("api.totals")
   def totals = Action {
-    Ok {
-      JSONObject(Map(
-        "totals" -> arr(
-          (create
-            select(
-              Tables.PAYMENTS.YEAR,
-              DSL.count(),
-              DSL.sum(Tables.PAYMENTS.SALARY) as Tables.PAYMENTS.SALARY.getName,
-              DSL.sum(Tables.PAYMENTS.TRAVEL) as Tables.PAYMENTS.TRAVEL.getName
-            )
-            from Tables.PAYMENTS
-            groupBy Tables.PAYMENTS.YEAR
-            fetch { record: Record =>
-              obj(
-                "year" -> (record getValue Tables.PAYMENTS.YEAR),
-                "payments" -> (record getValue DSL.count()),
-                "salary" -> (record getValue Tables.PAYMENTS.SALARY),
-                "travel" -> (record getValue Tables.PAYMENTS.TRAVEL)
+    cache("api.totals") {
+      Ok {
+        JSONObject(Map(
+          "totals" -> arr(
+            (create
+              select(
+                Tables.PAYMENTS.YEAR,
+                DSL.count(),
+                DSL.sum(Tables.PAYMENTS.SALARY) as Tables.PAYMENTS.SALARY.getName,
+                DSL.sum(Tables.PAYMENTS.TRAVEL) as Tables.PAYMENTS.TRAVEL.getName
               )
-            }
-          ) : _*
-        )
-      ))
+              from Tables.PAYMENTS
+              groupBy Tables.PAYMENTS.YEAR
+              fetch { record: Record =>
+                obj(
+                  "year" -> (record getValue Tables.PAYMENTS.YEAR),
+                  "payments" -> (record getValue DSL.count()),
+                  "salary" -> (record getValue Tables.PAYMENTS.SALARY),
+                  "travel" -> (record getValue Tables.PAYMENTS.TRAVEL)
+                )
+              }
+            ) : _*
+          )
+        )).toString()
+      }
     }
   }
 

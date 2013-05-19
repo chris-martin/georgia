@@ -16,8 +16,6 @@ $( ->
         y: year[field]
       ))
 
-    log(JSON.stringify(getData('salary')))
-
     graph = new Rickshaw.Graph(
       element: document.querySelector('.chart .body')
       renderer: 'bar'

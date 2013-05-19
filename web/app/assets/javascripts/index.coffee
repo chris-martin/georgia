@@ -64,6 +64,4 @@ $( ->
       element: document.querySelector('.chart .legend')
     )
 
-    legend.render()
-
 )

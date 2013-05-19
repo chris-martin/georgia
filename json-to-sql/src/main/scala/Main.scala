@@ -55,14 +55,17 @@ object Main {
     }
 
     (jsonDir/"years").listFiles().toSeq.par foreach { yearDir =>
-      val year = yearDir.getName
-      val out = new FileWriter(new File(sqlDir, "%s.sql".format(year)))
+      val year = yearDir.getName.toShort
+      val out = new FileWriter(new File(sqlDir, "%d.sql".format(year)))
       val orgTypeIds = (yearDir/"orgtypes").listFiles().map(_.getName)
 
       orgTypeIds foreach { orgtypeId =>
 
         val orgs = Org.parseMany(json(
-          jsonDir/"years"/year/"orgtypes"/orgtypeId/"orgs.json"
+          jsonDir
+          /"years"/year.toString
+          /"orgtypes"/orgtypeId
+          /"orgs.json"
         ))
 
         out.write {
@@ -77,12 +80,22 @@ object Main {
         orgs foreach { org =>
           out.write {
             val $ = Tables.PAYMENTS; import $._
-            val query = insertInto($, ORG_ID, PERSON_NAME, JOB_TITLE, SALARY, TRAVEL)
+            val query = insertInto($,
+              YEAR, ORG_ID, PERSON_NAME,
+              JOB_TITLE, SALARY, TRAVEL
+            )
             val payments = Payment.parseMany(json(
-              jsonDir/"years"/year/"orgtypes"/orgtypeId/"orgs"/org.id/"payments.json"
+              jsonDir
+              /"years"/year.toString
+              /"orgtypes"/orgtypeId
+              /"orgs"/org.id
+              /"payments.json"
             ))
             payments foreach { pay =>
-              query.values(org.id, pay.personName, pay.jobTitle, pay.salary, pay.travel)
+              query.values(
+                year, org.id, pay.personName,
+                pay.jobTitle, pay.salary, pay.travel
+              )
             }
             query
           }

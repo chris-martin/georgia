@@ -21,6 +21,15 @@ I'm currently in the process of building a web-based API and human interface.
 `scrape/` -
 A web scraping library which pulls data from open.georgia.gov and stores it in JSON format.
 
+`database/` -
+Defines a PostgreSQL database schema and jOOQ-based Java for it.
+
+`json-to-sql/` -
+Converts the content of the `json` branch to the content of the `sql` branch.
+
+`web` -
+Website using the Play framework.
+
 ### `json`
 
 The `json` branch contains the most raw dump of the data from the scraping process.

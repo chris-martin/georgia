@@ -11,7 +11,7 @@ package org.chris_martin.georgia.jooq.georgia.tables;
 @java.lang.SuppressWarnings({ "all", "unchecked" })
 public class OrgTypes extends org.jooq.impl.TableImpl<org.chris_martin.georgia.jooq.georgia.tables.records.OrgTypesRecord> {
 
-	private static final long serialVersionUID = -1424541842;
+	private static final long serialVersionUID = -974675662;
 
 	/**
 	 * The singleton instance of <code>georgia.org_types</code>
@@ -29,12 +29,12 @@ public class OrgTypes extends org.jooq.impl.TableImpl<org.chris_martin.georgia.j
 	/**
 	 * The column <code>georgia.org_types.id</code>. 
 	 */
-	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgTypesRecord, java.lang.String> ID = createField("id", org.jooq.impl.SQLDataType.CLOB, this);
+	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgTypesRecord, java.lang.String> ID = createField("id", org.jooq.impl.SQLDataType.VARCHAR, this);
 
 	/**
 	 * The column <code>georgia.org_types.title</code>. 
 	 */
-	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgTypesRecord, java.lang.String> TITLE = createField("title", org.jooq.impl.SQLDataType.CLOB, this);
+	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgTypesRecord, java.lang.String> TITLE = createField("title", org.jooq.impl.SQLDataType.VARCHAR, this);
 
 	/**
 	 * Create a <code>georgia.org_types</code> table reference

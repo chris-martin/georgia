@@ -11,7 +11,7 @@ package org.chris_martin.georgia.jooq.georgia.tables;
 @java.lang.SuppressWarnings({ "all", "unchecked" })
 public class Orgs extends org.jooq.impl.TableImpl<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord> {
 
-	private static final long serialVersionUID = -450773604;
+	private static final long serialVersionUID = -1270514450;
 
 	/**
 	 * The singleton instance of <code>georgia.orgs</code>
@@ -29,22 +29,22 @@ public class Orgs extends org.jooq.impl.TableImpl<org.chris_martin.georgia.jooq.
 	/**
 	 * The column <code>georgia.orgs.id</code>. 
 	 */
-	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.String> ID = createField("id", org.jooq.impl.SQLDataType.CLOB, this);
+	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.String> ID = createField("id", org.jooq.impl.SQLDataType.VARCHAR, this);
 
 	/**
 	 * The column <code>georgia.orgs.title</code>. 
 	 */
-	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.String> TITLE = createField("title", org.jooq.impl.SQLDataType.CLOB, this);
+	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.String> TITLE = createField("title", org.jooq.impl.SQLDataType.VARCHAR, this);
 
 	/**
 	 * The column <code>georgia.orgs.org_type_id</code>. 
 	 */
-	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.String> ORG_TYPE_ID = createField("org_type_id", org.jooq.impl.SQLDataType.CLOB, this);
+	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.String> ORG_TYPE_ID = createField("org_type_id", org.jooq.impl.SQLDataType.VARCHAR, this);
 
 	/**
 	 * The column <code>georgia.orgs.year</code>. 
 	 */
-	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.String> YEAR = createField("year", org.jooq.impl.SQLDataType.CLOB, this);
+	public final org.jooq.TableField<org.chris_martin.georgia.jooq.georgia.tables.records.OrgsRecord, java.lang.Short> YEAR = createField("year", org.jooq.impl.SQLDataType.SMALLINT, this);
 
 	/**
 	 * Create a <code>georgia.orgs</code> table reference

@@ -46,6 +46,7 @@ object Api extends Controller {
           "orgtypes" -> arr(
             (create
               selectFrom Tables.ORG_TYPES
+              orderBy Tables.ORG_TYPES.ID
               fetch { record: Record =>
                 obj(
                   "id" -> (record getValue Tables.ORG_TYPES.ID),

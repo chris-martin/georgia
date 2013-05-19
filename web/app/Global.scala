@@ -7,7 +7,7 @@ object Global extends GlobalSettings {
   override def configuration =
     super.configuration ++
     Configuration(
-      ConfigFactory.parseMap(Map("db.pass" -> databasePassword))
+      ConfigFactory.parseMap(Map("db.default.pass" -> databasePassword))
     )
 
   private lazy val databasePassword: String = {

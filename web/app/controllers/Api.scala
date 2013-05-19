@@ -39,6 +39,10 @@ object Api extends Controller {
 
   def arr(entries: Any*): JSONArray = JSONArray(entries.toList)
 
+  def index = Action {
+    Ok(views.html.api())
+  }
+
   def orgtypes = Action {
     cache("api.orgtypes") {
       Ok {

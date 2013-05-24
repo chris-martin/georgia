@@ -67,7 +67,7 @@ object Api extends Controller {
   def totals = Action {
     cache("api.totals") {
       Ok {
-        JSONObject(Map(
+        obj(
           "totals" -> arr(
             (create
               select(
@@ -89,9 +89,48 @@ object Api extends Controller {
               }
             ) : _*
           )
-        )).toString()
+        ).toString()
       }
     }
   }
+
+/*
+
+  def totalsForYearByOrgType(year: Int) = Action {
+    cache("api.totals.year-%d.byOrgtype".format(year)) {
+      Ok {
+        obj(
+          "totals" -> arr(
+            (create
+              select(
+                
+              )
+            )
+          )
+        ).toString()
+      }
+    }
+  }
+
+select totals.year,
+       totals.org_type_id,
+       org_types.title as org_type_title,
+       totals.salary,
+       totals.travel
+from (
+  select payments.year, 
+         orgs.org_type_id,
+         sum(payments.salary) as salary,
+         sum(payments.travel) as travel
+  from payments 
+  join orgs 
+  on payments.org_id = orgs.id
+  group by orgs.org_type_id, payments.year
+) as totals
+join org_types
+on totals.org_type_id = org_types.id
+order by year, org_type_id;
+
+*/
 
 }

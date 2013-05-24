@@ -10,12 +10,6 @@ $( ->
 
   mkGraph = (data) ->
 
-    getData = (field) ->
-      data.totals.map((year) -> (
-        x: +(new Date(year.year, 0, 0))/1000
-        y: year[field]
-      ))
-
     graph = new Rickshaw.Graph(
       element: document.querySelector('.chart .body')
       renderer: 'bar'
@@ -25,15 +19,13 @@ $( ->
         bottom: 1.5
       series: [
         {
-          name: 'Salary'
-          data: getData('salary')
+          name: 'Employee pay'
+          data:
+            data.totals.map((year) -> (
+              x: +(new Date(year.year, 0, 0))/1000
+              y: year['salary']
+            ))
           color: 'rgba(50,120,205,0.5)'
-          stroke: 'rgba(0,0,0,0.15)'
-        }
-        {
-          name: 'Travel'
-          data: getData('travel')
-          color: 'rgba(120,190,255,0.5)'
           stroke: 'rgba(0,0,0,0.15)'
         }
       ]

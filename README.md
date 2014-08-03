@@ -1,5 +1,3 @@
-#http://georgia.chris-martin.org/
-
 This project is an effort to make the data from
 [open.georgia.gov](http://www.open.georgia.gov/)
 more accessible.
